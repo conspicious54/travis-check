@@ -1,0 +1,1001 @@
+{
+  "text": "All right. So, we're going to talk about shipping to Amazon warehouse. And I'm going to do a live example to show you how we ship products to Amazon. So, the first thing that you want to do when you ship a product is that you want to go to the top left menu. And you want to go to inventory and click on manage all inventory. The next thing that we're going to do, and I'm going to show you how to ship, we're going to ship one of the our carnivore electrolytes, is that you're going to hit the options menu on the right side, and you're going to hit send or replenish inventory. The next thing is that you're going to do is make sure that your ship from address is accurate. You're going to set up your packaging detail. So there is different ways to do this and you can set up different templates for your shipping product. So basically every product that you have listed in Amazon has its own FNSKU uh barcode. And what that means when you buy a product from a manufacturer and you want to list it on Amazon, you need something called UPC barcode. And that is the it's the universal product code. Basically, it is the signature or the barcode that is on the back of every product when you check out. So when you want to sell online or you want to sell in retail, your product has to have its own unique UPC code. And when you create a listing on Amazon, Amazon is going to ask you for that code. So, when you set up your listing, you put in your UPC code on there. Now, once the listing is created, Amazon gives you your own unique barcode. That's called the FNSKU barcode. So, each listing has its own FNSKU barcode. You want to make sure that every unit of your product has that barcode on it. So, when Amazon receives your shipment, they will scan that barcode and know that this product belongs to your listing. Now, this goes on every unit, right? Once we made sure that we have that, we want to create a shipment label for an entire box. So now we're putting multiple units of the product. We're putting multiple units of carnivore electrolytes, which in average we put 45 units in one box. So now we're shipping this box that has 45 units and each unit has the FNSKU barcode on it. And the way to get that shipping label is through this. So once we went to send replenish inventory, you come here and you want to enter the information of your shipping box. Two things to keep in mind when you're shipping a box to Amazon. The first thing is that each box has to weigh less than 50 lbs and each box has to contain less than 150 units. That's just the regulations from Amazon. Once you have that, now you can come here and create the template for your box. Now boxes are different. So you know you you come here, you give it a name. So every time you come back, if you're using the same boxes or maybe you have different types of boxes, maybe you have big boxes, small boxes, medium boxes, maybe you want to have different templates, you can create multiple templates. So you want to create a name so that you when you come back, you know which box is that you put in the number of units, you put the dimensions of the box, okay? And usually it goes by uh length, width, depth or height. And you put in the weight of the box and you put who puts labels on the products. Ideally, you want to make sure that every unit inside the box has its own FNSKU barcode on it. If it doesn't, and you left it either blank or maybe you left your UPC codes on there, Amazon is going to ask you, do you want to put your FNSQ barcodes on it or do you want us to do it for you? If you let Amazon do it, they're going to charge you 55 cents per unit for a box of 45 units. I'm going to be paying 55 time 45, which is going to come about to $20, maybe. Why do I want to spend $20 on top of the shipping fee per box, you know, before I start selling my product? That's gonna add up really quickly. The cheapest way to do it, and this is like a little tip or a little secret that you could do instead of printing your UPC barcodes on your product or having nothing, design the FNSKU barcode that Amazon gives you. So once you have your packaging designed with an FNSKU barcode, you go ahead and you when you manufacture your product, your FNSQ barcode is already on there and it cost you nothing. Now, on the offset of you not having a packaging design, maybe you're putting them in in plastic poly bags or or something else. I don't know what you know, there's so many different situations. Your situation could be different. Now, you could ask your manufacturer to print out the barcodes, the FNSQ barcodes, and put them on your packaging. That is still cheaper than having Amazon to do it. So, make sure that you do that before you ship to Amazon, before you place your product order with your manufacturer. Make sure that you have your design ready. Set up your listing. Your listing can be set up way ahead of time. You could set up your listing three months in advance. All you need is just an image and it doesn't have to be the same exact image that you're going to use when you launch your product. This will save you a lot of money. So now we have our FNSKU barcode printed on the on the unit. So we don't have to have Amazon. So I select who labels units. We put it by seller. That's me. So I've created my template and you know you want to save it or whatever. It's already in there. You know I'm just going to go ahead and close it. Now, it's Amazon's going to ask you, how many boxes do you want to ship to the warehouse? Let's say hypothetically, I'm going to ship 10 boxes. So, it automatically estimates 10 boxes are 450 units. And then you're going to hit ready to send. And it gives you this little check mark next to it. And that means that Amazon has approved your template. It has approved the number of units that you want to ship. It has approved this ch shipping template. Sometimes Amazon is going to tell you, \"No, you're shipping too many or there's something wrong in there. You might have to go and check what is exactly happening. Maybe the dimensions of your box is too big or maybe the quantity and the dimensions and the weight of the box don't add up. Now you put confirm and continue. Now a little tip uh speaking of FNSQ barcodes. If you're doing retail arbitrage, you want to put your FNSQ label on top of your UPC uh label. So that's one thing that you have to do. If you're doing your own product, you're the brand owner, or if you're doing private labeling, your FNSKU barcode goes directly on the packaging. It doesn't have to go on top of the UPC. It's better if you don't have it with your UPC. You obviously want to cover. You want to have one barcode on there. And once you hit confirm and continue, uh, you're going to get here. It's going to ask you when do you ship the product. So, this is really important. If you're going to ship it this week or today, you can put today's date. If I don't want to ship it today, maybe I want to ship it in. It's going to be ready in a couple of weeks. And then Amazon is going to ask you one of two questions. This is if you want to send it to a fulfillment center or Amazon. This year they started uh doing a what is called AWD which is Amazon warehousing and distribution. This is if you want to store your inventory at the Amazon warehouse and when you once you're ready you can request Amazon to ship your inventory from the Amazon warehousing and distribution to the fulfillment center. The fulfillment center is where Amazon picks packs and ships your product to the customers when you get an order. If you don't have inventory at the Amazon fulfillment center, it is not considered that you have inventory. You're out of stock. If you have stock at the AWD, you need to request that it ships to the fulfillment center. So, you want to make sure that you select the right distribution center that you're going to send it to. So, are you going to send it to the fulfillment center or are you going to send it to the Amazon warehousing and distribution? If you have a little bit of extra inventory and you want to ship it there, that's fine. that buys you a little bit of time to kind of understand how it works and it gives you time before you want to ship to a fulfillment center. Now, when you're shipping to a fulfillment center, like I was saying earlier, you can uh submit how many warehouses you want to ship to. So, this saying two shipments or one shipment. Two shipments means that you're sending to two different fulfillment centers instead of one. When you select one, it's a bit more expensive because you're going to send it to one fulfillment center and then Amazon is going to distribute it to another. Uh so, I do recommend shipping it to as many as you can. If you're shipping from overseas, it does make sense to ship it to one location and have Amazon redistribute it later because it's just much easier to contain a shipment that's coming from overseas. Or you can speak to your freight forwarder. There are two different ways to ship your products from overseas. You can ship them by sea, which is cheaper. It costs less, but it takes a bit longer. Or you can ship them by air, which is very fast, but it costs a lot more money. when you're handling shipments from overseas. I do recommend paying a little bit of extra fee for a freight forwarder, a professional logistics company to handle your shipments. So, make sure you do your homework, do your research to see what's the best option for you. Some free forwarders are going to tell you like, \"We don't want to do that. It's too complicated. We're just going to ship it to one location. It's a lot easier.\" So, we're going to do an example as if we're shipping our products from here from the US. So, what I'm going to do is I'm going to ship it to two different warehouses. So, I'm going to select two shipments. Now, the you have two different options when it comes to shipments. The low truck load or full truck load means that you're shipping a pallet of product to the warehouse. And that requires a different shipping truck than a regular uh parcel delivery. A parcel delivery, you can just hand them boxes, independent boxes. You can take it yourself to the UPS office, hand it to them, and they will ship your product. A a pallet is different because a truck is going to come and they're going to pick up a pallet of product and take it to the Amazon warehouse. It could be a truckload. It could be a full truckload or it could be a small truck that comes and takes your pallet. So, be careful when selecting that option depending on what you're shipping. For 10 boxes, it's not a full pallet. So, we're going to choose small personal delivery. Now, Amazon is going to ask you, do you want to use their UPS preferred carrier or do you want to use your own carrier? You have an option of using DHL, FedEx, FedEx Ground, UPS, USPS, and and all these options. Now, this is up to you how do you want to ship it. Uh we found it to be to cost almost the same. And like I said, we got two different locations that we get to ship to. Uh this is uh Pennsylvania and this one is going to go also to Pennsylvania, but it's a different warehouse. But that's just going to allow the distribution to go wider. In some cases, you can ship it to multiple states. Sometimes we get options for New Jersey, California, somewhere in the south. It all depends on what Amazon thinks is right to the quantity that you're shipping and to where you're located. So, a lot of things play and depending on where your inventory is distributed to. So, if you already have inventory like we do, they might think it's better to for us to ship it to Pennsylvania. That's the recommendation they've given us. And here comes the estimate. Uh total prep fee is $0. The total placement fee is $76, which goes on top of the total for the shipping fee is $242. So, my total is $319 to ship this to Amazon. Keep in mind if you are going to cancel the shipment, you only have I think 24 or 48 hours before you get charged this placement fee. The next thing you do is you accept those charges. So it gives you the estimates for each charge over here. And now the next thing once it's finishes accepting this, you want to print the labels. So it takes you to step number three, which is print labels. So now it's done. It's set up two shipments. Once you have your store set up, this is how easy it is. You just place an order with your manufacturer. Once you feel like you're gonna run out of inventory, you're preparing for your next shipment. You set up your next order. You come here and you just print your labels. It's really easy. It takes two minutes to do this. Now, this shipment is ready. You come here and you print your label. And you have two labels. So, this is the UPS label and this is the FBA label. This is what Amazon needs to see in order to link that box with your listing. And you're going to get one label for every box. So, one shipment has six and the other one is going to have four labels. So, it says six SQUs here and here it says four. You want to make sure that you have your labels, your shipping labels and the FBA label on each box and then you just take it to the UPS office and it's as easy as that. Things to check once you're done. So, let's go to view tracking details. So, now let's say I took the boxes, I went to the UPS office, I've handed it to them, they give you a tracking number. One tip that I'm going to give you that's really, really important, and this is going to save you money. Make sure that you record everything, okay? Get the receipts from the UPS office, take pictures of the boxes, weigh them, record everything just in case anything happens to your shipment. Amazon will refund you for those shipments. So, one of the things that you want to do is go to shipping queue. So, this is where you track all your shipment. It shows you uh if it's ready to ship, that means it hasn't shipped yet. These this is something that's been working on. It shows you if it's in transit. It shows you if it was checked in, that means it was received and it checked in. It shows you here how many units you're shipping. So, our example, we put so 180 plus 270. That gives us 450. And this is the number of units that I put in there. So, I have two separate shipment lines for the shipment that I just processed. So, this is where you track it. This one, it says work on shipment because I didn't print that label. I didn't click on it. So, Amazon saw that. So, it's telling me to work on the shipment. And then you go and track your shipment. And processing this shipment can take anywhere from three to six weeks. After that, you start, you know, making sure if Amazon hasn't received it, that's when you follow up with them. Ask them about the shipment, what happened. Always be in touch with Amazon seller support if anything is missing. But give it 3 to 6 weeks time because usually that's how long shipments take. So many delays happen, especially if you don't ship your orders early enough. Even shipments get lost. That's why tracking everything is really, really important. So, common mistakes that people do and you can avoid is using an incorrect ship from address. Uh, make sure that you're using a correct ship from address. I've heard this from so many people where they use anything different from where the the boxes are shipping from, and this could cause some issues when the boxes are received. Uh, not labeling your units with the FNSQ barcodes. Like I mentioned earlier, each unit has to have the FNSKU barcode. That's the barcode for your listing. One mistake is sending too much inventory to Amazon. Do not ship too much in the beginning before you understand what is your inventory turnover time. And this is very important because after 6 months, Amazon will start charging you a long-term storage fee. And this is a mistake that I had to deal with with my first product, which I shipped over a,000 units to Amazon. But for any reason, your inventory is not turning over. After 6 months, Amazon is going to start charging you long-term storage fees. So, it's a great way to avoid that by being careful and shipping, you know, less, maybe 500 units. I think that's the perfect balance at first, especially when you're doing everything for a powerful launch. Another thing is like when you ship a pallet to Amazon, you want to make sure that you sign a bill of lighting before you ship that pallet. Make sure the driver when they pick it up, they sign the bill of lighting because that's going to be your record. The bill of lighting is like a document that shows what's being shipped and who's picking it up. You can print it yourself or if you're shipping from your manufacturer, you can have your supplier help you with that. So, there's different ways to go about it. not allowing enough time for Amazon to receive and check in products. So allow three to six weeks for Amazon to receive your products before you start panicking if anything. Uh you go to track shipment and it shows you a bunch of statuses. It tells you where your shipment is, if it's in transit, if it's delivered, if it's checked in. So it could be delivered but not checked in. So it takes time for Amazon to check in your products and to for it to be available for sale. So it has to go through these entire steps before it's it's available for sale. It has to be delivered, has to be checked in, then they have to receive it into the warehouse, and then it's available for sale. So, there's few steps before you're ready to sell. If you want more help, we're opening a few one- on-one spots. Use the link below to apply for a free call. Thanks for watching and see you in the next one.",
+  "id": "nxRcxPT42XM",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "I show you exactly how to send your inventory to Amazon FBA warehouses while avoiding the most common beginner mistakes. This covers Amazon barcode labels versus universal product barcodes, box weight and unit limits, fulfillment fees, shipping carrier options, and how to track your inventory once it reaches the warehouse.\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here:  https://start.travismarziani.com/?utm_source=youtube&utm_campaign=fbashipment&ref=kam\n\nIf you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nAbout:\n\nKam walks you through the complete process of shipping your first product to Amazon FBA \u2014 from creating your shipping plan to getting your inventory checked in and available for sale.\n\n- UPC vs FNSKU barcodes \u2014 what each one does and which one must be on every unit before it reaches Amazon\n- The cheapest FNSKU labeling strategy \u2014 how to avoid Amazon's 55-cent per unit labeling fee by designing the barcode directly onto your packaging or having your manufacturer apply it\n- Box templates \u2014 setting dimensions, weight limits (under 50 lbs), and unit limits (under 150 per box)\n- Amazon Fulfillment Centers vs. Amazon Warehousing and Distribution (AWD) \u2014 the difference and when to use each\n- Number of warehouses \u2014 how splitting shipments affects your placement fees and product availability\n- Shipping methods \u2014 Small Parcel Delivery vs. Less Than Truckload (LTL) for pallet shipments\nCarrier options \u2014 Amazon's preferred UPS carrier vs. your own (FedEx, DHL, USPS)\n- Placement fees, prep fees, and shipping costs \u2014 what to expect before accepting charges\n- Printing your UPS and FBA box labels \u2014 and why every single box needs both\n- Tracking your shipment \u2014 from \"ready to ship\" to \"in transit\" to \"checked in\" to \"available for sale\"\n- Common mistakes \u2014 wrong ship-from address, missing FNSKU labels, sending too much inventory, and skipping the Bill of Lading for pallet shipments\n- Long-term storage fees \u2014 how to avoid Amazon's charges by managing your inventory turnover wisely\n\nKam covers everything Amazon FBA sellers need to know about sending inventory to Amazon warehouses, including barcode labeling strategies, freight forwarding for overseas shipments, processing timelines (3\u20136 weeks), and how to follow up with Amazon Seller Support if your shipment is delayed or lost."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "913",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2026-03-30",
+      "title": {
+        "simpleText": "How To Ship Your 1st Product to Amazon FBA (UPC vs FNSKU + Labels)"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How To Ship Your 1st Product to Amazon FBA (UPC vs FNSKU + Labels)",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.16",
+          "dur": "6.4",
+          "text": "All right. So, we're going to talk about shipping\u00a0\nto Amazon warehouse. And I'm going to do a live\u00a0\u00a0"
+        },
+        {
+          "start": "6.56",
+          "dur": "4",
+          "text": "example to show you how we ship products to\u00a0\nAmazon. So, the first thing that you want to do\u00a0\u00a0"
+        },
+        {
+          "start": "10.56",
+          "dur": "4.8",
+          "text": "when you ship a product is that you want to go to\u00a0\nthe top left menu. And you want to go to inventory\u00a0\u00a0"
+        },
+        {
+          "start": "15.36",
+          "dur": "4.24",
+          "text": "and click on manage all inventory. The next thing\u00a0\nthat we're going to do, and I'm going to show you\u00a0\u00a0"
+        },
+        {
+          "start": "19.6",
+          "dur": "3.68",
+          "text": "how to ship, we're going to ship one of the our\u00a0\ncarnivore electrolytes, is that you're going to\u00a0\u00a0"
+        },
+        {
+          "start": "23.28",
+          "dur": "6.32",
+          "text": "hit the options menu on the right side, and you're\u00a0\ngoing to hit send or replenish inventory. The next\u00a0\u00a0"
+        },
+        {
+          "start": "29.6",
+          "dur": "5.36",
+          "text": "thing is that you're going to do is make sure\u00a0\nthat your ship from address is accurate. You're\u00a0\u00a0"
+        },
+        {
+          "start": "34.96",
+          "dur": "5.92",
+          "text": "going to set up your packaging detail. So there\u00a0\nis different ways to do this and you can set up\u00a0\u00a0"
+        },
+        {
+          "start": "40.88",
+          "dur": "5.2",
+          "text": "different templates for your shipping product. So\u00a0\nbasically every product that you have listed in\u00a0\u00a0"
+        },
+        {
+          "start": "46.08",
+          "dur": "8.24",
+          "text": "Amazon has its own FNSKU uh barcode. And what that\u00a0\nmeans when you buy a product from a manufacturer\u00a0\u00a0"
+        },
+        {
+          "start": "54.32",
+          "dur": "6",
+          "text": "and you want to list it on Amazon, you need\u00a0\nsomething called UPC barcode. And that is the\u00a0\u00a0"
+        },
+        {
+          "start": "60.32",
+          "dur": "5.6",
+          "text": "it's the universal product code. Basically, it is\u00a0\nthe signature or the barcode that is on the back\u00a0\u00a0"
+        },
+        {
+          "start": "65.92",
+          "dur": "5.2",
+          "text": "of every product when you check out. So when you\u00a0\nwant to sell online or you want to sell in retail,\u00a0\u00a0"
+        },
+        {
+          "start": "71.12",
+          "dur": "5.04",
+          "text": "your product has to have its own unique UPC\u00a0\ncode. And when you create a listing on Amazon,\u00a0\u00a0"
+        },
+        {
+          "start": "76.16",
+          "dur": "4.72",
+          "text": "Amazon is going to ask you for that code. So, when\u00a0\nyou set up your listing, you put in your UPC code\u00a0\u00a0"
+        },
+        {
+          "start": "80.88",
+          "dur": "6.32",
+          "text": "on there. Now, once the listing is created, Amazon\u00a0\ngives you your own unique barcode. That's called\u00a0\u00a0"
+        },
+        {
+          "start": "87.2",
+          "dur": "7.12",
+          "text": "the FNSKU barcode. So, each listing has its own\u00a0\nFNSKU barcode. You want to make sure that every\u00a0\u00a0"
+        },
+        {
+          "start": "94.32",
+          "dur": "6.32",
+          "text": "unit of your product has that barcode on it. So,\u00a0\nwhen Amazon receives your shipment, they will scan\u00a0\u00a0"
+        },
+        {
+          "start": "100.64",
+          "dur": "5.12",
+          "text": "that barcode and know that this product belongs to\u00a0\nyour listing. Now, this goes on every unit, right?\u00a0\u00a0"
+        },
+        {
+          "start": "105.76",
+          "dur": "6",
+          "text": "Once we made sure that we have that, we want to\u00a0\ncreate a shipment label for an entire box. So now\u00a0\u00a0"
+        },
+        {
+          "start": "111.76",
+          "dur": "4.72",
+          "text": "we're putting multiple units of the product. We're\u00a0\nputting multiple units of carnivore electrolytes,\u00a0\u00a0"
+        },
+        {
+          "start": "116.48",
+          "dur": "7.68",
+          "text": "which in average we put 45 units in one box. So\u00a0\nnow we're shipping this box that has 45 units and\u00a0\u00a0"
+        },
+        {
+          "start": "124.16",
+          "dur": "5.2",
+          "text": "each unit has the FNSKU barcode on it. And the\u00a0\nway to get that shipping label is through this.\u00a0\u00a0"
+        },
+        {
+          "start": "129.36",
+          "dur": "5.36",
+          "text": "So once we went to send replenish inventory, you\u00a0\ncome here and you want to enter the information of\u00a0\u00a0"
+        },
+        {
+          "start": "134.72",
+          "dur": "5.12",
+          "text": "your shipping box. Two things to keep in mind when\u00a0\nyou're shipping a box to Amazon. The first thing\u00a0\u00a0"
+        },
+        {
+          "start": "139.84",
+          "dur": "7.44",
+          "text": "is that each box has to weigh less than 50 lbs\u00a0\nand each box has to contain less than 150 units.\u00a0\u00a0"
+        },
+        {
+          "start": "147.28",
+          "dur": "5.12",
+          "text": "That's just the regulations from Amazon. Once you\u00a0\nhave that, now you can come here and create the\u00a0\u00a0"
+        },
+        {
+          "start": "152.4",
+          "dur": "5.92",
+          "text": "template for your box. Now boxes are different. So\u00a0\nyou know you you come here, you give it a name. So\u00a0\u00a0"
+        },
+        {
+          "start": "158.32",
+          "dur": "4.48",
+          "text": "every time you come back, if you're using the same\u00a0\nboxes or maybe you have different types of boxes,\u00a0\u00a0"
+        },
+        {
+          "start": "162.8",
+          "dur": "4",
+          "text": "maybe you have big boxes, small boxes, medium\u00a0\nboxes, maybe you want to have different templates,\u00a0\u00a0"
+        },
+        {
+          "start": "166.8",
+          "dur": "4.32",
+          "text": "you can create multiple templates. So you want\u00a0\nto create a name so that you when you come back,\u00a0\u00a0"
+        },
+        {
+          "start": "171.12",
+          "dur": "4.72",
+          "text": "you know which box is that you put in the number\u00a0\nof units, you put the dimensions of the box,\u00a0\u00a0"
+        },
+        {
+          "start": "175.84",
+          "dur": "6.24",
+          "text": "okay? And usually it goes by uh length, width,\u00a0\ndepth or height. And you put in the weight of the\u00a0\u00a0"
+        },
+        {
+          "start": "182.08",
+          "dur": "6.48",
+          "text": "box and you put who puts labels on the products.\u00a0\nIdeally, you want to make sure that every unit\u00a0\u00a0"
+        },
+        {
+          "start": "188.56",
+          "dur": "6.16",
+          "text": "inside the box has its own FNSKU barcode on it. If\u00a0\nit doesn't, and you left it either blank or maybe\u00a0\u00a0"
+        },
+        {
+          "start": "194.72",
+          "dur": "5.36",
+          "text": "you left your UPC codes on there, Amazon is going\u00a0\nto ask you, do you want to put your FNSQ barcodes\u00a0\u00a0"
+        },
+        {
+          "start": "200.08",
+          "dur": "4.56",
+          "text": "on it or do you want us to do it for you? If you\u00a0\nlet Amazon do it, they're going to charge you 55\u00a0\u00a0"
+        },
+        {
+          "start": "204.64",
+          "dur": "6.88",
+          "text": "cents per unit for a box of 45 units. I'm going\u00a0\nto be paying 55 time 45, which is going to come\u00a0\u00a0"
+        },
+        {
+          "start": "211.52",
+          "dur": "5.44",
+          "text": "about to $20, maybe. Why do I want to spend $20\u00a0\non top of the shipping fee per box, you know,\u00a0\u00a0"
+        },
+        {
+          "start": "216.96",
+          "dur": "3.76",
+          "text": "before I start selling my product? That's gonna\u00a0\nadd up really quickly. The cheapest way to do it,\u00a0\u00a0"
+        },
+        {
+          "start": "220.72",
+          "dur": "4.4",
+          "text": "and this is like a little tip or a little secret\u00a0\nthat you could do instead of printing your UPC\u00a0\u00a0"
+        },
+        {
+          "start": "225.12",
+          "dur": "5.6",
+          "text": "barcodes on your product or having nothing,\u00a0\ndesign the FNSKU barcode that Amazon gives\u00a0\u00a0"
+        },
+        {
+          "start": "230.72",
+          "dur": "5.28",
+          "text": "you. So once you have your packaging designed with\u00a0\nan FNSKU barcode, you go ahead and you when you\u00a0\u00a0"
+        },
+        {
+          "start": "236",
+          "dur": "4.48",
+          "text": "manufacture your product, your FNSQ barcode is\u00a0\nalready on there and it cost you nothing. Now,\u00a0\u00a0"
+        },
+        {
+          "start": "240.48",
+          "dur": "4.8",
+          "text": "on the offset of you not having a packaging\u00a0\ndesign, maybe you're putting them in in plastic\u00a0\u00a0"
+        },
+        {
+          "start": "245.28",
+          "dur": "3.92",
+          "text": "poly bags or or something else. I don't know what\u00a0\nyou know, there's so many different situations.\u00a0\u00a0"
+        },
+        {
+          "start": "249.2",
+          "dur": "4.8",
+          "text": "Your situation could be different. Now, you could\u00a0\nask your manufacturer to print out the barcodes,\u00a0\u00a0"
+        },
+        {
+          "start": "254",
+          "dur": "4.88",
+          "text": "the FNSQ barcodes, and put them on your packaging.\u00a0\nThat is still cheaper than having Amazon to do it.\u00a0\u00a0"
+        },
+        {
+          "start": "258.88",
+          "dur": "5.92",
+          "text": "So, make sure that you do that before you ship to\u00a0\nAmazon, before you place your product order with\u00a0\u00a0"
+        },
+        {
+          "start": "264.8",
+          "dur": "4.08",
+          "text": "your manufacturer. Make sure that you have your\u00a0\ndesign ready. Set up your listing. Your listing\u00a0\u00a0"
+        },
+        {
+          "start": "268.88",
+          "dur": "4",
+          "text": "can be set up way ahead of time. You could set up\u00a0\nyour listing three months in advance. All you need\u00a0\u00a0"
+        },
+        {
+          "start": "272.88",
+          "dur": "4.08",
+          "text": "is just an image and it doesn't have to be the\u00a0\nsame exact image that you're going to use when you\u00a0\u00a0"
+        },
+        {
+          "start": "276.96",
+          "dur": "6",
+          "text": "launch your product. This will save you a lot of\u00a0\nmoney. So now we have our FNSKU barcode printed on\u00a0\u00a0"
+        },
+        {
+          "start": "282.96",
+          "dur": "5.28",
+          "text": "the on the unit. So we don't have to have Amazon.\u00a0\nSo I select who labels units. We put it by seller.\u00a0\u00a0"
+        },
+        {
+          "start": "288.24",
+          "dur": "4.8",
+          "text": "That's me. So I've created my template and you\u00a0\nknow you want to save it or whatever. It's already\u00a0\u00a0"
+        },
+        {
+          "start": "293.04",
+          "dur": "4.24",
+          "text": "in there. You know I'm just going to go ahead and\u00a0\nclose it. Now, it's Amazon's going to ask you, how\u00a0\u00a0"
+        },
+        {
+          "start": "297.28",
+          "dur": "4.24",
+          "text": "many boxes do you want to ship to the warehouse?\u00a0\nLet's say hypothetically, I'm going to ship 10\u00a0\u00a0"
+        },
+        {
+          "start": "301.52",
+          "dur": "5.92",
+          "text": "boxes. So, it automatically estimates 10 boxes are\u00a0\n450 units. And then you're going to hit ready to\u00a0\u00a0"
+        },
+        {
+          "start": "307.44",
+          "dur": "4.32",
+          "text": "send. And it gives you this little check mark next\u00a0\nto it. And that means that Amazon has approved\u00a0\u00a0"
+        },
+        {
+          "start": "311.76",
+          "dur": "4",
+          "text": "your template. It has approved the number of units\u00a0\nthat you want to ship. It has approved this ch\u00a0\u00a0"
+        },
+        {
+          "start": "315.76",
+          "dur": "3.84",
+          "text": "shipping template. Sometimes Amazon is going\u00a0\nto tell you, \"No, you're shipping too many or\u00a0\u00a0"
+        },
+        {
+          "start": "319.6",
+          "dur": "4.48",
+          "text": "there's something wrong in there. You might have\u00a0\nto go and check what is exactly happening. Maybe\u00a0\u00a0"
+        },
+        {
+          "start": "324.08",
+          "dur": "6",
+          "text": "the dimensions of your box is too big or maybe\u00a0\nthe quantity and the dimensions and the weight\u00a0\u00a0"
+        },
+        {
+          "start": "330.08",
+          "dur": "6.72",
+          "text": "of the box don't add up. Now you put confirm and\u00a0\ncontinue. Now a little tip uh speaking of FNSQ\u00a0\u00a0"
+        },
+        {
+          "start": "336.8",
+          "dur": "6.56",
+          "text": "barcodes. If you're doing retail arbitrage, you\u00a0\nwant to put your FNSQ label on top of your UPC\u00a0\u00a0"
+        },
+        {
+          "start": "343.36",
+          "dur": "4.72",
+          "text": "uh label. So that's one thing that you have to do.\u00a0\nIf you're doing your own product, you're the brand\u00a0\u00a0"
+        },
+        {
+          "start": "348.08",
+          "dur": "4.96",
+          "text": "owner, or if you're doing private labeling, your\u00a0\nFNSKU barcode goes directly on the packaging. It\u00a0\u00a0"
+        },
+        {
+          "start": "353.04",
+          "dur": "4.72",
+          "text": "doesn't have to go on top of the UPC. It's better\u00a0\nif you don't have it with your UPC. You obviously\u00a0\u00a0"
+        },
+        {
+          "start": "357.76",
+          "dur": "4.88",
+          "text": "want to cover. You want to have one barcode on\u00a0\nthere. And once you hit confirm and continue, uh,\u00a0\u00a0"
+        },
+        {
+          "start": "362.64",
+          "dur": "3.52",
+          "text": "you're going to get here. It's going to ask you\u00a0\nwhen do you ship the product. So, this is really\u00a0\u00a0"
+        },
+        {
+          "start": "366.16",
+          "dur": "4",
+          "text": "important. If you're going to ship it this week or\u00a0\ntoday, you can put today's date. If I don't want\u00a0\u00a0"
+        },
+        {
+          "start": "370.16",
+          "dur": "3.76",
+          "text": "to ship it today, maybe I want to ship it in. It's\u00a0\ngoing to be ready in a couple of weeks. And then\u00a0\u00a0"
+        },
+        {
+          "start": "373.92",
+          "dur": "4.56",
+          "text": "Amazon is going to ask you one of two questions.\u00a0\nThis is if you want to send it to a fulfillment\u00a0\u00a0"
+        },
+        {
+          "start": "378.48",
+          "dur": "6.64",
+          "text": "center or Amazon. This year they started uh doing\u00a0\na what is called AWD which is Amazon warehousing\u00a0\u00a0"
+        },
+        {
+          "start": "385.12",
+          "dur": "6.08",
+          "text": "and distribution. This is if you want to store\u00a0\nyour inventory at the Amazon warehouse and when\u00a0\u00a0"
+        },
+        {
+          "start": "391.2",
+          "dur": "5.52",
+          "text": "you once you're ready you can request Amazon to\u00a0\nship your inventory from the Amazon warehousing\u00a0\u00a0"
+        },
+        {
+          "start": "396.72",
+          "dur": "5.44",
+          "text": "and distribution to the fulfillment center. The\u00a0\nfulfillment center is where Amazon picks packs\u00a0\u00a0"
+        },
+        {
+          "start": "402.16",
+          "dur": "4.56",
+          "text": "and ships your product to the customers when you\u00a0\nget an order. If you don't have inventory at the\u00a0\u00a0"
+        },
+        {
+          "start": "406.72",
+          "dur": "5.92",
+          "text": "Amazon fulfillment center, it is not considered\u00a0\nthat you have inventory. You're out of stock. If\u00a0\u00a0"
+        },
+        {
+          "start": "412.64",
+          "dur": "4.64",
+          "text": "you have stock at the AWD, you need to request\u00a0\nthat it ships to the fulfillment center. So,\u00a0\u00a0"
+        },
+        {
+          "start": "417.28",
+          "dur": "3.76",
+          "text": "you want to make sure that you select the right\u00a0\ndistribution center that you're going to send\u00a0\u00a0"
+        },
+        {
+          "start": "421.04",
+          "dur": "2.96",
+          "text": "it to. So, are you going to send it to the\u00a0\nfulfillment center or are you going to send\u00a0\u00a0"
+        },
+        {
+          "start": "424",
+          "dur": "4.24",
+          "text": "it to the Amazon warehousing and distribution? If\u00a0\nyou have a little bit of extra inventory and you\u00a0\u00a0"
+        },
+        {
+          "start": "428.24",
+          "dur": "4.16",
+          "text": "want to ship it there, that's fine. that buys\u00a0\nyou a little bit of time to kind of understand\u00a0\u00a0"
+        },
+        {
+          "start": "432.4",
+          "dur": "4.08",
+          "text": "how it works and it gives you time before you\u00a0\nwant to ship to a fulfillment center. Now,\u00a0\u00a0"
+        },
+        {
+          "start": "436.48",
+          "dur": "4.8",
+          "text": "when you're shipping to a fulfillment center, like\u00a0\nI was saying earlier, you can uh submit how many\u00a0\u00a0"
+        },
+        {
+          "start": "441.28",
+          "dur": "4.8",
+          "text": "warehouses you want to ship to. So, this saying\u00a0\ntwo shipments or one shipment. Two shipments means\u00a0\u00a0"
+        },
+        {
+          "start": "446.08",
+          "dur": "4",
+          "text": "that you're sending to two different fulfillment\u00a0\ncenters instead of one. When you select one,\u00a0\u00a0"
+        },
+        {
+          "start": "450.08",
+          "dur": "4.16",
+          "text": "it's a bit more expensive because you're going to\u00a0\nsend it to one fulfillment center and then Amazon\u00a0\u00a0"
+        },
+        {
+          "start": "454.24",
+          "dur": "4.96",
+          "text": "is going to distribute it to another. Uh so, I\u00a0\ndo recommend shipping it to as many as you can.\u00a0\u00a0"
+        },
+        {
+          "start": "459.2",
+          "dur": "4.64",
+          "text": "If you're shipping from overseas, it does make\u00a0\nsense to ship it to one location and have Amazon\u00a0\u00a0"
+        },
+        {
+          "start": "463.84",
+          "dur": "5.2",
+          "text": "redistribute it later because it's just much\u00a0\neasier to contain a shipment that's coming from\u00a0\u00a0"
+        },
+        {
+          "start": "469.04",
+          "dur": "3.92",
+          "text": "overseas. Or you can speak to your freight\u00a0\nforwarder. There are two different ways to\u00a0\u00a0"
+        },
+        {
+          "start": "472.96",
+          "dur": "4.88",
+          "text": "ship your products from overseas. You can ship\u00a0\nthem by sea, which is cheaper. It costs less,\u00a0\u00a0"
+        },
+        {
+          "start": "477.84",
+          "dur": "4.8",
+          "text": "but it takes a bit longer. Or you can ship them\u00a0\nby air, which is very fast, but it costs a lot\u00a0\u00a0"
+        },
+        {
+          "start": "482.64",
+          "dur": "4",
+          "text": "more money. when you're handling shipments from\u00a0\noverseas. I do recommend paying a little bit of\u00a0\u00a0"
+        },
+        {
+          "start": "486.64",
+          "dur": "4.48",
+          "text": "extra fee for a freight forwarder, a professional\u00a0\nlogistics company to handle your shipments. So,\u00a0\u00a0"
+        },
+        {
+          "start": "491.12",
+          "dur": "4.64",
+          "text": "make sure you do your homework, do your research\u00a0\nto see what's the best option for you. Some free\u00a0\u00a0"
+        },
+        {
+          "start": "495.76",
+          "dur": "2.96",
+          "text": "forwarders are going to tell you like, \"We don't\u00a0\nwant to do that. It's too complicated. We're just\u00a0\u00a0"
+        },
+        {
+          "start": "498.72",
+          "dur": "3.92",
+          "text": "going to ship it to one location. It's a lot\u00a0\neasier.\" So, we're going to do an example as\u00a0\u00a0"
+        },
+        {
+          "start": "502.64",
+          "dur": "4",
+          "text": "if we're shipping our products from here from\u00a0\nthe US. So, what I'm going to do is I'm going\u00a0\u00a0"
+        },
+        {
+          "start": "506.64",
+          "dur": "3.92",
+          "text": "to ship it to two different warehouses. So,\u00a0\nI'm going to select two shipments. Now, the\u00a0\u00a0"
+        },
+        {
+          "start": "510.56",
+          "dur": "5.12",
+          "text": "you have two different options when it comes to\u00a0\nshipments. The low truck load or full truck load\u00a0\u00a0"
+        },
+        {
+          "start": "515.68",
+          "dur": "5.36",
+          "text": "means that you're shipping a pallet of product\u00a0\nto the warehouse. And that requires a different\u00a0\u00a0"
+        },
+        {
+          "start": "521.04",
+          "dur": "5.92",
+          "text": "shipping truck than a regular uh parcel delivery.\u00a0\nA parcel delivery, you can just hand them boxes,\u00a0\u00a0"
+        },
+        {
+          "start": "526.96",
+          "dur": "4.64",
+          "text": "independent boxes. You can take it yourself to\u00a0\nthe UPS office, hand it to them, and they will\u00a0\u00a0"
+        },
+        {
+          "start": "531.6",
+          "dur": "6",
+          "text": "ship your product. A a pallet is different because\u00a0\na truck is going to come and they're going to pick\u00a0\u00a0"
+        },
+        {
+          "start": "537.6",
+          "dur": "4.48",
+          "text": "up a pallet of product and take it to the Amazon\u00a0\nwarehouse. It could be a truckload. It could be a\u00a0\u00a0"
+        },
+        {
+          "start": "542.08",
+          "dur": "4",
+          "text": "full truckload or it could be a small truck that\u00a0\ncomes and takes your pallet. So, be careful when\u00a0\u00a0"
+        },
+        {
+          "start": "546.08",
+          "dur": "4.4",
+          "text": "selecting that option depending on what you're\u00a0\nshipping. For 10 boxes, it's not a full pallet.\u00a0\u00a0"
+        },
+        {
+          "start": "550.48",
+          "dur": "3.92",
+          "text": "So, we're going to choose small personal delivery.\u00a0\nNow, Amazon is going to ask you, do you want to\u00a0\u00a0"
+        },
+        {
+          "start": "554.4",
+          "dur": "6.56",
+          "text": "use their UPS preferred carrier or do you want\u00a0\nto use your own carrier? You have an option of\u00a0\u00a0"
+        },
+        {
+          "start": "560.96",
+          "dur": "5.76",
+          "text": "using DHL, FedEx, FedEx Ground, UPS, USPS, and\u00a0\nand all these options. Now, this is up to you\u00a0\u00a0"
+        },
+        {
+          "start": "566.72",
+          "dur": "5.04",
+          "text": "how do you want to ship it. Uh we found it to be\u00a0\nto cost almost the same. And like I said, we got\u00a0\u00a0"
+        },
+        {
+          "start": "571.76",
+          "dur": "5.28",
+          "text": "two different locations that we get to ship to. Uh\u00a0\nthis is uh Pennsylvania and this one is going to\u00a0\u00a0"
+        },
+        {
+          "start": "577.04",
+          "dur": "3.68",
+          "text": "go also to Pennsylvania, but it's a different\u00a0\nwarehouse. But that's just going to allow the\u00a0\u00a0"
+        },
+        {
+          "start": "580.72",
+          "dur": "4.16",
+          "text": "distribution to go wider. In some cases, you\u00a0\ncan ship it to multiple states. Sometimes we get\u00a0\u00a0"
+        },
+        {
+          "start": "584.88",
+          "dur": "6.08",
+          "text": "options for New Jersey, California, somewhere in\u00a0\nthe south. It all depends on what Amazon thinks is\u00a0\u00a0"
+        },
+        {
+          "start": "590.96",
+          "dur": "5.2",
+          "text": "right to the quantity that you're shipping and to\u00a0\nwhere you're located. So, a lot of things play and\u00a0\u00a0"
+        },
+        {
+          "start": "596.16",
+          "dur": "4.64",
+          "text": "depending on where your inventory is distributed\u00a0\nto. So, if you already have inventory like we do,\u00a0\u00a0"
+        },
+        {
+          "start": "600.8",
+          "dur": "4",
+          "text": "they might think it's better to for us to ship it\u00a0\nto Pennsylvania. That's the recommendation they've\u00a0\u00a0"
+        },
+        {
+          "start": "604.8",
+          "dur": "6.32",
+          "text": "given us. And here comes the estimate. Uh total\u00a0\nprep fee is $0. The total placement fee is $76,\u00a0\u00a0"
+        },
+        {
+          "start": "611.12",
+          "dur": "7.12",
+          "text": "which goes on top of the total for the shipping\u00a0\nfee is $242. So, my total is $319 to ship this\u00a0\u00a0"
+        },
+        {
+          "start": "618.24",
+          "dur": "7.52",
+          "text": "to Amazon. Keep in mind if you are going to cancel\u00a0\nthe shipment, you only have I think 24 or 48 hours\u00a0\u00a0"
+        },
+        {
+          "start": "625.76",
+          "dur": "5.28",
+          "text": "before you get charged this placement fee. The\u00a0\nnext thing you do is you accept those charges.\u00a0\u00a0"
+        },
+        {
+          "start": "631.04",
+          "dur": "4.24",
+          "text": "So it gives you the estimates for each charge\u00a0\nover here. And now the next thing once it's\u00a0\u00a0"
+        },
+        {
+          "start": "635.28",
+          "dur": "4.56",
+          "text": "finishes accepting this, you want to print the\u00a0\nlabels. So it takes you to step number three,\u00a0\u00a0"
+        },
+        {
+          "start": "639.84",
+          "dur": "5.04",
+          "text": "which is print labels. So now it's done. It's set\u00a0\nup two shipments. Once you have your store set up,\u00a0\u00a0"
+        },
+        {
+          "start": "644.88",
+          "dur": "4",
+          "text": "this is how easy it is. You just place an order\u00a0\nwith your manufacturer. Once you feel like you're\u00a0\u00a0"
+        },
+        {
+          "start": "648.88",
+          "dur": "4.32",
+          "text": "gonna run out of inventory, you're preparing for\u00a0\nyour next shipment. You set up your next order.\u00a0\u00a0"
+        },
+        {
+          "start": "653.2",
+          "dur": "5.2",
+          "text": "You come here and you just print your labels. It's\u00a0\nreally easy. It takes two minutes to do this. Now,\u00a0\u00a0"
+        },
+        {
+          "start": "658.4",
+          "dur": "4.16",
+          "text": "this shipment is ready. You come here and you\u00a0\nprint your label. And you have two labels. So,\u00a0\u00a0"
+        },
+        {
+          "start": "662.56",
+          "dur": "5.6",
+          "text": "this is the UPS label and this is the FBA\u00a0\nlabel. This is what Amazon needs to see\u00a0\u00a0"
+        },
+        {
+          "start": "668.16",
+          "dur": "5.28",
+          "text": "in order to link that box with your listing. And\u00a0\nyou're going to get one label for every box. So,\u00a0\u00a0"
+        },
+        {
+          "start": "673.44",
+          "dur": "3.92",
+          "text": "one shipment has six and the other\u00a0\none is going to have four labels.\u00a0\u00a0"
+        },
+        {
+          "start": "677.36",
+          "dur": "5.52",
+          "text": "So, it says six SQUs here and here it says four.\u00a0\nYou want to make sure that you have your labels,\u00a0\u00a0"
+        },
+        {
+          "start": "682.88",
+          "dur": "6.64",
+          "text": "your shipping labels and the FBA label on each box\u00a0\nand then you just take it to the UPS office and\u00a0\u00a0"
+        },
+        {
+          "start": "689.52",
+          "dur": "6",
+          "text": "it's as easy as that. Things to check once you're\u00a0\ndone. So, let's go to view tracking details. So,\u00a0\u00a0"
+        },
+        {
+          "start": "695.52",
+          "dur": "4.88",
+          "text": "now let's say I took the boxes, I went to the UPS\u00a0\noffice, I've handed it to them, they give you a\u00a0\u00a0"
+        },
+        {
+          "start": "700.4",
+          "dur": "3.52",
+          "text": "tracking number. One tip that I'm going to give\u00a0\nyou that's really, really important, and this is\u00a0\u00a0"
+        },
+        {
+          "start": "703.92",
+          "dur": "5.52",
+          "text": "going to save you money. Make sure that you record\u00a0\neverything, okay? Get the receipts from the UPS\u00a0\u00a0"
+        },
+        {
+          "start": "709.44",
+          "dur": "5.36",
+          "text": "office, take pictures of the boxes, weigh them,\u00a0\nrecord everything just in case anything happens\u00a0\u00a0"
+        },
+        {
+          "start": "714.8",
+          "dur": "5.12",
+          "text": "to your shipment. Amazon will refund you for\u00a0\nthose shipments. So, one of the things that you\u00a0\u00a0"
+        },
+        {
+          "start": "719.92",
+          "dur": "5.92",
+          "text": "want to do is go to shipping queue. So, this is\u00a0\nwhere you track all your shipment. It shows you\u00a0\u00a0"
+        },
+        {
+          "start": "725.84",
+          "dur": "3.28",
+          "text": "uh if it's ready to ship, that means it\u00a0\nhasn't shipped yet. These this is something\u00a0\u00a0"
+        },
+        {
+          "start": "729.12",
+          "dur": "3.68",
+          "text": "that's been working on. It shows you if it's\u00a0\nin transit. It shows you if it was checked in,\u00a0\u00a0"
+        },
+        {
+          "start": "732.8",
+          "dur": "5.2",
+          "text": "that means it was received and it checked in. It\u00a0\nshows you here how many units you're shipping. So,\u00a0\u00a0"
+        },
+        {
+          "start": "738",
+          "dur": "4.96",
+          "text": "our example, we put so 180 plus 270. That gives\u00a0\nus 450. And this is the number of units that\u00a0\u00a0"
+        },
+        {
+          "start": "742.96",
+          "dur": "4.72",
+          "text": "I put in there. So, I have two separate shipment\u00a0\nlines for the shipment that I just processed. So,\u00a0\u00a0"
+        },
+        {
+          "start": "747.68",
+          "dur": "3.68",
+          "text": "this is where you track it. This one, it says work\u00a0\non shipment because I didn't print that label. I\u00a0\u00a0"
+        },
+        {
+          "start": "751.36",
+          "dur": "4.08",
+          "text": "didn't click on it. So, Amazon saw that. So, it's\u00a0\ntelling me to work on the shipment. And then you\u00a0\u00a0"
+        },
+        {
+          "start": "755.44",
+          "dur": "4",
+          "text": "go and track your shipment. And processing\u00a0\nthis shipment can take anywhere from three\u00a0\u00a0"
+        },
+        {
+          "start": "759.44",
+          "dur": "5.04",
+          "text": "to six weeks. After that, you start, you know,\u00a0\nmaking sure if Amazon hasn't received it, that's\u00a0\u00a0"
+        },
+        {
+          "start": "764.48",
+          "dur": "4.16",
+          "text": "when you follow up with them. Ask them about the\u00a0\nshipment, what happened. Always be in touch with\u00a0\u00a0"
+        },
+        {
+          "start": "768.64",
+          "dur": "5.12",
+          "text": "Amazon seller support if anything is missing.\u00a0\nBut give it 3 to 6 weeks time because usually\u00a0\u00a0"
+        },
+        {
+          "start": "773.76",
+          "dur": "4",
+          "text": "that's how long shipments take. So many delays\u00a0\nhappen, especially if you don't ship your orders\u00a0\u00a0"
+        },
+        {
+          "start": "777.76",
+          "dur": "5.04",
+          "text": "early enough. Even shipments get lost. That's why\u00a0\ntracking everything is really, really important.\u00a0\u00a0"
+        },
+        {
+          "start": "782.8",
+          "dur": "5.76",
+          "text": "So, common mistakes that people do and you can\u00a0\navoid is using an incorrect ship from address. Uh,\u00a0\u00a0"
+        },
+        {
+          "start": "788.56",
+          "dur": "3.52",
+          "text": "make sure that you're using a correct ship from\u00a0\naddress. I've heard this from so many people\u00a0\u00a0"
+        },
+        {
+          "start": "792.08",
+          "dur": "4.88",
+          "text": "where they use anything different from where the\u00a0\nthe boxes are shipping from, and this could cause\u00a0\u00a0"
+        },
+        {
+          "start": "796.96",
+          "dur": "5.92",
+          "text": "some issues when the boxes are received. Uh, not\u00a0\nlabeling your units with the FNSQ barcodes. Like I\u00a0\u00a0"
+        },
+        {
+          "start": "802.88",
+          "dur": "5.76",
+          "text": "mentioned earlier, each unit has to have the FNSKU\u00a0\nbarcode. That's the barcode for your listing. One\u00a0\u00a0"
+        },
+        {
+          "start": "808.64",
+          "dur": "5.52",
+          "text": "mistake is sending too much inventory to Amazon.\u00a0\nDo not ship too much in the beginning before you\u00a0\u00a0"
+        },
+        {
+          "start": "814.16",
+          "dur": "5.84",
+          "text": "understand what is your inventory turnover time.\u00a0\nAnd this is very important because after 6 months,\u00a0\u00a0"
+        },
+        {
+          "start": "820",
+          "dur": "4.08",
+          "text": "Amazon will start charging you a long-term storage\u00a0\nfee. And this is a mistake that I had to deal\u00a0\u00a0"
+        },
+        {
+          "start": "824.08",
+          "dur": "4.88",
+          "text": "with with my first product, which I shipped over\u00a0\na,000 units to Amazon. But for any reason, your\u00a0\u00a0"
+        },
+        {
+          "start": "828.96",
+          "dur": "4.8",
+          "text": "inventory is not turning over. After 6 months,\u00a0\nAmazon is going to start charging you long-term\u00a0\u00a0"
+        },
+        {
+          "start": "833.76",
+          "dur": "5.2",
+          "text": "storage fees. So, it's a great way to avoid\u00a0\nthat by being careful and shipping, you know,\u00a0\u00a0"
+        },
+        {
+          "start": "838.96",
+          "dur": "4.48",
+          "text": "less, maybe 500 units. I think that's the perfect\u00a0\nbalance at first, especially when you're doing\u00a0\u00a0"
+        },
+        {
+          "start": "843.44",
+          "dur": "6.16",
+          "text": "everything for a powerful launch. Another thing is\u00a0\nlike when you ship a pallet to Amazon, you want to\u00a0\u00a0"
+        },
+        {
+          "start": "849.6",
+          "dur": "4.72",
+          "text": "make sure that you sign a bill of lighting before\u00a0\nyou ship that pallet. Make sure the driver when\u00a0\u00a0"
+        },
+        {
+          "start": "854.32",
+          "dur": "3.52",
+          "text": "they pick it up, they sign the bill of lighting\u00a0\nbecause that's going to be your record. The bill\u00a0\u00a0"
+        },
+        {
+          "start": "857.84",
+          "dur": "4.64",
+          "text": "of lighting is like a document that shows what's\u00a0\nbeing shipped and who's picking it up. You can\u00a0\u00a0"
+        },
+        {
+          "start": "862.48",
+          "dur": "3.52",
+          "text": "print it yourself or if you're shipping from\u00a0\nyour manufacturer, you can have your supplier\u00a0\u00a0"
+        },
+        {
+          "start": "866",
+          "dur": "4",
+          "text": "help you with that. So, there's different ways to\u00a0\ngo about it. not allowing enough time for Amazon\u00a0\u00a0"
+        },
+        {
+          "start": "870",
+          "dur": "5.04",
+          "text": "to receive and check in products. So allow three\u00a0\nto six weeks for Amazon to receive your products\u00a0\u00a0"
+        },
+        {
+          "start": "875.04",
+          "dur": "4.08",
+          "text": "before you start panicking if anything. Uh you\u00a0\ngo to track shipment and it shows you a bunch of\u00a0\u00a0"
+        },
+        {
+          "start": "879.12",
+          "dur": "3.84",
+          "text": "statuses. It tells you where your shipment\u00a0\nis, if it's in transit, if it's delivered,\u00a0\u00a0"
+        },
+        {
+          "start": "882.96",
+          "dur": "4.08",
+          "text": "if it's checked in. So it could be delivered\u00a0\nbut not checked in. So it takes time for Amazon\u00a0\u00a0"
+        },
+        {
+          "start": "887.04",
+          "dur": "4.72",
+          "text": "to check in your products and to for it to be\u00a0\navailable for sale. So it has to go through these\u00a0\u00a0"
+        },
+        {
+          "start": "891.76",
+          "dur": "5.36",
+          "text": "entire steps before it's it's available for sale.\u00a0\nIt has to be delivered, has to be checked in,\u00a0\u00a0"
+        },
+        {
+          "start": "897.12",
+          "dur": "3.92",
+          "text": "then they have to receive it into the warehouse,\u00a0\nand then it's available for sale. So, there's few\u00a0\u00a0"
+        },
+        {
+          "start": "901.04",
+          "dur": "5.36",
+          "text": "steps before you're ready to sell. If you want\u00a0\nmore help, we're opening a few one- on-one spots.\u00a0\u00a0"
+        },
+        {
+          "start": "906.4",
+          "dur": "5.44",
+          "text": "Use the link below to apply for a free call.\u00a0\nThanks for watching and see you in the next one."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Starting a shipment"
+    },
+    {
+      "start_time": 42.96,
+      "title": "Understanding barcodes"
+    },
+    {
+      "start_time": 135.92,
+      "title": "Setting box templates"
+    },
+    {
+      "start_time": 201.92,
+      "title": "Labeling strategy"
+    },
+    {
+      "start_time": 295.36,
+      "title": "Approving shipment plans"
+    },
+    {
+      "start_time": 376.639,
+      "title": "Warehouse selection"
+    },
+    {
+      "start_time": 510,
+      "title": "Carrier and logistics"
+    },
+    {
+      "start_time": 641.04,
+      "title": "Printing and finalizing"
+    },
+    {
+      "start_time": 718.467,
+      "title": "Tracking shipments"
+    },
+    {
+      "start_time": 782.8,
+      "title": "Avoiding common mistakes"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local duplicates / OS files
+transcripts copy/
+transcripts copy.zip
+.DS_Store
+
+# Internal-only docs (not for the public repo)
+scripts/payment-processing-faq.md
+scripts/program-faq-sheet.md
+scripts/program-faq-sheetdfdf.txt

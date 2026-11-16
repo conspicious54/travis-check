@@ -1,0 +1,1469 @@
+{
+  "text": "in this video I'm going to give you a Shopify walk through and I'm going to basically explain what's going on in Shopify in the back end from the admin point of view and show you how to best utilize a lot of the cool features that are going in on Shopify so I'm going to cut to a screen recording that is basically showing step by step everything that you need to know if you have a Shopify store and showing you how to properly use your Shopify store so let's get into it this is the dashboard here and as you can see there's some stuff going on in the middle and you can see different things like reward repeat customers with a discount Shopify webinars different things like that that's not as important as some of the things going on over here so we have home orders products customers reports discounts online store app and settings we're going to go through all these one by one and talk about what they are so the first thing we'll look at is your orders because that's one of the things we really want obviously in a store is to get the orders so I have one order here so let's look at it your first order will look something like this and you see it's this has just been a test I even put the name is test customer and it'll show me what actually was in the order so they bought one high-waisted yoga pants I guess I should probably change that to yoga pant um that's so then from there we can look at if you want to fulfill the item click fulfill and that's a that's something for a different video we could talk about the steps to actually fulfill the items you get some more information here as well the other interesting thing about the orders is you can do if you go to abandoned checkout you can see people that tried to place an order or got a further along in the process but didn't actually finish the order so this one right here this was a test order I placed at around noon so if I click on it one of the things I can do is send a cart recovery email and this B basically and you can customize these recovery emails and I'll show you later in this video how to customize those emails but you can send an email to the person saying hey I saw that you tried to check out but you weren't able to fully check out you know here's a coupon code or something like that um if you upgrade your plan as well you can send automatic uh abandoned cart checkout things so we'll go back to orders here if someone calls in to place an order or maybe a friend of yours wants to buy something what you would do is you'd go click create order and this allows you to manually create an order so the first thing we'd pick the product let's say large red yoga shorts we'd go through and this is pretty self-explanatory as we go through but you're this allows you to create a custom order even if someone doesn't use the site to place it so that is the orders there next let's talk about products and this is where go and leave the page this is where you're going to spend most your time because a big part of it is big part of having an online store is creating products so what I'm going to do and I have other videoos showing you how to do SEO properly with these and different things like that but I'm going to show you how to add a product from scratch so let's say I wanted to add a product and I'm going to call it yoga shorts and in here I'll put a I'll type a description these are amazing yoga shorts and that's one little SEO trick is you want to make sure you have the keyword that you're trying to rank for in here obviously a much longer in a better wellth thought out description will be beneficial so we'll go ahead and upload item I have a picture here yoga shorts. jpeg at which point you want to at least put some kind of alt text yoga shorts pricing let's say these are $29 just for $29.99 compare at let's say 45 45 you can put in custom SKS if you want I'm not not going to deal with any of this there's a lot of stuff you can do here you can also edit the website SEO and once again I show in a different video how to do this but basically click here and you could change this instead of yoga shorts you could say yoga shorts maybe in 55 colors and that looks a little bit better for SEO purposes and maybe you want to enter some more keywords in there we can go into a lot more detail here also you can see you can do a custom URL but for the most part that's all you need to do if you wanted to add variants you can also do that so maybe I'd like add a different size uh so separate with uh with comma so let's say small medium large oops small comma medium comma large and we'll just keep them all at the same price now so let's go ahead and save that and let's see what this looks like so we're going to view it here so there we go it even has a little sales sticker there and it says you know used to be $45 now it's only $29.99 you can pick the different sizes and if you wanted to add that to your cart you could so let's get back into the the back end here so let's go back into products Shopify also has some pretty Advanced features with inventory you're able to manage some of your incoming inventory uh I don't have any inventory right now so I'm not going to worry about that but another interesting thing you can do is create collections now there's a couple different collection C let me show you an example the homepage collection you can see if you go to my homepage click here this shows up on my homepage so let's click on that I could add I could add another product to it so let's put yoga shorts saves automatically go back here and think of these like categories so look at there now they're both show they both showed up there so you could create another collection that might be maybe I have five different kind kinds of yoga pants I have high-waisted and a few other ones I could create a collection of yoga pants and then maybe I'd put a link over here and we'll we'll talk about later in this video how to do that put a link over here like yoga pants where you could go to all the yoga pants and it would be like 1 2 3 four five and it would show all of them so that's what collections are gift cards are pretty self-explanatory um that's probably looks like I my plan doesn't even support gift cards right now so we won't deal with that the next thing we'll do is we'll look at customers so you see I have two customers right now and something to note the test customer is the one that actually purchased the other one that's me Travis Mar marzani that's that person me never actually even purchased so what we can do is we can look at all right well that was the email for the person and some other stuff let's look at the other customer the one that actually purchased when we click on them we can see oh they they purchased this item and we can see other items if they were to have made more uh more purchases we could see even more one thing we could do is we could tag this person as a VIP which would be nice as well these other tags they'll show things like repeat customers I don't have any repeat customers right now number of orders is greater than than one so I could select a filter and say number of orders is greater than you know five or number of orders greater than five anyone that's had more than five orders would show up here and I know that that's someone that's pretty important that's someone that we should probably do a lot more repeat business with so the next thing we'll look at is reports and there is a lot of information here in the reports uh but right now there's not a ton for me the way that reports work is you can actually download them and see more information about your store now what we're talking about this there's something I want to note about products let's go back to products there you'll see this Import and Export feature and that's if you want to export it you can export all your products as a CSV so let me show you what that looks like right now so we'll go current page or let's go all products so when you export that file they send you an email with a a link to your CSV and a CSV is basically similar to a Excel file it's stands for comma separated file but you don't need to know that um this would be an example of what your products would look like so the ti it would have the title it would have different all kinds of different data here and this might come in handy if you want to change a lot of different things on a lot of different products if you have 50 products maybe and you want to change everything to say a certain thing or anything you want to change in bulk maybe you you were had you before you had sizes that were small medium and large now you want to change it to adult small adult medium and adult large you can do that nice and easily and if you're an Excel wizard this comes in really handy you can also do the same thing I'm me go ahead and say don't save with customers so with your customer data you can export all your customer data and maybe you need to do something like import them into a new mail client like MailChimp or something like that or you want to export it for any number of reasons this comes in handy very very often so I remember I I recommend knowing a little bit about that feature so we talked about the another thing is discounts and I'll if you want to create a discount code you can click on add discount code and let's say we'll use their example spring sale Spring sale so they're going to enter this coupon code at uh checkout USD take $5 off all orders or you could do something like different things like that so let's say $5 off all orders total quantity available unlimited you know if you want you can make it limit one per customer all that kind of stuff I'm not going to save it you can also make an End date if you want to say ends April 30th or whatever you want to do there so next thing we'll talk about is the actual online store and there's a couple different tabs here the overview blog post Pages themes navigation and domains so let's start with the overview so this overview gives you some of the statistics about your site and no one has been to my site recently but if I look at I can change the the time frame if I change it to today you'll see wow I've gotten five visitors with a 60% ad to cart and 60% reach checkout it says 0% purchase though so that's no good uh and these were all fake but you can get some different insights I still highly highly recommend setting up Google analytics with your Shopify store because you'll just get so much more data if you do it next is blog post so click on blog post and what you can do is actually create blog posts from here so let's start with looking at the example the sample that they give you so I'm going to click on that so it's first post so let's look at it so we can get some context so this shows the first post and that's the title and some different things here the actual stuff there and this is my site I don't know I think I've shown it once I don't love it there's a lot of things we can change and I'll show you how to change the theme later in this video but so anyways this is the blog post here let's say I wanted to change this just to say test test test test I could and first post test I can add a featured image as well change the author change which blog it is so let's create a new one I'm going to create a new blog that's called called yoga advice and you see down here it changes the URL as well which is very interesting and I can add tags such as yoga advice and the tags the way it works is if I have multiple different things that are under yoga advice people would be able to click on them and they could get all the different posts on yoga advice so let's go ahead and save that and let's view it again it'll come up here in just a second so you can see first post test test test test in yoga advice so if I wanted to I could click on this yoga advice and it'll take me here and it'll show if I had multiple posts it would show all the posts here so that's how you do the blog posts once again you can edit the SEO um if you want you can if there's comments right now the comments for this blog are disabled but if I wanted to have comments I could deal with the comments down here and ultimately I can delete it or save it go ahead and save it again now pages is another important thing and there's a few difference between blog post and Pages the biggest one think of pages as like static things on your website such as the about us page the homepage those things aren't going to change maybe like the contact us page so let's click on one of these so here's my about us page a great and I'd say I'm Travis and I let's say I'm Travis we'll just put it that about us maybe I want to say about instead of about us I might say about as yoga pants just for fun go ahead and save it and we'll see what it looks like here so now people can come to this page if they click the about us page they come here you can see it's also in the footer as well which I don't love but that's something for later in this video we can talk about how to get rid of that U the other page that you can edit is the homepage and let's let's take a look at that page as well so let's go back click on homepage and we might do something like this the test homepage go and click save I can view it so there you go there's a nice little homepage there so so let's look at the themes and this is one of the things that separates Shopify from a lot of other stores they have a lot of themes and a lot of really good themes so first thing we can look at is actually visit the theme store because maybe I don't like my theme let's get a new theme for this I don't I actually don't love the theme the stock theme that it comes with and you probably should change it so you can do free or premium and a lot of the premium ones hover right around $100 but these are a little bit more expensive 160 180 you know um you can look at some different things well let's just look at some free themes for now so here's a couple different ones I might go with I'll just go with this one for now I don't love it but it's a it's a start so I'm going to go ahead and click install theme I'm going to publish as my theme when that's done go ahead and go to your theme manager and then you can go click customize your theme so this is where it starts to get fun so there's a ton of different things here you can do to customize it so let's wait for this to show up so it's got a Carousel image here which you can put custom images through and these are the things you see you can see in the um you see in shops all the time you know it's just a bunch of different images I actually recommend not having a carousel just having a static one some other cool things you can see what it looks like in a tablet you can see what it looks like in Mobile it's not bad for a free theme this isn't bad so let's look at so there's some of the presets so that's soft green I could change it to Blue if I wanted to I got to give it a a second to load so that's what it looks like in blue I I like the green better so let's let's stick with soft green at which point if you want you can just clear changes all right so we're going to go here let's look at the colors so here's the primary color you know I don't like that shade I'd rather it be here what would that look like or maybe the main menu background maybe I'd rather it be here ooh no that's too dark actually but you can see you can change it to whatever you want so I'm going to go ahead and clear changes again you can do things such as the typography so this is instead of the hel helela new I don't even know how to pronounce it let's change it to robato see how that looks oh okay so you see it changed some of the the the fonts there it's good enough for now you can do the homepage slideshow so maybe I don't want to enable this in fact I'll only enable I'll enable one of them and I I could add an image here I don't have any images ready but it's pretty easy just click replace and it'll show up an image there and then you can link it to wherever you want it to be so maybe I'm advertising my yoga pants right on this Carousel and when people click on it it would take them to the yoga pants or whatever whatever thing that I want um you can have a couple different sliders as well here you can look at the product page let's let's see if I can get to product page here so you can enable a bunch of different things so enable image Zoom let's click enable image Zoom which I recommend I think that's a really cool feature people like that it's uh not working for me right now but usually it'll work show quantity selector show remaining quantity so these are pretty obvious I'll these different ones show compare at Price that's one I like a lot as well and then enable Shopify reviews for whatever reason right now it's not showing the compare at Price I'm not sure what's what's wrong there but that's something I can look at later anyways that's a lot of the different stuff you see you can customize the the cart page price format uh maybe that's I don't know show dollar sign show the dollar sign there oh see here's the zoom feature I'm wondering if I'd need to refresh it before it would show up possibly but anyways you see you can customize a lot of stuff here you can customize the collection Pages um all kinds of things so let's get back over here so that's the themes and then you can publish the theme obviously if you want and go to the navigation so this is the next area we'll talk about so let's go over here again and you can see that right now the way it's set up oops the way it's set up right now we have the search about us product as the footer so I just made this one up and I'll make another one to show you what I'm how I did it so search about us and then product and then up here we have home catalog blog and about us home catalog blog and about us so let's do another one let's say I wanted to say edit menu and I wanted to add a menu item that was yoga pants yoga pants and that would go to a collection I don't actually I actually don't have a collection so let's make that just go to our product page right now I can go to the high-waisted yoga pants for now now when I go back to my main area and refresh it there's yoga pants and when I click on it it takes you to the yoga pants page pretty awesome I mean this is really amazing how easy Shopify is to use you can easily also change the order around that it appears and so that's pretty that's a pretty cool thing as well I'm going to click save menu now one thing you might want to do within your navigation is create like a drop- down menu like this so let me show you right now how to do so the first thing you do is you set the link by adding the menu item so I set it to yoga close collection and homepage and when you set this it sets to where it's actually when when this link up here gets clicked where it's going to go but to actually get the drop down is another thing entirely so let me show you how to do that so go back to navigation you're going to click add menu and it needs to be named the same thing that you named the uh the title of the other thing it needs to be the same so I need to call this yoga close so yoga clo clo yoga clothes and then what we do is we add the things in here so let's call it yoga pants the the drop- down items we want so let's call this product yoga pants high-waisted yoga pants can add another menu item yoga shorts we'll call this one product select the product yoga shorts save menu let's go ahead and refresh and we'll see what it looks like perfect so when they click on yoga clothes it would take them to this General collection here that's what I had it link to yoga pants take them to the yoga pants and yoga shorts take them to the yoga shorts nice and easy the next thing is the domains and I have a video showing you how to add a custom domain um my I I just started this one the other day or today really and the SSL is still pending so we don't need to worry about that but that's a lot of stuff the on online store let's go over the apps really quick and I'm not going to go too in depth with this because it's super it could go on I could do videos after videos on the apps so one of the cool things about chop five is it integrates with so many different things so if you install this app it would integrate with MailChimp for instance or this one with QuickBooks and there's a bunch and bunch of other ones there's free ones and there's paid ones a lot of them are paid but there's a decent amount of free ones as well and you here you can see the ones you have installed I haven't installed any yet so we're not going to go there lastly we can go over the settings and here's some of the different store details um this stuff's pretty self-explanatory payments one thing I recommend early on if you go to Shopify payments edit you can actually use test mode that's how I was able to make a test purchase you can do some other things as well and making a test purchase is pretty easy to do there's a whole article just type in test purchase in Shopify some of the things we can look at here is you can customize the checkout by uploading your store logo changing the colors and fonts which I highly recommend doing because you want that process to be as seamless as possible so you can also make the so people can log in with their accounts so that it remembers them or make accounts required I recommend this one in the middle here um that way people can check out as a guess still like everyone hates when they have to create an account just to buy something from a store but at the same time it's nice if you do if you're a repeat buyer to be able to just log in and it remembers a lot of your data there's a bunch of other stuff here I'm not going to get too in depth into all this but look at some of this stuff um another thing you can look at is the refund policy the privacy policy and the terms of service those are all things you can find examples online and you can paste those in there we also have the shipping customize the shipping this could be another video on its own taxes oops taxes but notification is a big one we'll talk about in just a second so yeah the taxes you can change depends on Country we got six I don't know why we have 62 States but that's interesting so notifications this is a very important one you can change some of the emails that you send out these are the email templates so for instance I recommend changing a lot of these early on so for a new order this is what it looks like and you can say things like hello whatever the shop name is um you know yeah this is pretty complicated stuff I I could figure this out but you'd probably want to look at another tutorial maybe this could be also another video but you can customize all the different emails that you send to your clients make them a little bit more personal which I highly highly rem recommend doing you can look at the files um this is for uploading like separate files that you want people to be able to get to but this isn't really important for what we're doing right now your account sales channels so you can add selling things on pin Facebook all kinds of different things here and then we have the online store uh this is your title of your actual Store The Meta title and meta description so you want to make sure that this is yoga pants and yoga clothes by as yoga wear I don't know I'll change that to whatever but you want to make sure this is keyword Rich this is also where you add in the code for your Google analytics which is another video I can make about showing you how to install Google analytics on your Shopify and then if you want you can protect your storefront with a password which I don't recommend doing since you want people to be able to buy from you so that is most the stuff there's one other thing I didn't talk about that I want to add really quickly and that's within online store themes you can actually customize the theme so I want to customize this Supply theme oops and you can go into the theme options and click edit HTML or css and I don't recommend unless you know what you're doing a lot of this stuff but let's say you can actually change the HTML like the Deep HTML in here which it's not hard to do if you know what you're doing it is a quote unquote liquid code um but it's pretty similar to like HTML as well like if you can figure it out if you know what you're doing but this is some of the deeper things that if you want to do some customization that the shop doesn't it doesn't seem like it lets you do the theme doesn't let you do it does probably let you do it it's somewhere deep in here so that's the last part about this video um I hope you enjoyed this video and I hope you learned a few things about Shopify thanks for watching if you like this video then you're going to love my new e-commerce course the 25k e-commerce profit plan in it I teach you the strategies and techniques that I actually use to build my own successful e-commerce business we talk about how to set up a website an e-commerce site that actually makes sales then we talk about how to get traffic to that site and ultimately I give you the tips and techniques on how to make it be as profit profitable as possible we talk about things such as SEO Google analytics everything you've heard about AdWords it's all in there this is really pretty much everything I know about e-commerce I put in this one course I was tired of people asking me how do I get traffic to my website or how do I build an e-commerce site and I wanted to just bundle it all up in one course when you buy the course you'll get free lifetime access to my private Facebook group and on top of that for the first hundred people that buy the course I'll give you a free one-on-one 30-minute consultation you can go to effective ecommerce.com or click up here now to buy the course and make sure that you get one of the free 30-minute oneon-one consultation sessions",
+  "id": "PCvIPFI09No",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "People & Blogs",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=shopifytutorial\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "1714",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2016-05-11",
+      "title": {
+        "simpleText": "Shopify Tutorial For Beginners - Start An Online Store"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "Shopify Tutorial For Beginners - Start An Online Store",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.08",
+          "dur": "4.04",
+          "text": "in this video I'm going to give you a Shopify\u00a0\nwalk through and I'm going to basically explain\u00a0\u00a0"
+        },
+        {
+          "start": "4.12",
+          "dur": "5.08",
+          "text": "what's going on in Shopify in the back end from\u00a0\nthe admin point of view and show you how to best\u00a0\u00a0"
+        },
+        {
+          "start": "9.2",
+          "dur": "4.92",
+          "text": "utilize a lot of the cool features that are\u00a0\ngoing in on Shopify so I'm going to cut to a\u00a0\u00a0"
+        },
+        {
+          "start": "14.12",
+          "dur": "4.84",
+          "text": "screen recording that is basically showing step by\u00a0\nstep everything that you need to know if you have\u00a0\u00a0"
+        },
+        {
+          "start": "18.96",
+          "dur": "4.84",
+          "text": "a Shopify store and showing you how to properly\u00a0\nuse your Shopify store so let's get into it this\u00a0\u00a0"
+        },
+        {
+          "start": "23.8",
+          "dur": "5.12",
+          "text": "is the dashboard here and as you can see there's\u00a0\nsome stuff going on in the middle and you can see\u00a0\u00a0"
+        },
+        {
+          "start": "28.92",
+          "dur": "4.84",
+          "text": "different things like reward repeat customers with\u00a0\na discount Shopify webinars different things like\u00a0\u00a0"
+        },
+        {
+          "start": "33.76",
+          "dur": "6.44",
+          "text": "that that's not as important as some of the things\u00a0\ngoing on over here so we have home orders products\u00a0\u00a0"
+        },
+        {
+          "start": "40.2",
+          "dur": "5.56",
+          "text": "customers reports discounts online store app and\u00a0\nsettings we're going to go through all these one\u00a0\u00a0"
+        },
+        {
+          "start": "45.76",
+          "dur": "4.72",
+          "text": "by one and talk about what they are so the first\u00a0\nthing we'll look at is your orders because that's\u00a0\u00a0"
+        },
+        {
+          "start": "50.48",
+          "dur": "4.76",
+          "text": "one of the things we really want obviously in a\u00a0\nstore is to get the orders so I have one order\u00a0\u00a0"
+        },
+        {
+          "start": "55.24",
+          "dur": "6",
+          "text": "here so let's look at it your first order will\u00a0\nlook something like this and you see it's this\u00a0\u00a0"
+        },
+        {
+          "start": "61.24",
+          "dur": "5.6",
+          "text": "has just been a test I even put the name is test\u00a0\ncustomer and it'll show me what actually was in\u00a0\u00a0"
+        },
+        {
+          "start": "66.84",
+          "dur": "4.4",
+          "text": "the order so they bought one high-waisted yoga\u00a0\npants I guess I should probably change that to\u00a0\u00a0"
+        },
+        {
+          "start": "71.24",
+          "dur": "6.48",
+          "text": "yoga pant um that's so then from there we can\u00a0\nlook at if you want to fulfill the item click\u00a0\u00a0"
+        },
+        {
+          "start": "77.72",
+          "dur": "3.44",
+          "text": "fulfill and that's a that's something for a\u00a0\ndifferent video we could talk about the steps\u00a0\u00a0"
+        },
+        {
+          "start": "81.16",
+          "dur": "7.4",
+          "text": "to actually fulfill the items you get some more\u00a0\ninformation here as well the other interesting\u00a0\u00a0"
+        },
+        {
+          "start": "88.56",
+          "dur": "6.32",
+          "text": "thing about the orders is you can do if you go\u00a0\nto abandoned checkout you can see people that\u00a0\u00a0"
+        },
+        {
+          "start": "94.88",
+          "dur": "4.8",
+          "text": "tried to place an order or got a further along in\u00a0\nthe process but didn't actually finish the order\u00a0\u00a0"
+        },
+        {
+          "start": "99.68",
+          "dur": "5.96",
+          "text": "so this one right here this was a test order I\u00a0\nplaced at around noon so if I click on it one\u00a0\u00a0"
+        },
+        {
+          "start": "105.64",
+          "dur": "5.2",
+          "text": "of the things I can do is send a cart recovery\u00a0\nemail and this B basically and you can customize\u00a0\u00a0"
+        },
+        {
+          "start": "110.84",
+          "dur": "4.32",
+          "text": "these recovery emails and I'll show you later in\u00a0\nthis video how to customize those emails but you\u00a0\u00a0"
+        },
+        {
+          "start": "115.16",
+          "dur": "4.12",
+          "text": "can send an email to the person saying hey I saw\u00a0\nthat you tried to check out but you weren't able\u00a0\u00a0"
+        },
+        {
+          "start": "119.28",
+          "dur": "5.92",
+          "text": "to fully check out you know here's a coupon code\u00a0\nor something like that um if you upgrade your plan\u00a0\u00a0"
+        },
+        {
+          "start": "125.2",
+          "dur": "8.24",
+          "text": "as well you can send automatic uh abandoned cart\u00a0\ncheckout things so we'll go back to orders here\u00a0\u00a0"
+        },
+        {
+          "start": "133.44",
+          "dur": "4.72",
+          "text": "if someone calls in to place an order or maybe\u00a0\na friend of yours wants to buy something what\u00a0\u00a0"
+        },
+        {
+          "start": "138.16",
+          "dur": "7.32",
+          "text": "you would do is you'd go click create order and\u00a0\nthis allows you to manually create an order so\u00a0\u00a0"
+        },
+        {
+          "start": "145.48",
+          "dur": "5.64",
+          "text": "the first thing we'd pick the product let's say\u00a0\nlarge red yoga shorts we'd go through and this\u00a0\u00a0"
+        },
+        {
+          "start": "151.12",
+          "dur": "5.2",
+          "text": "is pretty self-explanatory as we go through but\u00a0\nyou're this allows you to create a custom order\u00a0\u00a0"
+        },
+        {
+          "start": "156.32",
+          "dur": "5.84",
+          "text": "even if someone doesn't use the site to place it\u00a0\nso that is the orders there next let's talk about\u00a0\u00a0"
+        },
+        {
+          "start": "162.16",
+          "dur": "4.64",
+          "text": "products and this is where go and leave the\u00a0\npage this is where you're going to spend most\u00a0\u00a0"
+        },
+        {
+          "start": "166.8",
+          "dur": "5.68",
+          "text": "your time because a big part of it is big part\u00a0\nof having an online store is creating products\u00a0\u00a0"
+        },
+        {
+          "start": "172.48",
+          "dur": "4.52",
+          "text": "so what I'm going to do and I have other videoos\u00a0\nshowing you how to do SEO properly with these and\u00a0\u00a0"
+        },
+        {
+          "start": "177",
+          "dur": "4.92",
+          "text": "different things like that but I'm going to show\u00a0\nyou how to add a product from scratch so let's say\u00a0\u00a0"
+        },
+        {
+          "start": "181.92",
+          "dur": "8.04",
+          "text": "I wanted to add a product and I'm going to call\u00a0\nit yoga shorts and in here I'll put a I'll type\u00a0\u00a0"
+        },
+        {
+          "start": "189.96",
+          "dur": "6.16",
+          "text": "a description these are amazing yoga shorts and\u00a0\nthat's one little SEO trick is you want to make\u00a0\u00a0"
+        },
+        {
+          "start": "196.12",
+          "dur": "5.6",
+          "text": "sure you have the keyword that you're trying to\u00a0\nrank for in here obviously a much longer in a\u00a0\u00a0"
+        },
+        {
+          "start": "201.72",
+          "dur": "3.96",
+          "text": "better wellth thought out description will\u00a0\nbe beneficial so we'll go ahead and upload\u00a0\u00a0"
+        },
+        {
+          "start": "205.68",
+          "dur": "9.08",
+          "text": "item I have a picture here yoga shorts. jpeg at\u00a0\nwhich point you want to at least put some kind of\u00a0\u00a0"
+        },
+        {
+          "start": "214.76",
+          "dur": "13.08",
+          "text": "alt text yoga shorts pricing let's say these\u00a0\nare $29 just for $29.99 compare at let's say"
+        },
+        {
+          "start": "227.84",
+          "dur": "5.24",
+          "text": "45"
+        },
+        {
+          "start": "233.08",
+          "dur": "7.72",
+          "text": "45 you can put in custom SKS if you want I'm not\u00a0\nnot going to deal with any of this there's a lot\u00a0\u00a0"
+        },
+        {
+          "start": "240.8",
+          "dur": "4.44",
+          "text": "of stuff you can do here you can also edit the\u00a0\nwebsite SEO and once again I show in a different\u00a0\u00a0"
+        },
+        {
+          "start": "245.24",
+          "dur": "4.56",
+          "text": "video how to do this but basically click here\u00a0\nand you could change this instead of yoga shorts\u00a0\u00a0"
+        },
+        {
+          "start": "249.8",
+          "dur": "7.8",
+          "text": "you could say yoga shorts maybe in 55 colors and\u00a0\nthat looks a little bit better for SEO purposes\u00a0\u00a0"
+        },
+        {
+          "start": "257.6",
+          "dur": "3.96",
+          "text": "and maybe you want to enter some more keywords in\u00a0\nthere we can go into a lot more detail here also\u00a0\u00a0"
+        },
+        {
+          "start": "261.56",
+          "dur": "4.8",
+          "text": "you can see you can do a custom URL but for the\u00a0\nmost part that's all you need to do if you wanted\u00a0\u00a0"
+        },
+        {
+          "start": "266.36",
+          "dur": "7.12",
+          "text": "to add variants you can also do that so maybe I'd\u00a0\nlike add a different size uh so separate with uh\u00a0\u00a0"
+        },
+        {
+          "start": "273.48",
+          "dur": "11.88",
+          "text": "with comma so let's say small medium large oops\u00a0\nsmall comma medium comma large and we'll just\u00a0\u00a0"
+        },
+        {
+          "start": "285.36",
+          "dur": "2.96",
+          "text": "keep them all at the same price now so let's go\u00a0\nahead and save that and let's see what this looks"
+        },
+        {
+          "start": "288.32",
+          "dur": "10.16",
+          "text": "like so we're going to view it here so there we\u00a0\ngo it even has a little sales sticker there and\u00a0\u00a0"
+        },
+        {
+          "start": "298.48",
+          "dur": "5.68",
+          "text": "it says you know used to be $45 now it's only\u00a0\n$29.99 you can pick the different sizes and if\u00a0\u00a0"
+        },
+        {
+          "start": "304.16",
+          "dur": "5.64",
+          "text": "you wanted to add that to your cart you could so\u00a0\nlet's get back into the the back end here so let's\u00a0\u00a0"
+        },
+        {
+          "start": "309.8",
+          "dur": "8.92",
+          "text": "go back into products Shopify also has some pretty\u00a0\nAdvanced features with inventory you're able to\u00a0\u00a0"
+        },
+        {
+          "start": "318.72",
+          "dur": "4.64",
+          "text": "manage some of your incoming inventory uh I don't\u00a0\nhave any inventory right now so I'm not going to\u00a0\u00a0"
+        },
+        {
+          "start": "323.36",
+          "dur": "5.56",
+          "text": "worry about that but another interesting thing\u00a0\nyou can do is create collections now there's a\u00a0\u00a0"
+        },
+        {
+          "start": "328.92",
+          "dur": "5.2",
+          "text": "couple different collection C let me show you\u00a0\nan example the homepage collection you can see\u00a0\u00a0"
+        },
+        {
+          "start": "334.12",
+          "dur": "9.32",
+          "text": "if you go to my homepage click here this\u00a0\nshows up on my homepage so let's click on"
+        },
+        {
+          "start": "343.44",
+          "dur": "6.52",
+          "text": "that I could add I could add another\u00a0\nproduct to it so let's put yoga"
+        },
+        {
+          "start": "349.96",
+          "dur": "15.28",
+          "text": "shorts saves automatically go back here and think\u00a0\nof these like categories so look at there now\u00a0\u00a0"
+        },
+        {
+          "start": "365.24",
+          "dur": "4.12",
+          "text": "they're both show they both showed up there so\u00a0\nyou could create another collection that might\u00a0\u00a0"
+        },
+        {
+          "start": "369.36",
+          "dur": "4.96",
+          "text": "be maybe I have five different kind kinds of yoga\u00a0\npants I have high-waisted and a few other ones I\u00a0\u00a0"
+        },
+        {
+          "start": "374.32",
+          "dur": "5",
+          "text": "could create a collection of yoga pants and then\u00a0\nmaybe I'd put a link over here and we'll we'll\u00a0\u00a0"
+        },
+        {
+          "start": "379.32",
+          "dur": "3.8",
+          "text": "talk about later in this video how to do that\u00a0\nput a link over here like yoga pants where you\u00a0\u00a0"
+        },
+        {
+          "start": "383.12",
+          "dur": "4.68",
+          "text": "could go to all the yoga pants and it would be\u00a0\nlike 1 2 3 four five and it would show all of\u00a0\u00a0"
+        },
+        {
+          "start": "387.8",
+          "dur": "5.84",
+          "text": "them so that's what collections are gift cards\u00a0\nare pretty self-explanatory um that's probably\u00a0\u00a0"
+        },
+        {
+          "start": "393.64",
+          "dur": "5.04",
+          "text": "looks like I my plan doesn't even support gift\u00a0\ncards right now so we won't deal with that the\u00a0\u00a0"
+        },
+        {
+          "start": "398.68",
+          "dur": "5.6",
+          "text": "next thing we'll do is we'll look at customers\u00a0\nso you see I have two customers right now and\u00a0\u00a0"
+        },
+        {
+          "start": "404.28",
+          "dur": "4.4",
+          "text": "something to note the test customer is the one\u00a0\nthat actually purchased the other one that's me\u00a0\u00a0"
+        },
+        {
+          "start": "408.68",
+          "dur": "7.08",
+          "text": "Travis Mar marzani that's that person me never\u00a0\nactually even purchased so what we can do is we\u00a0\u00a0"
+        },
+        {
+          "start": "415.76",
+          "dur": "6.04",
+          "text": "can look at all right well that was the email for\u00a0\nthe person and some other stuff let's look at the\u00a0\u00a0"
+        },
+        {
+          "start": "421.8",
+          "dur": "7.8",
+          "text": "other customer the one that actually purchased\u00a0\nwhen we click on them we can see oh they they\u00a0\u00a0"
+        },
+        {
+          "start": "429.6",
+          "dur": "6.56",
+          "text": "purchased this item and we can see other items\u00a0\nif they were to have made more uh more purchases\u00a0\u00a0"
+        },
+        {
+          "start": "436.16",
+          "dur": "4.32",
+          "text": "we could see even more one thing we could do is\u00a0\nwe could tag this person as a VIP which would\u00a0\u00a0"
+        },
+        {
+          "start": "440.48",
+          "dur": "6.32",
+          "text": "be nice as well these other tags they'll show\u00a0\nthings like repeat customers I don't have any\u00a0\u00a0"
+        },
+        {
+          "start": "446.8",
+          "dur": "5.12",
+          "text": "repeat customers right now number of orders is\u00a0\ngreater than than one so I could select a filter\u00a0\u00a0"
+        },
+        {
+          "start": "451.92",
+          "dur": "7.36",
+          "text": "and say number of orders is greater than you know\u00a0\nfive or number of orders greater than five anyone\u00a0\u00a0"
+        },
+        {
+          "start": "459.28",
+          "dur": "4.04",
+          "text": "that's had more than five orders would show\u00a0\nup here and I know that that's someone that's\u00a0\u00a0"
+        },
+        {
+          "start": "463.32",
+          "dur": "5.2",
+          "text": "pretty important that's someone that we should\u00a0\nprobably do a lot more repeat business with so\u00a0\u00a0"
+        },
+        {
+          "start": "468.52",
+          "dur": "9.2",
+          "text": "the next thing we'll look at is reports and there\u00a0\nis a lot of information here in the reports uh but\u00a0\u00a0"
+        },
+        {
+          "start": "477.72",
+          "dur": "5.36",
+          "text": "right now there's not a ton for me the way that\u00a0\nreports work is you can actually download them\u00a0\u00a0"
+        },
+        {
+          "start": "483.08",
+          "dur": "5.16",
+          "text": "and see more information about your store now\u00a0\nwhat we're talking about this there's something\u00a0\u00a0"
+        },
+        {
+          "start": "488.24",
+          "dur": "5.64",
+          "text": "I want to note about products let's go back\u00a0\nto products there you'll see this Import and\u00a0\u00a0"
+        },
+        {
+          "start": "493.88",
+          "dur": "6.08",
+          "text": "Export feature and that's if you want to export\u00a0\nit you can export all your products as a CSV so\u00a0\u00a0"
+        },
+        {
+          "start": "499.96",
+          "dur": "4.48",
+          "text": "let me show you what that looks like right\u00a0\nnow so we'll go current page or let's go all"
+        },
+        {
+          "start": "504.44",
+          "dur": "9.16",
+          "text": "products so when you export that file they send\u00a0\nyou an email with a a link to your CSV and a CSV\u00a0\u00a0"
+        },
+        {
+          "start": "513.6",
+          "dur": "5.16",
+          "text": "is basically similar to a Excel file it's stands\u00a0\nfor comma separated file but you don't need to\u00a0\u00a0"
+        },
+        {
+          "start": "518.76",
+          "dur": "4.72",
+          "text": "know that um this would be an example of what your\u00a0\nproducts would look like so the ti it would have\u00a0\u00a0"
+        },
+        {
+          "start": "523.48",
+          "dur": "4.96",
+          "text": "the title it would have different all kinds of\u00a0\ndifferent data here and this might come in handy\u00a0\u00a0"
+        },
+        {
+          "start": "528.44",
+          "dur": "4.44",
+          "text": "if you want to change a lot of different things\u00a0\non a lot of different products if you have 50\u00a0\u00a0"
+        },
+        {
+          "start": "532.88",
+          "dur": "6.68",
+          "text": "products maybe and you want to change everything\u00a0\nto say a certain thing or anything you want to\u00a0\u00a0"
+        },
+        {
+          "start": "539.56",
+          "dur": "5.16",
+          "text": "change in bulk maybe you you were had you before\u00a0\nyou had sizes that were small medium and large\u00a0\u00a0"
+        },
+        {
+          "start": "544.72",
+          "dur": "4.48",
+          "text": "now you want to change it to adult small adult\u00a0\nmedium and adult large you can do that nice and\u00a0\u00a0"
+        },
+        {
+          "start": "549.2",
+          "dur": "5.96",
+          "text": "easily and if you're an Excel wizard this comes\u00a0\nin really handy you can also do the same thing\u00a0\u00a0"
+        },
+        {
+          "start": "555.16",
+          "dur": "7.12",
+          "text": "I'm me go ahead and say don't save with customers\u00a0\nso with your customer data you can export all your\u00a0\u00a0"
+        },
+        {
+          "start": "562.28",
+          "dur": "5.08",
+          "text": "customer data and maybe you need to do something\u00a0\nlike import them into a new mail client like\u00a0\u00a0"
+        },
+        {
+          "start": "567.36",
+          "dur": "4.72",
+          "text": "MailChimp or something like that or you want to\u00a0\nexport it for any number of reasons this comes in\u00a0\u00a0"
+        },
+        {
+          "start": "572.08",
+          "dur": "6.64",
+          "text": "handy very very often so I remember I I recommend\u00a0\nknowing a little bit about that feature so we\u00a0\u00a0"
+        },
+        {
+          "start": "578.72",
+          "dur": "4.44",
+          "text": "talked about the another thing is discounts and\u00a0\nI'll if you want to create a discount code you can\u00a0\u00a0"
+        },
+        {
+          "start": "583.16",
+          "dur": "7.76",
+          "text": "click on add discount code and let's say we'll use\u00a0\ntheir example spring sale Spring sale so they're\u00a0\u00a0"
+        },
+        {
+          "start": "590.92",
+          "dur": "8.4",
+          "text": "going to enter this coupon code at uh checkout USD\u00a0\ntake $5 off all orders or you could do something"
+        },
+        {
+          "start": "599.32",
+          "dur": "8.48",
+          "text": "like different things like that so let's say\u00a0\n$5 off all orders total quantity available\u00a0\u00a0"
+        },
+        {
+          "start": "607.8",
+          "dur": "4.32",
+          "text": "unlimited you know if you want you can make it\u00a0\nlimit one per customer all that kind of stuff\u00a0\u00a0"
+        },
+        {
+          "start": "612.12",
+          "dur": "5.44",
+          "text": "I'm not going to save it you can also make an\u00a0\nEnd date if you want to say ends April 30th or\u00a0\u00a0"
+        },
+        {
+          "start": "617.56",
+          "dur": "4.68",
+          "text": "whatever you want to do there so next thing\u00a0\nwe'll talk about is the actual online store\u00a0\u00a0"
+        },
+        {
+          "start": "622.24",
+          "dur": "4.76",
+          "text": "and there's a couple different tabs here the\u00a0\noverview blog post Pages themes navigation\u00a0\u00a0"
+        },
+        {
+          "start": "627",
+          "dur": "5.76",
+          "text": "and domains so let's start with the overview so\u00a0\nthis overview gives you some of the statistics\u00a0\u00a0"
+        },
+        {
+          "start": "632.76",
+          "dur": "5.96",
+          "text": "about your site and no one has been to my site\u00a0\nrecently but if I look at I can change the the\u00a0\u00a0"
+        },
+        {
+          "start": "638.72",
+          "dur": "5.48",
+          "text": "time frame if I change it to today you'll see\u00a0\nwow I've gotten five visitors with a 60% ad to\u00a0\u00a0"
+        },
+        {
+          "start": "644.2",
+          "dur": "6.8",
+          "text": "cart and 60% reach checkout it says 0% purchase\u00a0\nthough so that's no good uh and these were all\u00a0\u00a0"
+        },
+        {
+          "start": "651",
+          "dur": "5.28",
+          "text": "fake but you can get some different insights I\u00a0\nstill highly highly recommend setting up Google\u00a0\u00a0"
+        },
+        {
+          "start": "656.28",
+          "dur": "4.56",
+          "text": "analytics with your Shopify store because\u00a0\nyou'll just get so much more data if you\u00a0\u00a0"
+        },
+        {
+          "start": "660.84",
+          "dur": "6.96",
+          "text": "do it next is blog post so click on blog post\u00a0\nand what you can do is actually create blog\u00a0\u00a0"
+        },
+        {
+          "start": "667.8",
+          "dur": "5.68",
+          "text": "posts from here so let's start with looking\u00a0\nat the example the sample that they give you\u00a0\u00a0"
+        },
+        {
+          "start": "673.48",
+          "dur": "6.64",
+          "text": "so I'm going to click on that so it's first\u00a0\npost so let's look at it so we can get some"
+        },
+        {
+          "start": "680.12",
+          "dur": "9.52",
+          "text": "context so this shows the first post and that's\u00a0\nthe title and some different things here the\u00a0\u00a0"
+        },
+        {
+          "start": "689.64",
+          "dur": "5.04",
+          "text": "actual stuff there and this is my site I don't\u00a0\nknow I think I've shown it once I don't love it\u00a0\u00a0"
+        },
+        {
+          "start": "694.68",
+          "dur": "3.76",
+          "text": "there's a lot of things we can change and I'll\u00a0\nshow you how to change the theme later in this\u00a0\u00a0"
+        },
+        {
+          "start": "698.44",
+          "dur": "6.16",
+          "text": "video but so anyways this is the blog post\u00a0\nhere let's say I wanted to change this just\u00a0\u00a0"
+        },
+        {
+          "start": "704.6",
+          "dur": "9",
+          "text": "to say test test test test I could and first\u00a0\npost test I can add a featured image as well\u00a0\u00a0"
+        },
+        {
+          "start": "713.6",
+          "dur": "3.76",
+          "text": "change the author change which blog it is so\u00a0\nlet's create a new one I'm going to create\u00a0\u00a0"
+        },
+        {
+          "start": "717.36",
+          "dur": "8.44",
+          "text": "a new blog that's called called yoga advice\u00a0\nand you see down here it changes the URL as\u00a0\u00a0"
+        },
+        {
+          "start": "725.8",
+          "dur": "7.72",
+          "text": "well which is very interesting and I can add tags\u00a0\nsuch as yoga advice and the tags the way it works\u00a0\u00a0"
+        },
+        {
+          "start": "733.52",
+          "dur": "3.88",
+          "text": "is if I have multiple different things that are\u00a0\nunder yoga advice people would be able to click\u00a0\u00a0"
+        },
+        {
+          "start": "737.4",
+          "dur": "5.04",
+          "text": "on them and they could get all the different\u00a0\nposts on yoga advice so let's go ahead and save\u00a0\u00a0"
+        },
+        {
+          "start": "742.44",
+          "dur": "5.76",
+          "text": "that and let's view it again it'll come up here\u00a0\nin just a second so you can see first post test\u00a0\u00a0"
+        },
+        {
+          "start": "748.2",
+          "dur": "8.2",
+          "text": "test test test in yoga advice so if I wanted to I\u00a0\ncould click on this yoga advice and it'll take me\u00a0\u00a0"
+        },
+        {
+          "start": "756.4",
+          "dur": "6.52",
+          "text": "here and it'll show if I had multiple posts it\u00a0\nwould show all the posts here so that's how you\u00a0\u00a0"
+        },
+        {
+          "start": "762.92",
+          "dur": "7",
+          "text": "do the blog posts once again you can edit the SEO\u00a0\num if you want you can if there's comments right\u00a0\u00a0"
+        },
+        {
+          "start": "769.92",
+          "dur": "4.04",
+          "text": "now the comments for this blog are disabled\u00a0\nbut if I wanted to have comments I could deal\u00a0\u00a0"
+        },
+        {
+          "start": "773.96",
+          "dur": "4.88",
+          "text": "with the comments down here and ultimately I can\u00a0\ndelete it or save it go ahead and save it again\u00a0\u00a0"
+        },
+        {
+          "start": "780.76",
+          "dur": "6.04",
+          "text": "now pages is another important thing and there's\u00a0\na few difference between blog post and Pages the\u00a0\u00a0"
+        },
+        {
+          "start": "786.8",
+          "dur": "6.04",
+          "text": "biggest one think of pages as like static things\u00a0\non your website such as the about us page the\u00a0\u00a0"
+        },
+        {
+          "start": "792.84",
+          "dur": "4.76",
+          "text": "homepage those things aren't going to change maybe\u00a0\nlike the contact us page so let's click on one of"
+        },
+        {
+          "start": "797.6",
+          "dur": "11.16",
+          "text": "these so here's my about us page a\u00a0\ngreat and I'd say I'm Travis and I"
+        },
+        {
+          "start": "811.2",
+          "dur": "4.88",
+          "text": "let's say I'm Travis we'll just put\u00a0\nit that about us maybe I want to say\u00a0\u00a0"
+        },
+        {
+          "start": "816.08",
+          "dur": "7.96",
+          "text": "about instead of about us I might\u00a0\nsay about as yoga pants just for"
+        },
+        {
+          "start": "824.04",
+          "dur": "5.76",
+          "text": "fun go ahead and save it and\u00a0\nwe'll see what it looks like"
+        },
+        {
+          "start": "829.8",
+          "dur": "12.4",
+          "text": "here so now people can come to this\u00a0\npage if they click the about us"
+        },
+        {
+          "start": "842.2",
+          "dur": "8.12",
+          "text": "page they come here you can see it's also\u00a0\nin the footer as well which I don't love\u00a0\u00a0"
+        },
+        {
+          "start": "850.32",
+          "dur": "4.64",
+          "text": "but that's something for later in this video we\u00a0\ncan talk about how to get rid of that U the other\u00a0\u00a0"
+        },
+        {
+          "start": "854.96",
+          "dur": "5.92",
+          "text": "page that you can edit is the homepage and let's\u00a0\nlet's take a look at that page as well so let's go"
+        },
+        {
+          "start": "860.88",
+          "dur": "7.8",
+          "text": "back click on homepage"
+        },
+        {
+          "start": "874.72",
+          "dur": "8.56",
+          "text": "and we might do something like\u00a0\nthis the test homepage go and click"
+        },
+        {
+          "start": "883.28",
+          "dur": "3.84",
+          "text": "save I can view"
+        },
+        {
+          "start": "887.12",
+          "dur": "7.96",
+          "text": "it so there you go there's a nice little homepage"
+        },
+        {
+          "start": "895.08",
+          "dur": "7.8",
+          "text": "there so so let's look at the themes and this\u00a0\nis one of the things that separates Shopify\u00a0\u00a0"
+        },
+        {
+          "start": "902.88",
+          "dur": "5.44",
+          "text": "from a lot of other stores they have a lot of\u00a0\nthemes and a lot of really good themes so first\u00a0\u00a0"
+        },
+        {
+          "start": "908.32",
+          "dur": "5.36",
+          "text": "thing we can look at is actually visit the theme\u00a0\nstore because maybe I don't like my theme let's\u00a0\u00a0"
+        },
+        {
+          "start": "913.68",
+          "dur": "4.2",
+          "text": "get a new theme for this I don't I actually\u00a0\ndon't love the theme the stock theme that it\u00a0\u00a0"
+        },
+        {
+          "start": "917.88",
+          "dur": "4.96",
+          "text": "comes with and you probably should change\u00a0\nit so you can do free or premium and a lot\u00a0\u00a0"
+        },
+        {
+          "start": "922.84",
+          "dur": "7.48",
+          "text": "of the premium ones hover right around $100 but\u00a0\nthese are a little bit more expensive 160 180 you\u00a0\u00a0"
+        },
+        {
+          "start": "930.32",
+          "dur": "3.52",
+          "text": "know um you can look at some different things\u00a0\nwell let's just look at some free themes for"
+        },
+        {
+          "start": "933.84",
+          "dur": "12.92",
+          "text": "now so here's a couple different ones I might\u00a0\ngo with I'll just go with this one for now I\u00a0\u00a0"
+        },
+        {
+          "start": "946.76",
+          "dur": "3.76",
+          "text": "don't love it but it's a it's a start so\u00a0\nI'm going to go ahead and click install"
+        },
+        {
+          "start": "950.52",
+          "dur": "8.08",
+          "text": "theme"
+        },
+        {
+          "start": "962.24",
+          "dur": "4.68",
+          "text": "I'm going to publish as my theme when\u00a0\nthat's done go ahead and go to your theme"
+        },
+        {
+          "start": "966.92",
+          "dur": "15.92",
+          "text": "manager and then you can go click customize your\u00a0\ntheme so this is where it starts to get fun so\u00a0\u00a0"
+        },
+        {
+          "start": "982.84",
+          "dur": "3.68",
+          "text": "there's a ton of different things here you can\u00a0\ndo to customize it so let's wait for this to show\u00a0\u00a0"
+        },
+        {
+          "start": "986.52",
+          "dur": "5.8",
+          "text": "up so it's got a Carousel image here which you\u00a0\ncan put custom images through and these are the\u00a0\u00a0"
+        },
+        {
+          "start": "992.32",
+          "dur": "6.28",
+          "text": "things you see you can see in the um you see in\u00a0\nshops all the time you know it's just a bunch of\u00a0\u00a0"
+        },
+        {
+          "start": "998.6",
+          "dur": "4.04",
+          "text": "different images I actually recommend not having\u00a0\na carousel just having a static one some other\u00a0\u00a0"
+        },
+        {
+          "start": "1002.64",
+          "dur": "5.76",
+          "text": "cool things you can see what it looks like in a\u00a0\ntablet you can see what it looks like in Mobile\u00a0\u00a0"
+        },
+        {
+          "start": "1008.4",
+          "dur": "5.72",
+          "text": "it's not bad for a free theme this isn't bad so\u00a0\nlet's look at so there's some of the presets so\u00a0\u00a0"
+        },
+        {
+          "start": "1014.12",
+          "dur": "5.92",
+          "text": "that's soft green I could change it to Blue if\u00a0\nI wanted to I got to give it a a second to load\u00a0\u00a0"
+        },
+        {
+          "start": "1020.04",
+          "dur": "4.08",
+          "text": "so that's what it looks like in blue I I like\u00a0\nthe green better so let's let's stick with soft"
+        },
+        {
+          "start": "1024.12",
+          "dur": "4.6",
+          "text": "green at which point if\u00a0\nyou want you can just clear"
+        },
+        {
+          "start": "1028.72",
+          "dur": "9.8",
+          "text": "changes all right so we're going to go here let's\u00a0\nlook at the colors so here's the primary color\u00a0\u00a0"
+        },
+        {
+          "start": "1038.52",
+          "dur": "6.6",
+          "text": "you know I don't like that shade I'd rather\u00a0\nit be here what would that look like or maybe\u00a0\u00a0"
+        },
+        {
+          "start": "1045.12",
+          "dur": "6.88",
+          "text": "the main menu background maybe I'd rather it\u00a0\nbe here ooh no that's too dark actually but\u00a0\u00a0"
+        },
+        {
+          "start": "1052",
+          "dur": "4.4",
+          "text": "you can see you can change it to whatever you\u00a0\nwant so I'm going to go ahead and clear changes"
+        },
+        {
+          "start": "1056.4",
+          "dur": "14.08",
+          "text": "again you can do things such as the typography\u00a0\nso this is instead of the hel helela new I\u00a0\u00a0"
+        },
+        {
+          "start": "1070.48",
+          "dur": "6.48",
+          "text": "don't even know how to pronounce it let's\u00a0\nchange it to robato see how that looks oh\u00a0\u00a0"
+        },
+        {
+          "start": "1076.96",
+          "dur": "5.2",
+          "text": "okay so you see it changed some of the\u00a0\nthe the fonts there it's good enough for\u00a0\u00a0"
+        },
+        {
+          "start": "1082.16",
+          "dur": "5.36",
+          "text": "now you can do the homepage slideshow so\u00a0\nmaybe I don't want to enable this in fact\u00a0\u00a0"
+        },
+        {
+          "start": "1087.52",
+          "dur": "5.92",
+          "text": "I'll only enable I'll enable one of them and\u00a0\nI I could add an image here I don't have any\u00a0\u00a0"
+        },
+        {
+          "start": "1093.44",
+          "dur": "4.76",
+          "text": "images ready but it's pretty easy just click\u00a0\nreplace and it'll show up an image there and\u00a0\u00a0"
+        },
+        {
+          "start": "1098.2",
+          "dur": "3.2",
+          "text": "then you can link it to wherever you want it\u00a0\nto be so maybe I'm advertising my yoga pants\u00a0\u00a0"
+        },
+        {
+          "start": "1101.4",
+          "dur": "3.36",
+          "text": "right on this Carousel and when people click\u00a0\non it it would take them to the yoga pants or\u00a0\u00a0"
+        },
+        {
+          "start": "1104.76",
+          "dur": "3.56",
+          "text": "whatever whatever thing that I want um you can\u00a0\nhave a couple different sliders as well here"
+        },
+        {
+          "start": "1110.64",
+          "dur": "7.4",
+          "text": "you can look at the product page let's let's\u00a0\nsee if I can get to product page here so you\u00a0\u00a0"
+        },
+        {
+          "start": "1118.04",
+          "dur": "6.92",
+          "text": "can enable a bunch of different things so enable\u00a0\nimage Zoom let's click enable image Zoom which I\u00a0\u00a0"
+        },
+        {
+          "start": "1124.96",
+          "dur": "6.64",
+          "text": "recommend I think that's a really cool feature\u00a0\npeople like that it's uh not working for me\u00a0\u00a0"
+        },
+        {
+          "start": "1131.6",
+          "dur": "6.12",
+          "text": "right now but usually it'll work show quantity\u00a0\nselector show remaining quantity so these are\u00a0\u00a0"
+        },
+        {
+          "start": "1137.72",
+          "dur": "5.24",
+          "text": "pretty obvious I'll these different ones show\u00a0\ncompare at Price that's one I like a lot as"
+        },
+        {
+          "start": "1142.96",
+          "dur": "10.56",
+          "text": "well and then enable Shopify reviews for\u00a0\nwhatever reason right now it's not showing\u00a0\u00a0"
+        },
+        {
+          "start": "1153.52",
+          "dur": "4.64",
+          "text": "the compare at Price I'm not sure what's what's\u00a0\nwrong there but that's something I can look at"
+        },
+        {
+          "start": "1158.16",
+          "dur": "5.88",
+          "text": "later anyways that's a lot of the\u00a0\ndifferent stuff you see you can\u00a0\u00a0"
+        },
+        {
+          "start": "1164.04",
+          "dur": "4.96",
+          "text": "customize the the cart page price format\u00a0\nuh maybe that's I don't know show dollar"
+        },
+        {
+          "start": "1169",
+          "dur": "8.64",
+          "text": "sign show the dollar sign there oh see\u00a0\nhere's the zoom feature I'm wondering\u00a0\u00a0"
+        },
+        {
+          "start": "1177.64",
+          "dur": "5.72",
+          "text": "if I'd need to refresh it before it would\u00a0\nshow up possibly but anyways you see you\u00a0\u00a0"
+        },
+        {
+          "start": "1183.36",
+          "dur": "5.84",
+          "text": "can customize a lot of stuff here you can\u00a0\ncustomize the collection Pages um all kinds\u00a0\u00a0"
+        },
+        {
+          "start": "1189.2",
+          "dur": "4.04",
+          "text": "of things so let's get back over here so\u00a0\nthat's the themes and then you can publish\u00a0\u00a0"
+        },
+        {
+          "start": "1193.24",
+          "dur": "6.64",
+          "text": "the theme obviously if you want and go to the\u00a0\nnavigation so this is the next area we'll talk\u00a0\u00a0"
+        },
+        {
+          "start": "1199.88",
+          "dur": "8.24",
+          "text": "about so let's go over here again and you\u00a0\ncan see that right now the way it's set up"
+        },
+        {
+          "start": "1208.12",
+          "dur": "9.04",
+          "text": "oops the way it's set up right now we have\u00a0\nthe search about us product as the footer\u00a0\u00a0"
+        },
+        {
+          "start": "1217.16",
+          "dur": "3.52",
+          "text": "so I just made this one up and I'll make\u00a0\nanother one to show you what I'm how I did\u00a0\u00a0"
+        },
+        {
+          "start": "1220.68",
+          "dur": "4.68",
+          "text": "it so search about us and then product and\u00a0\nthen up here we have home catalog blog and\u00a0\u00a0"
+        },
+        {
+          "start": "1225.36",
+          "dur": "5.04",
+          "text": "about us home catalog blog and about us so\u00a0\nlet's do another one let's say I wanted to\u00a0\u00a0"
+        },
+        {
+          "start": "1230.4",
+          "dur": "8.84",
+          "text": "say edit menu and I wanted to add a menu\u00a0\nitem that was yoga pants yoga pants and\u00a0\u00a0"
+        },
+        {
+          "start": "1239.24",
+          "dur": "5.96",
+          "text": "that would go to a collection I don't actually\u00a0\nI actually don't have a collection so let's make\u00a0\u00a0"
+        },
+        {
+          "start": "1245.2",
+          "dur": "3.72",
+          "text": "that just go to our product page right now\u00a0\nI can go to the high-waisted yoga pants for"
+        },
+        {
+          "start": "1248.92",
+          "dur": "11.12",
+          "text": "now now when I go back to my main area and\u00a0\nrefresh it there's yoga pants and when I\u00a0\u00a0"
+        },
+        {
+          "start": "1260.04",
+          "dur": "4.8",
+          "text": "click on it it takes you to the yoga pants\u00a0\npage pretty awesome I mean this is really\u00a0\u00a0"
+        },
+        {
+          "start": "1264.84",
+          "dur": "5.92",
+          "text": "amazing how easy Shopify is to use you can\u00a0\neasily also change the order around that it\u00a0\u00a0"
+        },
+        {
+          "start": "1270.76",
+          "dur": "5.88",
+          "text": "appears and so that's pretty that's a pretty\u00a0\ncool thing as well I'm going to click save"
+        },
+        {
+          "start": "1276.64",
+          "dur": "6.68",
+          "text": "menu now one thing you might want to do\u00a0\nwithin your navigation is create like a\u00a0\u00a0"
+        },
+        {
+          "start": "1283.32",
+          "dur": "4.96",
+          "text": "drop- down menu like this so let me show you\u00a0\nright now how to do so the first thing you do\u00a0\u00a0"
+        },
+        {
+          "start": "1288.28",
+          "dur": "5.24",
+          "text": "is you set the link by adding the menu item so\u00a0\nI set it to yoga close collection and homepage\u00a0\u00a0"
+        },
+        {
+          "start": "1293.52",
+          "dur": "4.6",
+          "text": "and when you set this it sets to where it's\u00a0\nactually when when this link up here gets\u00a0\u00a0"
+        },
+        {
+          "start": "1298.12",
+          "dur": "4.8",
+          "text": "clicked where it's going to go but to actually\u00a0\nget the drop down is another thing entirely so\u00a0\u00a0"
+        },
+        {
+          "start": "1302.92",
+          "dur": "5.96",
+          "text": "let me show you how to do that so go back to\u00a0\nnavigation you're going to click add menu and\u00a0\u00a0"
+        },
+        {
+          "start": "1308.88",
+          "dur": "6.28",
+          "text": "it needs to be named the same thing that you\u00a0\nnamed the uh the title of the other thing it\u00a0\u00a0"
+        },
+        {
+          "start": "1315.16",
+          "dur": "4.28",
+          "text": "needs to be the same so I need to call this\u00a0\nyoga close so yoga clo clo yoga clothes and\u00a0\u00a0"
+        },
+        {
+          "start": "1319.44",
+          "dur": "4.84",
+          "text": "then what we do is we add the things in here\u00a0\nso let's call it yoga pants the the drop- down\u00a0\u00a0"
+        },
+        {
+          "start": "1324.28",
+          "dur": "6",
+          "text": "items we want so let's call this product yoga\u00a0\npants high-waisted yoga pants can add another\u00a0\u00a0"
+        },
+        {
+          "start": "1330.28",
+          "dur": "8.2",
+          "text": "menu item yoga shorts we'll call this one\u00a0\nproduct select the product yoga shorts save"
+        },
+        {
+          "start": "1338.48",
+          "dur": "10.76",
+          "text": "menu let's go ahead and refresh and we'll see\u00a0\nwhat it looks like perfect so when they click\u00a0\u00a0"
+        },
+        {
+          "start": "1349.24",
+          "dur": "4.36",
+          "text": "on yoga clothes it would take them to this\u00a0\nGeneral collection here that's what I had\u00a0\u00a0"
+        },
+        {
+          "start": "1353.6",
+          "dur": "7.48",
+          "text": "it link to yoga pants take them to the yoga pants\u00a0\nand yoga shorts take them to the yoga shorts nice\u00a0\u00a0"
+        },
+        {
+          "start": "1361.08",
+          "dur": "5.48",
+          "text": "and easy the next thing is the domains and I\u00a0\nhave a video showing you how to add a custom\u00a0\u00a0"
+        },
+        {
+          "start": "1366.56",
+          "dur": "7.08",
+          "text": "domain um my I I just started this one the other\u00a0\nday or today really and the SSL is still pending\u00a0\u00a0"
+        },
+        {
+          "start": "1373.64",
+          "dur": "5.6",
+          "text": "so we don't need to worry about that but that's\u00a0\na lot of stuff the on online store let's go over\u00a0\u00a0"
+        },
+        {
+          "start": "1379.24",
+          "dur": "5.2",
+          "text": "the apps really quick and I'm not going to go too\u00a0\nin depth with this because it's super it could go\u00a0\u00a0"
+        },
+        {
+          "start": "1384.44",
+          "dur": "3.88",
+          "text": "on I could do videos after videos on the apps\u00a0\nso one of the cool things about chop five is it\u00a0\u00a0"
+        },
+        {
+          "start": "1388.32",
+          "dur": "4",
+          "text": "integrates with so many different things so if you\u00a0\ninstall this app it would integrate with MailChimp\u00a0\u00a0"
+        },
+        {
+          "start": "1392.32",
+          "dur": "3.88",
+          "text": "for instance or this one with QuickBooks and\u00a0\nthere's a bunch and bunch of other ones there's\u00a0\u00a0"
+        },
+        {
+          "start": "1396.2",
+          "dur": "4.44",
+          "text": "free ones and there's paid ones a lot of them are\u00a0\npaid but there's a decent amount of free ones as\u00a0\u00a0"
+        },
+        {
+          "start": "1400.64",
+          "dur": "3.56",
+          "text": "well and you here you can see the ones you have\u00a0\ninstalled I haven't installed any yet so we're\u00a0\u00a0"
+        },
+        {
+          "start": "1404.2",
+          "dur": "5.28",
+          "text": "not going to go there lastly we can go over the\u00a0\nsettings and here's some of the different store\u00a0\u00a0"
+        },
+        {
+          "start": "1409.48",
+          "dur": "6.72",
+          "text": "details um this stuff's pretty self-explanatory\u00a0\npayments one thing I recommend early on if you\u00a0\u00a0"
+        },
+        {
+          "start": "1416.2",
+          "dur": "4.68",
+          "text": "go to Shopify payments edit you can actually\u00a0\nuse test mode that's how I was able to make a\u00a0\u00a0"
+        },
+        {
+          "start": "1420.88",
+          "dur": "5.36",
+          "text": "test purchase you can do some other things as\u00a0\nwell and making a test purchase is pretty easy\u00a0\u00a0"
+        },
+        {
+          "start": "1426.24",
+          "dur": "5.84",
+          "text": "to do there's a whole article just type in test\u00a0\npurchase in Shopify some of the things we can\u00a0\u00a0"
+        },
+        {
+          "start": "1432.08",
+          "dur": "5.04",
+          "text": "look at here is you can customize the checkout by\u00a0\nuploading your store logo changing the colors and\u00a0\u00a0"
+        },
+        {
+          "start": "1437.12",
+          "dur": "6.08",
+          "text": "fonts which I highly recommend doing because you\u00a0\nwant that process to be as seamless as possible\u00a0\u00a0"
+        },
+        {
+          "start": "1443.2",
+          "dur": "4.96",
+          "text": "so you can also make the so people can log in\u00a0\nwith their accounts so that it remembers them\u00a0\u00a0"
+        },
+        {
+          "start": "1448.16",
+          "dur": "5.28",
+          "text": "or make accounts required I recommend this one in\u00a0\nthe middle here um that way people can check out\u00a0\u00a0"
+        },
+        {
+          "start": "1453.44",
+          "dur": "4.64",
+          "text": "as a guess still like everyone hates when they\u00a0\nhave to create an account just to buy something\u00a0\u00a0"
+        },
+        {
+          "start": "1458.08",
+          "dur": "5.04",
+          "text": "from a store but at the same time it's nice if\u00a0\nyou do if you're a repeat buyer to be able to\u00a0\u00a0"
+        },
+        {
+          "start": "1463.12",
+          "dur": "4.48",
+          "text": "just log in and it remembers a lot of your data\u00a0\nthere's a bunch of other stuff here I'm not going\u00a0\u00a0"
+        },
+        {
+          "start": "1467.6",
+          "dur": "5.24",
+          "text": "to get too in depth into all this but look at\u00a0\nsome of this stuff um another thing you can look\u00a0\u00a0"
+        },
+        {
+          "start": "1472.84",
+          "dur": "5.24",
+          "text": "at is the refund policy the privacy policy and the\u00a0\nterms of service those are all things you can find\u00a0\u00a0"
+        },
+        {
+          "start": "1478.08",
+          "dur": "8.24",
+          "text": "examples online and you can paste those in there\u00a0\nwe also have the shipping customize the shipping\u00a0\u00a0"
+        },
+        {
+          "start": "1486.32",
+          "dur": "8.8",
+          "text": "this could be another video on its own taxes\u00a0\noops taxes but notification is a big one we'll\u00a0\u00a0"
+        },
+        {
+          "start": "1495.12",
+          "dur": "4.32",
+          "text": "talk about in just a second so yeah the taxes you\u00a0\ncan change depends on Country we got six I don't\u00a0\u00a0"
+        },
+        {
+          "start": "1499.44",
+          "dur": "5.64",
+          "text": "know why we have 62 States but that's interesting\u00a0\nso notifications this is a very important one you\u00a0\u00a0"
+        },
+        {
+          "start": "1505.08",
+          "dur": "5.56",
+          "text": "can change some of the emails that you send out\u00a0\nthese are the email templates so for instance I\u00a0\u00a0"
+        },
+        {
+          "start": "1510.64",
+          "dur": "7.08",
+          "text": "recommend changing a lot of these early on so for\u00a0\na new order this is what it looks like and you can\u00a0\u00a0"
+        },
+        {
+          "start": "1517.72",
+          "dur": "8.72",
+          "text": "say things like hello whatever the shop name is um\u00a0\nyou know yeah this is pretty complicated stuff I\u00a0\u00a0"
+        },
+        {
+          "start": "1526.44",
+          "dur": "4.24",
+          "text": "I could figure this out but you'd probably want\u00a0\nto look at another tutorial maybe this could be\u00a0\u00a0"
+        },
+        {
+          "start": "1530.68",
+          "dur": "4.32",
+          "text": "also another video but you can customize all the\u00a0\ndifferent emails that you send to your clients\u00a0\u00a0"
+        },
+        {
+          "start": "1535",
+          "dur": "4.32",
+          "text": "make them a little bit more personal which\u00a0\nI highly highly rem recommend doing you can\u00a0\u00a0"
+        },
+        {
+          "start": "1539.32",
+          "dur": "5.88",
+          "text": "look at the files um this is for uploading like\u00a0\nseparate files that you want people to be able\u00a0\u00a0"
+        },
+        {
+          "start": "1545.2",
+          "dur": "6.8",
+          "text": "to get to but this isn't really important for\u00a0\nwhat we're doing right now your account sales"
+        },
+        {
+          "start": "1552",
+          "dur": "9.32",
+          "text": "channels so you can add selling things on pin\u00a0\nFacebook all kinds of different things here and\u00a0\u00a0"
+        },
+        {
+          "start": "1561.32",
+          "dur": "4.68",
+          "text": "then we have the online store uh this is your\u00a0\ntitle of your actual Store The Meta title and\u00a0\u00a0"
+        },
+        {
+          "start": "1566",
+          "dur": "5.68",
+          "text": "meta description so you want to make sure that\u00a0\nthis is yoga pants and yoga clothes by as yoga\u00a0\u00a0"
+        },
+        {
+          "start": "1571.68",
+          "dur": "3.56",
+          "text": "wear I don't know I'll change that to whatever\u00a0\nbut you want to make sure this is keyword Rich\u00a0\u00a0"
+        },
+        {
+          "start": "1575.24",
+          "dur": "4.96",
+          "text": "this is also where you add in the code for\u00a0\nyour Google analytics which is another video\u00a0\u00a0"
+        },
+        {
+          "start": "1580.2",
+          "dur": "4.68",
+          "text": "I can make about showing you how to install\u00a0\nGoogle analytics on your Shopify and then if\u00a0\u00a0"
+        },
+        {
+          "start": "1584.88",
+          "dur": "4.12",
+          "text": "you want you can protect your storefront with\u00a0\na password which I don't recommend doing since\u00a0\u00a0"
+        },
+        {
+          "start": "1589",
+          "dur": "4.12",
+          "text": "you want people to be able to buy from you\u00a0\nso that is most the stuff there's one other\u00a0\u00a0"
+        },
+        {
+          "start": "1593.12",
+          "dur": "4.96",
+          "text": "thing I didn't talk about that I want to add\u00a0\nreally quickly and that's within online store"
+        },
+        {
+          "start": "1598.08",
+          "dur": "7.52",
+          "text": "themes you can actually customize\u00a0\nthe theme so I want to customize\u00a0\u00a0"
+        },
+        {
+          "start": "1605.6",
+          "dur": "7.96",
+          "text": "this Supply theme oops and you can go into\u00a0\nthe theme options and click edit HTML or"
+        },
+        {
+          "start": "1613.56",
+          "dur": "8.96",
+          "text": "css and I don't recommend unless you know what\u00a0\nyou're doing a lot of this stuff but let's say\u00a0\u00a0"
+        },
+        {
+          "start": "1622.52",
+          "dur": "5.84",
+          "text": "you can actually change the HTML like the Deep\u00a0\nHTML in here which it's not hard to do if you\u00a0\u00a0"
+        },
+        {
+          "start": "1628.36",
+          "dur": "4.84",
+          "text": "know what you're doing it is a quote unquote\u00a0\nliquid code um but it's pretty similar to like\u00a0\u00a0"
+        },
+        {
+          "start": "1633.2",
+          "dur": "4.28",
+          "text": "HTML as well like if you can figure it out if\u00a0\nyou know what you're doing but this is some of\u00a0\u00a0"
+        },
+        {
+          "start": "1637.48",
+          "dur": "5.56",
+          "text": "the deeper things that if you want to do some\u00a0\ncustomization that the shop doesn't it doesn't\u00a0\u00a0"
+        },
+        {
+          "start": "1643.04",
+          "dur": "3.8",
+          "text": "seem like it lets you do the theme doesn't let you\u00a0\ndo it does probably let you do it it's somewhere\u00a0\u00a0"
+        },
+        {
+          "start": "1646.84",
+          "dur": "5.24",
+          "text": "deep in here so that's the last part about this\u00a0\nvideo um I hope you enjoyed this video and I hope\u00a0\u00a0"
+        },
+        {
+          "start": "1652.08",
+          "dur": "5.48",
+          "text": "you learned a few things about Shopify thanks\u00a0\nfor watching if you like this video then you're\u00a0\u00a0"
+        },
+        {
+          "start": "1657.56",
+          "dur": "5.16",
+          "text": "going to love my new e-commerce course the 25k\u00a0\ne-commerce profit plan in it I teach you the\u00a0\u00a0"
+        },
+        {
+          "start": "1662.72",
+          "dur": "4.72",
+          "text": "strategies and techniques that I actually use to\u00a0\nbuild my own successful e-commerce business we\u00a0\u00a0"
+        },
+        {
+          "start": "1667.44",
+          "dur": "4.96",
+          "text": "talk about how to set up a website an e-commerce\u00a0\nsite that actually makes sales then we talk about\u00a0\u00a0"
+        },
+        {
+          "start": "1672.4",
+          "dur": "3.88",
+          "text": "how to get traffic to that site and ultimately\u00a0\nI give you the tips and techniques on how to\u00a0\u00a0"
+        },
+        {
+          "start": "1676.28",
+          "dur": "4.76",
+          "text": "make it be as profit profitable as possible we\u00a0\ntalk about things such as SEO Google analytics\u00a0\u00a0"
+        },
+        {
+          "start": "1681.04",
+          "dur": "4.24",
+          "text": "everything you've heard about AdWords it's all\u00a0\nin there this is really pretty much everything\u00a0\u00a0"
+        },
+        {
+          "start": "1685.28",
+          "dur": "4.76",
+          "text": "I know about e-commerce I put in this one course I\u00a0\nwas tired of people asking me how do I get traffic\u00a0\u00a0"
+        },
+        {
+          "start": "1690.04",
+          "dur": "3.68",
+          "text": "to my website or how do I build an e-commerce\u00a0\nsite and I wanted to just bundle it all up in\u00a0\u00a0"
+        },
+        {
+          "start": "1693.72",
+          "dur": "4.76",
+          "text": "one course when you buy the course you'll get\u00a0\nfree lifetime access to my private Facebook\u00a0\u00a0"
+        },
+        {
+          "start": "1698.48",
+          "dur": "4.32",
+          "text": "group and on top of that for the first hundred\u00a0\npeople that buy the course I'll give you a free\u00a0\u00a0"
+        },
+        {
+          "start": "1702.8",
+          "dur": "5.8",
+          "text": "one-on-one 30-minute consultation you can go to\u00a0\neffective ecommerce.com or click up here now to\u00a0\u00a0"
+        },
+        {
+          "start": "1708.6",
+          "dur": "5",
+          "text": "buy the course and make sure that you get one of\u00a0\nthe free 30-minute oneon-one consultation sessions"
+        }
+      ]
+    }
+  ]
+}

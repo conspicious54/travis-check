@@ -1,0 +1,719 @@
+{
+  "text": "in this video I'm going to show you how to make campaigns in Adwords for your product listing ads so the first thing we're going to look at here is this is actually for be dancewear this is not for the asana yoga clothing brand that i've been working on so if you go to your products you can see that these are the different products I have available and for instance here's some SKUs or some item IDs blue dance skirts etc etc now if we go into google adwords we see here that i have a bunch of the different campaigns and the way i have mine set up and i'd recommend setting them up is the campaigns are separated by the type of item it is and the reason is you're able to use a better negative keyword targeting so let's walk through one of these campaigns so i'll make a new one i'll make one that i've already already have so you can see it from scratch first go plus campaign shopping i'm going to call this one dance pants PL and i put a PL in the campaign name to signify product listing ads this is so when I go in analytics I can see which of my campaigns or product listing ads and which ones are not Krunch you a country of sale we're going to go to United States I'm just going to do only United States for me personally let's say default bid of $1.00 and five dollars a day just to put something there and also put a schedule here like maybe you don't want to show it in the mornings things like that you can create custom schedule change the times that you want to do it I'm not going to deal with that right now because this is just a for fun one so actually I'll call it dance pants PL fake just so I know that later I should delete it save and continue now there's a couple different ways to do it one way to do it is just make one general ad group which you can do I like doing different I like doing a specific ad group for every product it's really up to you what you want to do on that so I'm going to call this green dance pants just for now just to show you one one thing you can do instead is go like this and then subdivide it by item ID so let's go save and continue' so that would give you a group with a lot of different options here so you basically put all your products into one group there's other ways you can do it as well so let's show some of the other ways you can do it find my so that's one way in another way you can do it is let's make another ad group so I'll add ad group here ad group now I'll just call it a group number two and then you can subdivide by product type save and continue' and now it's subdivided by product type so these are like dance pants are like red Irish dance skirt green everything else there's a few in there 2:04 this is all my different leggings everything else so those are some of the ways that you can divide it this one is divided by the the number basically the product number so that's everything in this category in this product group right here but the way that I ultimately like to do it let me show you how I would do it so ad groups ad ad group create one ad group yes oh no I just do it like this and let's say dance pants fake save and continue' then it takes you here what you can do is click that little plus sign go buy item ID or add bulk values manually so now at this point you can copy and paste your bulk values right here I'm going to pull it from my data feed depending on how you're doing how you did it if you did it automatically it's a little bit different you just you take the the numbers one by one but I'm going to pull it from my data feed so this is my data feed here and I did this manually I could do a separate video if you guys are interested in how to do a manual data feed but let me go down so we see these are a bunch this is basically the item ID this is the title the description a link to the actual product an image link the GTIN and npn I don't have I don't have a GTIN because that's just the way my brain works the brand is my own brand I go this is the category product category pink lycra and then product type at the end here 2:07 alright so when we need to find pants pants oops next it's got to be ah here we go dance pants so I would just take all these values here all the way up to here copy go back into this click add values save and we're finished so now I can bid individually on each one of these which is a lot nicer and one thing you can do is just go edit change max CPC let's change it all to 30 cents maybe and that's really all you need to do some things to know we talked about in the AdWords thing a lot in AdWords lesson a lot of the things let's go here but I'll show you this you can customize the columns modify the columns to see more data all I'll show you one of my columns here so in the past what I've done is each each product basically gets its own ad group like you see this Oh bad example this one right here so this is great boys dancer and I put great boys shirt these are too might these are my grade boy shirt products but what you can do let me find a good example let's go all dance we're and groups so you can customize these columns and I like to customize the columns to see how many conversions I'm getting total conversion value pages per session and avid average session duration so you can look at the cost versus how much value I'm getting from them that's pretty good I definitely want to keep this one going and what this campaign is this campaign is basically a catch-all campaign and what that means is anything that's not being caught in these I have a campaign for this right here and it's just basically all products and I exclude I exclude some of the products that I know are being bid for on other campaigns and so if I add new products and I forget to add a campaign to them I put them here and it tends to work out relatively well so some other things to keep in mind with product listing ads is the campaign negative keyword lists so the way that these work I'll show you an example here let's see apply to let's see if a good one all right so I call these negative exact match keywords and what this is doing is if someone were to type in something that Google might want to show my ad for and they type in exactly at the waist pants don't show my ad if they type in black colored pants don't show my ad blue pants don't show my ad because my ads aren't generally blue pants they're blue jazz pants or blue dance pants so by putting these and we talked about this in the AdWords section by putting this as an exact match it's saying if someone exactly searches for blue pants Google my product isn't relevant please don't show it because the way product listing ads work is you can't tell them what to show you can only tell them what not to show so by doing negative exact match you're able to give give Google a little bit more of a direction you can also just do regular negative keywords so I have this keyword list and it's things like someone types in Alaska well none of my products have anything to do with Alaska and if they're typing in Alaska they probably want to either buy something with the logo that says Alaska on it like the name Alaska or they want to buy thing in this in Alaska they're not looking to buy from someone like me that's going to send them send them the products it's going to take a few days so the cool thing about the negative keyword list once again I'll show this let's look at pants if I click apply to campaigns what I can do is I can apply it to as many campaigns as I want and I I would already and I've already done it so I'm not going to do it again but I could apply it to campaigns like let's see here jazz pants because that's the kind of pants color jazz pants PL mobile dance leggings that's the type of pant you do things like that and then for bras it'd be different I'd only do like the bando dance bra and these ones but by having these lists I'm able to add negative keywords to multiple campaigns at the same time last thing I'll share about product listing ads and this is what I like to do it on not saying it's necessarily the right way to do it but I like to have two separate campaigns one for mobile and one for regular so let's look at here the leotards one I have this is the regular leotards and I'm able to do that by going into settings change mobile bit adjustment and I put the mobile bid down to negative one hundred percent now if we look at the leotards PL mobile bid if you go into the settings here it's plus three hundred percent now let's before we go any farther let me show you why so the blue leotards I'm bidding a dollar seventy five now in the blue leotards in the mobile one I'm only bidding nine cents so on computer I'm bidding nine cents but because I set the the mobile bid adjustment to 300% I'm basically bidding nine cents times three what is that thirty-six I'm bidding thirty-six cents on mobile so ultimately what I'm doing is in this campaign I'm bidding 36 cents on mobile and it's only going to give me a mobile traffic and then in this campaign I'm bidding a dollar seventy-five and it's only going to give me desktop traffic so that's some of the different things to do with product listing ads I mean I could make an entire course out of product listing ads that's a good general place to start see what you're going to want to do is figure out what's working for you and what's not working for you and a good way to try to figure that out there's a lot of different ways to do it I recommend going into Google Analytics I'll show you really quick how to do that alright I'm in Google Analytics and go to Adwords and go to shopping campaigns that might be a good place to start and you see all the different campaigns I have now some of these are working or working really well and some are not my general my cost is a little over a thousand dollars I'm a revenue 7,000 that's pretty good so what I like to do is there's a couple different things you can do here you can look at the cost structure go from top to bottom by clicking on that column so I spent 131 dollars on this and I made $1,200 nice now I spent let's see all these are pretty profitable this one's pretty close to break-even the leotards so maybe I'd want to lower those bids this one I'm losing money so maybe I'd want to lower the bids there but you can start looking through it like that another thing you can do is go see advertising and if you go to advertising keyword this will this is the ID of the products and we can click on yeah we can click on the cost again and you can see like alright that one cost me 50 bucks made $250 that's awesome maybe I should raise the bid this one cost me 35 and I only made 32 maybe I should lower the bid and you basically you do a data analysis like that to try to figure out what you should raise the bid and what you should do to lower the bid that's it for this lesson on product listing ads if you have more questions please feel free to reach out out to me Travis at effective e-commerce dot-com and thanks again for watching this lesson if you like this video then you're going to love my new e-commerce course the 25k ecommerce profit plant in it I teach you the strategies and techniques that I actually use to build my own successful e-commerce business we talk about how to set up a website an e-commerce site that actually makes sales then we talk about how to get traffic to that site and ultimately I give you the tips and techniques on how to make it be as profitable as possible we talk about things such as SEO Google Analytics everything you've heard about AdWords it's all in there this is really pretty much everything I know about ecommerce I put in this one course I was tired of people asking me how do I get traffic to my website or how do I build an e-commerce site and I wanted to just bundle it all up in one course when you buy the course you'll get free lifetime access to my private Facebook group and on top of that for the first hundred people to buy the course I'll give you a free one on one 30-minute consultation you can go to effective e-commerce comm or click up here now to buy the course and make sure that you get one of the free 30-minute one-on-one consultation sessions",
+  "id": "M4w07LQEsUc",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=productlistingads\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video I'm going to show you how to make campaigns in AdWords for your product listing ads."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "810",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-02-21",
+      "title": {
+        "simpleText": "Product Listing Ads Tutorial To Set Up Google Shopping AKA PLAs"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "Product Listing Ads Tutorial To Set Up Google Shopping AKA PLAs",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0",
+          "dur": "4.95",
+          "text": "in this video I'm going to show you how to make\u00a0\ncampaigns in Adwords for your product listing ads\u00a0\u00a0"
+        },
+        {
+          "start": "4.95",
+          "dur": "4.98",
+          "text": "so the first thing we're going to look at here is\u00a0\nthis is actually for be dancewear this is not for\u00a0\u00a0"
+        },
+        {
+          "start": "9.93",
+          "dur": "5.76",
+          "text": "the asana yoga clothing brand that i've been\u00a0\nworking on so if you go to your products you\u00a0\u00a0"
+        },
+        {
+          "start": "15.69",
+          "dur": "5.19",
+          "text": "can see that these are the different products I\u00a0\nhave available and for instance here's some SKUs\u00a0\u00a0"
+        },
+        {
+          "start": "20.88",
+          "dur": "7.5",
+          "text": "or some item IDs blue dance skirts etc etc now\u00a0\nif we go into google adwords we see here that\u00a0\u00a0"
+        },
+        {
+          "start": "28.38",
+          "dur": "4.11",
+          "text": "i have a bunch of the different campaigns and\u00a0\nthe way i have mine set up and i'd recommend\u00a0\u00a0"
+        },
+        {
+          "start": "32.49",
+          "dur": "5.55",
+          "text": "setting them up is the campaigns are separated by\u00a0\nthe type of item it is and the reason is you're\u00a0\u00a0"
+        },
+        {
+          "start": "38.04",
+          "dur": "4.47",
+          "text": "able to use a better negative keyword targeting\u00a0\nso let's walk through one of these campaigns so\u00a0\u00a0"
+        },
+        {
+          "start": "42.51",
+          "dur": "4.62",
+          "text": "i'll make a new one i'll make one that i've\u00a0\nalready already have so you can see it from\u00a0\u00a0"
+        },
+        {
+          "start": "47.13",
+          "dur": "10.08",
+          "text": "scratch first go plus campaign shopping i'm going\u00a0\nto call this one dance pants PL and i put a PL in\u00a0\u00a0"
+        },
+        {
+          "start": "57.21",
+          "dur": "4.32",
+          "text": "the campaign name to signify product listing\u00a0\nads this is so when I go in analytics I can\u00a0\u00a0"
+        },
+        {
+          "start": "61.53",
+          "dur": "4.98",
+          "text": "see which of my campaigns or product listing ads\u00a0\nand which ones are not Krunch you a country of\u00a0\u00a0"
+        },
+        {
+          "start": "66.51",
+          "dur": "6.24",
+          "text": "sale we're going to go to United States I'm just\u00a0\ngoing to do only United States for me personally\u00a0\u00a0"
+        },
+        {
+          "start": "72.75",
+          "dur": "5.85",
+          "text": "let's say default bid of $1.00 and five dollars\u00a0\na day just to put something there and also put\u00a0\u00a0"
+        },
+        {
+          "start": "78.6",
+          "dur": "4.23",
+          "text": "a schedule here like maybe you don't want to\u00a0\nshow it in the mornings things like that you\u00a0\u00a0"
+        },
+        {
+          "start": "82.83",
+          "dur": "4.2",
+          "text": "can create custom schedule change the times that\u00a0\nyou want to do it I'm not going to deal with that\u00a0\u00a0"
+        },
+        {
+          "start": "87.03",
+          "dur": "6.27",
+          "text": "right now because this is just a for fun one so\u00a0\nactually I'll call it dance pants PL fake just\u00a0\u00a0"
+        },
+        {
+          "start": "93.3",
+          "dur": "7.29",
+          "text": "so I know that later I should delete it save and\u00a0\ncontinue now there's a couple different ways to\u00a0\u00a0"
+        },
+        {
+          "start": "100.59",
+          "dur": "6",
+          "text": "do it one way to do it is just make one general\u00a0\nad group which you can do I like doing different\u00a0\u00a0"
+        },
+        {
+          "start": "106.59",
+          "dur": "4.5",
+          "text": "I like doing a specific ad group for every\u00a0\nproduct it's really up to you what you want\u00a0\u00a0"
+        },
+        {
+          "start": "111.09",
+          "dur": "4.71",
+          "text": "to do on that so I'm going to call this green\u00a0\ndance pants just for now just to show you one"
+        },
+        {
+          "start": "120.24",
+          "dur": "9.51",
+          "text": "one thing you can do instead is go like this and\u00a0\nthen subdivide it by item ID so let's go save and\u00a0\u00a0"
+        },
+        {
+          "start": "129.75",
+          "dur": "16.92",
+          "text": "continue' so that would give you a group with a\u00a0\nlot of different options here so you basically\u00a0\u00a0"
+        },
+        {
+          "start": "146.67",
+          "dur": "4.26",
+          "text": "put all your products into one group there's other\u00a0\nways you can do it as well so let's show some of\u00a0\u00a0"
+        },
+        {
+          "start": "150.93",
+          "dur": "7.65",
+          "text": "the other ways you can do it find my so that's\u00a0\none way in another way you can do it is let's\u00a0\u00a0"
+        },
+        {
+          "start": "158.58",
+          "dur": "8.58",
+          "text": "make another ad group so I'll add ad group here ad\u00a0\ngroup now I'll just call it a group number two and\u00a0\u00a0"
+        },
+        {
+          "start": "167.16",
+          "dur": "10.89",
+          "text": "then you can subdivide by product type save and\u00a0\ncontinue' and now it's subdivided by product type\u00a0\u00a0"
+        },
+        {
+          "start": "178.05",
+          "dur": "6.42",
+          "text": "so these are like dance pants are like red Irish\u00a0\ndance skirt green everything else there's a few\u00a0\u00a0"
+        },
+        {
+          "start": "184.47",
+          "dur": "7.11",
+          "text": "in there 2:04 this is all my different leggings\u00a0\neverything else so those are some of the ways\u00a0\u00a0"
+        },
+        {
+          "start": "191.58",
+          "dur": "5.73",
+          "text": "that you can divide it this one is divided by the\u00a0\nthe number basically the product number so that's\u00a0\u00a0"
+        },
+        {
+          "start": "197.31",
+          "dur": "4.92",
+          "text": "everything in this category in this product group\u00a0\nright here but the way that I ultimately like to\u00a0\u00a0"
+        },
+        {
+          "start": "202.23",
+          "dur": "8.16",
+          "text": "do it let me show you how I would do it so ad\u00a0\ngroups ad ad group create one ad group yes oh\u00a0\u00a0"
+        },
+        {
+          "start": "210.39",
+          "dur": "10.71",
+          "text": "no I just do it like this and let's say dance\u00a0\npants fake save and continue' then it takes you\u00a0\u00a0"
+        },
+        {
+          "start": "221.1",
+          "dur": "7.2",
+          "text": "here what you can do is click that little plus\u00a0\nsign go buy item ID or add bulk values manually\u00a0\u00a0"
+        },
+        {
+          "start": "228.3",
+          "dur": "4.71",
+          "text": "so now at this point you can copy and paste your\u00a0\nbulk values right here I'm going to pull it from\u00a0\u00a0"
+        },
+        {
+          "start": "233.01",
+          "dur": "4.47",
+          "text": "my data feed depending on how you're doing how\u00a0\nyou did it if you did it automatically it's a\u00a0\u00a0"
+        },
+        {
+          "start": "237.48",
+          "dur": "6.15",
+          "text": "little bit different you just you take the the\u00a0\nnumbers one by one but I'm going to pull it from\u00a0\u00a0"
+        },
+        {
+          "start": "243.63",
+          "dur": "5.13",
+          "text": "my data feed so this is my data feed here and\u00a0\nI did this manually I could do a separate video\u00a0\u00a0"
+        },
+        {
+          "start": "248.76",
+          "dur": "6.8",
+          "text": "if you guys are interested in how to do a manual\u00a0\ndata feed but let me go down so we see these are\u00a0\u00a0"
+        },
+        {
+          "start": "255.56",
+          "dur": "6.21",
+          "text": "a bunch this is basically the item ID this is\u00a0\nthe title the description a link to the actual\u00a0\u00a0"
+        },
+        {
+          "start": "261.77",
+          "dur": "7.2",
+          "text": "product an image link the GTIN and npn I don't\u00a0\nhave I don't have a GTIN because that's just the\u00a0\u00a0"
+        },
+        {
+          "start": "268.97",
+          "dur": "6.66",
+          "text": "way my brain works the brand is my own brand I\u00a0\ngo this is the category product category pink\u00a0\u00a0"
+        },
+        {
+          "start": "275.63",
+          "dur": "9.51",
+          "text": "lycra and then product type at the end here 2:07\u00a0\nalright so when we need to find pants pants oops"
+        },
+        {
+          "start": "285.14",
+          "dur": "10.02",
+          "text": "next"
+        },
+        {
+          "start": "295.16",
+          "dur": "4.8",
+          "text": "it's got to be ah here we go dance pants"
+        },
+        {
+          "start": "299.96",
+          "dur": "15.78",
+          "text": "so I would just take all these values here all\u00a0\nthe way up to here copy go back into this click\u00a0\u00a0"
+        },
+        {
+          "start": "315.74",
+          "dur": "9.45",
+          "text": "add values save and we're finished so now I can\u00a0\nbid individually on each one of these which is a\u00a0\u00a0"
+        },
+        {
+          "start": "325.19",
+          "dur": "6.87",
+          "text": "lot nicer and one thing you can do is just go\u00a0\nedit change max CPC let's change it all to 30\u00a0\u00a0"
+        },
+        {
+          "start": "332.06",
+          "dur": "8.52",
+          "text": "cents maybe and that's really all you need to\u00a0\ndo some things to know we talked about in the\u00a0\u00a0"
+        },
+        {
+          "start": "340.58",
+          "dur": "8.58",
+          "text": "AdWords thing a lot in AdWords lesson a lot of the\u00a0\nthings let's go here but I'll show you this you\u00a0\u00a0"
+        },
+        {
+          "start": "349.16",
+          "dur": "5.79",
+          "text": "can customize the columns modify the columns to\u00a0\nsee more data all I'll show you one of my columns\u00a0\u00a0"
+        },
+        {
+          "start": "354.95",
+          "dur": "10.74",
+          "text": "here so in the past what I've done is each each\u00a0\nproduct basically gets its own ad group like you\u00a0\u00a0"
+        },
+        {
+          "start": "365.69",
+          "dur": "7.2",
+          "text": "see this Oh bad example this one right here so\u00a0\nthis is great boys dancer and I put great boys\u00a0\u00a0"
+        },
+        {
+          "start": "372.89",
+          "dur": "6.48",
+          "text": "shirt these are too might these are my grade boy\u00a0\nshirt products but what you can do let me find a\u00a0\u00a0"
+        },
+        {
+          "start": "379.37",
+          "dur": "9.23",
+          "text": "good example let's go all dance we're and groups\u00a0\nso you can customize these columns and I like to\u00a0\u00a0"
+        },
+        {
+          "start": "388.6",
+          "dur": "4.89",
+          "text": "customize the columns to see how many conversions\u00a0\nI'm getting total conversion value pages per\u00a0\u00a0"
+        },
+        {
+          "start": "393.49",
+          "dur": "5.22",
+          "text": "session and avid average session duration so you\u00a0\ncan look at the cost versus how much value I'm\u00a0\u00a0"
+        },
+        {
+          "start": "398.71",
+          "dur": "6",
+          "text": "getting from them that's pretty good I definitely\u00a0\nwant to keep this one going and what this campaign\u00a0\u00a0"
+        },
+        {
+          "start": "404.71",
+          "dur": "5.61",
+          "text": "is this campaign is basically a catch-all campaign\u00a0\nand what that means is anything that's not being\u00a0\u00a0"
+        },
+        {
+          "start": "410.32",
+          "dur": "7.56",
+          "text": "caught in these I have a campaign for this right\u00a0\nhere and it's just basically all products and I\u00a0\u00a0"
+        },
+        {
+          "start": "417.88",
+          "dur": "5.01",
+          "text": "exclude I exclude some of the products that I\u00a0\nknow are being bid for on other campaigns and\u00a0\u00a0"
+        },
+        {
+          "start": "422.89",
+          "dur": "7.32",
+          "text": "so if I add new products and I forget to add a\u00a0\ncampaign to them I put them here and it tends\u00a0\u00a0"
+        },
+        {
+          "start": "430.21",
+          "dur": "7.05",
+          "text": "to work out relatively well so some other things\u00a0\nto keep in mind with product listing ads is the\u00a0\u00a0"
+        },
+        {
+          "start": "437.26",
+          "dur": "5.82",
+          "text": "campaign negative keyword lists so the way that\u00a0\nthese work I'll show you an example here let's\u00a0\u00a0"
+        },
+        {
+          "start": "443.08",
+          "dur": "7.77",
+          "text": "see apply to let's see if a good one all right\u00a0\nso I call these negative exact match keywords\u00a0\u00a0"
+        },
+        {
+          "start": "450.85",
+          "dur": "6.21",
+          "text": "and what this is doing is if someone were to type\u00a0\nin something that Google might want to show my ad\u00a0\u00a0"
+        },
+        {
+          "start": "457.06",
+          "dur": "7.02",
+          "text": "for and they type in exactly at the waist pants\u00a0\ndon't show my ad if they type in black colored\u00a0\u00a0"
+        },
+        {
+          "start": "464.08",
+          "dur": "7.53",
+          "text": "pants don't show my ad blue pants don't show my\u00a0\nad because my ads aren't generally blue pants\u00a0\u00a0"
+        },
+        {
+          "start": "471.61",
+          "dur": "5.85",
+          "text": "they're blue jazz pants or blue dance pants so\u00a0\nby putting these and we talked about this in the\u00a0\u00a0"
+        },
+        {
+          "start": "477.46",
+          "dur": "4.62",
+          "text": "AdWords section by putting this as an exact match\u00a0\nit's saying if someone exactly searches for blue\u00a0\u00a0"
+        },
+        {
+          "start": "482.08",
+          "dur": "4.2",
+          "text": "pants Google my product isn't relevant please\u00a0\ndon't show it because the way product listing\u00a0\u00a0"
+        },
+        {
+          "start": "486.28",
+          "dur": "4.71",
+          "text": "ads work is you can't tell them what to show\u00a0\nyou can only tell them what not to show so by\u00a0\u00a0"
+        },
+        {
+          "start": "490.99",
+          "dur": "6",
+          "text": "doing negative exact match you're able to give\u00a0\ngive Google a little bit more of a direction you\u00a0\u00a0"
+        },
+        {
+          "start": "496.99",
+          "dur": "5.94",
+          "text": "can also just do regular negative keywords so\u00a0\nI have this keyword list and it's things like\u00a0\u00a0"
+        },
+        {
+          "start": "502.93",
+          "dur": "6.78",
+          "text": "someone types in Alaska well none of my products\u00a0\nhave anything to do with Alaska and if they're\u00a0\u00a0"
+        },
+        {
+          "start": "509.71",
+          "dur": "4.71",
+          "text": "typing in Alaska they probably want to either\u00a0\nbuy something with the logo that says Alaska on\u00a0\u00a0"
+        },
+        {
+          "start": "514.42",
+          "dur": "6.3",
+          "text": "it like the name Alaska or they want to buy thing\u00a0\nin this in Alaska they're not looking to buy from\u00a0\u00a0"
+        },
+        {
+          "start": "520.72",
+          "dur": "4.74",
+          "text": "someone like me that's going to send them send\u00a0\nthem the products it's going to take a few days\u00a0\u00a0"
+        },
+        {
+          "start": "525.46",
+          "dur": "5.61",
+          "text": "so the cool thing about the negative keyword\u00a0\nlist once again I'll show this let's look at\u00a0\u00a0"
+        },
+        {
+          "start": "531.07",
+          "dur": "7.38",
+          "text": "pants if I click apply to campaigns what I can\u00a0\ndo is I can apply it to as many campaigns as I\u00a0\u00a0"
+        },
+        {
+          "start": "538.45",
+          "dur": "4.44",
+          "text": "want and I I would already and I've already\u00a0\ndone it so I'm not going to do it again but\u00a0\u00a0"
+        },
+        {
+          "start": "542.89",
+          "dur": "6.06",
+          "text": "I could apply it to campaigns like let's see\u00a0\nhere jazz pants because that's the kind of\u00a0\u00a0"
+        },
+        {
+          "start": "548.95",
+          "dur": "7.74",
+          "text": "pants color jazz pants PL mobile dance leggings\u00a0\nthat's the type of pant you do things like that\u00a0\u00a0"
+        },
+        {
+          "start": "556.69",
+          "dur": "8.55",
+          "text": "and then for bras it'd be different I'd only\u00a0\ndo like the bando dance bra and these ones but\u00a0\u00a0"
+        },
+        {
+          "start": "565.24",
+          "dur": "5.31",
+          "text": "by having these lists I'm able to add negative\u00a0\nkeywords to multiple campaigns at the same time"
+        },
+        {
+          "start": "570.55",
+          "dur": "5.64",
+          "text": "last thing I'll share about product listing\u00a0\nads and this is what I like to do it on not\u00a0\u00a0"
+        },
+        {
+          "start": "576.19",
+          "dur": "4.11",
+          "text": "saying it's necessarily the right way to do\u00a0\nit but I like to have two separate campaigns\u00a0\u00a0"
+        },
+        {
+          "start": "580.3",
+          "dur": "5.7",
+          "text": "one for mobile and one for regular so let's\u00a0\nlook at here the leotards one I have this is\u00a0\u00a0"
+        },
+        {
+          "start": "586",
+          "dur": "6.3",
+          "text": "the regular leotards and I'm able to do that by\u00a0\ngoing into settings change mobile bit adjustment\u00a0\u00a0"
+        },
+        {
+          "start": "592.3",
+          "dur": "8.1",
+          "text": "and I put the mobile bid down to negative one\u00a0\nhundred percent now if we look at the leotards\u00a0\u00a0"
+        },
+        {
+          "start": "600.4",
+          "dur": "5.94",
+          "text": "PL mobile bid if you go into the settings here\u00a0\nit's plus three hundred percent now let's before\u00a0\u00a0"
+        },
+        {
+          "start": "606.34",
+          "dur": "6.15",
+          "text": "we go any farther let me show you why so the blue\u00a0\nleotards I'm bidding a dollar seventy five now in\u00a0\u00a0"
+        },
+        {
+          "start": "612.49",
+          "dur": "6.15",
+          "text": "the blue leotards in the mobile one I'm only\u00a0\nbidding nine cents so on computer I'm bidding\u00a0\u00a0"
+        },
+        {
+          "start": "618.64",
+          "dur": "6.24",
+          "text": "nine cents but because I set the the mobile\u00a0\nbid adjustment to 300% I'm basically bidding\u00a0\u00a0"
+        },
+        {
+          "start": "624.88",
+          "dur": "6.39",
+          "text": "nine cents times three what is that thirty-six I'm\u00a0\nbidding thirty-six cents on mobile so ultimately\u00a0\u00a0"
+        },
+        {
+          "start": "631.27",
+          "dur": "3.87",
+          "text": "what I'm doing is in this campaign I'm bidding\u00a0\n36 cents on mobile and it's only going to give\u00a0\u00a0"
+        },
+        {
+          "start": "635.14",
+          "dur": "4.65",
+          "text": "me a mobile traffic and then in this campaign I'm\u00a0\nbidding a dollar seventy-five and it's only going\u00a0\u00a0"
+        },
+        {
+          "start": "639.79",
+          "dur": "4.23",
+          "text": "to give me desktop traffic so that's some of the\u00a0\ndifferent things to do with product listing ads I\u00a0\u00a0"
+        },
+        {
+          "start": "644.02",
+          "dur": "5.04",
+          "text": "mean I could make an entire course out of product\u00a0\nlisting ads that's a good general place to start\u00a0\u00a0"
+        },
+        {
+          "start": "649.86",
+          "dur": "3.81",
+          "text": "see what you're going to want to do is figure\u00a0\nout what's working for you and what's not working\u00a0\u00a0"
+        },
+        {
+          "start": "653.67",
+          "dur": "4.29",
+          "text": "for you and a good way to try to figure that\u00a0\nout there's a lot of different ways to do it\u00a0\u00a0"
+        },
+        {
+          "start": "657.96",
+          "dur": "7.32",
+          "text": "I recommend going into Google Analytics I'll\u00a0\nshow you really quick how to do that alright\u00a0\u00a0"
+        },
+        {
+          "start": "665.28",
+          "dur": "5.13",
+          "text": "I'm in Google Analytics and go to Adwords and\u00a0\ngo to shopping campaigns that might be a good\u00a0\u00a0"
+        },
+        {
+          "start": "670.41",
+          "dur": "4.5",
+          "text": "place to start and you see all the different\u00a0\ncampaigns I have now some of these are working\u00a0\u00a0"
+        },
+        {
+          "start": "674.91",
+          "dur": "4.05",
+          "text": "or working really well and some are not my\u00a0\ngeneral my cost is a little over a thousand\u00a0\u00a0"
+        },
+        {
+          "start": "678.96",
+          "dur": "5.22",
+          "text": "dollars I'm a revenue 7,000 that's pretty good so\u00a0\nwhat I like to do is there's a couple different\u00a0\u00a0"
+        },
+        {
+          "start": "684.18",
+          "dur": "4.83",
+          "text": "things you can do here you can look at the cost\u00a0\nstructure go from top to bottom by clicking on\u00a0\u00a0"
+        },
+        {
+          "start": "689.01",
+          "dur": "8.43",
+          "text": "that column so I spent 131 dollars on this and I\u00a0\nmade $1,200 nice now I spent let's see all these\u00a0\u00a0"
+        },
+        {
+          "start": "697.44",
+          "dur": "3.72",
+          "text": "are pretty profitable this one's pretty close\u00a0\nto break-even the leotards so maybe I'd want to\u00a0\u00a0"
+        },
+        {
+          "start": "701.16",
+          "dur": "4.11",
+          "text": "lower those bids this one I'm losing money so\u00a0\nmaybe I'd want to lower the bids there but you\u00a0\u00a0"
+        },
+        {
+          "start": "705.27",
+          "dur": "7.83",
+          "text": "can start looking through it like that another\u00a0\nthing you can do is go see advertising and if\u00a0\u00a0"
+        },
+        {
+          "start": "713.1",
+          "dur": "9.27",
+          "text": "you go to advertising keyword this will this\u00a0\nis the ID of the products and we can click on\u00a0\u00a0"
+        },
+        {
+          "start": "722.37",
+          "dur": "4.83",
+          "text": "yeah we can click on the cost again and you can\u00a0\nsee like alright that one cost me 50 bucks made\u00a0\u00a0"
+        },
+        {
+          "start": "727.2",
+          "dur": "6.81",
+          "text": "$250 that's awesome maybe I should raise the bid\u00a0\nthis one cost me 35 and I only made 32 maybe I\u00a0\u00a0"
+        },
+        {
+          "start": "734.01",
+          "dur": "4.56",
+          "text": "should lower the bid and you basically you do\u00a0\na data analysis like that to try to figure out\u00a0\u00a0"
+        },
+        {
+          "start": "738.57",
+          "dur": "6.09",
+          "text": "what you should raise the bid and what you should\u00a0\ndo to lower the bid that's it for this lesson on\u00a0\u00a0"
+        },
+        {
+          "start": "744.66",
+          "dur": "4.14",
+          "text": "product listing ads if you have more questions\u00a0\nplease feel free to reach out out to me Travis\u00a0\u00a0"
+        },
+        {
+          "start": "748.8",
+          "dur": "4.71",
+          "text": "at effective e-commerce dot-com and thanks again\u00a0\nfor watching this lesson if you like this video\u00a0\u00a0"
+        },
+        {
+          "start": "753.51",
+          "dur": "5.34",
+          "text": "then you're going to love my new e-commerce course\u00a0\nthe 25k ecommerce profit plant in it I teach you\u00a0\u00a0"
+        },
+        {
+          "start": "758.85",
+          "dur": "4.83",
+          "text": "the strategies and techniques that I actually use\u00a0\nto build my own successful e-commerce business we\u00a0\u00a0"
+        },
+        {
+          "start": "763.68",
+          "dur": "4.92",
+          "text": "talk about how to set up a website an e-commerce\u00a0\nsite that actually makes sales then we talk about\u00a0\u00a0"
+        },
+        {
+          "start": "768.6",
+          "dur": "4.05",
+          "text": "how to get traffic to that site and ultimately I\u00a0\ngive you the tips and techniques on how to make\u00a0\u00a0"
+        },
+        {
+          "start": "772.65",
+          "dur": "5.01",
+          "text": "it be as profitable as possible we talk about\u00a0\nthings such as SEO Google Analytics everything\u00a0\u00a0"
+        },
+        {
+          "start": "777.66",
+          "dur": "4.05",
+          "text": "you've heard about AdWords it's all in there\u00a0\nthis is really pretty much everything I know\u00a0\u00a0"
+        },
+        {
+          "start": "781.71",
+          "dur": "4.5",
+          "text": "about ecommerce I put in this one course I was\u00a0\ntired of people asking me how do I get traffic\u00a0\u00a0"
+        },
+        {
+          "start": "786.21",
+          "dur": "3.54",
+          "text": "to my website or how do I build an e-commerce\u00a0\nsite and I wanted to just bundle it all up in\u00a0\u00a0"
+        },
+        {
+          "start": "789.75",
+          "dur": "5.4",
+          "text": "one course when you buy the course you'll get free\u00a0\nlifetime access to my private Facebook group and\u00a0\u00a0"
+        },
+        {
+          "start": "795.15",
+          "dur": "4.29",
+          "text": "on top of that for the first hundred people to\u00a0\nbuy the course I'll give you a free one on one\u00a0\u00a0"
+        },
+        {
+          "start": "799.44",
+          "dur": "5.64",
+          "text": "30-minute consultation you can go to effective\u00a0\ne-commerce comm or click up here now to buy the\u00a0\u00a0"
+        },
+        {
+          "start": "805.08",
+          "dur": "4.68",
+          "text": "course and make sure that you get one of the\u00a0\nfree 30-minute one-on-one consultation sessions"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 207,
+      "title": "Ad Group"
+    },
+    {
+      "start_time": 225,
+      "title": "Add Bulk Values Manually"
+    },
+    {
+      "start_time": 436,
+      "title": "Campaign Negative Keyword Lists"
+    },
+    {
+      "start_time": 448,
+      "title": "Negative Exact Match Keywords"
+    },
+    {
+      "start_time": 665,
+      "title": "Google Analytics"
+    },
+    {
+      "start_time": 686,
+      "title": "Cost Structure"
+    },
+    {
+      "start_time": 712,
+      "title": "Advertising Keyword"
+    }
+  ]
+}

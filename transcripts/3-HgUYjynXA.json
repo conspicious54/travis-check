@@ -1,0 +1,444 @@
+{
+  "text": "in this module we're going to talk about product listing ads which is one of my favorite types of ads it's one of my favorite types of PPC ads it's actually one of my favorite types a ways to get traffic to my website so let's talk about some product listing ads so first off why product listing ads well they're made for e-commerce and I mean this right here you can see why they have a price underneath a product it's just it's perfect for e-commerce it signals a strong buying intent when someone's looking at a regular text ad AdWords ad they may be just searching for more information they might be looking for a hundred different things but with these it's more likely to be people that are ready to buy it has the price underneath it it has the picture it really signals that hey if someone's clicking on this they're committing to buying something or they're at least more likely to be interested in buying something so what are PLA is I kind of already showed you but let's make it very obvious here these are PLA s and as you can see it's images with underneath it you have the the title of what's in there so if you look at the first one it's yellow dance pants and then the price underneath there so this is $31.99 and then ultimately underneath that it has the websites OB dance or comm my website so once again these product listing ads are great for converting people because some of those clicking on one of these is much more likely to buy compared that with like a regular text ad below so this one that says yellow dance pants sale someone might click on that because they're interested in and buying actually this one they probably would because it does say sale and all that kind of stuff but generally speaking text ads when someone clicks on it they're much more likely to be interested in learning and gathering information in general when you go to Google nine times out of 10 you're probably interested in information and text ads when you click on a text ad it's probably because you're looking for information when you click on a regular Google search result most people are looking for information once again product listing ads they have a price underneath them people in they click on them are much more likely to buy so that's what product listing ads are so let's start talking about them a little bit more and specifically on how to set them up so the first thing you need to do is get your Google merchant account that's really easy to do I mean if you signed up for Gmail before or Facebook then you can definitely do this actually I guess I should say before you sign up your Google merchant account you need to have a gmail account but that's that's step 0 yeah to have AdWords you obviously need to have a gmail account so the next thing is to actually set up your feed and we'll talk about this in just a second and I'm going to show you step-by-step how to do this and I will believe lesson two so you can watch that so the second step is setting up the feed then after that is setting up the ads in Adwords and I have lesson 3 where I show you step-by-step how to do that as well I'll show you the screen recording on what to do it's fairly simple it's actually it's a little bit complicated a little bit simple now but I'll show you how to do it in and then it will become very simple so there's two ways to set up your feet the first one is with a manual txt file you can open this up in Excel and you can manipulate it just like you would a excel file or CSV or something like that it's a little bit ugly there's some benefits we'll talk about in a second for doing it this way but the other way you can do it is V an automatic feed and there's different apps that work with Shopify that plug-in from Shopify into Google same thing with Volusion has an automatic feed and BigCommerce does as well I believe WordPress does is well with Moo commerce though so there's some advantages to the automatic feed obviously it's automatic which makes it a little bit easier there's also some disadvantages so let's let's talk about those a little bit so some of the benefits of doing the feed manually like I did in that last slide of the txt file is you can pick what you want it to say you can pick the image you have more control that is basically the point so my story on why I like to do it with a manual txt file is as you can see here it says yellow dance pants underneath it that's not really the title of my product the title of my product is jazz pants but I wanted to go in and change it so it says yellow dance pants because people are more likely to click on something that the title matches with what they're saying now contrast that with a lot of people if you just do an automatic feed what's going to happen is it's going to automatically take the title of your product another is this image is not the standard default image the yellow pair of pants is not the standard image that is on my product page so if you do it through an automatic feed it's going to pull in the standard image so that's another downside um also what I do is with all the different colors I have different images so I have one that I made up one product I made up for green dance pants one that I made up for you know yellow obviously pink blue all those different ones and this will make more scent more sense in the next lesson but for right now just stick with me this is some of the benefits of manual on the other side the benefits of the automatic feed is that if you change your price in Shopify or whatever your commerce platform is it'll automatically update in to you know Google side into the Google merchants side of things with the manual feed you have to manually go into that CSV file or that txt file and change it and then upload it again in the Merchant Center so that's some of the benefits of the automatic feed I recommend depending on what your product is the manual benefits or the manual feed but for some of you guys automatic feed just might make more sense it's definitely lower maintenance if you like this video then you're going to love my new e-commerce course the 25k ecommerce profit plan in it I teach you the strategies and techniques that I actually use to build my own successful e-commerce business we talked about how to set up a website in e-commerce site that actually makes sales then we talked about how to get traffic to that site and ultimately I give you the tips and techniques on how to make it be as profitable as possible we talk about things such as SEO Google Analytics everything you've heard about AdWords it's all in there this is really pretty much everything I know about e-commerce I put in this one course I was tired of people asking me how do I get traffic to my website or how do I build an e-commerce site and I wanted to just bundle it all up in one course when you buy the course you'll get free lifetime access to my private Facebook group and on top of that for the first hundred people that buy the course I'll give you a free one on one 30-minute consultation you can go to effective e-commerce comm or click up here now to buy the course and make sure that you get one of the free 30-minute one-on-one consultation sessions",
+  "id": "3-HgUYjynXA",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=googleshoppingcampaign\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this module we're going to talk about product listing ads which is one of my favorite types of ads it's one of my favorite types of PPC ads it's actually one of my favorite types a ways to get traffic to my website."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "391",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-02-07",
+      "title": {
+        "simpleText": "How to Set Up A Google Shopping Campaign To Create Product Listing Ads"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Set Up A Google Shopping Campaign To Create Product Listing Ads",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.06",
+          "dur": "4.05",
+          "text": "in this module we're going to talk about product\u00a0\nlisting ads which is one of my favorite types of\u00a0\u00a0"
+        },
+        {
+          "start": "4.11",
+          "dur": "4.92",
+          "text": "ads it's one of my favorite types of PPC ads\u00a0\nit's actually one of my favorite types a ways\u00a0\u00a0"
+        },
+        {
+          "start": "9.03",
+          "dur": "5.37",
+          "text": "to get traffic to my website so let's talk about\u00a0\nsome product listing ads so first off why product\u00a0\u00a0"
+        },
+        {
+          "start": "14.4",
+          "dur": "6.06",
+          "text": "listing ads well they're made for e-commerce and\u00a0\nI mean this right here you can see why they have\u00a0\u00a0"
+        },
+        {
+          "start": "20.46",
+          "dur": "5.16",
+          "text": "a price underneath a product it's just it's\u00a0\nperfect for e-commerce it signals a strong\u00a0\u00a0"
+        },
+        {
+          "start": "25.62",
+          "dur": "6.78",
+          "text": "buying intent when someone's looking at a regular\u00a0\ntext ad AdWords ad they may be just searching for\u00a0\u00a0"
+        },
+        {
+          "start": "32.4",
+          "dur": "5.22",
+          "text": "more information they might be looking for a\u00a0\nhundred different things but with these it's\u00a0\u00a0"
+        },
+        {
+          "start": "37.62",
+          "dur": "4.53",
+          "text": "more likely to be people that are ready to buy it\u00a0\nhas the price underneath it it has the picture it\u00a0\u00a0"
+        },
+        {
+          "start": "42.15",
+          "dur": "5.07",
+          "text": "really signals that hey if someone's clicking on\u00a0\nthis they're committing to buying something or\u00a0\u00a0"
+        },
+        {
+          "start": "47.22",
+          "dur": "5.4",
+          "text": "they're at least more likely to be interested\u00a0\nin buying something so what are PLA is I kind\u00a0\u00a0"
+        },
+        {
+          "start": "52.62",
+          "dur": "4.62",
+          "text": "of already showed you but let's make it very\u00a0\nobvious here these are PLA s and as you can\u00a0\u00a0"
+        },
+        {
+          "start": "57.24",
+          "dur": "4.83",
+          "text": "see it's images with underneath it you have the\u00a0\nthe title of what's in there so if you look at\u00a0\u00a0"
+        },
+        {
+          "start": "62.07",
+          "dur": "6.03",
+          "text": "the first one it's yellow dance pants and then the\u00a0\nprice underneath there so this is $31.99 and then\u00a0\u00a0"
+        },
+        {
+          "start": "68.1",
+          "dur": "7.68",
+          "text": "ultimately underneath that it has the websites\u00a0\nOB dance or comm my website so once again these\u00a0\u00a0"
+        },
+        {
+          "start": "75.78",
+          "dur": "5.34",
+          "text": "product listing ads are great for converting\u00a0\npeople because some of those clicking on one\u00a0\u00a0"
+        },
+        {
+          "start": "81.12",
+          "dur": "5.61",
+          "text": "of these is much more likely to buy compared that\u00a0\nwith like a regular text ad below so this one that\u00a0\u00a0"
+        },
+        {
+          "start": "86.73",
+          "dur": "6.36",
+          "text": "says yellow dance pants sale someone might click\u00a0\non that because they're interested in and buying\u00a0\u00a0"
+        },
+        {
+          "start": "93.09",
+          "dur": "3.9",
+          "text": "actually this one they probably would because\u00a0\nit does say sale and all that kind of stuff but\u00a0\u00a0"
+        },
+        {
+          "start": "96.99",
+          "dur": "4.44",
+          "text": "generally speaking text ads when someone clicks\u00a0\non it they're much more likely to be interested\u00a0\u00a0"
+        },
+        {
+          "start": "101.43",
+          "dur": "5.7",
+          "text": "in learning and gathering information in general\u00a0\nwhen you go to Google nine times out of 10 you're\u00a0\u00a0"
+        },
+        {
+          "start": "107.13",
+          "dur": "7.08",
+          "text": "probably interested in information and text ads\u00a0\nwhen you click on a text ad it's probably because\u00a0\u00a0"
+        },
+        {
+          "start": "114.21",
+          "dur": "6.03",
+          "text": "you're looking for information when you click on\u00a0\na regular Google search result most people are\u00a0\u00a0"
+        },
+        {
+          "start": "120.24",
+          "dur": "4.62",
+          "text": "looking for information once again product listing\u00a0\nads they have a price underneath them people in\u00a0\u00a0"
+        },
+        {
+          "start": "124.86",
+          "dur": "3.09",
+          "text": "they click on them are much more likely to buy\u00a0\nso that's what product listing ads are so let's\u00a0\u00a0"
+        },
+        {
+          "start": "127.95",
+          "dur": "4.26",
+          "text": "start talking about them a little bit more and\u00a0\nspecifically on how to set them up so the first\u00a0\u00a0"
+        },
+        {
+          "start": "132.21",
+          "dur": "4.59",
+          "text": "thing you need to do is get your Google merchant\u00a0\naccount that's really easy to do I mean if you\u00a0\u00a0"
+        },
+        {
+          "start": "136.8",
+          "dur": "6",
+          "text": "signed up for Gmail before or Facebook then you\u00a0\ncan definitely do this actually I guess I should\u00a0\u00a0"
+        },
+        {
+          "start": "142.8",
+          "dur": "3.63",
+          "text": "say before you sign up your Google merchant\u00a0\naccount you need to have a gmail account but\u00a0\u00a0"
+        },
+        {
+          "start": "146.43",
+          "dur": "5.88",
+          "text": "that's that's step 0 yeah to have AdWords you\u00a0\nobviously need to have a gmail account so the\u00a0\u00a0"
+        },
+        {
+          "start": "152.31",
+          "dur": "4.11",
+          "text": "next thing is to actually set up your feed and\u00a0\nwe'll talk about this in just a second and I'm\u00a0\u00a0"
+        },
+        {
+          "start": "156.42",
+          "dur": "4.29",
+          "text": "going to show you step-by-step how to do this\u00a0\nand I will believe lesson two so you can watch\u00a0\u00a0"
+        },
+        {
+          "start": "160.71",
+          "dur": "6.03",
+          "text": "that so the second step is setting up the feed\u00a0\nthen after that is setting up the ads in Adwords\u00a0\u00a0"
+        },
+        {
+          "start": "166.74",
+          "dur": "5.85",
+          "text": "and I have lesson 3 where I show you step-by-step\u00a0\nhow to do that as well I'll show you the screen\u00a0\u00a0"
+        },
+        {
+          "start": "172.59",
+          "dur": "5.19",
+          "text": "recording on what to do it's fairly simple it's\u00a0\nactually it's a little bit complicated a little\u00a0\u00a0"
+        },
+        {
+          "start": "177.78",
+          "dur": "5.01",
+          "text": "bit simple now but I'll show you how to do it in\u00a0\nand then it will become very simple so there's two\u00a0\u00a0"
+        },
+        {
+          "start": "182.79",
+          "dur": "5.28",
+          "text": "ways to set up your feet the first one is with a\u00a0\nmanual txt file you can open this up in Excel and\u00a0\u00a0"
+        },
+        {
+          "start": "188.07",
+          "dur": "5.31",
+          "text": "you can manipulate it just like you would a excel\u00a0\nfile or CSV or something like that it's a little\u00a0\u00a0"
+        },
+        {
+          "start": "193.38",
+          "dur": "4.41",
+          "text": "bit ugly there's some benefits we'll talk about in\u00a0\na second for doing it this way but the other way\u00a0\u00a0"
+        },
+        {
+          "start": "197.79",
+          "dur": "5.61",
+          "text": "you can do it is V an automatic feed and there's\u00a0\ndifferent apps that work with Shopify that plug-in\u00a0\u00a0"
+        },
+        {
+          "start": "203.4",
+          "dur": "6.15",
+          "text": "from Shopify into Google same thing with Volusion\u00a0\nhas an automatic feed and BigCommerce does as well\u00a0\u00a0"
+        },
+        {
+          "start": "209.55",
+          "dur": "6.63",
+          "text": "I believe WordPress does is well with Moo commerce\u00a0\nthough so there's some advantages to the automatic\u00a0\u00a0"
+        },
+        {
+          "start": "216.18",
+          "dur": "4.05",
+          "text": "feed obviously it's automatic which makes it a\u00a0\nlittle bit easier there's also some disadvantages\u00a0\u00a0"
+        },
+        {
+          "start": "220.23",
+          "dur": "5.01",
+          "text": "so let's let's talk about those a little bit so\u00a0\nsome of the benefits of doing the feed manually\u00a0\u00a0"
+        },
+        {
+          "start": "225.24",
+          "dur": "6.75",
+          "text": "like I did in that last slide of the txt file is\u00a0\nyou can pick what you want it to say you can pick\u00a0\u00a0"
+        },
+        {
+          "start": "231.99",
+          "dur": "6.27",
+          "text": "the image you have more control that is basically\u00a0\nthe point so my story on why I like to do it with\u00a0\u00a0"
+        },
+        {
+          "start": "238.26",
+          "dur": "5.22",
+          "text": "a manual txt file is as you can see here it says\u00a0\nyellow dance pants underneath it that's not really\u00a0\u00a0"
+        },
+        {
+          "start": "243.48",
+          "dur": "5.31",
+          "text": "the title of my product the title of my product\u00a0\nis jazz pants but I wanted to go in and change it\u00a0\u00a0"
+        },
+        {
+          "start": "248.79",
+          "dur": "5.07",
+          "text": "so it says yellow dance pants because people are\u00a0\nmore likely to click on something that the title\u00a0\u00a0"
+        },
+        {
+          "start": "253.86",
+          "dur": "5.64",
+          "text": "matches with what they're saying now contrast that\u00a0\nwith a lot of people if you just do an automatic\u00a0\u00a0"
+        },
+        {
+          "start": "259.5",
+          "dur": "4.47",
+          "text": "feed what's going to happen is it's going to\u00a0\nautomatically take the title of your product\u00a0\u00a0"
+        },
+        {
+          "start": "263.97",
+          "dur": "6.63",
+          "text": "another is this image is not the standard default\u00a0\nimage the yellow pair of pants is not the standard\u00a0\u00a0"
+        },
+        {
+          "start": "270.6",
+          "dur": "5.04",
+          "text": "image that is on my product page so if you do it\u00a0\nthrough an automatic feed it's going to pull in\u00a0\u00a0"
+        },
+        {
+          "start": "275.64",
+          "dur": "6.78",
+          "text": "the standard image so that's another downside um\u00a0\nalso what I do is with all the different colors\u00a0\u00a0"
+        },
+        {
+          "start": "282.42",
+          "dur": "5.91",
+          "text": "I have different images so I have one that I made\u00a0\nup one product I made up for green dance pants one\u00a0\u00a0"
+        },
+        {
+          "start": "288.33",
+          "dur": "4.95",
+          "text": "that I made up for you know yellow obviously pink\u00a0\nblue all those different ones and this will make\u00a0\u00a0"
+        },
+        {
+          "start": "293.28",
+          "dur": "4.83",
+          "text": "more scent more sense in the next lesson but for\u00a0\nright now just stick with me this is some of the\u00a0\u00a0"
+        },
+        {
+          "start": "298.11",
+          "dur": "5.55",
+          "text": "benefits of manual on the other side the benefits\u00a0\nof the automatic feed is that if you change your\u00a0\u00a0"
+        },
+        {
+          "start": "303.66",
+          "dur": "6.57",
+          "text": "price in Shopify or whatever your commerce\u00a0\nplatform is it'll automatically update in to\u00a0\u00a0"
+        },
+        {
+          "start": "310.23",
+          "dur": "5.49",
+          "text": "you know Google side into the Google merchants\u00a0\nside of things with the manual feed you have to\u00a0\u00a0"
+        },
+        {
+          "start": "315.72",
+          "dur": "5.22",
+          "text": "manually go into that CSV file or that txt file\u00a0\nand change it and then upload it again in the\u00a0\u00a0"
+        },
+        {
+          "start": "320.94",
+          "dur": "6.21",
+          "text": "Merchant Center so that's some of the benefits\u00a0\nof the automatic feed I recommend depending on\u00a0\u00a0"
+        },
+        {
+          "start": "327.15",
+          "dur": "4.8",
+          "text": "what your product is the manual benefits or the\u00a0\nmanual feed but for some of you guys automatic\u00a0\u00a0"
+        },
+        {
+          "start": "331.95",
+          "dur": "3.39",
+          "text": "feed just might make more sense it's definitely\u00a0\nlower maintenance if you like this video then\u00a0\u00a0"
+        },
+        {
+          "start": "335.34",
+          "dur": "5.25",
+          "text": "you're going to love my new e-commerce course the\u00a0\n25k ecommerce profit plan in it I teach you the\u00a0\u00a0"
+        },
+        {
+          "start": "340.59",
+          "dur": "3.69",
+          "text": "strategies and techniques that I actually\u00a0\nuse to build my own successful e-commerce\u00a0\u00a0"
+        },
+        {
+          "start": "344.28",
+          "dur": "5.52",
+          "text": "business we talked about how to set up a website\u00a0\nin e-commerce site that actually makes sales then\u00a0\u00a0"
+        },
+        {
+          "start": "349.8",
+          "dur": "3.75",
+          "text": "we talked about how to get traffic to that site\u00a0\nand ultimately I give you the tips and techniques\u00a0\u00a0"
+        },
+        {
+          "start": "353.55",
+          "dur": "5.01",
+          "text": "on how to make it be as profitable as possible\u00a0\nwe talk about things such as SEO Google Analytics\u00a0\u00a0"
+        },
+        {
+          "start": "358.56",
+          "dur": "4.53",
+          "text": "everything you've heard about AdWords it's all\u00a0\nin there this is really pretty much everything\u00a0\u00a0"
+        },
+        {
+          "start": "363.09",
+          "dur": "4.89",
+          "text": "I know about e-commerce I put in this one course I\u00a0\nwas tired of people asking me how do I get traffic\u00a0\u00a0"
+        },
+        {
+          "start": "367.98",
+          "dur": "3.42",
+          "text": "to my website or how do I build an e-commerce\u00a0\nsite and I wanted to just bundle it all up in\u00a0\u00a0"
+        },
+        {
+          "start": "371.4",
+          "dur": "5.4",
+          "text": "one course when you buy the course you'll get free\u00a0\nlifetime access to my private Facebook group and\u00a0\u00a0"
+        },
+        {
+          "start": "376.8",
+          "dur": "4.29",
+          "text": "on top of that for the first hundred people that\u00a0\nbuy the course I'll give you a free one on one\u00a0\u00a0"
+        },
+        {
+          "start": "381.09",
+          "dur": "5.61",
+          "text": "30-minute consultation you can go to effective\u00a0\ne-commerce comm or click up here now to buy the\u00a0\u00a0"
+        },
+        {
+          "start": "386.7",
+          "dur": "4.71",
+          "text": "course and make sure that you get one of the\u00a0\nfree 30-minute one-on-one consultation sessions"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction"
+    },
+    {
+      "start_time": 13,
+      "title": "Why Product Listing Ads"
+    },
+    {
+      "start_time": 52,
+      "title": "What Are PLAs"
+    },
+    {
+      "start_time": 132,
+      "title": "Get Your Google Merchant Account"
+    },
+    {
+      "start_time": 153,
+      "title": "Set Up Your Feed"
+    },
+    {
+      "start_time": 183,
+      "title": "Manual vs Automatic Feed"
+    },
+    {
+      "start_time": 302,
+      "title": "Benefits of Automatic Feed"
+    }
+  ]
+}

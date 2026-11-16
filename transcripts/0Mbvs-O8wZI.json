@@ -1,0 +1,1670 @@
+{
+  "text": "the first step to setting up your WooCommerce store is to get a domain name after you do that you can choose a host you can choose a website that's going to host your WooCommerce store after that you just install WordPress and if you choose the right host it's very easy it'll be a one-click install and I'm going to talk about all the steps all six of the steps in detail later in this video I just want to quickly give you an overview of what the steps are so after you install WordPress which is the platform that WooCommerce is based on you install the plug-in of WooCommerce very simple very easy to do once you've setup WooCommerce and you can set up a payment processor this is things like PayPal or stripe who's gonna be actually handling the credit cards for you basically also once again this is really easy to do this whole process of setting up blue commerce is very simple and the last and final step is to create your product hi I'm Travis and about six years ago I quit my corporate job to start my first online business my first online store and it was the best thing I ever did and I made a ton of mistakes along the way so I wanted to make this video for you so you don't make a lot of the same mistakes I did now personally I'm a big fan of Shopify but if you're on a budget WooCommerce is a great option and I personally use Moo commerce for some of my stores so this video is going to be the perfect video for you if you're just getting started the first step is to buy a domain name you can go to GoDaddy or Namecheap to get your domain name now a few tips on getting a domain name this domain name is gonna represent you and it's gonna represent your company so you want it to be short easy to spell and easy to remember think of any good website any good company you go to their their website if you don't if it's a hard name to spell it's a hard name to remember you're just you're not going to go there if it's too long there's issues a bonus tip is you want your domain name to include the keyword you're trying to rank for and for those of you that don't know a keyword is what would someone type into Google to find you find your company you want to make sure that that is included an example of this might be if you're selling peanut butter you'd want the domain-name peanut butter calm because it's so short but if that's not available which it probably isn't you might want to use something like peanut butter lovers calm and it still contains the key word and that makes Google know that your site is all about peanut butter and it also lets other people know people that are typing it in that your website is selling and all about peanut butter once you've purchased your domain name you need to choose a company that's gonna host your website so even though WooCommerce is free it's not free to host it you need to either host it yourself which means you need to buy a lot of expensive computer stuff which I don't recommend or pay someone a few bucks a month I personally recommend SCI crown I'll have a link up here and if you use this link I get a little bit of a kickback for them so as a thank you I'll give you a free one-on-one consulting session now I've reviewed all the top hosting companies and I'll link that video up here as well if you want to maybe choose a different one and to be fair all of them give affiliate Commission's I crown doesn't even give the biggest affiliate Commission but I respect them I use them and I think that they're one of the best hosting companies out there in fact they're one of only three companies that WordPress themselves recommend to be used for hosting WordPress they're also really cheap at about 4 bucks a month and they offer a free SSL certificate which is necessary for running mu commerce so after you purchase hosting transfer your domain name over to your host which is a very simple process there's a complete tutorial I have a link I have a complete tutorial walkthrough down below on how to do that and then after you do that you're gonna want to install WordPress which is literally like a one-click install it's the easiest thing to do it used to be very difficult but sites like SiteGround made it really easy with their one-click wordpress install but you've installed WordPress you're gonna go into the backend and you're going to install a plug-in and the plug-in is of course WooCommerce this is also free and also very easy to do again if you have any issues with figuring out how to do this check out the walkthrough tutorial the next step is to find a payment processor someone that's gonna process all your payments I highly recommend at least using PayPal but you'll probably also want to use stripe or some other company like that to accept credit card payments PayPal can work for accepting credit card payments but it's a little clunky so I personally use stripe and PayPal once you've set up the payment processor it's time to add your first product this is easy as well once you're done you're just gonna add the title what do you want the title of your product to be a description and you're gonna want to add all the images and lastly what is the price at that point you're pretty much done and one big bonus tip for you is make sure you design your site so it looks good again I do have that complete walkthrough tutorial and part of the walkthroughs tutorial is showing you how to design your website so it it converts really well so whatever stage you are at and creating your online store take the next step if you just have an idea go buy the domain name today do it right now if you have the domain name then pick a hosting company again I recommend psych round I have the link up here and down below and remember if you use my link I'll give you a free 30-minute one-on-one consulting session so whenever step you're at take the next step make sure also to like and comment down below and I teach people how to create their own passion product and sell it online so if you want more information about that click that subscribe button and last and most importantly remember to enjoy the journey",
+  "id": "0Mbvs-O8wZI",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here:  https://start.travismarziani.com/?utm_source=youtube&utm_campaign=woocommercesetup  \n\nIf you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video, I will be showing you the different things you need to do to set up your Woocommerce store. \n\nBelow are the six steps that you will go through in setting up Woocommerce:\n\nBuy the Domain Name\nYou can go to GoDaddy or Namecheap to get your domain name. For your domain name, remember to keep it short, easy to spell and easy to remember. It\u2019s also a plus if your domain name includes keywords. A keyword is something that a user enters into Google to find your company.\n\nChoose a Host\nOnce you have purchased your domain name, you need to choose a company that is going to host your website. Although Woocommerce is free, it is not free to host a website. You need to host it yourself or pay someone to host it. I personally prefer Siteground. It is one of the three companies that Wordpress themselves recommend to be used for hosting Wordpress. It is also cheap and offers SSL Certificate. \n\nInstall Wordpress\nThis is the easiest thing to do. You can install it with just one click. It used to be very difficult but sites like Siteground have made it easier.\n\nInstall Woocommerce\nOnce you\u2019ve installed Wordpress, you need to go into the backend and install Woocommerce. It is free and very easy to do.\n\nSet Up a Payment Provider\nThe next step is to find a payment processor. This is a system is going to process all your payments. You can use PayPal and Stripe.\n\nCreate Your First Product\nOnce you\u2019ve set up the payment processor, it is time to add you first product. You only need to add the product title, description, images and price. Make sure that you also design your site so it looks good."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "340",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2019-04-23",
+      "title": {
+        "simpleText": "How to Set Up A Woocommerce Site in 6 EASY Steps"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Set Up A Woocommerce Site in 6 EASY Steps",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.06",
+          "dur": "4.35",
+          "text": "the first step to setting up your"
+        },
+        {
+          "start": "1.73",
+          "dur": "2.68",
+          "text": "\n"
+        },
+        {
+          "start": "1.74",
+          "dur": "4.889",
+          "text": "WooCommerce store is to get a domain"
+        },
+        {
+          "start": "4.4",
+          "dur": "2.229",
+          "text": "\n"
+        },
+        {
+          "start": "4.41",
+          "dur": "4.17",
+          "text": "name after you do that you can choose a"
+        },
+        {
+          "start": "6.619",
+          "dur": "1.961",
+          "text": "\n"
+        },
+        {
+          "start": "6.629",
+          "dur": "4.441",
+          "text": "host you can choose a website that's"
+        },
+        {
+          "start": "8.57",
+          "dur": "2.5",
+          "text": "\n"
+        },
+        {
+          "start": "8.58",
+          "dur": "5.76",
+          "text": "going to host your WooCommerce store"
+        },
+        {
+          "start": "11.06",
+          "dur": "3.28",
+          "text": "\n"
+        },
+        {
+          "start": "11.07",
+          "dur": "5.85",
+          "text": "after that you just install WordPress"
+        },
+        {
+          "start": "14.33",
+          "dur": "2.59",
+          "text": "\n"
+        },
+        {
+          "start": "14.34",
+          "dur": "5.16",
+          "text": "and if you choose the right host it's"
+        },
+        {
+          "start": "16.91",
+          "dur": "2.59",
+          "text": "\n"
+        },
+        {
+          "start": "16.92",
+          "dur": "4.439",
+          "text": "very easy it'll be a one-click install"
+        },
+        {
+          "start": "19.49",
+          "dur": "1.869",
+          "text": "\n"
+        },
+        {
+          "start": "19.5",
+          "dur": "3.779",
+          "text": "and I'm going to talk about all the"
+        },
+        {
+          "start": "21.349",
+          "dur": "1.93",
+          "text": "\n"
+        },
+        {
+          "start": "21.359",
+          "dur": "3.75",
+          "text": "steps all six of the steps in detail"
+        },
+        {
+          "start": "23.269",
+          "dur": "1.84",
+          "text": "\n"
+        },
+        {
+          "start": "23.279",
+          "dur": "3.631",
+          "text": "later in this video I just want to"
+        },
+        {
+          "start": "25.099",
+          "dur": "1.811",
+          "text": "\n"
+        },
+        {
+          "start": "25.109",
+          "dur": "4.32",
+          "text": "quickly give you an overview of what the"
+        },
+        {
+          "start": "26.9",
+          "dur": "2.529",
+          "text": "\n"
+        },
+        {
+          "start": "26.91",
+          "dur": "5.189",
+          "text": "steps are so after you install WordPress"
+        },
+        {
+          "start": "29.419",
+          "dur": "2.68",
+          "text": "\n"
+        },
+        {
+          "start": "29.429",
+          "dur": "5.731",
+          "text": "which is the platform that WooCommerce"
+        },
+        {
+          "start": "32.089",
+          "dur": "3.071",
+          "text": "\n"
+        },
+        {
+          "start": "32.099",
+          "dur": "6.631",
+          "text": "is based on you install the plug-in of"
+        },
+        {
+          "start": "35.15",
+          "dur": "3.58",
+          "text": "\n"
+        },
+        {
+          "start": "35.16",
+          "dur": "5.309",
+          "text": "WooCommerce very simple very easy to do"
+        },
+        {
+          "start": "38.72",
+          "dur": "1.749",
+          "text": "\n"
+        },
+        {
+          "start": "38.73",
+          "dur": "4.169",
+          "text": "once you've setup WooCommerce and you"
+        },
+        {
+          "start": "40.459",
+          "dur": "2.44",
+          "text": "\n"
+        },
+        {
+          "start": "40.469",
+          "dur": "4.981",
+          "text": "can set up a payment processor this is"
+        },
+        {
+          "start": "42.889",
+          "dur": "2.561",
+          "text": "\n"
+        },
+        {
+          "start": "42.899",
+          "dur": "4.441",
+          "text": "things like PayPal or stripe who's gonna"
+        },
+        {
+          "start": "45.44",
+          "dur": "1.9",
+          "text": "\n"
+        },
+        {
+          "start": "45.45",
+          "dur": "4.65",
+          "text": "be actually handling the credit cards"
+        },
+        {
+          "start": "47.33",
+          "dur": "2.77",
+          "text": "\n"
+        },
+        {
+          "start": "47.34",
+          "dur": "4.89",
+          "text": "for you basically also once again this"
+        },
+        {
+          "start": "50.09",
+          "dur": "2.14",
+          "text": "\n"
+        },
+        {
+          "start": "50.1",
+          "dur": "4.29",
+          "text": "is really easy to do this whole process"
+        },
+        {
+          "start": "52.22",
+          "dur": "2.17",
+          "text": "\n"
+        },
+        {
+          "start": "52.23",
+          "dur": "4.38",
+          "text": "of setting up blue commerce is very"
+        },
+        {
+          "start": "54.38",
+          "dur": "2.23",
+          "text": "\n"
+        },
+        {
+          "start": "54.39",
+          "dur": "4.23",
+          "text": "simple and the last and final step is to"
+        },
+        {
+          "start": "56.6",
+          "dur": "2.02",
+          "text": "\n"
+        },
+        {
+          "start": "56.61",
+          "dur": "3.99",
+          "text": "create your product hi I'm Travis and"
+        },
+        {
+          "start": "58.61",
+          "dur": "1.99",
+          "text": "\n"
+        },
+        {
+          "start": "58.62",
+          "dur": "4.739",
+          "text": "about six years ago I quit my corporate"
+        },
+        {
+          "start": "60.59",
+          "dur": "2.769",
+          "text": "\n"
+        },
+        {
+          "start": "60.6",
+          "dur": "5.04",
+          "text": "job to start my first online business my"
+        },
+        {
+          "start": "63.349",
+          "dur": "2.291",
+          "text": "\n"
+        },
+        {
+          "start": "63.359",
+          "dur": "4.981",
+          "text": "first online store and it was the best"
+        },
+        {
+          "start": "65.63",
+          "dur": "2.71",
+          "text": "\n"
+        },
+        {
+          "start": "65.64",
+          "dur": "4.86",
+          "text": "thing I ever did and I made a ton of"
+        },
+        {
+          "start": "68.33",
+          "dur": "2.17",
+          "text": "\n"
+        },
+        {
+          "start": "68.34",
+          "dur": "3.84",
+          "text": "mistakes along the way so I wanted to"
+        },
+        {
+          "start": "70.49",
+          "dur": "1.69",
+          "text": "\n"
+        },
+        {
+          "start": "70.5",
+          "dur": "3.27",
+          "text": "make this video for you so you don't"
+        },
+        {
+          "start": "72.17",
+          "dur": "1.6",
+          "text": "\n"
+        },
+        {
+          "start": "72.18",
+          "dur": "4.59",
+          "text": "make a lot of the same mistakes I did"
+        },
+        {
+          "start": "73.76",
+          "dur": "3.01",
+          "text": "\n"
+        },
+        {
+          "start": "73.77",
+          "dur": "5.849",
+          "text": "now personally I'm a big fan of Shopify"
+        },
+        {
+          "start": "76.76",
+          "dur": "2.859",
+          "text": "\n"
+        },
+        {
+          "start": "76.77",
+          "dur": "4.65",
+          "text": "but if you're on a budget WooCommerce is"
+        },
+        {
+          "start": "79.609",
+          "dur": "1.811",
+          "text": "\n"
+        },
+        {
+          "start": "79.619",
+          "dur": "3.991",
+          "text": "a great option and I personally use Moo"
+        },
+        {
+          "start": "81.41",
+          "dur": "2.2",
+          "text": "\n"
+        },
+        {
+          "start": "81.42",
+          "dur": "3.78",
+          "text": "commerce for some of my stores so this"
+        },
+        {
+          "start": "83.6",
+          "dur": "1.6",
+          "text": "\n"
+        },
+        {
+          "start": "83.61",
+          "dur": "2.97",
+          "text": "video is going to be the perfect video"
+        },
+        {
+          "start": "85.19",
+          "dur": "1.39",
+          "text": "\n"
+        },
+        {
+          "start": "85.2",
+          "dur": "3.72",
+          "text": "for you if you're just getting started"
+        },
+        {
+          "start": "86.57",
+          "dur": "2.35",
+          "text": "\n"
+        },
+        {
+          "start": "86.58",
+          "dur": "3.899",
+          "text": "the first step is to buy a domain name"
+        },
+        {
+          "start": "88.91",
+          "dur": "1.569",
+          "text": "\n"
+        },
+        {
+          "start": "88.92",
+          "dur": "4.35",
+          "text": "you can go to GoDaddy"
+        },
+        {
+          "start": "90.469",
+          "dur": "2.801",
+          "text": "\n"
+        },
+        {
+          "start": "90.479",
+          "dur": "5.521",
+          "text": "or Namecheap to get your domain name now"
+        },
+        {
+          "start": "93.26",
+          "dur": "2.74",
+          "text": "\n"
+        },
+        {
+          "start": "93.27",
+          "dur": "5.01",
+          "text": "a few tips on getting a domain name this"
+        },
+        {
+          "start": "95.99",
+          "dur": "2.29",
+          "text": "\n"
+        },
+        {
+          "start": "96",
+          "dur": "4.35",
+          "text": "domain name is gonna represent you and"
+        },
+        {
+          "start": "98.27",
+          "dur": "2.08",
+          "text": "\n"
+        },
+        {
+          "start": "98.28",
+          "dur": "5.04",
+          "text": "it's gonna represent your company so you"
+        },
+        {
+          "start": "100.34",
+          "dur": "2.98",
+          "text": "\n"
+        },
+        {
+          "start": "100.35",
+          "dur": "5.25",
+          "text": "want it to be short easy to spell and"
+        },
+        {
+          "start": "103.31",
+          "dur": "2.29",
+          "text": "\n"
+        },
+        {
+          "start": "103.32",
+          "dur": "4.979",
+          "text": "easy to remember think of any good"
+        },
+        {
+          "start": "105.59",
+          "dur": "2.709",
+          "text": "\n"
+        },
+        {
+          "start": "105.6",
+          "dur": "4.92",
+          "text": "website any good company you go to their"
+        },
+        {
+          "start": "108.289",
+          "dur": "2.231",
+          "text": "\n"
+        },
+        {
+          "start": "108.299",
+          "dur": "4.171",
+          "text": "their website if you don't if it's a"
+        },
+        {
+          "start": "110.51",
+          "dur": "1.96",
+          "text": "\n"
+        },
+        {
+          "start": "110.52",
+          "dur": "2.55",
+          "text": "hard name to spell it's a hard name to"
+        },
+        {
+          "start": "112.46",
+          "dur": "0.61",
+          "text": "\n"
+        },
+        {
+          "start": "112.47",
+          "dur": "2.1",
+          "text": "remember"
+        },
+        {
+          "start": "113.06",
+          "dur": "1.51",
+          "text": "\n"
+        },
+        {
+          "start": "113.07",
+          "dur": "4.589",
+          "text": "you're just you're not going to go there"
+        },
+        {
+          "start": "114.56",
+          "dur": "3.099",
+          "text": "\n"
+        },
+        {
+          "start": "114.57",
+          "dur": "5.25",
+          "text": "if it's too long there's issues a bonus"
+        },
+        {
+          "start": "117.649",
+          "dur": "2.171",
+          "text": "\n"
+        },
+        {
+          "start": "117.659",
+          "dur": "4.081",
+          "text": "tip is you want your domain name to"
+        },
+        {
+          "start": "119.81",
+          "dur": "1.93",
+          "text": "\n"
+        },
+        {
+          "start": "119.82",
+          "dur": "3.839",
+          "text": "include the keyword you're trying to"
+        },
+        {
+          "start": "121.73",
+          "dur": "1.929",
+          "text": "\n"
+        },
+        {
+          "start": "121.74",
+          "dur": "3.3",
+          "text": "rank for and for those of you that don't"
+        },
+        {
+          "start": "123.649",
+          "dur": "1.391",
+          "text": "\n"
+        },
+        {
+          "start": "123.659",
+          "dur": "4.17",
+          "text": "know a keyword is what would someone"
+        },
+        {
+          "start": "125.03",
+          "dur": "2.799",
+          "text": "\n"
+        },
+        {
+          "start": "125.04",
+          "dur": "4.41",
+          "text": "type into Google to find you find your"
+        },
+        {
+          "start": "127.819",
+          "dur": "1.631",
+          "text": "\n"
+        },
+        {
+          "start": "127.829",
+          "dur": "2.531",
+          "text": "company you want to make sure that that"
+        },
+        {
+          "start": "129.44",
+          "dur": "0.92",
+          "text": "\n"
+        },
+        {
+          "start": "129.45",
+          "dur": "2.41",
+          "text": "is included"
+        },
+        {
+          "start": "130.35",
+          "dur": "1.51",
+          "text": "\n"
+        },
+        {
+          "start": "130.36",
+          "dur": "3.3",
+          "text": "an example of this might be if you're"
+        },
+        {
+          "start": "131.85",
+          "dur": "1.81",
+          "text": "\n"
+        },
+        {
+          "start": "131.86",
+          "dur": "3.75",
+          "text": "selling peanut butter you'd want the"
+        },
+        {
+          "start": "133.65",
+          "dur": "1.96",
+          "text": "\n"
+        },
+        {
+          "start": "133.66",
+          "dur": "4.74",
+          "text": "domain-name peanut butter calm because"
+        },
+        {
+          "start": "135.6",
+          "dur": "2.8",
+          "text": "\n"
+        },
+        {
+          "start": "135.61",
+          "dur": "4.23",
+          "text": "it's so short but if that's not"
+        },
+        {
+          "start": "138.39",
+          "dur": "1.45",
+          "text": "\n"
+        },
+        {
+          "start": "138.4",
+          "dur": "2.73",
+          "text": "available which it probably isn't you"
+        },
+        {
+          "start": "139.83",
+          "dur": "1.3",
+          "text": "\n"
+        },
+        {
+          "start": "139.84",
+          "dur": "3.75",
+          "text": "might want to use something like peanut"
+        },
+        {
+          "start": "141.12",
+          "dur": "2.47",
+          "text": "\n"
+        },
+        {
+          "start": "141.13",
+          "dur": "4.95",
+          "text": "butter lovers calm and it still contains"
+        },
+        {
+          "start": "143.58",
+          "dur": "2.5",
+          "text": "\n"
+        },
+        {
+          "start": "143.59",
+          "dur": "4.74",
+          "text": "the key word and that makes Google know"
+        },
+        {
+          "start": "146.07",
+          "dur": "2.26",
+          "text": "\n"
+        },
+        {
+          "start": "146.08",
+          "dur": "3.3",
+          "text": "that your site is all about peanut"
+        },
+        {
+          "start": "148.32",
+          "dur": "1.06",
+          "text": "\n"
+        },
+        {
+          "start": "148.33",
+          "dur": "3.39",
+          "text": "butter and it also lets other people"
+        },
+        {
+          "start": "149.37",
+          "dur": "2.35",
+          "text": "\n"
+        },
+        {
+          "start": "149.38",
+          "dur": "4.38",
+          "text": "know people that are typing it in that"
+        },
+        {
+          "start": "151.71",
+          "dur": "2.05",
+          "text": "\n"
+        },
+        {
+          "start": "151.72",
+          "dur": "3.54",
+          "text": "your website is selling and all about"
+        },
+        {
+          "start": "153.75",
+          "dur": "1.51",
+          "text": "\n"
+        },
+        {
+          "start": "153.76",
+          "dur": "3.39",
+          "text": "peanut butter once you've purchased your"
+        },
+        {
+          "start": "155.25",
+          "dur": "1.9",
+          "text": "\n"
+        },
+        {
+          "start": "155.26",
+          "dur": "4.35",
+          "text": "domain name you need to choose a company"
+        },
+        {
+          "start": "157.14",
+          "dur": "2.47",
+          "text": "\n"
+        },
+        {
+          "start": "157.15",
+          "dur": "5.25",
+          "text": "that's gonna host your website so even"
+        },
+        {
+          "start": "159.6",
+          "dur": "2.8",
+          "text": "\n"
+        },
+        {
+          "start": "159.61",
+          "dur": "5.22",
+          "text": "though WooCommerce is free it's not free"
+        },
+        {
+          "start": "162.39",
+          "dur": "2.44",
+          "text": "\n"
+        },
+        {
+          "start": "162.4",
+          "dur": "3.69",
+          "text": "to host it you need to either host it"
+        },
+        {
+          "start": "164.82",
+          "dur": "1.27",
+          "text": "\n"
+        },
+        {
+          "start": "164.83",
+          "dur": "3.57",
+          "text": "yourself which means you need to buy a"
+        },
+        {
+          "start": "166.08",
+          "dur": "2.32",
+          "text": "\n"
+        },
+        {
+          "start": "166.09",
+          "dur": "4.23",
+          "text": "lot of expensive computer stuff which I"
+        },
+        {
+          "start": "168.39",
+          "dur": "1.93",
+          "text": "\n"
+        },
+        {
+          "start": "168.4",
+          "dur": "4.53",
+          "text": "don't recommend or pay someone a few"
+        },
+        {
+          "start": "170.31",
+          "dur": "2.62",
+          "text": "\n"
+        },
+        {
+          "start": "170.32",
+          "dur": "5.43",
+          "text": "bucks a month I personally recommend SCI"
+        },
+        {
+          "start": "172.92",
+          "dur": "2.83",
+          "text": "\n"
+        },
+        {
+          "start": "172.93",
+          "dur": "5.1",
+          "text": "crown I'll have a link up here and if"
+        },
+        {
+          "start": "175.74",
+          "dur": "2.29",
+          "text": "\n"
+        },
+        {
+          "start": "175.75",
+          "dur": "4.29",
+          "text": "you use this link I get a little bit of"
+        },
+        {
+          "start": "178.02",
+          "dur": "2.02",
+          "text": "\n"
+        },
+        {
+          "start": "178.03",
+          "dur": "3.6",
+          "text": "a kickback for them so as a thank you"
+        },
+        {
+          "start": "180.03",
+          "dur": "1.6",
+          "text": "\n"
+        },
+        {
+          "start": "180.04",
+          "dur": "3.96",
+          "text": "I'll give you a free one-on-one"
+        },
+        {
+          "start": "181.62",
+          "dur": "2.38",
+          "text": "\n"
+        },
+        {
+          "start": "181.63",
+          "dur": "4.89",
+          "text": "consulting session now I've reviewed all"
+        },
+        {
+          "start": "183.99",
+          "dur": "2.53",
+          "text": "\n"
+        },
+        {
+          "start": "184",
+          "dur": "3.81",
+          "text": "the top hosting companies and I'll link"
+        },
+        {
+          "start": "186.51",
+          "dur": "1.3",
+          "text": "\n"
+        },
+        {
+          "start": "186.52",
+          "dur": "3.18",
+          "text": "that video up here as well if you want"
+        },
+        {
+          "start": "187.8",
+          "dur": "1.9",
+          "text": "\n"
+        },
+        {
+          "start": "187.81",
+          "dur": "3.39",
+          "text": "to maybe choose a different one and to"
+        },
+        {
+          "start": "189.69",
+          "dur": "1.51",
+          "text": "\n"
+        },
+        {
+          "start": "189.7",
+          "dur": "2.94",
+          "text": "be fair all of them give affiliate"
+        },
+        {
+          "start": "191.19",
+          "dur": "1.45",
+          "text": "\n"
+        },
+        {
+          "start": "191.2",
+          "dur": "3.289",
+          "text": "Commission's I crown doesn't even give"
+        },
+        {
+          "start": "192.63",
+          "dur": "1.859",
+          "text": "\n"
+        },
+        {
+          "start": "192.64",
+          "dur": "4.59",
+          "text": "the biggest affiliate Commission but I"
+        },
+        {
+          "start": "194.479",
+          "dur": "2.751",
+          "text": "\n"
+        },
+        {
+          "start": "194.489",
+          "dur": "4.331",
+          "text": "respect them I use them and I think that"
+        },
+        {
+          "start": "197.22",
+          "dur": "1.6",
+          "text": "\n"
+        },
+        {
+          "start": "197.23",
+          "dur": "2.94",
+          "text": "they're one of the best hosting"
+        },
+        {
+          "start": "198.81",
+          "dur": "1.36",
+          "text": "\n"
+        },
+        {
+          "start": "198.82",
+          "dur": "3.3",
+          "text": "companies out there in fact they're one"
+        },
+        {
+          "start": "200.16",
+          "dur": "1.96",
+          "text": "\n"
+        },
+        {
+          "start": "200.17",
+          "dur": "4.62",
+          "text": "of only three companies that WordPress"
+        },
+        {
+          "start": "202.11",
+          "dur": "2.68",
+          "text": "\n"
+        },
+        {
+          "start": "202.12",
+          "dur": "5.07",
+          "text": "themselves recommend to be used for"
+        },
+        {
+          "start": "204.78",
+          "dur": "2.41",
+          "text": "\n"
+        },
+        {
+          "start": "204.79",
+          "dur": "4.949",
+          "text": "hosting WordPress they're also really"
+        },
+        {
+          "start": "207.18",
+          "dur": "2.559",
+          "text": "\n"
+        },
+        {
+          "start": "207.19",
+          "dur": "4.98",
+          "text": "cheap at about 4 bucks a month and they"
+        },
+        {
+          "start": "209.729",
+          "dur": "2.441",
+          "text": "\n"
+        },
+        {
+          "start": "209.739",
+          "dur": "4.711",
+          "text": "offer a free SSL certificate which is"
+        },
+        {
+          "start": "212.16",
+          "dur": "2.29",
+          "text": "\n"
+        },
+        {
+          "start": "212.17",
+          "dur": "4.2",
+          "text": "necessary for running mu commerce so"
+        },
+        {
+          "start": "214.44",
+          "dur": "1.93",
+          "text": "\n"
+        },
+        {
+          "start": "214.45",
+          "dur": "5.19",
+          "text": "after you purchase hosting transfer your"
+        },
+        {
+          "start": "216.36",
+          "dur": "3.28",
+          "text": "\n"
+        },
+        {
+          "start": "216.37",
+          "dur": "5.369",
+          "text": "domain name over to your host which is a"
+        },
+        {
+          "start": "219.63",
+          "dur": "2.109",
+          "text": "\n"
+        },
+        {
+          "start": "219.64",
+          "dur": "4.44",
+          "text": "very simple process there's a complete"
+        },
+        {
+          "start": "221.729",
+          "dur": "2.351",
+          "text": "\n"
+        },
+        {
+          "start": "221.739",
+          "dur": "4.021",
+          "text": "tutorial I have a link I have a complete"
+        },
+        {
+          "start": "224.07",
+          "dur": "1.69",
+          "text": "\n"
+        },
+        {
+          "start": "224.08",
+          "dur": "3.18",
+          "text": "tutorial walkthrough down below on how"
+        },
+        {
+          "start": "225.75",
+          "dur": "1.51",
+          "text": "\n"
+        },
+        {
+          "start": "225.76",
+          "dur": "2.79",
+          "text": "to do that and then after you do that"
+        },
+        {
+          "start": "227.25",
+          "dur": "1.3",
+          "text": "\n"
+        },
+        {
+          "start": "227.26",
+          "dur": "3.66",
+          "text": "you're gonna want to install WordPress"
+        },
+        {
+          "start": "228.54",
+          "dur": "2.38",
+          "text": "\n"
+        },
+        {
+          "start": "228.55",
+          "dur": "4.23",
+          "text": "which is literally like a one-click"
+        },
+        {
+          "start": "230.91",
+          "dur": "1.87",
+          "text": "\n"
+        },
+        {
+          "start": "230.92",
+          "dur": "3.69",
+          "text": "install it's the easiest thing to do it"
+        },
+        {
+          "start": "232.77",
+          "dur": "1.84",
+          "text": "\n"
+        },
+        {
+          "start": "232.78",
+          "dur": "3.63",
+          "text": "used to be very difficult but sites like"
+        },
+        {
+          "start": "234.6",
+          "dur": "1.81",
+          "text": "\n"
+        },
+        {
+          "start": "234.61",
+          "dur": "4.17",
+          "text": "SiteGround made it really easy with"
+        },
+        {
+          "start": "236.4",
+          "dur": "2.38",
+          "text": "\n"
+        },
+        {
+          "start": "236.41",
+          "dur": "3.57",
+          "text": "their one-click wordpress install but"
+        },
+        {
+          "start": "238.77",
+          "dur": "1.21",
+          "text": "\n"
+        },
+        {
+          "start": "238.78",
+          "dur": "3.51",
+          "text": "you've installed WordPress you're gonna"
+        },
+        {
+          "start": "239.97",
+          "dur": "2.32",
+          "text": "\n"
+        },
+        {
+          "start": "239.98",
+          "dur": "4.59",
+          "text": "go into the backend and you're going to"
+        },
+        {
+          "start": "242.28",
+          "dur": "2.29",
+          "text": "\n"
+        },
+        {
+          "start": "242.29",
+          "dur": "4.59",
+          "text": "install a plug-in and the plug-in is of"
+        },
+        {
+          "start": "244.56",
+          "dur": "2.32",
+          "text": "\n"
+        },
+        {
+          "start": "244.57",
+          "dur": "5.13",
+          "text": "course WooCommerce this is also free and"
+        },
+        {
+          "start": "246.87",
+          "dur": "2.83",
+          "text": "\n"
+        },
+        {
+          "start": "246.88",
+          "dur": "4.35",
+          "text": "also very easy to do again if you have"
+        },
+        {
+          "start": "249.69",
+          "dur": "1.54",
+          "text": "\n"
+        },
+        {
+          "start": "249.7",
+          "dur": "3",
+          "text": "any issues with figuring out how to do"
+        },
+        {
+          "start": "251.22",
+          "dur": "1.48",
+          "text": "\n"
+        },
+        {
+          "start": "251.23",
+          "dur": "3.87",
+          "text": "this check out the walkthrough tutorial"
+        },
+        {
+          "start": "252.69",
+          "dur": "2.41",
+          "text": "\n"
+        },
+        {
+          "start": "252.7",
+          "dur": "4.2",
+          "text": "the next step is to find a payment"
+        },
+        {
+          "start": "255.09",
+          "dur": "1.81",
+          "text": "\n"
+        },
+        {
+          "start": "255.1",
+          "dur": "3.99",
+          "text": "processor someone that's gonna process"
+        },
+        {
+          "start": "256.89",
+          "dur": "2.2",
+          "text": "\n"
+        },
+        {
+          "start": "256.9",
+          "dur": "4.589",
+          "text": "all your payments I highly recommend at"
+        },
+        {
+          "start": "259.08",
+          "dur": "2.409",
+          "text": "\n"
+        },
+        {
+          "start": "259.09",
+          "dur": "4.95",
+          "text": "least using PayPal but you'll probably"
+        },
+        {
+          "start": "261.479",
+          "dur": "2.561",
+          "text": "\n"
+        },
+        {
+          "start": "261.489",
+          "dur": "4.531",
+          "text": "also want to use stripe or some"
+        },
+        {
+          "start": "264.03",
+          "dur": "1.99",
+          "text": "\n"
+        },
+        {
+          "start": "264.04",
+          "dur": "4.41",
+          "text": "other company like that to accept credit"
+        },
+        {
+          "start": "266.01",
+          "dur": "2.44",
+          "text": "\n"
+        },
+        {
+          "start": "266.02",
+          "dur": "3.84",
+          "text": "card payments PayPal can work for"
+        },
+        {
+          "start": "268.44",
+          "dur": "1.42",
+          "text": "\n"
+        },
+        {
+          "start": "268.45",
+          "dur": "2.88",
+          "text": "accepting credit card payments but it's"
+        },
+        {
+          "start": "269.85",
+          "dur": "1.48",
+          "text": "\n"
+        },
+        {
+          "start": "269.86",
+          "dur": "3.93",
+          "text": "a little clunky so I personally use"
+        },
+        {
+          "start": "271.32",
+          "dur": "2.47",
+          "text": "\n"
+        },
+        {
+          "start": "271.33",
+          "dur": "4.62",
+          "text": "stripe and PayPal once you've set up the"
+        },
+        {
+          "start": "273.78",
+          "dur": "2.17",
+          "text": "\n"
+        },
+        {
+          "start": "273.79",
+          "dur": "4.95",
+          "text": "payment processor it's time to add your"
+        },
+        {
+          "start": "275.94",
+          "dur": "2.8",
+          "text": "\n"
+        },
+        {
+          "start": "275.95",
+          "dur": "4.02",
+          "text": "first product this is easy as well once"
+        },
+        {
+          "start": "278.73",
+          "dur": "1.24",
+          "text": "\n"
+        },
+        {
+          "start": "278.74",
+          "dur": "3.15",
+          "text": "you're done you're just gonna add the"
+        },
+        {
+          "start": "279.96",
+          "dur": "1.93",
+          "text": "\n"
+        },
+        {
+          "start": "279.97",
+          "dur": "4.2",
+          "text": "title what do you want the title of your"
+        },
+        {
+          "start": "281.88",
+          "dur": "2.29",
+          "text": "\n"
+        },
+        {
+          "start": "281.89",
+          "dur": "3.93",
+          "text": "product to be a description and you're"
+        },
+        {
+          "start": "284.16",
+          "dur": "1.66",
+          "text": "\n"
+        },
+        {
+          "start": "284.17",
+          "dur": "4.53",
+          "text": "gonna want to add all the images and"
+        },
+        {
+          "start": "285.81",
+          "dur": "2.89",
+          "text": "\n"
+        },
+        {
+          "start": "285.82",
+          "dur": "4.83",
+          "text": "lastly what is the price at that point"
+        },
+        {
+          "start": "288.69",
+          "dur": "1.96",
+          "text": "\n"
+        },
+        {
+          "start": "288.7",
+          "dur": "3.78",
+          "text": "you're pretty much done and one big"
+        },
+        {
+          "start": "290.64",
+          "dur": "1.84",
+          "text": "\n"
+        },
+        {
+          "start": "290.65",
+          "dur": "4.92",
+          "text": "bonus tip for you is make sure you"
+        },
+        {
+          "start": "292.47",
+          "dur": "3.1",
+          "text": "\n"
+        },
+        {
+          "start": "292.48",
+          "dur": "4.26",
+          "text": "design your site so it looks good again"
+        },
+        {
+          "start": "295.56",
+          "dur": "1.18",
+          "text": "\n"
+        },
+        {
+          "start": "295.57",
+          "dur": "2.79",
+          "text": "I do have that complete walkthrough"
+        },
+        {
+          "start": "296.73",
+          "dur": "1.63",
+          "text": "\n"
+        },
+        {
+          "start": "296.74",
+          "dur": "4.05",
+          "text": "tutorial and part of the walkthroughs"
+        },
+        {
+          "start": "298.35",
+          "dur": "2.44",
+          "text": "\n"
+        },
+        {
+          "start": "298.36",
+          "dur": "5.13",
+          "text": "tutorial is showing you how to design"
+        },
+        {
+          "start": "300.78",
+          "dur": "2.71",
+          "text": "\n"
+        },
+        {
+          "start": "300.79",
+          "dur": "5.13",
+          "text": "your website so it it converts really"
+        },
+        {
+          "start": "303.48",
+          "dur": "2.44",
+          "text": "\n"
+        },
+        {
+          "start": "303.49",
+          "dur": "4.5",
+          "text": "well so whatever stage you are at and"
+        },
+        {
+          "start": "305.91",
+          "dur": "2.08",
+          "text": "\n"
+        },
+        {
+          "start": "305.92",
+          "dur": "4.17",
+          "text": "creating your online store take the next"
+        },
+        {
+          "start": "307.98",
+          "dur": "2.11",
+          "text": "\n"
+        },
+        {
+          "start": "307.99",
+          "dur": "4.41",
+          "text": "step if you just have an idea go buy the"
+        },
+        {
+          "start": "310.08",
+          "dur": "2.32",
+          "text": "\n"
+        },
+        {
+          "start": "310.09",
+          "dur": "4.2",
+          "text": "domain name today do it right now if you"
+        },
+        {
+          "start": "312.39",
+          "dur": "1.9",
+          "text": "\n"
+        },
+        {
+          "start": "312.4",
+          "dur": "4.02",
+          "text": "have the domain name then pick a hosting"
+        },
+        {
+          "start": "314.28",
+          "dur": "2.14",
+          "text": "\n"
+        },
+        {
+          "start": "314.29",
+          "dur": "4.05",
+          "text": "company again I recommend psych round I"
+        },
+        {
+          "start": "316.41",
+          "dur": "1.93",
+          "text": "\n"
+        },
+        {
+          "start": "316.42",
+          "dur": "3.81",
+          "text": "have the link up here and down below and"
+        },
+        {
+          "start": "318.33",
+          "dur": "1.9",
+          "text": "\n"
+        },
+        {
+          "start": "318.34",
+          "dur": "3.42",
+          "text": "remember if you use my link I'll give"
+        },
+        {
+          "start": "320.22",
+          "dur": "1.54",
+          "text": "\n"
+        },
+        {
+          "start": "320.23",
+          "dur": "3.63",
+          "text": "you a free 30-minute one-on-one"
+        },
+        {
+          "start": "321.75",
+          "dur": "2.11",
+          "text": "\n"
+        },
+        {
+          "start": "321.76",
+          "dur": "3.87",
+          "text": "consulting session so whenever step"
+        },
+        {
+          "start": "323.85",
+          "dur": "1.78",
+          "text": "\n"
+        },
+        {
+          "start": "323.86",
+          "dur": "4.14",
+          "text": "you're at take the next step make sure"
+        },
+        {
+          "start": "325.62",
+          "dur": "2.38",
+          "text": "\n"
+        },
+        {
+          "start": "325.63",
+          "dur": "4.2",
+          "text": "also to like and comment down below and"
+        },
+        {
+          "start": "327.99",
+          "dur": "1.84",
+          "text": "\n"
+        },
+        {
+          "start": "328",
+          "dur": "4.38",
+          "text": "I teach people how to create their own"
+        },
+        {
+          "start": "329.82",
+          "dur": "2.56",
+          "text": "\n"
+        },
+        {
+          "start": "329.83",
+          "dur": "3.57",
+          "text": "passion product and sell it online so if"
+        },
+        {
+          "start": "332.37",
+          "dur": "1.03",
+          "text": "\n"
+        },
+        {
+          "start": "332.38",
+          "dur": "3.93",
+          "text": "you want more information about that"
+        },
+        {
+          "start": "333.39",
+          "dur": "2.92",
+          "text": "\n"
+        },
+        {
+          "start": "333.4",
+          "dur": "5.25",
+          "text": "click that subscribe button and last and"
+        },
+        {
+          "start": "336.3",
+          "dur": "2.35",
+          "text": "\n"
+        },
+        {
+          "start": "336.31",
+          "dur": "4.52",
+          "text": "most importantly remember to enjoy the"
+        },
+        {
+          "start": "338.64",
+          "dur": "2.19",
+          "text": "\n"
+        },
+        {
+          "start": "338.65",
+          "dur": "2.18",
+          "text": "journey"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 59,
+      "title": "Travis Marziani"
+    },
+    {
+      "start_time": 89,
+      "title": "Buy a Domain Name"
+    },
+    {
+      "start_time": 157,
+      "title": "Choose a Host"
+    },
+    {
+      "start_time": 244,
+      "title": "Install WooCommerce"
+    },
+    {
+      "start_time": 256,
+      "title": "Set Up a Payment Provider"
+    },
+    {
+      "start_time": 277,
+      "title": "Create Your First Product"
+    }
+  ]
+}

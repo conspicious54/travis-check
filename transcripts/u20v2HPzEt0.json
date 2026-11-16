@@ -1,0 +1,1127 @@
+{
+  "text": "welcome to the effective e-commerce podcast in today's episode we're gonna be talking about Google shopping ads also known as product listing ads also known as PLA so we're gonna do a basic tutorial over everything and just like with AdWords I think it's hard to convey all the subtleties of this over a podcast it's much easier to do it over video where I have a screen share so I do have on my youtube channel defective ecommerce YouTube channel I do have a complete tutorial about product listing ads or at least if I don't have it yet at the time of this recording I will have it up pretty soon so you can go to my youtube channel to see a complete walkthrough tutorial on that but I'm gonna do my best job on this podcast to explain as much as I can about product listing ads Google shopping ads whatever you want to call them for for the point of this podcasts I'm gonna call product listing ads or PLA s so what are PLA is you might be wondering well I've talked about it in previous episodes but just for a quick refresher course if you search something in Google I'm gonna use the example of red blender because I've been using red dance pants way too much and I'm just gonna use red blender for right now how at least if you searched red blender in Google and Google what happens is you get a bunch of different results you get a bunch of different things that show up you get a bunch of text results that'll take you to websites you get a bunch of paid AdWords text results that'll also take you to websites but at the top if you look there are images of red blenders and they have a price underneath them those are product listing ads and the reason they're so powerful is because it shows the searcher the person doing the searching I guess would be the the search e or the searcher the person doing the search e it shows them an image of what the products gonna look like and the price so if someone is going to click on your ad that's because they like the image they like the product itself and they're okay with the price so this is powerful this is a very powerful tool because of exactly what I just said it shows buying intent to if someone's looking for an article they're not going to click on the picture with the price on it because they know that it's not going to be an article that that links gonna take them to a product to purchase so that's why product listing ads are great so one of the neg parts of product listing ads at least at the time of this recording is you don't get to pick which search terms your ads show up for you can tell Google you get to put a image into Google you get to give them a title of your product and you get to give them a link to your product page so what Google does is what Google does best at at that point they look at your product page they look at the product title and they try to figure out what search queries best match your product and it depends on how much you pay them so if you are only bidding 10 cents they're not going to show your product list are pretty convinced someone's gonna click on it have you been a dollar they'll show it for more search queries and it's more likely to show up for read blender for instance so if red if you have a red blender product and let's say a 3-speed red blender and you're only bidding $0.50 it may only come up your product may only come up if someone types in exactly 3 speed-read blender now if you're bidding $1 it might come up anytime someone searches red blender if you're bidding $2 it might come up anytime someone searches anything including crimson blender and the reason is because Google play's the odds and they know that they're going to get paid anytime someone clicks on your ad so they're gonna try to figure out the probability that someone's gonna click on your ad and how much money they're gonna make versus other people I go into a lot of details about this but basically the higher your bid the more your ads gonna get shown at least to up to a certain extent and but at the same time the counterbalance to that is the less relevant the search terms may be so you got to be careful with how you how you do that so the very important thing probably the most important thing about product listing ads is adding negative keywords so I might say let's say use the red blender again as an example I have a red blender for sale and it's got a matte finish not a metallic finish so I would have metallic be a negative keyword because if someone's searching for a metallic red blender they're not gonna want my product cuz my product isn't metallic if someone's searching for a five-speed that might be a negative another negative keyword 5-speed because mine's only a 3-speed and you'd go down the list just like I talked about in the last episode and I'll maybe talk a little bit about how to find negative keywords but for the most part I'm gonna make you listen to last week's episode or the last episode I did about Adwords but you're gonna want to add as many negative keywords as you can possibly think of there's no there's no downside to adding more negative keywords now an important thing to note that I didn't talk about in the last episode is there's broad match keyword negative keywords broad match negative keywords phrase match negative keywords and exact match negative keywords and I don't use exact match negative keywords that often for regular Adwords but I use them all the time for product listing ads why because I'll notice for instance that people will search I'm trying to think of a good example here maybe with my dance pants for instance people will search things like yoga dance pants and and I noticed over and over again if someone searches for yoga dance pants they don't buy or maybe just even yoga pants okay so that's that's probably a better example yoga pants and I'll say hey I don't want the word yoga to be a negative keyword and I don't want the word pants to be a negative keyword but when those two things are combined don't show my my dance pants because someone might type in yoga dance pants and they're likely to purchase or someone might type in something else related but for whatever reason if they put both the word yoga and pants they don't buy so I'm hoping that makes sense just to kind of reiterate it in a different way you can say a negative keyword that would be a broad match which would be any time this word shows up period don't show my ad you can show it as a or you can have a negative keyword that's a phrase match saying anytime this phrase so the example of a phrase negative keyword match might be let's go yoga pants again if the phrase yoga pants shows up don't show my ad period and then exact match would say if exactly yoga pants is what people are searching for word don't show my ads so this probably be easier to explain in video to be quite honest but I'm hoping you get kind of the idea there so figure out what people are searching for and if you see people are searching over and over again for the same thing and not buying I had that either as a broad negative keyword match or a phrase or an exact match and it's really it's up to you on how you do it I think you know what I actually I have a better example the example I'll use is once again go and rap back to the red dance pants if someone if I have the product listing ads for a repair of red dance pants I noticed for instance people would search red pants and my ad would come up and they'd click on it and they wouldn't like it because my pants aren't normal pants their dance pants so I don't want to make the negative keyword red because someone might type in red dance pants I don't want to make the negative keyword pants because someone might type in red dance pants but if someone types in exactly red pants my product doesn't make sense so hopefully that makes it make sense a little bit more so I'd take that phrase red pants or take that as an exact match and create a negative either a negative phrase or a negative keyword exact match out of that so fairly complicated but I'm hoping it's making a little bit more sense there so the basic integrations you're gonna need to set up AdWords to run Google Shopping ads or product listing ads you're gonna want to set up analytics and you're gonna need to set up webmaster tools all those are pretty easy to set up there's another one to try to remember the name of it the Merchant Center you need to set up Google Merchant Center as well Ollie's e to do I have a tutorial video on how to do this obviously if you haven't yet you get my e-commerce success pack I've got a checklist for setting up Adwords and product listing ads and that has links to different videos going step by step on how to do all this stuff it'd be way too complicated to try to explain this over audio but you need to set up AdWords you need to set up analytics and you just have set up you should set up Webmaster Tools and you need to set up the Google Merchant Center all very easy to do you need to set up your feed and this is basically giving the data to Google in the Google Merchant Center on what products you want to have available for the product listing ads so the feed is very simply you could set it up either as a CSV file which is basically an excel file that CSV stands for comma separated values file basically an excel file and they give you templates and they show you how to do this or you can do it automatically if you have Shopify which is one of the reasons I recommend Shopify it does have so many integrations with so many things make things a lot easier but there are benefits to setting it up in a more manual fashion so let's use my dance pants as an example if I were to set it up automatically using Shopify's integration it would just have one product it would just be dance pants but I don't want that I want one product for dance pants I want one product for red dance pants one product for blue dance pants one product for yellow dance pants all the different options all the different search terms that someone might come up with I want a separate products for same thing with performance nut butter potentially now performance nut butter I may just want one product and the product listing ads or I might want a separate one where I really emphasize the fact that it has macadamia nut butter one where I emphasize the fact that ice coconut butter one where I emphasize the fact that it's a keto snack and the way I would do this is the different titles for the product in different images I could do different images for each different ones so for the red dance pants I'd have a pair of red dance pants for the blue out of a pair of blue dance pants same thing with the performance nut butter maybe I use one where the title says performance nut butter - keto snack and I have a stamp that says keto approved on it something like that so if you do it automated it's a lot easier but you don't have as much ability to change things so I generally recommend just setting it up manually if you want to just get your feet wet and get started with it go ahead and use the automated thing so naming campaigns there's a bunch of different ways to do this I feel like I'm gonna keep saying this but it's so much easier to show this in video just check out my youtube channel if you're serious about this the way that I've generally done it is every product has its own campaign and then each variation of that product has a different ad group so it might be dance pants colors as a campaign then one ad group for blue dance pants one ad group for yellow dance pants so on and so on so is I think a lot of it so let me see what else I got here basically you're gonna use it the same way you would with AdWords you're gonna see how much money you're spending see what the return on investment is and if you're spending more money than you're making lower your bid if you're spending less money than you're making raise the bid and figure out what your middle ground is obviously you do want to make a profit but remember you have a lifetime value to your customer another thing that I like to do personally is I like to figure out how much money my website is making and divide the number of webpage visits I get by that so let's say I was making $100 and I get a hundred web page visits each web page visit is worth $1 on average if I was getting a thousand web page visits and making $100 each web page visit would be worth 10 cents and this is just gives you a rough idea of how much each web page visit is worth it's not a perfect number but in the early days it helps you figure out whether or not an ad will potentially eventually be profitable so my number is something like 40 cents per not necessarily just four per web page visit but the other metric that I think is very important is average pages per session so on average every time someone comes to my website they let me think of the easiest way to expend this they visit three web pages if it's cold traffic they're gonna visit less than three pages meaning like if they're not ready to buy though they might visit one page and they might bounce if they're really interested they're gonna visit more pages so you want to look at that number there and I'm forgetting the exact name let me see if I have it in my notes but yeah the average pageviews so if you have a product that's running you have a PLA that's running and it's getting five pageviews on average so let's say it's had a hundred people come to your website and on average it's getting five page they're looking at five different pages of your website then that's probably a pretty good indicator that it's a product that that adds eventually going to work and you're going to want to keep it going now if they're only looking at one or two pages and bouncing right away it's probably not gonna work obviously the biggest tell is whether it's profitable that's that's the real indicator but in the early days it's hard to tell that so I use that number for myself so if I knew on average just to make the numbers a little bit more tangible if I knew on average I made $100 profit and I had a hundred visitors that means every visitor is worth a dollar and on average those visitors visit four pages that means every page that they visit on my site is worth twenty five cents and if I get someone coming from a product listing ad I'm someone coming from a product listing add to my website and on average they're visiting three sites I'd be willing to pay seventy five cents so twenty five cents times three and I can explain this a lot easier in video but basically figure out how much each page that someone goes on your website is worth and calculate that and figure out whether or not your your product listing ads are profitable if you run them for a long time and even if they look like they're profitable based on page views but they're not profitable based on amount of money that they're actually spending on your store obviously shut them down and vice versa you know if if you're running it for a long time and even though they're not visiting a lot of pages but they're purchasing right away then sure of course keep it going so another tip here and there's a lot of just random scattered information I'm about to go on a trip to Thailand it's Thanksgiving this is the last podcast I'm recording so this did not this isn't coming out quite as well as I would like I may come back eventually and do another episode following up so but I'm just gonna keep going with the scattered amount of information I'm hoping that this is helpful to at least somebody out there you want to separate your mobile campaigns from your desktop campaigns and you can do this very simply I have a video again showing this but you can do this very simply by creating two different campaigns one that would be mobile one that would be desktop now you're not allowed to turn off mobile but what you can do is you can do mobile adjusted bit well actually you can turn off mobile you can't turn off desktop so you can do mobile adjusted bit so you can say all right on the desktop only one the mobile adjusted bid is negative 100% so that means if you're bidding $1 you're bidding $0 for the mobile adjusted bid now on the mobile-only campaign which is a little bit harder to do you can do it the opposite way and you can say alright I'll bid $1 on desktop or I can I'll bid 25 cents on desktop but I'll bid 300% on mobile which would make it so your bidding $1 on mobile so the the 25 cents that you're bidding on desktop will never no one will ever that they'll never Google never show your ad on desktop because you're bidding too low so once again you have two different campaigns for red dance shorts one that is desktop red dance shorts or red dance pants one that's desktop red dance pants where you're bidding $1 for desktop and you have a mobile adjusted bid of negative 100% which means you're bidding zero for mobile so that's the first one for the second one it's the mobile red dance pants where you're bidding twenty five cents for desktop and you're doing a mobile adjusted bid of plus three hundred percent so you're bidding $1 Google's not likely to show the 25 cent bid because well why would it in the other campaign you're bidding for a dollar and they're likely to show the mobile adjusted bid where you're actually effectively bidding for a dollar so you can pretty easily do that and the reason is people act differently on mobile than they do on desktop and you want to be able to you want to be able to calculate that you want to be able to adjust for that so after all of this let's say you get your your product ad listing ads really dialed in there's two of the things that I'd recommend you doing every so often it's up to you what interval you want to do this go through and review your ads just like with regular text ads add more negative keywords and adjust your bits very simple add more negative keywords adjust your bids that's really all you can do with product listing ads the other thing I'd recommend is replicating them in Bing ads and I didn't talk about this in the last episode but you should replicate your Google AdWords replicated in Bing ads and they'll probably do just as well in Bing because it's basically the same thing it's basically a search engine and it works in much the same way so there's no reason to think that it'll run that much different it'll get less traffic because less people use Bing then they use Google but overall you - well replicated so I hope this was helpful I like I said it did not come out quite like I would like it to but I I'm working on a complete adwords and product listing course it will be out in a few months so if you want to hear about that you can go to effective e-commerce dot-com slash AdWords or by the time that this by the time the course comes out I'll replace that rule Inc I'll do a 301 redirect to the actual course page so that's effective e-commerce comm slash AdWords and it's going to be in Adwords and product listing course basically I'm gonna put everything I know about that including showing you some behind-the-scenes secrets of my company including the real bid that I use and how I go about reviewing my campaigns and I'll show you it live because it's it's hard to explain how to review campaigns unless I have a screen share that I can show you and I don't want to I don't want to open this information up to the public and definitely to put it behind a paywall because otherwise my competitors are just gonna steal all my bids so that is the product listing and AdWords course I also have a free checklist for starting your AdWords and starting your product listing ads you go to effective e-commerce com and if you find the success pack you'll it's on the top or effective e-commerce comm slash success pack you can sign up to get the free success pack and that'll have the checklist for starting your AdWords and product listing ads that's pretty much it for this episode thank you again for listening and every Monday and Thursday got new episodes coming out all the great stuff everything I know about e-commerce for the most part it's gonna be in these podcasts so I hope you enjoy this and have a great rest your week",
+  "id": "u20v2HPzEt0",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=productlistingads\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nWelcome to the effective e-commerce podcast. In today's episode we're gonna be talking about Google shopping ads also known as product listing ads also known as PLA so we're gonna do a basic tutorial over everything and just like with AdWords I think it's hard to convey all the subtleties of this over a podcast it's much easier to do it over video where I have a screen share so I do have on my YouTube channel defective ecommerce YouTube channel I do have a complete tutorial about product listing ads or at least if I don't have it yet at the time of this recording I will have it up pretty soon so you can go to my YouTube channel to see a complete walkthrough tutorial on that but I'm gonna do my best job on this podcast to explain as much as I can about product listing ads Google shopping ads whatever you want to call them for for the point of this podcasts I'm gonna call product listing ads or PLA s so what are PLA is you might be wondering well I've talked about it in previous episodes but just for a quick refresher course if you search something in Google I'm gonna use the example of red blender because I've been using red dance pants way too much and I'm just gonna use red blender for right now how at least if you searched red blender in Google and Google what happens is you get a bunch of different results you get a bunch of different things that show up you get a bunch of text results that'll take you to websites you get a bunch of paid AdWords text results that'll also take you to websites but at the top if you look there are images of red blenders and they have a price underneath them those are product listing ads and the reason they're so powerful is because it shows the searcher the person doing the searching I guess would be the search e or the searcher the person doing the search e it shows them an image of what the products gonna look like and the price so if someone is going to click on your ad that's because they like the image they like the product itself and they're okay with the price so this is powerful this is a very powerful tool because of exactly what I just said it shows buying intent to if someone's looking for an article they're not going to click on the picture with the price on it because they know that it's not going to be an article that that links gonna take them to a product to purchase so that's why product listing ads are great so one of the neg parts of product listing ads at least at the time of this recording is you don't get to pick which search terms your ads show up for you can tell Google you get to put a image into Google you get to give them a title of your product and you get to give them a link to your product page so what Google does is what Google does best at at that point they look at your product page they look at the product title"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "1157",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-12-11",
+      "title": {
+        "simpleText": "Google Shopping Ads AKA Product Listing Ads - PLAs | Effective Ecommerce Podcast #25"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "Google Shopping Ads AKA Product Listing Ads - PLAs | Effective Ecommerce Podcast #25",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.03",
+          "dur": "3.39",
+          "text": "welcome to the effective e-commerce podcast\u00a0\nin today's episode we're gonna be talking\u00a0\u00a0"
+        },
+        {
+          "start": "3.42",
+          "dur": "6.63",
+          "text": "about Google shopping ads also known as product\u00a0\nlisting ads also known as PLA so we're gonna\u00a0\u00a0"
+        },
+        {
+          "start": "10.05",
+          "dur": "5.82",
+          "text": "do a basic tutorial over everything and just\u00a0\nlike with AdWords I think it's hard to convey\u00a0\u00a0"
+        },
+        {
+          "start": "15.87",
+          "dur": "4.77",
+          "text": "all the subtleties of this over a podcast it's\u00a0\nmuch easier to do it over video where I have a\u00a0\u00a0"
+        },
+        {
+          "start": "20.64",
+          "dur": "6.42",
+          "text": "screen share so I do have on my youtube channel\u00a0\ndefective ecommerce YouTube channel I do have a\u00a0\u00a0"
+        },
+        {
+          "start": "27.06",
+          "dur": "4.65",
+          "text": "complete tutorial about product listing ads or at\u00a0\nleast if I don't have it yet at the time of this\u00a0\u00a0"
+        },
+        {
+          "start": "31.71",
+          "dur": "4.65",
+          "text": "recording I will have it up pretty soon so you\u00a0\ncan go to my youtube channel to see a complete\u00a0\u00a0"
+        },
+        {
+          "start": "36.36",
+          "dur": "5.25",
+          "text": "walkthrough tutorial on that but I'm gonna do my\u00a0\nbest job on this podcast to explain as much as I\u00a0\u00a0"
+        },
+        {
+          "start": "41.61",
+          "dur": "5.13",
+          "text": "can about product listing ads Google shopping ads\u00a0\nwhatever you want to call them for for the point\u00a0\u00a0"
+        },
+        {
+          "start": "46.74",
+          "dur": "5.25",
+          "text": "of this podcasts I'm gonna call product listing\u00a0\nads or PLA s so what are PLA is you might be\u00a0\u00a0"
+        },
+        {
+          "start": "51.99",
+          "dur": "4.44",
+          "text": "wondering well I've talked about it in previous\u00a0\nepisodes but just for a quick refresher course if\u00a0\u00a0"
+        },
+        {
+          "start": "56.43",
+          "dur": "4.56",
+          "text": "you search something in Google I'm gonna use the\u00a0\nexample of red blender because I've been using\u00a0\u00a0"
+        },
+        {
+          "start": "60.99",
+          "dur": "5.55",
+          "text": "red dance pants way too much and I'm just gonna\u00a0\nuse red blender for right now how at least if you\u00a0\u00a0"
+        },
+        {
+          "start": "66.54",
+          "dur": "6.39",
+          "text": "searched red blender in Google and Google what\u00a0\nhappens is you get a bunch of different results\u00a0\u00a0"
+        },
+        {
+          "start": "72.93",
+          "dur": "4.53",
+          "text": "you get a bunch of different things that show up\u00a0\nyou get a bunch of text results that'll take you\u00a0\u00a0"
+        },
+        {
+          "start": "77.46",
+          "dur": "5.52",
+          "text": "to websites you get a bunch of paid AdWords text\u00a0\nresults that'll also take you to websites but\u00a0\u00a0"
+        },
+        {
+          "start": "82.98",
+          "dur": "6.03",
+          "text": "at the top if you look there are images of red\u00a0\nblenders and they have a price underneath them\u00a0\u00a0"
+        },
+        {
+          "start": "89.01",
+          "dur": "5.16",
+          "text": "those are product listing ads and the reason\u00a0\nthey're so powerful is because it shows the\u00a0\u00a0"
+        },
+        {
+          "start": "94.17",
+          "dur": "5.67",
+          "text": "searcher the person doing the searching I guess\u00a0\nwould be the the search e or the searcher the\u00a0\u00a0"
+        },
+        {
+          "start": "99.84",
+          "dur": "5.1",
+          "text": "person doing the search e it shows them an image\u00a0\nof what the products gonna look like and the price\u00a0\u00a0"
+        },
+        {
+          "start": "104.94",
+          "dur": "4.89",
+          "text": "so if someone is going to click on your ad that's\u00a0\nbecause they like the image they like the product\u00a0\u00a0"
+        },
+        {
+          "start": "109.83",
+          "dur": "5.73",
+          "text": "itself and they're okay with the price so this is\u00a0\npowerful this is a very powerful tool because of\u00a0\u00a0"
+        },
+        {
+          "start": "115.56",
+          "dur": "5.79",
+          "text": "exactly what I just said it shows buying intent\u00a0\nto if someone's looking for an article they're\u00a0\u00a0"
+        },
+        {
+          "start": "121.35",
+          "dur": "3.93",
+          "text": "not going to click on the picture with the price\u00a0\non it because they know that it's not going to\u00a0\u00a0"
+        },
+        {
+          "start": "125.28",
+          "dur": "6.24",
+          "text": "be an article that that links gonna take them\u00a0\nto a product to purchase so that's why product\u00a0\u00a0"
+        },
+        {
+          "start": "131.52",
+          "dur": "3.99",
+          "text": "listing ads are great so one of the neg parts of\u00a0\nproduct listing ads at least at the time of this\u00a0\u00a0"
+        },
+        {
+          "start": "135.51",
+          "dur": "5.55",
+          "text": "recording is you don't get to pick which search\u00a0\nterms your ads show up for you can tell Google\u00a0\u00a0"
+        },
+        {
+          "start": "141.06",
+          "dur": "5.43",
+          "text": "you get to put a image into Google you get to\u00a0\ngive them a title of your product and you get\u00a0\u00a0"
+        },
+        {
+          "start": "146.49",
+          "dur": "5.19",
+          "text": "to give them a link to your product page so what\u00a0\nGoogle does is what Google does best at at that\u00a0\u00a0"
+        },
+        {
+          "start": "151.68",
+          "dur": "4.5",
+          "text": "point they look at your product page they look at\u00a0\nthe product title and they try to figure out what\u00a0\u00a0"
+        },
+        {
+          "start": "156.18",
+          "dur": "6.69",
+          "text": "search queries best match your product and it\u00a0\ndepends on how much you pay them so if you are\u00a0\u00a0"
+        },
+        {
+          "start": "162.87",
+          "dur": "5.19",
+          "text": "only bidding 10 cents they're not going to show\u00a0\nyour product list are pretty convinced someone's\u00a0\u00a0"
+        },
+        {
+          "start": "168.06",
+          "dur": "5.1",
+          "text": "gonna click on it have you been a dollar they'll\u00a0\nshow it for more search queries and it's more\u00a0\u00a0"
+        },
+        {
+          "start": "173.16",
+          "dur": "6.12",
+          "text": "likely to show up for read blender for instance\u00a0\nso if red if you have a red blender product and\u00a0\u00a0"
+        },
+        {
+          "start": "179.28",
+          "dur": "6.24",
+          "text": "let's say a 3-speed red blender and you're only\u00a0\nbidding $0.50 it may only come up your product\u00a0\u00a0"
+        },
+        {
+          "start": "185.52",
+          "dur": "6.66",
+          "text": "may only come up if someone types in exactly 3\u00a0\nspeed-read blender now if you're bidding $1 it\u00a0\u00a0"
+        },
+        {
+          "start": "192.18",
+          "dur": "4.77",
+          "text": "might come up anytime someone searches red\u00a0\nblender if you're bidding $2 it might come\u00a0\u00a0"
+        },
+        {
+          "start": "196.95",
+          "dur": "5.37",
+          "text": "up anytime someone searches anything including\u00a0\ncrimson blender and the reason is because Google\u00a0\u00a0"
+        },
+        {
+          "start": "202.32",
+          "dur": "4.98",
+          "text": "play's the odds and they know that they're going\u00a0\nto get paid anytime someone clicks on your ad so\u00a0\u00a0"
+        },
+        {
+          "start": "207.3",
+          "dur": "3.54",
+          "text": "they're gonna try to figure out the probability\u00a0\nthat someone's gonna click on your ad and how\u00a0\u00a0"
+        },
+        {
+          "start": "210.84",
+          "dur": "4.53",
+          "text": "much money they're gonna make versus other\u00a0\npeople I go into a lot of details about this\u00a0\u00a0"
+        },
+        {
+          "start": "215.37",
+          "dur": "4.56",
+          "text": "but basically the higher your bid the more your\u00a0\nads gonna get shown at least to up to a certain\u00a0\u00a0"
+        },
+        {
+          "start": "219.93",
+          "dur": "6.24",
+          "text": "extent and but at the same time the counterbalance\u00a0\nto that is the less relevant the search terms may\u00a0\u00a0"
+        },
+        {
+          "start": "226.17",
+          "dur": "7.08",
+          "text": "be so you got to be careful with how you how you\u00a0\ndo that so the very important thing probably the\u00a0\u00a0"
+        },
+        {
+          "start": "233.25",
+          "dur": "7.11",
+          "text": "most important thing about product listing ads is\u00a0\nadding negative keywords so I might say let's say\u00a0\u00a0"
+        },
+        {
+          "start": "240.36",
+          "dur": "5.46",
+          "text": "use the red blender again as an example I have a\u00a0\nred blender for sale and it's got a matte finish\u00a0\u00a0"
+        },
+        {
+          "start": "245.82",
+          "dur": "5.73",
+          "text": "not a metallic finish so I would have metallic be\u00a0\na negative keyword because if someone's searching\u00a0\u00a0"
+        },
+        {
+          "start": "251.55",
+          "dur": "4.86",
+          "text": "for a metallic red blender they're not gonna\u00a0\nwant my product cuz my product isn't metallic\u00a0\u00a0"
+        },
+        {
+          "start": "256.41",
+          "dur": "5.49",
+          "text": "if someone's searching for a five-speed that\u00a0\nmight be a negative another negative keyword\u00a0\u00a0"
+        },
+        {
+          "start": "261.9",
+          "dur": "5.46",
+          "text": "5-speed because mine's only a 3-speed and you'd go\u00a0\ndown the list just like I talked about in the last\u00a0\u00a0"
+        },
+        {
+          "start": "267.36",
+          "dur": "4.65",
+          "text": "episode and I'll maybe talk a little bit about\u00a0\nhow to find negative keywords but for the most\u00a0\u00a0"
+        },
+        {
+          "start": "272.01",
+          "dur": "7.05",
+          "text": "part I'm gonna make you listen to last week's\u00a0\nepisode or the last episode I did about Adwords\u00a0\u00a0"
+        },
+        {
+          "start": "279.06",
+          "dur": "3.39",
+          "text": "but you're gonna want to add as many negative\u00a0\nkeywords as you can possibly think of there's\u00a0\u00a0"
+        },
+        {
+          "start": "282.45",
+          "dur": "5.85",
+          "text": "no there's no downside to adding more negative\u00a0\nkeywords now an important thing to note that I\u00a0\u00a0"
+        },
+        {
+          "start": "288.3",
+          "dur": "5.37",
+          "text": "didn't talk about in the last episode is there's\u00a0\nbroad match keyword negative keywords broad match\u00a0\u00a0"
+        },
+        {
+          "start": "293.67",
+          "dur": "5.37",
+          "text": "negative keywords phrase match negative keywords\u00a0\nand exact match negative keywords and I don't\u00a0\u00a0"
+        },
+        {
+          "start": "299.04",
+          "dur": "6",
+          "text": "use exact match negative keywords that often for\u00a0\nregular Adwords but I use them all the time for\u00a0\u00a0"
+        },
+        {
+          "start": "305.04",
+          "dur": "8.49",
+          "text": "product listing ads why because I'll notice for\u00a0\ninstance that people will search I'm trying to\u00a0\u00a0"
+        },
+        {
+          "start": "313.53",
+          "dur": "6.54",
+          "text": "think of a good example here maybe with my dance\u00a0\npants for instance people will search things like\u00a0\u00a0"
+        },
+        {
+          "start": "320.07",
+          "dur": "7.56",
+          "text": "yoga dance pants and and I noticed over and over\u00a0\nagain if someone searches for yoga dance pants\u00a0\u00a0"
+        },
+        {
+          "start": "327.63",
+          "dur": "5.46",
+          "text": "they don't buy or maybe just even yoga pants okay\u00a0\nso that's that's probably a better example yoga\u00a0\u00a0"
+        },
+        {
+          "start": "333.09",
+          "dur": "6.15",
+          "text": "pants and I'll say hey I don't want the word yoga\u00a0\nto be a negative keyword and I don't want the word\u00a0\u00a0"
+        },
+        {
+          "start": "339.24",
+          "dur": "6.21",
+          "text": "pants to be a negative keyword but when those two\u00a0\nthings are combined don't show my my dance pants\u00a0\u00a0"
+        },
+        {
+          "start": "345.45",
+          "dur": "5.43",
+          "text": "because someone might type in yoga dance pants\u00a0\nand they're likely to purchase or someone might\u00a0\u00a0"
+        },
+        {
+          "start": "350.88",
+          "dur": "6.81",
+          "text": "type in something else related but for whatever\u00a0\nreason if they put both the word yoga and pants\u00a0\u00a0"
+        },
+        {
+          "start": "357.69",
+          "dur": "5.25",
+          "text": "they don't buy so I'm hoping that makes sense just\u00a0\nto kind of reiterate it in a different way you\u00a0\u00a0"
+        },
+        {
+          "start": "362.94",
+          "dur": "5.67",
+          "text": "can say a negative keyword that would be a broad\u00a0\nmatch which would be any time this word shows up\u00a0\u00a0"
+        },
+        {
+          "start": "368.61",
+          "dur": "5.61",
+          "text": "period don't show my ad you can show it as a or\u00a0\nyou can have a negative keyword that's a phrase\u00a0\u00a0"
+        },
+        {
+          "start": "374.22",
+          "dur": "7.77",
+          "text": "match saying anytime this phrase so the example of\u00a0\na phrase negative keyword match might be let's go\u00a0\u00a0"
+        },
+        {
+          "start": "381.99",
+          "dur": "6.45",
+          "text": "yoga pants again if the phrase yoga pants shows\u00a0\nup don't show my ad period and then exact match\u00a0\u00a0"
+        },
+        {
+          "start": "388.44",
+          "dur": "7.83",
+          "text": "would say if exactly yoga pants is what people\u00a0\nare searching for word don't show my ads so this\u00a0\u00a0"
+        },
+        {
+          "start": "396.27",
+          "dur": "5.31",
+          "text": "probably be easier to explain in video to be quite\u00a0\nhonest but I'm hoping you get kind of the idea\u00a0\u00a0"
+        },
+        {
+          "start": "401.58",
+          "dur": "3.75",
+          "text": "there so figure out what people are searching for\u00a0\nand if you see people are searching over and over\u00a0\u00a0"
+        },
+        {
+          "start": "405.33",
+          "dur": "6.21",
+          "text": "again for the same thing and not buying I had\u00a0\nthat either as a broad negative keyword match\u00a0\u00a0"
+        },
+        {
+          "start": "411.54",
+          "dur": "7.29",
+          "text": "or a phrase or an exact match and it's really it's\u00a0\nup to you on how you do it I think you know what I\u00a0\u00a0"
+        },
+        {
+          "start": "418.83",
+          "dur": "5.79",
+          "text": "actually I have a better example the example I'll\u00a0\nuse is once again go and rap back to the red dance\u00a0\u00a0"
+        },
+        {
+          "start": "424.62",
+          "dur": "7.53",
+          "text": "pants if someone if I have the product listing\u00a0\nads for a repair of red dance pants I noticed\u00a0\u00a0"
+        },
+        {
+          "start": "432.15",
+          "dur": "5.16",
+          "text": "for instance people would search red pants and my\u00a0\nad would come up and they'd click on it and they\u00a0\u00a0"
+        },
+        {
+          "start": "437.31",
+          "dur": "5.43",
+          "text": "wouldn't like it because my pants aren't normal\u00a0\npants their dance pants so I don't want to make\u00a0\u00a0"
+        },
+        {
+          "start": "442.74",
+          "dur": "4.56",
+          "text": "the negative keyword red because someone might\u00a0\ntype in red dance pants I don't want to make the\u00a0\u00a0"
+        },
+        {
+          "start": "447.3",
+          "dur": "5.58",
+          "text": "negative keyword pants because someone might\u00a0\ntype in red dance pants but if someone types\u00a0\u00a0"
+        },
+        {
+          "start": "452.88",
+          "dur": "5.04",
+          "text": "in exactly red pants my product doesn't make sense\u00a0\nso hopefully that makes it make sense a little bit\u00a0\u00a0"
+        },
+        {
+          "start": "457.92",
+          "dur": "6.9",
+          "text": "more so I'd take that phrase red pants or take\u00a0\nthat as an exact match and create a negative\u00a0\u00a0"
+        },
+        {
+          "start": "464.82",
+          "dur": "6.9",
+          "text": "either a negative phrase or a negative keyword\u00a0\nexact match out of that so fairly complicated\u00a0\u00a0"
+        },
+        {
+          "start": "471.72",
+          "dur": "4.44",
+          "text": "but I'm hoping it's making a little bit more sense\u00a0\nthere so the basic integrations you're gonna need\u00a0\u00a0"
+        },
+        {
+          "start": "476.16",
+          "dur": "4.86",
+          "text": "to set up AdWords to run Google Shopping ads\u00a0\nor product listing ads you're gonna want to\u00a0\u00a0"
+        },
+        {
+          "start": "481.02",
+          "dur": "4.59",
+          "text": "set up analytics and you're gonna need to set\u00a0\nup webmaster tools all those are pretty easy to\u00a0\u00a0"
+        },
+        {
+          "start": "485.61",
+          "dur": "5.76",
+          "text": "set up there's another one to try to remember the\u00a0\nname of it the Merchant Center you need to set up\u00a0\u00a0"
+        },
+        {
+          "start": "491.37",
+          "dur": "5.43",
+          "text": "Google Merchant Center as well Ollie's e to do I\u00a0\nhave a tutorial video on how to do this obviously\u00a0\u00a0"
+        },
+        {
+          "start": "496.8",
+          "dur": "4.68",
+          "text": "if you haven't yet you get my e-commerce success\u00a0\npack I've got a checklist for setting up Adwords\u00a0\u00a0"
+        },
+        {
+          "start": "501.48",
+          "dur": "5.79",
+          "text": "and product listing ads and that has links to\u00a0\ndifferent videos going step by step on how to do\u00a0\u00a0"
+        },
+        {
+          "start": "507.27",
+          "dur": "4.92",
+          "text": "all this stuff it'd be way too complicated to try\u00a0\nto explain this over audio but you need to set up\u00a0\u00a0"
+        },
+        {
+          "start": "512.19",
+          "dur": "4.05",
+          "text": "AdWords you need to set up analytics and you just\u00a0\nhave set up you should set up Webmaster Tools and\u00a0\u00a0"
+        },
+        {
+          "start": "516.24",
+          "dur": "5.46",
+          "text": "you need to set up the Google Merchant Center all\u00a0\nvery easy to do you need to set up your feed and\u00a0\u00a0"
+        },
+        {
+          "start": "521.7",
+          "dur": "5.52",
+          "text": "this is basically giving the data to Google in the\u00a0\nGoogle Merchant Center on what products you want\u00a0\u00a0"
+        },
+        {
+          "start": "527.22",
+          "dur": "5.64",
+          "text": "to have available for the product listing ads\u00a0\nso the feed is very simply you could set it up\u00a0\u00a0"
+        },
+        {
+          "start": "532.86",
+          "dur": "6.21",
+          "text": "either as a CSV file which is basically an excel\u00a0\nfile that CSV stands for comma separated values\u00a0\u00a0"
+        },
+        {
+          "start": "539.07",
+          "dur": "6.42",
+          "text": "file basically an excel file and they give you\u00a0\ntemplates and they show you how to do this or you\u00a0\u00a0"
+        },
+        {
+          "start": "545.49",
+          "dur": "4.71",
+          "text": "can do it automatically if you have Shopify which\u00a0\nis one of the reasons I recommend Shopify it does\u00a0\u00a0"
+        },
+        {
+          "start": "550.2",
+          "dur": "4.2",
+          "text": "have so many integrations with so many things\u00a0\nmake things a lot easier but there are benefits\u00a0\u00a0"
+        },
+        {
+          "start": "554.4",
+          "dur": "5.91",
+          "text": "to setting it up in a more manual fashion so let's\u00a0\nuse my dance pants as an example if I were to set\u00a0\u00a0"
+        },
+        {
+          "start": "560.31",
+          "dur": "5.49",
+          "text": "it up automatically using Shopify's integration it\u00a0\nwould just have one product it would just be dance\u00a0\u00a0"
+        },
+        {
+          "start": "565.8",
+          "dur": "5.25",
+          "text": "pants but I don't want that I want one product\u00a0\nfor dance pants I want one product for red dance\u00a0\u00a0"
+        },
+        {
+          "start": "571.05",
+          "dur": "3.57",
+          "text": "pants one product for blue dance pants one product\u00a0\nfor yellow dance pants all the different options\u00a0\u00a0"
+        },
+        {
+          "start": "574.62",
+          "dur": "5.28",
+          "text": "all the different search terms that someone might\u00a0\ncome up with I want a separate products for same\u00a0\u00a0"
+        },
+        {
+          "start": "579.9",
+          "dur": "4.71",
+          "text": "thing with performance nut butter potentially\u00a0\nnow performance nut butter I may just want one\u00a0\u00a0"
+        },
+        {
+          "start": "584.61",
+          "dur": "4.89",
+          "text": "product and the product listing ads or I might\u00a0\nwant a separate one where I really emphasize the\u00a0\u00a0"
+        },
+        {
+          "start": "589.5",
+          "dur": "4.26",
+          "text": "fact that it has macadamia nut butter one where\u00a0\nI emphasize the fact that ice coconut butter\u00a0\u00a0"
+        },
+        {
+          "start": "593.76",
+          "dur": "5.85",
+          "text": "one where I emphasize the fact that it's a keto\u00a0\nsnack and the way I would do this is the different\u00a0\u00a0"
+        },
+        {
+          "start": "599.61",
+          "dur": "5.31",
+          "text": "titles for the product in different images I could\u00a0\ndo different images for each different ones so for\u00a0\u00a0"
+        },
+        {
+          "start": "604.92",
+          "dur": "3.54",
+          "text": "the red dance pants I'd have a pair of red dance\u00a0\npants for the blue out of a pair of blue dance\u00a0\u00a0"
+        },
+        {
+          "start": "608.46",
+          "dur": "7.23",
+          "text": "pants same thing with the performance nut butter\u00a0\nmaybe I use one where the title says performance\u00a0\u00a0"
+        },
+        {
+          "start": "615.69",
+          "dur": "6.27",
+          "text": "nut butter - keto snack and I have a stamp that\u00a0\nsays keto approved on it something like that so\u00a0\u00a0"
+        },
+        {
+          "start": "621.96",
+          "dur": "6.51",
+          "text": "if you do it automated it's a lot easier but you\u00a0\ndon't have as much ability to change things so I\u00a0\u00a0"
+        },
+        {
+          "start": "628.47",
+          "dur": "4.74",
+          "text": "generally recommend just setting it up manually if\u00a0\nyou want to just get your feet wet and get started\u00a0\u00a0"
+        },
+        {
+          "start": "633.21",
+          "dur": "5.97",
+          "text": "with it go ahead and use the automated thing so\u00a0\nnaming campaigns there's a bunch of different ways\u00a0\u00a0"
+        },
+        {
+          "start": "639.18",
+          "dur": "4.44",
+          "text": "to do this I feel like I'm gonna keep saying this\u00a0\nbut it's so much easier to show this in video just\u00a0\u00a0"
+        },
+        {
+          "start": "643.62",
+          "dur": "4.14",
+          "text": "check out my youtube channel if you're serious\u00a0\nabout this the way that I've generally done it\u00a0\u00a0"
+        },
+        {
+          "start": "647.76",
+          "dur": "6.39",
+          "text": "is every product has its own campaign and then\u00a0\neach variation of that product has a different\u00a0\u00a0"
+        },
+        {
+          "start": "654.15",
+          "dur": "6.84",
+          "text": "ad group so it might be dance pants colors as a\u00a0\ncampaign then one ad group for blue dance pants\u00a0\u00a0"
+        },
+        {
+          "start": "660.99",
+          "dur": "7.34",
+          "text": "one ad group for yellow dance pants so on and\u00a0\nso on so is I think a lot of it so let me see\u00a0\u00a0"
+        },
+        {
+          "start": "668.33",
+          "dur": "4.59",
+          "text": "what else I got here basically you're gonna use\u00a0\nit the same way you would with AdWords you're\u00a0\u00a0"
+        },
+        {
+          "start": "672.92",
+          "dur": "4.59",
+          "text": "gonna see how much money you're spending see\u00a0\nwhat the return on investment is and if you're\u00a0\u00a0"
+        },
+        {
+          "start": "677.51",
+          "dur": "5.19",
+          "text": "spending more money than you're making lower\u00a0\nyour bid if you're spending less money than\u00a0\u00a0"
+        },
+        {
+          "start": "682.7",
+          "dur": "5.43",
+          "text": "you're making raise the bid and figure out what\u00a0\nyour middle ground is obviously you do want to\u00a0\u00a0"
+        },
+        {
+          "start": "688.13",
+          "dur": "4.47",
+          "text": "make a profit but remember you have a lifetime\u00a0\nvalue to your customer another thing that I like\u00a0\u00a0"
+        },
+        {
+          "start": "692.6",
+          "dur": "6.96",
+          "text": "to do personally is I like to figure out how much\u00a0\nmoney my website is making and divide the number\u00a0\u00a0"
+        },
+        {
+          "start": "699.56",
+          "dur": "7.08",
+          "text": "of webpage visits I get by that so let's say\u00a0\nI was making $100 and I get a hundred web page\u00a0\u00a0"
+        },
+        {
+          "start": "706.64",
+          "dur": "7.02",
+          "text": "visits each web page visit is worth $1 on average\u00a0\nif I was getting a thousand web page visits and\u00a0\u00a0"
+        },
+        {
+          "start": "713.66",
+          "dur": "5.07",
+          "text": "making $100 each web page visit would be worth 10\u00a0\ncents and this is just gives you a rough idea of\u00a0\u00a0"
+        },
+        {
+          "start": "718.73",
+          "dur": "5.82",
+          "text": "how much each web page visit is worth it's not a\u00a0\nperfect number but in the early days it helps you\u00a0\u00a0"
+        },
+        {
+          "start": "724.55",
+          "dur": "5.31",
+          "text": "figure out whether or not an ad will potentially\u00a0\neventually be profitable so my number is something\u00a0\u00a0"
+        },
+        {
+          "start": "729.86",
+          "dur": "7.02",
+          "text": "like 40 cents per not necessarily just four per\u00a0\nweb page visit but the other metric that I think\u00a0\u00a0"
+        },
+        {
+          "start": "736.88",
+          "dur": "8.04",
+          "text": "is very important is average pages per session so\u00a0\non average every time someone comes to my website\u00a0\u00a0"
+        },
+        {
+          "start": "744.92",
+          "dur": "6.24",
+          "text": "they let me think of the easiest way to expend\u00a0\nthis they visit three web pages if it's cold\u00a0\u00a0"
+        },
+        {
+          "start": "751.16",
+          "dur": "5.4",
+          "text": "traffic they're gonna visit less than three pages\u00a0\nmeaning like if they're not ready to buy though\u00a0\u00a0"
+        },
+        {
+          "start": "756.56",
+          "dur": "4.38",
+          "text": "they might visit one page and they might bounce if\u00a0\nthey're really interested they're gonna visit more\u00a0\u00a0"
+        },
+        {
+          "start": "760.94",
+          "dur": "4.92",
+          "text": "pages so you want to look at that number there and\u00a0\nI'm forgetting the exact name let me see if I have\u00a0\u00a0"
+        },
+        {
+          "start": "765.86",
+          "dur": "5.52",
+          "text": "it in my notes but yeah the average pageviews so\u00a0\nif you have a product that's running you have a\u00a0\u00a0"
+        },
+        {
+          "start": "771.38",
+          "dur": "6.84",
+          "text": "PLA that's running and it's getting five pageviews\u00a0\non average so let's say it's had a hundred people\u00a0\u00a0"
+        },
+        {
+          "start": "778.22",
+          "dur": "5.97",
+          "text": "come to your website and on average it's getting\u00a0\nfive page they're looking at five different pages\u00a0\u00a0"
+        },
+        {
+          "start": "784.19",
+          "dur": "4.83",
+          "text": "of your website then that's probably a pretty\u00a0\ngood indicator that it's a product that that\u00a0\u00a0"
+        },
+        {
+          "start": "789.02",
+          "dur": "4.44",
+          "text": "adds eventually going to work and you're going to\u00a0\nwant to keep it going now if they're only looking\u00a0\u00a0"
+        },
+        {
+          "start": "793.46",
+          "dur": "5.16",
+          "text": "at one or two pages and bouncing right away it's\u00a0\nprobably not gonna work obviously the biggest\u00a0\u00a0"
+        },
+        {
+          "start": "798.62",
+          "dur": "5.74",
+          "text": "tell is whether it's profitable that's that's\u00a0\nthe real indicator but in the early days it's\u00a0\u00a0"
+        },
+        {
+          "start": "804.36",
+          "dur": "6.3",
+          "text": "hard to tell that so I use that number for myself\u00a0\nso if I knew on average just to make the numbers\u00a0\u00a0"
+        },
+        {
+          "start": "810.66",
+          "dur": "6.21",
+          "text": "a little bit more tangible if I knew on average\u00a0\nI made $100 profit and I had a hundred visitors\u00a0\u00a0"
+        },
+        {
+          "start": "816.87",
+          "dur": "7.08",
+          "text": "that means every visitor is worth a dollar and on\u00a0\naverage those visitors visit four pages that means\u00a0\u00a0"
+        },
+        {
+          "start": "823.95",
+          "dur": "7.35",
+          "text": "every page that they visit on my site is worth\u00a0\ntwenty five cents and if I get someone coming\u00a0\u00a0"
+        },
+        {
+          "start": "831.3",
+          "dur": "5.22",
+          "text": "from a product listing ad I'm someone coming from\u00a0\na product listing add to my website and on average\u00a0\u00a0"
+        },
+        {
+          "start": "836.52",
+          "dur": "4.14",
+          "text": "they're visiting three sites I'd be willing\u00a0\nto pay seventy five cents so twenty five cents\u00a0\u00a0"
+        },
+        {
+          "start": "840.66",
+          "dur": "5.25",
+          "text": "times three and I can explain this a lot easier\u00a0\nin video but basically figure out how much each\u00a0\u00a0"
+        },
+        {
+          "start": "845.91",
+          "dur": "4.98",
+          "text": "page that someone goes on your website is worth\u00a0\nand calculate that and figure out whether or not\u00a0\u00a0"
+        },
+        {
+          "start": "850.89",
+          "dur": "6.33",
+          "text": "your your product listing ads are profitable if\u00a0\nyou run them for a long time and even if they\u00a0\u00a0"
+        },
+        {
+          "start": "857.22",
+          "dur": "4.08",
+          "text": "look like they're profitable based on page views\u00a0\nbut they're not profitable based on amount of\u00a0\u00a0"
+        },
+        {
+          "start": "861.3",
+          "dur": "4.44",
+          "text": "money that they're actually spending on your store\u00a0\nobviously shut them down and vice versa you know\u00a0\u00a0"
+        },
+        {
+          "start": "865.74",
+          "dur": "4.26",
+          "text": "if if you're running it for a long time and even\u00a0\nthough they're not visiting a lot of pages but\u00a0\u00a0"
+        },
+        {
+          "start": "870",
+          "dur": "5.97",
+          "text": "they're purchasing right away then sure of course\u00a0\nkeep it going so another tip here and there's a\u00a0\u00a0"
+        },
+        {
+          "start": "875.97",
+          "dur": "5.31",
+          "text": "lot of just random scattered information I'm about\u00a0\nto go on a trip to Thailand it's Thanksgiving this\u00a0\u00a0"
+        },
+        {
+          "start": "881.28",
+          "dur": "3.78",
+          "text": "is the last podcast I'm recording so this did\u00a0\nnot this isn't coming out quite as well as I\u00a0\u00a0"
+        },
+        {
+          "start": "885.06",
+          "dur": "5.49",
+          "text": "would like I may come back eventually and do\u00a0\nanother episode following up so but I'm just\u00a0\u00a0"
+        },
+        {
+          "start": "890.55",
+          "dur": "4.53",
+          "text": "gonna keep going with the scattered amount of\u00a0\ninformation I'm hoping that this is helpful to\u00a0\u00a0"
+        },
+        {
+          "start": "895.08",
+          "dur": "6.21",
+          "text": "at least somebody out there you want to separate\u00a0\nyour mobile campaigns from your desktop campaigns\u00a0\u00a0"
+        },
+        {
+          "start": "901.29",
+          "dur": "4.89",
+          "text": "and you can do this very simply I have a video\u00a0\nagain showing this but you can do this very simply\u00a0\u00a0"
+        },
+        {
+          "start": "906.18",
+          "dur": "5.55",
+          "text": "by creating two different campaigns one that would\u00a0\nbe mobile one that would be desktop now you're not\u00a0\u00a0"
+        },
+        {
+          "start": "911.73",
+          "dur": "6.66",
+          "text": "allowed to turn off mobile but what you can do is\u00a0\nyou can do mobile adjusted bit well actually you\u00a0\u00a0"
+        },
+        {
+          "start": "918.39",
+          "dur": "4.71",
+          "text": "can turn off mobile you can't turn off desktop\u00a0\nso you can do mobile adjusted bit so you can\u00a0\u00a0"
+        },
+        {
+          "start": "923.1",
+          "dur": "5.61",
+          "text": "say all right on the desktop only one the mobile\u00a0\nadjusted bid is negative 100% so that means if\u00a0\u00a0"
+        },
+        {
+          "start": "928.71",
+          "dur": "6.49",
+          "text": "you're bidding $1 you're bidding $0 for the mobile\u00a0\nadjusted bid now on the mobile-only campaign which\u00a0\u00a0"
+        },
+        {
+          "start": "935.2",
+          "dur": "6",
+          "text": "is a little bit harder to do you can do it the\u00a0\nopposite way and you can say alright I'll bid $1\u00a0\u00a0"
+        },
+        {
+          "start": "941.2",
+          "dur": "8.67",
+          "text": "on desktop or I can I'll bid 25 cents on desktop\u00a0\nbut I'll bid 300% on mobile which would make it so\u00a0\u00a0"
+        },
+        {
+          "start": "949.87",
+          "dur": "6.9",
+          "text": "your bidding $1 on mobile so the the 25 cents that\u00a0\nyou're bidding on desktop will never no one will\u00a0\u00a0"
+        },
+        {
+          "start": "956.77",
+          "dur": "5.31",
+          "text": "ever that they'll never Google never show your ad\u00a0\non desktop because you're bidding too low so once\u00a0\u00a0"
+        },
+        {
+          "start": "962.08",
+          "dur": "4.62",
+          "text": "again you have two different campaigns for red\u00a0\ndance shorts one that is desktop red dance shorts\u00a0\u00a0"
+        },
+        {
+          "start": "966.7",
+          "dur": "5.19",
+          "text": "or red dance pants one that's desktop red dance\u00a0\npants where you're bidding $1 for desktop and you\u00a0\u00a0"
+        },
+        {
+          "start": "971.89",
+          "dur": "4.86",
+          "text": "have a mobile adjusted bid of negative 100% which\u00a0\nmeans you're bidding zero for mobile so that's the\u00a0\u00a0"
+        },
+        {
+          "start": "976.75",
+          "dur": "5.76",
+          "text": "first one for the second one it's the mobile red\u00a0\ndance pants where you're bidding twenty five cents\u00a0\u00a0"
+        },
+        {
+          "start": "982.51",
+          "dur": "4.35",
+          "text": "for desktop and you're doing a mobile adjusted bid\u00a0\nof plus three hundred percent so you're bidding\u00a0\u00a0"
+        },
+        {
+          "start": "986.86",
+          "dur": "7.59",
+          "text": "$1 Google's not likely to show the 25 cent bid\u00a0\nbecause well why would it in the other campaign\u00a0\u00a0"
+        },
+        {
+          "start": "994.45",
+          "dur": "4.92",
+          "text": "you're bidding for a dollar and they're likely\u00a0\nto show the mobile adjusted bid where you're\u00a0\u00a0"
+        },
+        {
+          "start": "999.37",
+          "dur": "5.43",
+          "text": "actually effectively bidding for a dollar so you\u00a0\ncan pretty easily do that and the reason is people\u00a0\u00a0"
+        },
+        {
+          "start": "1004.8",
+          "dur": "3.87",
+          "text": "act differently on mobile than they do on desktop\u00a0\nand you want to be able to you want to be able\u00a0\u00a0"
+        },
+        {
+          "start": "1008.67",
+          "dur": "5.43",
+          "text": "to calculate that you want to be able to adjust\u00a0\nfor that so after all of this let's say you get\u00a0\u00a0"
+        },
+        {
+          "start": "1014.1",
+          "dur": "5.01",
+          "text": "your your product ad listing ads really dialed in\u00a0\nthere's two of the things that I'd recommend you\u00a0\u00a0"
+        },
+        {
+          "start": "1019.11",
+          "dur": "4.89",
+          "text": "doing every so often it's up to you what interval\u00a0\nyou want to do this go through and review your ads\u00a0\u00a0"
+        },
+        {
+          "start": "1024",
+          "dur": "6.48",
+          "text": "just like with regular text ads add more negative\u00a0\nkeywords and adjust your bits very simple add\u00a0\u00a0"
+        },
+        {
+          "start": "1030.48",
+          "dur": "3.99",
+          "text": "more negative keywords adjust your bids that's\u00a0\nreally all you can do with product listing ads\u00a0\u00a0"
+        },
+        {
+          "start": "1034.47",
+          "dur": "4.47",
+          "text": "the other thing I'd recommend is replicating\u00a0\nthem in Bing ads and I didn't talk about this\u00a0\u00a0"
+        },
+        {
+          "start": "1038.94",
+          "dur": "4.59",
+          "text": "in the last episode but you should replicate\u00a0\nyour Google AdWords replicated in Bing ads and\u00a0\u00a0"
+        },
+        {
+          "start": "1043.53",
+          "dur": "4.65",
+          "text": "they'll probably do just as well in Bing because\u00a0\nit's basically the same thing it's basically a\u00a0\u00a0"
+        },
+        {
+          "start": "1048.18",
+          "dur": "4.98",
+          "text": "search engine and it works in much the same way\u00a0\nso there's no reason to think that it'll run that\u00a0\u00a0"
+        },
+        {
+          "start": "1053.16",
+          "dur": "5.97",
+          "text": "much different it'll get less traffic because less\u00a0\npeople use Bing then they use Google but overall\u00a0\u00a0"
+        },
+        {
+          "start": "1059.13",
+          "dur": "7.5",
+          "text": "you - well replicated so I hope this was helpful I\u00a0\nlike I said it did not come out quite like I would\u00a0\u00a0"
+        },
+        {
+          "start": "1066.63",
+          "dur": "6.12",
+          "text": "like it to but I I'm working on a complete adwords\u00a0\nand product listing course it will be out in a few\u00a0\u00a0"
+        },
+        {
+          "start": "1072.75",
+          "dur": "4.8",
+          "text": "months so if you want to hear about that you can\u00a0\ngo to effective e-commerce dot-com slash AdWords\u00a0\u00a0"
+        },
+        {
+          "start": "1077.55",
+          "dur": "5.19",
+          "text": "or by the time that this by the time the course\u00a0\ncomes out I'll replace that rule Inc I'll do a\u00a0\u00a0"
+        },
+        {
+          "start": "1082.74",
+          "dur": "6.18",
+          "text": "301 redirect to the actual course page so that's\u00a0\neffective e-commerce comm slash AdWords and it's\u00a0\u00a0"
+        },
+        {
+          "start": "1088.92",
+          "dur": "4.44",
+          "text": "going to be in Adwords and product listing course\u00a0\nbasically I'm gonna put everything I know about\u00a0\u00a0"
+        },
+        {
+          "start": "1093.36",
+          "dur": "6.12",
+          "text": "that including showing you some behind-the-scenes\u00a0\nsecrets of my company including the real bid that\u00a0\u00a0"
+        },
+        {
+          "start": "1099.48",
+          "dur": "6.87",
+          "text": "I use and how I go about reviewing my campaigns\u00a0\nand I'll show you it live because it's it's hard\u00a0\u00a0"
+        },
+        {
+          "start": "1106.35",
+          "dur": "5.46",
+          "text": "to explain how to review campaigns unless I have a\u00a0\nscreen share that I can show you and I don't want\u00a0\u00a0"
+        },
+        {
+          "start": "1111.81",
+          "dur": "4.29",
+          "text": "to I don't want to open this information up to the\u00a0\npublic and definitely to put it behind a paywall\u00a0\u00a0"
+        },
+        {
+          "start": "1116.1",
+          "dur": "6.03",
+          "text": "because otherwise my competitors are just gonna\u00a0\nsteal all my bids so that is the product listing\u00a0\u00a0"
+        },
+        {
+          "start": "1122.13",
+          "dur": "6.15",
+          "text": "and AdWords course I also have a free checklist\u00a0\nfor starting your AdWords and starting your\u00a0\u00a0"
+        },
+        {
+          "start": "1128.28",
+          "dur": "5.07",
+          "text": "product listing ads you go to effective e-commerce\u00a0\ncom and if you find the success pack you'll it's\u00a0\u00a0"
+        },
+        {
+          "start": "1133.35",
+          "dur": "4.5",
+          "text": "on the top or effective e-commerce comm slash\u00a0\nsuccess pack you can sign up to get the free\u00a0\u00a0"
+        },
+        {
+          "start": "1137.85",
+          "dur": "5.01",
+          "text": "success pack and that'll have the checklist for\u00a0\nstarting your AdWords and product listing ads\u00a0\u00a0"
+        },
+        {
+          "start": "1142.86",
+          "dur": "5.04",
+          "text": "that's pretty much it for this episode thank you\u00a0\nagain for listening and every Monday and Thursday\u00a0\u00a0"
+        },
+        {
+          "start": "1147.9",
+          "dur": "4.89",
+          "text": "got new episodes coming out all the great stuff\u00a0\neverything I know about e-commerce for the most\u00a0\u00a0"
+        },
+        {
+          "start": "1152.79",
+          "dur": "4.38",
+          "text": "part it's gonna be in these podcasts so I hope\u00a0\nyou enjoy this and have a great rest your week"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 89,
+      "title": "Product Listing Ads"
+    },
+    {
+      "start_time": 234,
+      "title": "Adding Negative Keywords"
+    },
+    {
+      "start_time": 269,
+      "title": "Find Negative Keywords"
+    },
+    {
+      "start_time": 294,
+      "title": "Negative Keywords"
+    },
+    {
+      "start_time": 474,
+      "title": "Basic Integrations"
+    },
+    {
+      "start_time": 489,
+      "title": "Merchant Center"
+    },
+    {
+      "start_time": 636,
+      "title": "Naming Campaigns"
+    },
+    {
+      "start_time": 738,
+      "title": "Average Pages per Session"
+    },
+    {
+      "start_time": 767,
+      "title": "Average Pageviews"
+    }
+  ]
+}

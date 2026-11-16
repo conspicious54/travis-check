@@ -1,0 +1,661 @@
+{
+  "text": "there's some dirty little secrets about Shopify you should know before you buy including how you can build a fully functional online store without using Shopify at all And I've done it myself I've built my own online store without using Shopify And later in this video I'm going to show you exactly how I did it And let's talk about Shopify and why you may not want to use this company to build your online store First off with Shopify you're paying a premium The base plan starts at $39 a month but that's just the beginning Once you start adding all the apps and upgrading the themes all the different plugins the price climbs up quickly And if you want to launch a second store that's another full monthly fee Another thing is there's a transaction fee Even if you use Shopify payments you're still charged around 2.9% plus 30% for every single transaction And if you decide to use a third-party payment gateway Shopify is going to add an extra 1% fee on top of that And these transaction fees will eat into your margins really fast especially when you're just getting started But on top of that there's a bigger issue that a lot of people overlook When you build your website with Shopify you don't own your store Yes you can build it and customize it to an extent but Shopify controls the backend the checkout process and even what's allowed on their platform I've seen sellers create Shopify stores and then end up getting banned from the platform And if Shopify doesn't like what you're selling on the website they can completely deny your ability to sell on Shopify even months or years after you've started your website On top of that everything seems to cost more on Shopify Most of the themes plugins and add-ons come with a premium price tag And developers know that Shopify users are used to paying more money So the same functionality that's free or cheaper on other platforms costs significantly more on the Shopify ecosystem And with Shopify you don't actually have complete customization abilities especially on the checkout and things like that unless you're paying their most extreme pricing which is $2,000 a month A lot of the Shopify platform is locked down And what's really important about all this is Shopify is not even the most popular e-commerce platform out there In fact the most popular e-commerce platform is Woo Commerce It's the number one e-commerce platform and it's free It's used by over 6.5 million sellers and it powers more than 36% of all online stores And with Woo Commerce you actually own your website So let's talk about Woo Commerce and why it might be a better choice than Shopify First of all Woo Commerce is free It is a free plugin that you add to WordPress which is a free tool that will help you to build your own website Now the only thing with WordPress and Woo Commerce is you are going to have to pay for hosting And that starts at just a few dollars a month And I personally use Hostinger for my hosting When you pay for hosting or hosting for just a few dollars a month not only can you start one WooCommerce website with that few dollars you can start multiple I think around a hundred different WooCommerce websites all with just one subscription versus Shopify if you were to start a hundred e-commerce websites that would be hundreds if not thousands of dollars And a lot of the hosting companies out there including Hostingers have a easy one-click Woo Commerce setup program So if you're starting on a budget using Woo Commerce is a nobrainer But on top of that Woo Commerce has a lot more flexibility You're not just building a store You're building something that you actually own and control You're not stuck with a lockdown system like you are with Shopify that has limited customization With Woo Commerce it's fully customizable You can change any and all parts of it without needing to get permission from some third-party company WooCommerce also has way more plugins than Shopify It has the biggest library of plugins and themes and all those kind of add-ons out of any of the different e-commerce platforms There's over 55,000 available plugins that will add functions and features to your website And since WooCommerce is an open-source platform many of the plugins are actually free which is not true with Shopify Most the plugins with Shopify tend to come with a heavy price tag And with Woo Commerce you can add anything and everything that you could possibly think of including advanced analytics tools subscription billing product bundling or even customer loyalty programs One popular plug-in for Woo Commerce is subscriptions which allows you to add reoccurring payments There's also WooCommerce bookings If you offer appointments or services you can add that plugin and it will allow your customer to book appointments with you There's also tools that will help you to rank on SEO like RankMath or Yoast SEO Now one big con with Woo Commerce is it doesn't come with built-in customer support With Shopify when you sign up you get customer support if there's ever an issue with your website However if you sign up with Hostinger and you use them to host your website they have 24/7 support plus an AI assistant to help you set up and troubleshoot your website So you're still going to be able to get a lot of the help that you need without the higher price tag if you do Woo Commerce with Hostinger And on top of all this Woo Commerce is really easy to set up Let me walk you through how I set up my own WooCommerce store for one of my brands Carnivore Electrolytes And the first step was signing up for hosting And as I've talked about throughout this video I chose to go with Hostinger because it's affordable reliable and it's perfect for running WooCommerce stores And there is a link to Hostinger down below in the description that will get you a discount when you sign up Now we're going to choose a plan And the longer your plan the more you save because it locks in that discounted rate And after choosing a plan we're going to create an account and then enter our billing information And as I mentioned I do have the hookup with Hostinger You can use the discount code Travis to get an extra 10% off Once we've submitted our details we officially have hosting for our WooCommerce site Next we're going to set up the website It'll ask us what kind of site do we want to create So we're going to select online store Then we'll choose the WooCommerce Plus WordPress option since Woo Commerce is a plug-in that runs on WordPress Now we're going to pick a theme And you can scroll through and preview the options to find the one that fits your brand Don't worry too much about it because you can always change your theme later And after that we'll choose a domain name for our site Hostinger gives us a free domain name Usually you're going to have to pay for this but when you sign up with Hostinger they give it to you for free So we're just going to type it in and register it At this point we already have a working website But now we need to start adding the pieces to make it a real store First we'll enter some basic setup details like our store address category and the type of products we're going to sell For this example we're adding Carnivore Electrolytes which is a physical product We're just going to click add a product and then we're going to need to upload the main image write a short description for it and enter the product price Once that done our product is live and ready for customers Now we need to set up payments and the easiest option is Woo Payments We're just going to need to sign up enter a few business details here and connect our bank account so we can start getting paid Then we'll need to set up our tax rules and shipping options For example we can offer free shipping over a certain order amount And finally let's make our site on brand We'll go to appearance on the sidebar and click customize From here we can change the layout update colors swap out images and adjust fonts It's all drag and drop and super easy to use And boom just like that we have a fully functional e-commerce store using Woo Commerce that we built from scratch So the real question that we started this video with is do you need Shopify and the answer is obviously no Woo Commerce is cheaper better in my opinion for a lot of people and it has a lot more features and functionality than a Shopify site does Now some people might say that Shopify is easier to start but I just showed you how easy it is to start a Woo Commerce website And like I've mentioned over and over again Woo Commerce is much more affordable And when you have the right hosting company creating a WooCommerce website's actually really easy Again that is why I recommend Hostinger And I do have a link down below right here that gets you a discount on Hostinger However if you want a more detailed video where I'll show you how to set up a WooCommerce website you can click on this video right here and I'll show you in depth step by step how to create your own WooCommerce website So click on the next video I'll see you in the next video and thanks for watching",
+  "id": "0TMeIzeYFeE",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "I show you how you can build your own online store without using Shopify!\nClick below to learn my Amazon FBA Blueprint for 2026\nhttps://start.travismarziani.com/?utm_source=youtube&utm_campaign=youdontneedshopify\n\nInstagram: https://www.instagram.com/travismarziani/\n\n0:00 Introduction\n0:22 Why You May Not Want to Use Shopify\n2:30 Most Popular Ecommerce Platform\n2:50 Woocommerce vs Shopify\n5:45 How I Set Up My Woocommerce Store\n\nTools I recommend:\nSign up using one of the links below and I will give you a free 1 on 1 consultation\nFBACreatives: https://fbacreatives.com (Get 40% OFF brand and logo designs with code: TRAVIS)\nShopify: http://travismarziani.com/shopify\nOnlinejobs.ph: http://travismarziani.com/onlinejobs\nSiteground: http://travismarziani.com/siteground\nHelium 10: http://travismarziani.com/helium10\nJungle Scout: http://travismarziani.com/junglescout\nWeb Hosting With Hostinger: http://www.hostinger.com/travis\nFiverr: http://travismarziani.com/gofiverr\n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel, so thank you!"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "543",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2025-06-15",
+      "title": {
+        "simpleText": "You DON\u2019T Need SHOPIFY! (WATCH BEFORE BUYING!)"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "You DON\u2019T Need SHOPIFY! (WATCH BEFORE BUYING!)",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.08",
+          "dur": "5.279",
+          "text": "there's some dirty little secrets about\nShopify you should know before you buy"
+        },
+        {
+          "start": "5.359",
+          "dur": "4.961",
+          "text": "including how you can build a fully\nfunctional online store without using"
+        },
+        {
+          "start": "10.32",
+          "dur": "6.16",
+          "text": "Shopify at all And I've done it myself\nI've built my own online store without"
+        },
+        {
+          "start": "16.48",
+          "dur": "4.4",
+          "text": "using Shopify And later in this video\nI'm going to show you exactly how I did"
+        },
+        {
+          "start": "20.88",
+          "dur": "6",
+          "text": "it And let's talk about Shopify and why\nyou may not want to use this company to"
+        },
+        {
+          "start": "26.88",
+          "dur": "5.28",
+          "text": "build your online store First off with\nShopify you're paying a premium The base"
+        },
+        {
+          "start": "32.16",
+          "dur": "5.68",
+          "text": "plan starts at $39 a month but that's\njust the beginning Once you start adding"
+        },
+        {
+          "start": "37.84",
+          "dur": "4.399",
+          "text": "all the apps and upgrading the themes\nall the different plugins the price"
+        },
+        {
+          "start": "42.239",
+          "dur": "5.361",
+          "text": "climbs up quickly And if you want to\nlaunch a second store that's another"
+        },
+        {
+          "start": "47.6",
+          "dur": "5.36",
+          "text": "full monthly fee Another thing is\nthere's a transaction fee Even if you"
+        },
+        {
+          "start": "52.96",
+          "dur": "5.84",
+          "text": "use Shopify payments you're still\ncharged around 2.9% plus 30% for every"
+        },
+        {
+          "start": "58.8",
+          "dur": "5.04",
+          "text": "single transaction And if you decide to\nuse a third-party payment gateway"
+        },
+        {
+          "start": "63.84",
+          "dur": "4.24",
+          "text": "Shopify is going to add an extra 1% fee\non top of that And these transaction"
+        },
+        {
+          "start": "68.08",
+          "dur": "5.039",
+          "text": "fees will eat into your margins really\nfast especially when you're just getting"
+        },
+        {
+          "start": "73.119",
+          "dur": "3.441",
+          "text": "started But on top of that there's a\nbigger issue that a lot of people"
+        },
+        {
+          "start": "76.56",
+          "dur": "5.04",
+          "text": "overlook When you build your website\nwith Shopify you don't own your store"
+        },
+        {
+          "start": "81.6",
+          "dur": "5.12",
+          "text": "Yes you can build it and customize it to\nan extent but Shopify controls the"
+        },
+        {
+          "start": "86.72",
+          "dur": "5.68",
+          "text": "backend the checkout process and even\nwhat's allowed on their platform I've"
+        },
+        {
+          "start": "92.4",
+          "dur": "5.12",
+          "text": "seen sellers create Shopify stores and\nthen end up getting banned from the"
+        },
+        {
+          "start": "97.52",
+          "dur": "3.76",
+          "text": "platform And if Shopify doesn't like\nwhat you're selling on the website they"
+        },
+        {
+          "start": "101.28",
+          "dur": "5.44",
+          "text": "can completely deny your ability to sell\non Shopify even months or years after"
+        },
+        {
+          "start": "106.72",
+          "dur": "3.52",
+          "text": "you've started your website On top of\nthat everything seems to cost more on"
+        },
+        {
+          "start": "110.24",
+          "dur": "5.68",
+          "text": "Shopify Most of the themes plugins and\nadd-ons come with a premium price tag"
+        },
+        {
+          "start": "115.92",
+          "dur": "5.04",
+          "text": "And developers know that Shopify users\nare used to paying more money So the"
+        },
+        {
+          "start": "120.96",
+          "dur": "4.479",
+          "text": "same functionality that's free or\ncheaper on other platforms costs"
+        },
+        {
+          "start": "125.439",
+          "dur": "4.001",
+          "text": "significantly more on the Shopify\necosystem And with Shopify you don't"
+        },
+        {
+          "start": "129.44",
+          "dur": "5.6",
+          "text": "actually have complete customization\nabilities especially on the checkout and"
+        },
+        {
+          "start": "135.04",
+          "dur": "3.44",
+          "text": "things like that unless you're paying\ntheir most extreme pricing which is"
+        },
+        {
+          "start": "138.48",
+          "dur": "5.6",
+          "text": "$2,000 a month A lot of the Shopify\nplatform is locked down And what's"
+        },
+        {
+          "start": "144.08",
+          "dur": "4.879",
+          "text": "really important about all this is\nShopify is not even the most popular"
+        },
+        {
+          "start": "148.959",
+          "dur": "4.321",
+          "text": "e-commerce platform out there In fact\nthe most popular e-commerce platform is"
+        },
+        {
+          "start": "153.28",
+          "dur": "4.72",
+          "text": "Woo Commerce It's the number one\ne-commerce platform and it's free It's"
+        },
+        {
+          "start": "158",
+          "dur": "6.8",
+          "text": "used by over 6.5 million sellers and it\npowers more than 36% of all online"
+        },
+        {
+          "start": "164.8",
+          "dur": "4.64",
+          "text": "stores And with Woo Commerce you\nactually own your website So let's talk"
+        },
+        {
+          "start": "169.44",
+          "dur": "5.12",
+          "text": "about Woo Commerce and why it might be a\nbetter choice than Shopify First of all"
+        },
+        {
+          "start": "174.56",
+          "dur": "5.679",
+          "text": "Woo Commerce is free It is a free plugin\nthat you add to WordPress which is a"
+        },
+        {
+          "start": "180.239",
+          "dur": "4.401",
+          "text": "free tool that will help you to build\nyour own website Now the only thing with"
+        },
+        {
+          "start": "184.64",
+          "dur": "4.72",
+          "text": "WordPress and Woo Commerce is you are\ngoing to have to pay for hosting And"
+        },
+        {
+          "start": "189.36",
+          "dur": "4.48",
+          "text": "that starts at just a few dollars a\nmonth And I personally use Hostinger for"
+        },
+        {
+          "start": "193.84",
+          "dur": "3.84",
+          "text": "my hosting When you pay for hosting or\nhosting for just a few dollars a month"
+        },
+        {
+          "start": "197.68",
+          "dur": "3.6",
+          "text": "not only can you start one WooCommerce\nwebsite with that few dollars you can"
+        },
+        {
+          "start": "201.28",
+          "dur": "4.64",
+          "text": "start multiple I think around a hundred\ndifferent WooCommerce websites all with"
+        },
+        {
+          "start": "205.92",
+          "dur": "5.039",
+          "text": "just one subscription versus Shopify if\nyou were to start a hundred e-commerce"
+        },
+        {
+          "start": "210.959",
+          "dur": "3.84",
+          "text": "websites that would be hundreds if not\nthousands of dollars And a lot of the"
+        },
+        {
+          "start": "214.799",
+          "dur": "5.36",
+          "text": "hosting companies out there including\nHostingers have a easy one-click Woo"
+        },
+        {
+          "start": "220.159",
+          "dur": "4",
+          "text": "Commerce setup program So if you're\nstarting on a budget using Woo Commerce"
+        },
+        {
+          "start": "224.159",
+          "dur": "4.401",
+          "text": "is a nobrainer But on top of that Woo\nCommerce has a lot more flexibility"
+        },
+        {
+          "start": "228.56",
+          "dur": "4.56",
+          "text": "You're not just building a store You're\nbuilding something that you actually own"
+        },
+        {
+          "start": "233.12",
+          "dur": "4.88",
+          "text": "and control You're not stuck with a\nlockdown system like you are with"
+        },
+        {
+          "start": "238",
+          "dur": "3.68",
+          "text": "Shopify that has limited customization\nWith Woo Commerce it's fully"
+        },
+        {
+          "start": "241.68",
+          "dur": "3.44",
+          "text": "customizable You can change any and all\nparts of it without needing to get"
+        },
+        {
+          "start": "245.12",
+          "dur": "5.36",
+          "text": "permission from some third-party company\nWooCommerce also has way more plugins"
+        },
+        {
+          "start": "250.48",
+          "dur": "5.44",
+          "text": "than Shopify It has the biggest library\nof plugins and themes and all those kind"
+        },
+        {
+          "start": "255.92",
+          "dur": "4.64",
+          "text": "of add-ons out of any of the different\ne-commerce platforms There's over 55,000"
+        },
+        {
+          "start": "260.56",
+          "dur": "4.8",
+          "text": "available plugins that will add\nfunctions and features to your website"
+        },
+        {
+          "start": "265.36",
+          "dur": "4.559",
+          "text": "And since WooCommerce is an open-source\nplatform many of the plugins are"
+        },
+        {
+          "start": "269.919",
+          "dur": "4.56",
+          "text": "actually free which is not true with\nShopify Most the plugins with Shopify"
+        },
+        {
+          "start": "274.479",
+          "dur": "4.641",
+          "text": "tend to come with a heavy price tag And\nwith Woo Commerce you can add anything"
+        },
+        {
+          "start": "279.12",
+          "dur": "3.68",
+          "text": "and everything that you could possibly\nthink of including advanced analytics"
+        },
+        {
+          "start": "282.8",
+          "dur": "4.88",
+          "text": "tools subscription billing product\nbundling or even customer loyalty"
+        },
+        {
+          "start": "287.68",
+          "dur": "5.12",
+          "text": "programs One popular plug-in for Woo\nCommerce is subscriptions which allows"
+        },
+        {
+          "start": "292.8",
+          "dur": "4.8",
+          "text": "you to add reoccurring payments There's\nalso WooCommerce bookings If you offer"
+        },
+        {
+          "start": "297.6",
+          "dur": "3.92",
+          "text": "appointments or services you can add\nthat plugin and it will allow your"
+        },
+        {
+          "start": "301.52",
+          "dur": "4.8",
+          "text": "customer to book appointments with you\nThere's also tools that will help you to"
+        },
+        {
+          "start": "306.32",
+          "dur": "6.48",
+          "text": "rank on SEO like RankMath or Yoast SEO\nNow one big con with Woo Commerce is it"
+        },
+        {
+          "start": "312.8",
+          "dur": "5.28",
+          "text": "doesn't come with built-in customer\nsupport With Shopify when you sign up"
+        },
+        {
+          "start": "318.08",
+          "dur": "4.24",
+          "text": "you get customer support if there's ever\nan issue with your website However if"
+        },
+        {
+          "start": "322.32",
+          "dur": "6.159",
+          "text": "you sign up with Hostinger and you use\nthem to host your website they have 24/7"
+        },
+        {
+          "start": "328.479",
+          "dur": "5.041",
+          "text": "support plus an AI assistant to help you\nset up and troubleshoot your website So"
+        },
+        {
+          "start": "333.52",
+          "dur": "2.64",
+          "text": "you're still going to be able to get a\nlot of the help that you need without"
+        },
+        {
+          "start": "336.16",
+          "dur": "4.08",
+          "text": "the higher price tag if you do Woo\nCommerce with Hostinger And on top of"
+        },
+        {
+          "start": "340.24",
+          "dur": "4.799",
+          "text": "all this Woo Commerce is really easy to\nset up Let me walk you through how I set"
+        },
+        {
+          "start": "345.039",
+          "dur": "4.72",
+          "text": "up my own WooCommerce store for one of\nmy brands Carnivore Electrolytes And the"
+        },
+        {
+          "start": "349.759",
+          "dur": "2.72",
+          "text": "first step was signing up for hosting\nAnd as I've talked about throughout this"
+        },
+        {
+          "start": "352.479",
+          "dur": "4.72",
+          "text": "video I chose to go with Hostinger\nbecause it's affordable reliable and"
+        },
+        {
+          "start": "357.199",
+          "dur": "3.681",
+          "text": "it's perfect for running WooCommerce\nstores And there is a link to Hostinger"
+        },
+        {
+          "start": "360.88",
+          "dur": "3.84",
+          "text": "down below in the description that will\nget you a discount when you sign up Now"
+        },
+        {
+          "start": "364.72",
+          "dur": "3.84",
+          "text": "we're going to choose a plan And the\nlonger your plan the more you save"
+        },
+        {
+          "start": "368.56",
+          "dur": "3.919",
+          "text": "because it locks in that discounted rate\nAnd after choosing a plan we're going to"
+        },
+        {
+          "start": "372.479",
+          "dur": "3.761",
+          "text": "create an account and then enter our\nbilling information And as I mentioned I"
+        },
+        {
+          "start": "376.24",
+          "dur": "3.44",
+          "text": "do have the hookup with Hostinger You\ncan use the discount code Travis to get"
+        },
+        {
+          "start": "379.68",
+          "dur": "4.079",
+          "text": "an extra 10% off Once we've submitted\nour details we officially have hosting"
+        },
+        {
+          "start": "383.759",
+          "dur": "4.16",
+          "text": "for our WooCommerce site Next we're\ngoing to set up the website It'll ask us"
+        },
+        {
+          "start": "387.919",
+          "dur": "3.921",
+          "text": "what kind of site do we want to create\nSo we're going to select online store"
+        },
+        {
+          "start": "391.84",
+          "dur": "5.04",
+          "text": "Then we'll choose the WooCommerce Plus\nWordPress option since Woo Commerce is a"
+        },
+        {
+          "start": "396.88",
+          "dur": "4.72",
+          "text": "plug-in that runs on WordPress Now we're\ngoing to pick a theme And you can scroll"
+        },
+        {
+          "start": "401.6",
+          "dur": "4",
+          "text": "through and preview the options to find\nthe one that fits your brand Don't worry"
+        },
+        {
+          "start": "405.6",
+          "dur": "4.8",
+          "text": "too much about it because you can always\nchange your theme later And after that"
+        },
+        {
+          "start": "410.4",
+          "dur": "5.12",
+          "text": "we'll choose a domain name for our site\nHostinger gives us a free domain name"
+        },
+        {
+          "start": "415.52",
+          "dur": "2.88",
+          "text": "Usually you're going to have to pay for\nthis but when you sign up with Hostinger"
+        },
+        {
+          "start": "418.4",
+          "dur": "4.32",
+          "text": "they give it to you for free So we're\njust going to type it in and register it"
+        },
+        {
+          "start": "422.72",
+          "dur": "4.479",
+          "text": "At this point we already have a working\nwebsite But now we need to start adding"
+        },
+        {
+          "start": "427.199",
+          "dur": "4.881",
+          "text": "the pieces to make it a real store First\nwe'll enter some basic setup details"
+        },
+        {
+          "start": "432.08",
+          "dur": "4.16",
+          "text": "like our store address category and the\ntype of products we're going to sell For"
+        },
+        {
+          "start": "436.24",
+          "dur": "3.44",
+          "text": "this example we're adding Carnivore\nElectrolytes which is a physical product"
+        },
+        {
+          "start": "439.68",
+          "dur": "4.56",
+          "text": "We're just going to click add a product\nand then we're going to need to upload"
+        },
+        {
+          "start": "444.24",
+          "dur": "4.64",
+          "text": "the main image write a short description\nfor it and enter the product price Once"
+        },
+        {
+          "start": "448.88",
+          "dur": "3.84",
+          "text": "that done our product is live and ready\nfor customers Now we need to set up"
+        },
+        {
+          "start": "452.72",
+          "dur": "3.919",
+          "text": "payments and the easiest option is Woo\nPayments We're just going to need to"
+        },
+        {
+          "start": "456.639",
+          "dur": "4.161",
+          "text": "sign up enter a few business details\nhere and connect our bank account so we"
+        },
+        {
+          "start": "460.8",
+          "dur": "3.679",
+          "text": "can start getting paid Then we'll need\nto set up our tax rules and shipping"
+        },
+        {
+          "start": "464.479",
+          "dur": "4.641",
+          "text": "options For example we can offer free\nshipping over a certain order amount And"
+        },
+        {
+          "start": "469.12",
+          "dur": "4.32",
+          "text": "finally let's make our site on brand\nWe'll go to appearance on the sidebar"
+        },
+        {
+          "start": "473.44",
+          "dur": "4.4",
+          "text": "and click customize From here we can\nchange the layout update colors swap out"
+        },
+        {
+          "start": "477.84",
+          "dur": "5.199",
+          "text": "images and adjust fonts It's all drag\nand drop and super easy to use And boom"
+        },
+        {
+          "start": "483.039",
+          "dur": "4.88",
+          "text": "just like that we have a fully\nfunctional e-commerce store using Woo"
+        },
+        {
+          "start": "487.919",
+          "dur": "3.28",
+          "text": "Commerce that we built from scratch So\nthe real question that we started this"
+        },
+        {
+          "start": "491.199",
+          "dur": "4.961",
+          "text": "video with is do you need Shopify and\nthe answer is obviously no Woo Commerce"
+        },
+        {
+          "start": "496.16",
+          "dur": "4.719",
+          "text": "is cheaper better in my opinion for a\nlot of people and it has a lot more"
+        },
+        {
+          "start": "500.879",
+          "dur": "4.481",
+          "text": "features and functionality than a\nShopify site does Now some people might"
+        },
+        {
+          "start": "505.36",
+          "dur": "4.959",
+          "text": "say that Shopify is easier to start but\nI just showed you how easy it is to"
+        },
+        {
+          "start": "510.319",
+          "dur": "4.16",
+          "text": "start a Woo Commerce website And like\nI've mentioned over and over again Woo"
+        },
+        {
+          "start": "514.479",
+          "dur": "3.68",
+          "text": "Commerce is much more affordable And\nwhen you have the right hosting company"
+        },
+        {
+          "start": "518.159",
+          "dur": "3.921",
+          "text": "creating a WooCommerce website's\nactually really easy Again that is why I"
+        },
+        {
+          "start": "522.08",
+          "dur": "3.439",
+          "text": "recommend Hostinger And I do have a link\ndown below right here that gets you a"
+        },
+        {
+          "start": "525.519",
+          "dur": "3.921",
+          "text": "discount on Hostinger However if you\nwant a more detailed video where I'll"
+        },
+        {
+          "start": "529.44",
+          "dur": "3.92",
+          "text": "show you how to set up a WooCommerce\nwebsite you can click on this video"
+        },
+        {
+          "start": "533.36",
+          "dur": "4",
+          "text": "right here and I'll show you in depth\nstep by step how to create your own"
+        },
+        {
+          "start": "537.36",
+          "dur": "4.32",
+          "text": "WooCommerce website So click on the next\nvideo I'll see you in the next video and"
+        },
+        {
+          "start": "541.68",
+          "dur": "2.88",
+          "text": "thanks for watching"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction"
+    },
+    {
+      "start_time": 22,
+      "title": "Why You May Not Want to Use Shopify"
+    },
+    {
+      "start_time": 150,
+      "title": "Most Popular Ecommerce Platform"
+    },
+    {
+      "start_time": 170,
+      "title": "Woocommerce vs Shopify"
+    },
+    {
+      "start_time": 345,
+      "title": "How I Set Up My Woocommerce Store"
+    }
+  ]
+}

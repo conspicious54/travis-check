@@ -1,0 +1,2324 @@
+{
+  "text": "in this video I'm going to show you step-by-step how to create your first Facebook ad in just a second we're going to go to a screen recording where I show you the entire process from A to Z we're going to go over things like how to choose the right Facebook campaign for you some tips and tricks on creating a very specific narrow audience how to target to correct people on Facebook Ads then we're going to talk about how to create a really powerful Facebook Ads image and copy after we're done with that entire process we're going to do a quick tutorial of the entire Facebook Ads platform so you know what you're doing this will include things like going over how to use the power editor how to create a pixel a Facebook pixel and creating your first custom audience this is actually the first lesson from the beginners Facebook Ads course I just launched it's so packed full of information I had to share with you guys so without any further ado let's jump right into it welcome to the first lesson of the Facebook Ads course so in this lesson the first thing I want to do is right off the bat teach you everything you need to know to make a basic Facebook ad so we're going to go through this process we're going to make the campaign the ad set and the ad if you're just starting Facebook ads this is probably the first thing you see but after we make our first ad I'm actually going to take you into the ads manager we're going to poke around here teach you all the tips and tricks so how you can review how you can look at the analytics of your Facebook ad all that stuff and then after that we'll briefly look at some of the more advanced topics such as the power editor how to build audiences so let's get started right off the bat with how to make your first ad so I'm building your first ad here we're going to talk about everything from the campaign to ad set in the ad so in the ad set we're going to talk about things like targeting I'm going to give you some tips and tricks some things that Facebook actually purposely hides that you can just uncheck and it will save you a ton of money now for the ad itself we're going to talk about the ad copy how to make a quality image and I'm going to give you some other little interesting tidbits in there so let's get started the first thing we need to do when creating a Facebook ad is decide what kind of a campaign we want to run and there is a lot of choices and for a beginner it might be overwhelming let me tell you right off the bat there's only about for you want to look at traffic video views' lead generation and conversions another one that's a little bit interesting and a little bit more advanced is product catalog sales those are probably about it now if you have a physical store or physical location you may be interested in store visits as well obviously if you have an app you might look at app installs there's a bunch of different things but I'm going to assume you have an e-commerce site or you're trying to sell some kind of product in service so let's go down really quickly talk about each of these different types of campaigns and why they may or may not make sense so brand awareness and reach right off the bat don't waste your money on these unless you have a really big budget don't waste your money on these because it's just facebook's way of spreading the message it's like a billboard almost not very effective we don't we don't want that we want targeted traffic or targeted conversions so obviously traffic is just sending traffic to your website very powerful it's probably one of the easiest things personally nine times out of 10 I would rather create a conversions campaign but for the purpose of this video we will probably do a traffic because I think it's one of the most basic ways to get started right off the bat engagement once again don't really waste your money on this this is Facebook's way of getting you to spend more money than you probably should it's basically just creating a campaign where Facebook or you try to get engagement on your post so it could be comments likes things like that app installs pretty self-explanatory for app installs video views now later in this course we're going to do a whole section on how to do a video campaign a video ads campaign very powerful a lot of the Guru's and Facebook marketing talked about video views because you can get views for so cheap more of an advanced topic we're not going to touch their lead generation may personally be my favorite I go between conversions and lead generation the beauty of lead generation is that when you seal an ad in facebook you can actually or when your audience sees that ad in facebook you can capture their information right away so let me let me show you an example so for instance this ad this is just a typical ad and when you click learn more let's see what happens it takes you to their website now imagine is instead when you click learn or a little pop-up shows up here and says hey what's your email and and it automatically fills in the email and you can click yes and you as the advertiser would get the email so that's a lead add once again a more advanced topic we're not going to talk too much about that right here but the great thing is it doesn't send people to an external website you can gather you can get their email you can get their contact information right from Facebook conversions is amazing because it it's optimized for conversion so I mean just like it sounds it's optimized Facebook knows you put a little pixel on your website and Facebook knows what kind of an audience is more likely to buy and when they see a conversion happen they'll send more similar style traffic to your website another advanced topic we'll talk about later in the course product catalog sales powerful but not something that we'll talk about here in store visits lastly is just trying to get people into your physical location so with all this being said like I said traffic video views lead generation and conversions top 4 to look at let's start with the traffic at this is very simple just trying to get traffic to your website which pretty common thing that most people want more traffic to their website so we're going to click that so let's just I'm going to name it traffic let's just keep it as traffic will talk about naming conventions later in the course so go ahead and click continue and I'm going to name this up here we're going to call this cycling cycling what's called thirty five to fifty male and you'll see why we're going to do that in a second so right now our potential reaches 222 million people way too big we're gonna have to narrow that down a lot and you have some options you can use it saved audience so this is your first time using Facebook ad that's not really an option for you or you can create a new audience so what you can view is locations do you want everyone in this location probably you can also say people who live in this location which might be even better that way you filter out some people that are on vacation I do the United States and this field you can add people let's say maybe you wanted Canada as well as you can see the number goes up maybe you want what at whatever country you're trying to target this is the spot to do it and you don't just need to include countries you can include States instead so let's say instead of the United States I just want California goes down to 29 million people and so you can further filter it down from there so I'm going to go ahead I'm going to do the entire United States just for the purposes of this demonstration I might go back and change this so like like we said it we're going to do thirty five so at this point you can change the age range so I only want to target people on Facebook that live in the United States that are thirty five scroll down thirty five to fifty and for this ad this is for my new company performance nut butter and performance nut butter is a it's a nut butter it's a macadamia coconut cashew blended nut butter that is geared towards the for lack of a better word the performance athlete or somebody that considers themselves athletic so I'm trying to target men that are thirty five to fifty that are into cycling and this is a very niche topic this is I'm not trying to go for everybody in the world this is going to make more sense as we go later on as you see my ad and you see the ad copy but I think this is something very important right from the beginning to talk about is that you don't want to target a wide range you don't want to target all men 35 to 50 because let's see oops I forgot to so that was issue here the United States I accidentally deleted that you don't want to target that wide of a range because look at that it's 29 million people so I don't want to target 29 million people I want to target you want to get that number to around 150,000 or less so you're only trying to go to a small subset of the population so here detailed targeting we can look at a bunch of different things we can target people on a bunch of different metrics so if we click it let's go go to browse you can go through here and see some of the options so under demographics you can look at things like education what generation they are there financial so what what their income is and let's say I want target people only that make $50,000 or more because to be honest if you make less than that you probably can't afford my product or is it's at least you have better things that spend your money on so that might be the first thing I do so I'm going to click all those so now in the United States it narrows it down to 18 million people went from 29 million to 18 million so I'm going to narrow the audience I'm going to click this button here to narrow the audience even more and there's a few different tips I want to give you right now to start thinking about the first one is you can do something very simple like cycling and that should narrow the audience even more so it went from 19 million to 3.1 million that still might be too broad so I might want to instead consider something like an event maybe Tour de France Tour de France so that starts to narrow it down a little bit more look at that so cycling too broad of a topic have 3.1 million people now we're targeting people that make over $50,000 in the United States that are also interested in the Tour de France and you can narrow this even further we could look at let's see what we got here we'll click on browse again and once again we'll in a later lesson go over all these different things you can look at demographics that's more things about the person what kind of generation they are their life events interests but one of my favorite things is behaviors and interests or things like the Tour de France that they're interested in it behaviors specifically if we go down to purchase behavior this is gold if you're trying to sell something Facebook has a general idea and it's not perfect they have a general idea of who's actually purchasing things so right now our audience is at $280,000 let's go to purchasing behavior so what am i selling I'm selling a food and drink go ahead and click there but specifically I'm selling a fresh and healthy type of food and drink so people that are interested in fresh and healthy food make over 2000 and are interested in the Tour de France what does that mean that means I'm getting a reach of only a hundred thousand people in the United States there is only a hundred thousand males from 35 to 50 that are interested in the Tour de France make over fifty thousand dollars and are buying fresh and healthy products this is perfect this is what you want a very core group of people that are going to buy from here we can look at a few different things we look at a connections you can add a connection type and what this is there's a lot of it makes you look at but people who already like your page which you probably don't want to do because if you're trying to get your message out to a broader audience there's no reason to target only people who already like my page for instance if this would would make it a much smaller you can do friends of people who like your page or exclude people who like your page so you can say only show this to people that do not already like my page so I'm going to go ahead and get rid of that you can also save this audience which is very helpful if you're going to be reusing the same audience over and over again so I might want to call this males thirty five to fifty you us over 50k towards the France and fresh and healthy now you can come up with your own naming convention this is just the first thing that popped in my head for this one but the next important thing we're going to look at here is let's scroll up a little bit placements and this is the first major trick tip whatever you want to call it I'm going to give you don't do automatic placements Facebook is trying to steal money from you it's click Edit placements for sure you do not at least at this stage for the early stages don't want to do a messenger messenger ad you don't want to do audience Network either that's just awful in my opinion audience network is basically all these sites that are affiliated with Facebook they have native my banners apps things like that little it'll show up on some Facebook apps on different apps it'll show up on the ads you don't want that probably don't want Instagram well later in this course I have a module specifically on so granddad's if you're interested in Instagram watch that that'll talk about it but let's assume you're just trying to do Facebook ads so then you drop this down and you don't want instant articles uncheck that if you don't want to do right column either and let me show you what right column is so right column are all these ads really what you want is the newsfeed that's it so this right column people know their ads it's never anything but ads you want your ad to not look like an ad so look at this for instance this looks like an ad that's pretty bad because I'm going to scroll right past it now I'm gonna see if I can find another ad doesn't look like an ad but anyways you get an idea of what ads look like so this for instance not sure if it's an ad or not I'm going to stop I'm going to kind of look at it and see what's going on but as soon as you see something that's an ad the average Facebook consumer is going to roll the right pass like nobody posts an image like this it's just unheard of so anyways in the newsfeed is the only spot you want and it looks like it looks like it's not working but this is one of the tricks that Facebook does as soon as you click that there's two options to unclick but you unclick that and it makes it look like there's nothing happening but this means that only the newsfeed is active and that's the only place your ad will go so this is the way you want it this is the setup you want and once again you can look at the checklist if you get confused on what step is what step you're in look at the checklist I have below to figure that out so let's go to Advanced Options this is the second trick I have for you Advanced Options this is not really an advanced option this is a mandatory option specific mobile devices and operating systems so for most people uncheck that there are exceptions it you know maybe you really do want Facebook ads to show up on people's phone but for most people you want to uncheck that now notice it lowered my reach to 34,000 people that's okay I think you want to keep it between twenty thousand your audience your potential reach between twenty thousand one hundred fifty thousand now if I want to I could change I could edit this audience to make it a little bit bigger but for right now let's say that is fine this is going to be an extremely targeted thing so not to jump around too much the reasons you want to uncheck all mobile devices you only want it on desktop because people buy off the desktop people are much less likely to buy your product off a mobile phone and the whole point of advertising is to make money so if you're trying to advertise to a place where people are not going to purchase your product you're wasting your money so let's scroll down a little bit further so daily budget now this is up to you this is how much money a day you're going to spend I recommend starting with at least $5 you can do more or less it's 100 cent up to you and set a schedule once again you decide how long you want to do it for I usually just let it run continuously starting today and especially if you're new to this check up on it like once a day just see how it's doing and once you see that engagement is dying down you can just pause the ad learn from it and do and figure out how to improve the next ad so for the bit amount I usually just do automatic that's fine and we're optimizing for link clicks here you can do other things but link clicks is the best this is one of the few times that Facebook's automatic recommendations are actually the best because that's what you're trying to do you're trying to drive traffic to your website ad scheduling that's all good you can you can change this oh okay that's if you change it to lifetime budget so if you want to change it to lifetime budget you can run ads on a schedule you can say hey I want them to only run from 6:00 a.m. to 9:00 p.m. which is a little bit more of an advanced tip but it might be worth considering especially because most people probably aren't buying from midnight to 6 o'clock but that's debatable so I'm going to leave that for another time I'm just going to I'm going to go back to instead of lifetime budget daily budget go back to $5 there we go and delivery type standard show your ads throughout your selected schedule that's totally fine so at this point we're pretty good this is the ad set we're done with the ad set and we're going to talk about creating the actual ad itself so we're gonna click continue and I have a few different pages here for the name of this I'm going to call it 35 250 cycling and your naming convention may vary I'll give you some tips later in the course on how you can how you should in my opinion name it but that's just a quick example we're going to select which page and this might not you might just have one default page but for me I have multiple pages that are run so this is for the performance nut butter account I'm running a performance nut butter ad so I need to obviously select the performance nut butter and we're going to start with single image there's also carousel video slideshow a bunch of other stuff single image is the most common one and from my experience the best converting ones your experience may vary so we're going to have to upload an image and let me show you before I upload the image what my image looks like so this is the image you know what to be honest with you I just photoshopped this I took a picture of my hand holding a packet performance and that butter and I put back there some cycling people some people that were cycling very basic I just got this off a stock photo type thing and I just wanted to see I wanted to test this I'm not saying this is the best photo because this does look a little bit too much like an ad in an ideal world actually one of the best tips I have for you is try to see if you can get your users to take photos of them using the product and use that as an advertisement because I don't look natural it won't look like an ad when you try to make it look too much like an ad Facebook doesn't like it because users don't like it and use and they won't reward you if you're creating a bad experience so let's go ahead and do this I'm going to upload my image and you needs to be 1200 by 628 pixels later in the course we'll talk about specifics on how to build a really good image including I will have a template for you that you can use so we're going to go down here at this point so this is only eligible for the desktop news feed if it was eligible for the mobile news feed you well you can still see what a preview of what it would look like but this ad is only going to be eligible for the desktop newsfeed so the website URL I'm going to go ahead and do see performance map better calm so the two most important things of creating a Facebook ad are the image and the headline so for this headline you want to put something that's catchy just going to catch people's attention so we might say something like instant energy from sat need some energy on the go from fat and I'm just doing this off the top my head later in this course we're going to talk about specifically how to write a good headline how to create a good image like I said but from right now that's good because if someone scrolling past this they might be like instant energy on the go from fat not the best but it's it's decent for right off the top my head it's decent so the text this less important but you still should do it you might say something like that packs more calories per ounce any other food get your healthy that on today that's decent it's once again probably not the best but that's right there you can also do the newsfeed link description put some interesting information right here you can make it look like an article there's so many options here now for the call to action you have a few different options learn more is one of my personal favorites because it's a soft sell it's not it's not saying hey buy now' or shop now' but maybe that's what you want i think this is one of the best things that you can split test is does the learn more or the shop now' work actually I take that back I think headline and the image itself is probably the best thing to split test but that's an interesting split test still to do is to learn more versus shop now but there is a ton of options here that you have to choose from now the display link you may or may not want to change this for instance for my other company be dance where it's a dance clothing company I might do something like slash shorts so it would look like this if I was advertising a pair of shorts for instance performance mutter komm slash shorts now obviously performance nut butter does not sell shorts and performance nut butter calm explains everything for the URL parameters this is actually an important step it says it's optional I think it should be mandatory so what we're going to do here is we're going to go to the URL builder and I'll put a link down below for this we got performance nut butter calm and you'd fill in all this information I already had it pre filled campaign source Facebook ads campaign medium CPC and then instead of campaign name being OCR it could be something like cycling thirty five to fifty six five to fifty Tour de France buying so then we would go down here and all you need to do is copy this this last part the question mark so what that's going to do is it's going to when someone clicks on your ad it's going to make it so it's this link and when people go to your website using that link oops I just did the last part but when people go to your website using that whole link it'll tag it in Google Analytics so the short version is you need to do this so you can tag it in Google Analytics let's go ahead and add that right there boom pretty simple but very effective so now you can see okay sure I got 50 clicks from Google Analytics how many pages did they go do what was their engagement like do they buy anything it's just very very powerful last but not least before we confirm is that you need to have a pixel and we haven't talked yet in this course about how to create your pixel 100% you should be doing this and a pixel is great it's a little bit of code that goes on your website and it allows Facebook to track everybody coming to your site it'll allow you to track your conversions it'll allow you to remark it to those people so when someone clicks on this ad and goes to my website Facebook knows and Facebook can retarget them so in the next lesson or the lesson after that we're going to go over how to set up the pixel why the pixel is so important but trust me when I say one of the first things you should do is set up a pixel so we're going to go ahead and click confirm here second or two so it's in review and at this point we could duplicate the ad if we're going to make another similar ad or we can just go ahead and click continue so at this point I'm going to take you through this whole Facebook Ads manager we're going to go over the ads manager first and I'm going to show you some really nifty tips and tricks so let's look at here so if I go to account overview this will give you a snapshot of how your account is going now for performance not butter I haven't been running a lot of Facebook ads because I'm in a limbo state right now my Kickstarter is done but I don't have product yet to sell so I use Facebook ads to promote it during the Kickstarter now if we go to campaigns this is where the real fun begins you can see how effective your campaign campaigns were so there's so much to go over here I'm going to give you a brief overview and we can dive in deeper later in the course so this really the epicenter of where everything happens in facebook ads so this is a list of all the different campaigns you've run and you can see this is the campaign we just made I'm going to go ahead and turn that off and you can toggle thank them on and off by just clicking that button so I'm turning off that traffic because I made it just for this tutorial like I said you can click it back on at any point it shows the delivery whether it's active or inactive which is a good thing to look at the next thing is the results how many clicks have you gotten so this is a traffic for Kickstarter campaign I ran it got 30 clicks it reached 5,000 people that's how many people actually saw the ad and it cost me about $4 per link click the total amount I spent was 124 dollars now this is useful information you can scroll over you can see some more information there so this is a basic traffic campaign now one huge tip I have for you is these are the default columns but you can change them you can look at engagement instead so this is how many post comments I got post reactions so this post reactions are like thumbs up different emotions that people clicked and post comments obviously pretty self-explanatory how many people commented on it link kicks clicks page likes how many people liked my page because it's so engagement very very helpful another thing you can look at is customizing your columns which I highly recommend and I will once again we'll go over this in much more detail I'll show you some of my favorite styles of custom columns but we can decide what we want to show in what we don't one thing I really enjoy let's let's go over all these so you can look at how many people at reach so let's go ahead and click that actions relevant score if you take away one thing from this section it's that you should see the relevant score and see how to adjust it so this is now our custom setting and to see relevant score you have to go to the add set level so just to let you know campaign is like the big umbrella turn then within that you click on it it takes you to the add set and you could have multiple add sets in the same campaign then when you click on that you can see the add and this is where you can see things like relevance score now a 4 is not very good it's from 1 to 10 so I messed up so that image I showed you didn't do very good with the audience I was going after so I can do better next time so once again multiple add sets and then you can have multiple ads within the ad set the ad is the image the copy those kind of things so maybe within this cyclists ad set I'd want to have multiple ads in the ad set contains information like targeting and all that information we went over earlier in this first lesson I know I'm going really fast will dive into all this in a lot more detail but I'm trying to give you a very broad overview of the Facebook Ads platform so once again once we can see some information on each of these different ad sets so let's go to campaigns we saw that 39 people took action and 30 link clicks but when we click in deeper we saw that 14 of the link clicks came from cyclist eight came from OCR that's like obstacle course running and eight came from running and the cheapest of all of them was purling click was cycling so I know that that's something I probably should look at a little bit more in detail let's go to performance and you can check different columns here as well frequency so frequency is another one of those things that's very important to look at is how often are people seeing your ad basically how many times as a better way of putting it is how many times is a person seeing your ad so for this every person just saw the ad once now depends on who you ask I've heard about four to five times is probably ideal that way it's not because how many times have you seen an ad and you bought a product for the first time very often you probably need to see it a few times now this is once again debatable your results may vary things like button click so once again cyclists that are two other people click the button so it's probably pretty pretty interesting and if we click in here we can see specifically some of the information on this ad but since I just have one AD per ad set may not be the most interesting so let's go back to the campaign level here I have other types of ads in this as well I have the last date video the nine days away video let's look at the last day video and one of the things I talked about earlier is the power of video ads on Facebook so let's see what we got and instead of custom I'm going to go to video engagement to look at this one so the last day video spent about a hundred bucks the last day scroll over so it cost me about two cents per three second video view now that sounds really good and you'll hear a lot of marketers on the internet say like wow I got a one cent video of you but three seconds isn't very long to watch a video a better metric is probably around ten seconds because if someone's watching it for 10 seconds it's up to you as the marketer to get them engaged I got that for about eight cents and for me since I was so specifically targeted that was worth it I wanted to get my message out I wanted to let people know what my campaign was about this is once again debatable everyone's going to have a different opinion on that but we can see I reached 11,000 people Mountain spent was $100 on average people watched about 13% of the video and see this will start to show you things like video watched at 25 percentage video watched at 50 percent video watched 75 and video watched at 95 so someone watches at 95 percent of the way through that's pretty good so I got 300 people to watch my video all the way through for $100 depends who you talk to but for me at this stage it was worth it I wanted to get the word out and my audience was so specifically in niche targeted it was worth it to me so and then we can look at video watched at 100 percent so most people to watch it at 3 at 95 percent question at 100 percent that's one of the things we'll talk about later in this course is video ads but like I said they can be very powerful if you've done them correctly in fact I want to show you really quick a video ad that I thought was really well done so this ad it's about it's a little over a minute but it looks almost like a an ad that your friend would post but it's kind of interesting and it's this guy that's going to be doing a magic trick one other thing to note is that it has text down here and you definitely want to add in let's go to zoom video you want to add in the text the little captions if you're going to be doing a video so we're going to pause at that point because I can talk about this all day and I know I'm throwing a lot at you the last few things I want to show you or a few advanced things that I was really they're all really good to know before you start your first Facebook Ads campaign the first thing we're going to talk about is the how to make audiences then we're going to talk about the power editor and both of these are extremely powerful tools and if nothing else you should at least know they exist you don't need to use them right off the bat the audiences is like it sounds for building specific audiences I'm gonna show you some really awesome tips and tricks on audiences and then the power editor is a more advanced tool especially if you're working with mold campaigns multiple ad sets can become very very useful and I will show you that very quickly so let's look at audiences first and I have a few different audiences there's a few different type of audiences you can build so let's wait till it goes up so for instance this one saved audience we created earlier so I can reuse this over and over again and it's very easy to do I might even show you later in this video how to reuse that audience but there's that's a saved audience but there's also custom audiences this is the retargeting audience so this is people that went to my website went through my pixel so I might want to target people that have been to my website using this custom audience the and there's look-alike audiences and there'll be some other things that we show but let's create our first audience together so we're going to try to do a custom audience because I think that is pretty important you have a few different options customer file website traffic app activity or engagement customer file is if you have a list of emails this is the one I'm going to show you if you have a list of emails save a list of a thousand people that have purchased from you and you want to target them or a thousand people that you know are interested in your product and you want to target them this is what you're going to do and let's go ahead and start with that and I'll explain the others after we're done so if you have a customer file which is like a spreadsheet or something like that or a MailChimp account where you have a lot of emails you can import them from there so ad customers from your own file or copy and paste that's what I usually prefer so let's go ahead and fair file with your customer data so instead of doing a CSV which you can upload if you notice CSV is and you have one you can upload it you can just also copy and paste it which is a little bit more beginner friendly and I can show you so I have a list here I'm copying of a bunch of emails go ahead and paste them right there so now I got a it's only showing the first twenty of the eighty two rows and let's go ahead and name this audience I'm going to call it test one two three audience and click Next upload and create I'll be only the first name that's fine upload anyways alright so that audience is now ready test one two three well it's technically not ready yet it needs to update the audience it takes a little bit of time on the backend Facebook servers but now we have a custom audience I could target those 82 people I have in a Facebook ad obviously my email list is much bigger than that but that was just a quick version the next thing we can do is create a look-alike audience so let's say I have those 82 customers and that might not be big enough actually to be honest let's see yeah this one might be a better one but I can create a look-alike audience and what that is is let me show you first so subscribe members so down here I had a list just like I just uploaded a custom list of 500 people 500 emails that signed up for performance nut butter before it was live and said hey yes I am 100% interested so I give that list to Facebook and said hey these people are all interested in my product Facebook can you go out and find more people that are interested in this product for me and for me since I just want to sell in the United States I'm going to go to locations and then go to North America and United States boom and let's make this as small as possible audience size 1% so that's going to give me an audience size of 2.1 million people so that's 2.1 million people in the United States that Facebook thinks is similar to my email list that I gave to them and I hope this makes sense and we'll dive in deeper into this later let's go ahead and create audience so I already created this exact audience for my campaign and you can see it right here now the cool thing about this is you can use this custom audience that's 2.1 million people and when you're creating an ad you can actually narrow it down further so let me just quickly show you actually you know what I can yeah I'll show you that really quickly in an ad so let's go ahead and create campaign traffic so the first thing I want to show you is you can use a saved audience for instance this one that we made earlier now I can use this over and over again but instead of that let's say we wanted to create a new one we can use one of the custom audiences we just built like test one two three so I uploaded that list of emails to Facebook and said hey can you just target these people now the next thing we can look at is this look-alike subscribed audience so if we go back here and once again this will be the most jam-packed lesson all the rest of the lessons are going to be a lot more slow and methodical going step by step I just want to give you a shotgun approach of all the basics for Facebook ads so like I said this is 2.1 million people from here we can actually narrow that down so we said hey Facebook I have this email list find people that are similar but you don't want to trust Facebook completely let's say I just wanted to target men that brings it down to five hundred ninety thousand let's say of those similar people I just want to target people that have a purchase behavior which is one of my favorite things oops browse behaviors purchase behavior Sweden drink healthy let's go ahead and just click all the plot low-fat that narrowed it down to 300,000 people and we can continue to narrow this down but that's how you would want to use a look-alike audience don't show your ads the 2.1 million people that's way too big of an approach way too big of a shotgun approach so that's the basics here of how to create an audience we're going to go in deeper into this later in the course as always and the next thing I want to show you is the power editor which is an amazing tool right here now the power editor allows you to do things that would take hours on your own in bulk and it does it a few different ways so I'll show you one of the first things that I really enjoy probably this alone makes the power editor worth it so it's loading up here so once it's loaded it'll look somewhat similar to the ad manager but it will be more powerful so one of the first things you can do let's look at that traffic campaign I just made and we can duplicate it this alone is one of my favorite things you can do multiple duplications in fact or if instead of duplicating the campaign I wanted to duplicate the ad set just so I can make some tweaks I could do that as well and we'll talk it's a little bit more challenging to navigate let's go here and here but we can go through and we could duplicate the ad sets as well so that's just one of the quick cool things you can do there's a lot of other things in the basics on how you would use this is if you click home edit you don't want to actually do that click on the campaign sorry and you can click Edit here and then pull this over and it allows you to edit your ad set and you can do this in bulk and it's a little bit easier using the power editor than it is in the ads manager you go through and edit all this stuff you can also click down here click this edit button click over yep it'll bring it it'll slide on over from here and you can edit this at and this allows you to make some tweaks and it you can review them before you push them to actually be alive so you can make a bunch changes and then if you don't you can just if you don't want to use them you can just discard all the changes so for instance right now if I review items and push it to the ads manager all those duplicates I made will be pushed to the ad manager but if I say wait a minute I made a mistake I can discard the changes so that also makes it really worth it when you make changes an ads manager it's semi more permanent when you make it in power editor you have a last minute chance to change it so I'm going to show you one more thing that we'll just quickly touch on before we wrap up here and that's exporting and importing this is huge if you know anything about Excel or how to use it you can make massive changes extremely quickly so let's go ahead and export so we'll export selected and it'll pull it up into a spreadsheet and I'm not going to go over this right now because it's too advanced but this puts everything you did in a spreadsheet so if I wanted to I could copy and paste this and make duplicates and make changes very very quickly so you can see this is the ad set name here this is the link I use targeting was over there and if this is complete gibberish you don't worry this is not that important but it's just a helpful tip if you are someone that understands this kind of stuff so this is the targeting criteria I use you have flexible inclusions another targeting all right yeah that includes all the targeting criteria and you can see here things like the income range and the buying behaviors and interests anyways I just wanted to quickly show you that and when you're done changing it you can in or it so import ads in bulk which is huge if you want to create 10 ads and they're all fairly similar and I might do this if I'm trying to target people that are 25 to 35 and do a similar thing similar targeting for people that are 35 to 45 you can upload them in bulk very very helpful so this is an overview of the Facebook Ads platform I hope you enjoyed this first lesson and if there was anything that was too fast obviously just go back rewind rewar in later episodes will pretty much cover all these topics in a lot more depth thank you for watching this first lesson and I want you to be a hundred percent satisfied with buying this course I put a lot of time and energy into this course almost pretty much everything I know about Facebook Ads is in here but if you have any questions about Facebook Ads please email me travis at effective e-commerce leave a comment down below on this page let me know anything i don't cover in this course because i want to answer all the questions that you have because if you have that question someone else probably has the same question so thank you for watching this first lesson and I can't wait to see you in the next lesson like I said at the beginning of the course this is actually the first lesson from my beginners Facebook Ads course which you can find out more information about by clicking up here it's very affordable very reasonably priced I know people that are just starting out with Facebook Ads have a tight budget you need to save your money as much as you can for your facebook ads but this course will save you thousands of dollars and hundreds of hours I wish I would have had it when I first started out all the lessons in here would have saved me so much time and money it's insane I'm also if you buy the course I'm giving you a free 30-minute one-on-one consultation session the course has a ton of information everything I think you need to get up and running but inevitably you'll probably have more questions so that's why I'm bundling a free one-on-one consulting session with that click up here to find out more information I also have the link down in the show notes or go to effective ecommerce comm / Facebook course",
+  "id": "or3lyneUZBg",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=makefbads\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video I'm going to show you step-by-step how to create your first Facebook ad in just a second we're going to go to a screen recording where I show you the entire process from A to Z we're going to go over things like how to choose the right Facebook campaign for you some tips and tricks on creating a very specific narrow audience how to target to correct people on Facebook Ads then we're going to talk about how to create a really powerful Facebook Ads image and copy after we're done with that entire process we're going to do a quick tutorial of the entire Facebook Ads platform."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "2809",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-08-15",
+      "title": {
+        "simpleText": "How to Make Your First Succesful Facebook Ad + Walkthrough"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Make Your First Succesful Facebook Ad + Walkthrough",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.03",
+          "dur": "5.88",
+          "text": "in this video I'm going to show you step-by-step\u00a0\nhow to create your first Facebook ad in just a\u00a0\u00a0"
+        },
+        {
+          "start": "5.91",
+          "dur": "4.74",
+          "text": "second we're going to go to a screen recording\u00a0\nwhere I show you the entire process from A to Z\u00a0\u00a0"
+        },
+        {
+          "start": "10.65",
+          "dur": "5.19",
+          "text": "we're going to go over things like how to choose\u00a0\nthe right Facebook campaign for you some tips and\u00a0\u00a0"
+        },
+        {
+          "start": "15.84",
+          "dur": "6.66",
+          "text": "tricks on creating a very specific narrow audience\u00a0\nhow to target to correct people on Facebook Ads\u00a0\u00a0"
+        },
+        {
+          "start": "22.5",
+          "dur": "5.97",
+          "text": "then we're going to talk about how to create a\u00a0\nreally powerful Facebook Ads image and copy after\u00a0\u00a0"
+        },
+        {
+          "start": "28.47",
+          "dur": "5.46",
+          "text": "we're done with that entire process we're going\u00a0\nto do a quick tutorial of the entire Facebook\u00a0\u00a0"
+        },
+        {
+          "start": "33.93",
+          "dur": "4.26",
+          "text": "Ads platform so you know what you're doing this\u00a0\nwill include things like going over how to use\u00a0\u00a0"
+        },
+        {
+          "start": "38.19",
+          "dur": "7.23",
+          "text": "the power editor how to create a pixel a Facebook\u00a0\npixel and creating your first custom audience this\u00a0\u00a0"
+        },
+        {
+          "start": "45.42",
+          "dur": "5.16",
+          "text": "is actually the first lesson from the beginners\u00a0\nFacebook Ads course I just launched it's so packed\u00a0\u00a0"
+        },
+        {
+          "start": "50.58",
+          "dur": "5.01",
+          "text": "full of information I had to share with you guys\u00a0\nso without any further ado let's jump right into\u00a0\u00a0"
+        },
+        {
+          "start": "55.59",
+          "dur": "5.13",
+          "text": "it welcome to the first lesson of the Facebook Ads\u00a0\ncourse so in this lesson the first thing I want to\u00a0\u00a0"
+        },
+        {
+          "start": "60.72",
+          "dur": "5.28",
+          "text": "do is right off the bat teach you everything you\u00a0\nneed to know to make a basic Facebook ad so we're\u00a0\u00a0"
+        },
+        {
+          "start": "66",
+          "dur": "4.2",
+          "text": "going to go through this process we're going to\u00a0\nmake the campaign the ad set and the ad if you're\u00a0\u00a0"
+        },
+        {
+          "start": "70.2",
+          "dur": "3.93",
+          "text": "just starting Facebook ads this is probably the\u00a0\nfirst thing you see but after we make our first\u00a0\u00a0"
+        },
+        {
+          "start": "74.13",
+          "dur": "4.77",
+          "text": "ad I'm actually going to take you into the ads\u00a0\nmanager we're going to poke around here teach you\u00a0\u00a0"
+        },
+        {
+          "start": "78.9",
+          "dur": "5.1",
+          "text": "all the tips and tricks so how you can review how\u00a0\nyou can look at the analytics of your Facebook ad\u00a0\u00a0"
+        },
+        {
+          "start": "84",
+          "dur": "5.88",
+          "text": "all that stuff and then after that we'll briefly\u00a0\nlook at some of the more advanced topics such as\u00a0\u00a0"
+        },
+        {
+          "start": "89.88",
+          "dur": "6.27",
+          "text": "the power editor how to build audiences so\u00a0\nlet's get started right off the bat with how\u00a0\u00a0"
+        },
+        {
+          "start": "96.15",
+          "dur": "4.38",
+          "text": "to make your first ad so I'm building your first\u00a0\nad here we're going to talk about everything from\u00a0\u00a0"
+        },
+        {
+          "start": "100.53",
+          "dur": "4.29",
+          "text": "the campaign to ad set in the ad so in the ad set\u00a0\nwe're going to talk about things like targeting\u00a0\u00a0"
+        },
+        {
+          "start": "104.82",
+          "dur": "4.41",
+          "text": "I'm going to give you some tips and tricks some\u00a0\nthings that Facebook actually purposely hides\u00a0\u00a0"
+        },
+        {
+          "start": "109.23",
+          "dur": "4.26",
+          "text": "that you can just uncheck and it will save you\u00a0\na ton of money now for the ad itself we're going\u00a0\u00a0"
+        },
+        {
+          "start": "113.49",
+          "dur": "5.04",
+          "text": "to talk about the ad copy how to make a quality\u00a0\nimage and I'm going to give you some other little\u00a0\u00a0"
+        },
+        {
+          "start": "118.53",
+          "dur": "4.5",
+          "text": "interesting tidbits in there so let's get started\u00a0\nthe first thing we need to do when creating a\u00a0\u00a0"
+        },
+        {
+          "start": "123.03",
+          "dur": "5.1",
+          "text": "Facebook ad is decide what kind of a campaign\u00a0\nwe want to run and there is a lot of choices\u00a0\u00a0"
+        },
+        {
+          "start": "128.13",
+          "dur": "4.56",
+          "text": "and for a beginner it might be overwhelming let\u00a0\nme tell you right off the bat there's only about\u00a0\u00a0"
+        },
+        {
+          "start": "132.69",
+          "dur": "6.36",
+          "text": "for you want to look at traffic video views'\u00a0\nlead generation and conversions another one\u00a0\u00a0"
+        },
+        {
+          "start": "139.05",
+          "dur": "5.37",
+          "text": "that's a little bit interesting and a little\u00a0\nbit more advanced is product catalog sales those\u00a0\u00a0"
+        },
+        {
+          "start": "144.42",
+          "dur": "4.68",
+          "text": "are probably about it now if you have a physical\u00a0\nstore or physical location you may be interested\u00a0\u00a0"
+        },
+        {
+          "start": "149.1",
+          "dur": "4.98",
+          "text": "in store visits as well obviously if you have an\u00a0\napp you might look at app installs there's a bunch\u00a0\u00a0"
+        },
+        {
+          "start": "154.08",
+          "dur": "3.63",
+          "text": "of different things but I'm going to assume you\u00a0\nhave an e-commerce site or you're trying to sell\u00a0\u00a0"
+        },
+        {
+          "start": "157.71",
+          "dur": "5.07",
+          "text": "some kind of product in service so let's go down\u00a0\nreally quickly talk about each of these different\u00a0\u00a0"
+        },
+        {
+          "start": "162.78",
+          "dur": "5.88",
+          "text": "types of campaigns and why they may or may not\u00a0\nmake sense so brand awareness and reach right off\u00a0\u00a0"
+        },
+        {
+          "start": "168.66",
+          "dur": "4.86",
+          "text": "the bat don't waste your money on these unless\u00a0\nyou have a really big budget don't waste your\u00a0\u00a0"
+        },
+        {
+          "start": "173.52",
+          "dur": "4.56",
+          "text": "money on these because it's just facebook's way of\u00a0\nspreading the message it's like a billboard almost\u00a0\u00a0"
+        },
+        {
+          "start": "178.08",
+          "dur": "4.98",
+          "text": "not very effective we don't we don't want that\u00a0\nwe want targeted traffic or targeted conversions\u00a0\u00a0"
+        },
+        {
+          "start": "183.06",
+          "dur": "5.7",
+          "text": "so obviously traffic is just sending traffic to\u00a0\nyour website very powerful it's probably one of\u00a0\u00a0"
+        },
+        {
+          "start": "188.76",
+          "dur": "5.88",
+          "text": "the easiest things personally nine times out of\u00a0\n10 I would rather create a conversions campaign\u00a0\u00a0"
+        },
+        {
+          "start": "194.64",
+          "dur": "4.44",
+          "text": "but for the purpose of this video we will probably\u00a0\ndo a traffic because I think it's one of the most\u00a0\u00a0"
+        },
+        {
+          "start": "199.08",
+          "dur": "4.98",
+          "text": "basic ways to get started right off the bat\u00a0\nengagement once again don't really waste your\u00a0\u00a0"
+        },
+        {
+          "start": "204.06",
+          "dur": "5.16",
+          "text": "money on this this is Facebook's way of getting\u00a0\nyou to spend more money than you probably should\u00a0\u00a0"
+        },
+        {
+          "start": "209.22",
+          "dur": "5.43",
+          "text": "it's basically just creating a campaign where\u00a0\nFacebook or you try to get engagement on your\u00a0\u00a0"
+        },
+        {
+          "start": "214.65",
+          "dur": "4.65",
+          "text": "post so it could be comments likes things like\u00a0\nthat app installs pretty self-explanatory for\u00a0\u00a0"
+        },
+        {
+          "start": "219.3",
+          "dur": "6.24",
+          "text": "app installs video views now later in this course\u00a0\nwe're going to do a whole section on how to do a\u00a0\u00a0"
+        },
+        {
+          "start": "225.54",
+          "dur": "7.02",
+          "text": "video campaign a video ads campaign very powerful\u00a0\na lot of the Guru's and Facebook marketing talked\u00a0\u00a0"
+        },
+        {
+          "start": "232.56",
+          "dur": "5.07",
+          "text": "about video views because you can get views for so\u00a0\ncheap more of an advanced topic we're not going to\u00a0\u00a0"
+        },
+        {
+          "start": "237.63",
+          "dur": "5.1",
+          "text": "touch their lead generation may personally be\u00a0\nmy favorite I go between conversions and lead\u00a0\u00a0"
+        },
+        {
+          "start": "242.73",
+          "dur": "6.9",
+          "text": "generation the beauty of lead generation is that\u00a0\nwhen you seal an ad in facebook you can actually\u00a0\u00a0"
+        },
+        {
+          "start": "249.63",
+          "dur": "5.25",
+          "text": "or when your audience sees that ad in facebook you\u00a0\ncan capture their information right away so let me\u00a0\u00a0"
+        },
+        {
+          "start": "254.88",
+          "dur": "5.28",
+          "text": "let me show you an example so for instance this ad\u00a0\nthis is just a typical ad and when you click learn\u00a0\u00a0"
+        },
+        {
+          "start": "260.16",
+          "dur": "5.28",
+          "text": "more let's see what happens it takes you to their\u00a0\nwebsite now imagine is instead when you click\u00a0\u00a0"
+        },
+        {
+          "start": "265.44",
+          "dur": "6.72",
+          "text": "learn or a little pop-up shows up here and says\u00a0\nhey what's your email and and it automatically\u00a0\u00a0"
+        },
+        {
+          "start": "272.16",
+          "dur": "5.52",
+          "text": "fills in the email and you can click yes and you\u00a0\nas the advertiser would get the email so that's\u00a0\u00a0"
+        },
+        {
+          "start": "277.68",
+          "dur": "3.54",
+          "text": "a lead add once again a more advanced topic we're\u00a0\nnot going to talk too much about that right here\u00a0\u00a0"
+        },
+        {
+          "start": "281.22",
+          "dur": "4.77",
+          "text": "but the great thing is it doesn't send people to\u00a0\nan external website you can gather you can get\u00a0\u00a0"
+        },
+        {
+          "start": "285.99",
+          "dur": "5.01",
+          "text": "their email you can get their contact information\u00a0\nright from Facebook conversions is amazing because\u00a0\u00a0"
+        },
+        {
+          "start": "291",
+          "dur": "7.38",
+          "text": "it it's optimized for conversion so I mean just\u00a0\nlike it sounds it's optimized Facebook knows you\u00a0\u00a0"
+        },
+        {
+          "start": "298.38",
+          "dur": "4.26",
+          "text": "put a little pixel on your website and Facebook\u00a0\nknows what kind of an audience is more likely to\u00a0\u00a0"
+        },
+        {
+          "start": "302.64",
+          "dur": "5.67",
+          "text": "buy and when they see a conversion happen they'll\u00a0\nsend more similar style traffic to your website\u00a0\u00a0"
+        },
+        {
+          "start": "308.31",
+          "dur": "6.18",
+          "text": "another advanced topic we'll talk about later in\u00a0\nthe course product catalog sales powerful but not\u00a0\u00a0"
+        },
+        {
+          "start": "314.49",
+          "dur": "5.67",
+          "text": "something that we'll talk about here in store\u00a0\nvisits lastly is just trying to get people into\u00a0\u00a0"
+        },
+        {
+          "start": "320.16",
+          "dur": "5.88",
+          "text": "your physical location so with all this being said\u00a0\nlike I said traffic video views lead generation\u00a0\u00a0"
+        },
+        {
+          "start": "326.04",
+          "dur": "5.04",
+          "text": "and conversions top 4 to look at let's start with\u00a0\nthe traffic at this is very simple just trying to\u00a0\u00a0"
+        },
+        {
+          "start": "331.08",
+          "dur": "5.19",
+          "text": "get traffic to your website which pretty common\u00a0\nthing that most people want more traffic to their\u00a0\u00a0"
+        },
+        {
+          "start": "336.27",
+          "dur": "6.36",
+          "text": "website so we're going to click that so let's just\u00a0\nI'm going to name it traffic let's just keep it as\u00a0\u00a0"
+        },
+        {
+          "start": "342.63",
+          "dur": "6.51",
+          "text": "traffic will talk about naming conventions later\u00a0\nin the course so go ahead and click continue and\u00a0\u00a0"
+        },
+        {
+          "start": "349.14",
+          "dur": "8.34",
+          "text": "I'm going to name this up here we're going to\u00a0\ncall this cycling cycling what's called thirty\u00a0\u00a0"
+        },
+        {
+          "start": "357.48",
+          "dur": "9.36",
+          "text": "five to fifty male and you'll see why we're going\u00a0\nto do that in a second so right now our potential\u00a0\u00a0"
+        },
+        {
+          "start": "366.84",
+          "dur": "6.66",
+          "text": "reaches 222 million people way too big we're\u00a0\ngonna have to narrow that down a lot and you\u00a0\u00a0"
+        },
+        {
+          "start": "373.5",
+          "dur": "4.41",
+          "text": "have some options you can use it saved audience so\u00a0\nthis is your first time using Facebook ad that's\u00a0\u00a0"
+        },
+        {
+          "start": "377.91",
+          "dur": "7.02",
+          "text": "not really an option for you or you can create a\u00a0\nnew audience so what you can view is locations do\u00a0\u00a0"
+        },
+        {
+          "start": "384.93",
+          "dur": "4.23",
+          "text": "you want everyone in this location probably you\u00a0\ncan also say people who live in this location\u00a0\u00a0"
+        },
+        {
+          "start": "389.16",
+          "dur": "4.65",
+          "text": "which might be even better that way you filter\u00a0\nout some people that are on vacation I do the\u00a0\u00a0"
+        },
+        {
+          "start": "393.81",
+          "dur": "6.43",
+          "text": "United States and this field you can add people\u00a0\nlet's say maybe you wanted Canada as well as you\u00a0\u00a0"
+        },
+        {
+          "start": "400.24",
+          "dur": "3.9",
+          "text": "can see the number goes up maybe you want what\u00a0\nat whatever country you're trying to target this\u00a0\u00a0"
+        },
+        {
+          "start": "404.14",
+          "dur": "7.44",
+          "text": "is the spot to do it and you don't just need to\u00a0\ninclude countries you can include States instead\u00a0\u00a0"
+        },
+        {
+          "start": "411.58",
+          "dur": "5.46",
+          "text": "so let's say instead of the United States I just\u00a0\nwant California goes down to 29 million people and\u00a0\u00a0"
+        },
+        {
+          "start": "417.04",
+          "dur": "6.48",
+          "text": "so you can further filter it down from there\u00a0\nso I'm going to go ahead I'm going to do the\u00a0\u00a0"
+        },
+        {
+          "start": "423.52",
+          "dur": "4.77",
+          "text": "entire United States just for the purposes of this\u00a0\ndemonstration I might go back and change this so\u00a0\u00a0"
+        },
+        {
+          "start": "428.29",
+          "dur": "5.25",
+          "text": "like like we said it we're going to do thirty five\u00a0\nso at this point you can change the age range so\u00a0\u00a0"
+        },
+        {
+          "start": "433.54",
+          "dur": "4.53",
+          "text": "I only want to target people on Facebook that\u00a0\nlive in the United States that are thirty five\u00a0\u00a0"
+        },
+        {
+          "start": "438.07",
+          "dur": "10.44",
+          "text": "scroll down thirty five to fifty and for this\u00a0\nad this is for my new company performance nut\u00a0\u00a0"
+        },
+        {
+          "start": "448.51",
+          "dur": "5.4",
+          "text": "butter and performance nut butter is a it's a nut\u00a0\nbutter it's a macadamia coconut cashew blended nut\u00a0\u00a0"
+        },
+        {
+          "start": "453.91",
+          "dur": "4.47",
+          "text": "butter that is geared towards the for lack of a\u00a0\nbetter word the performance athlete or somebody\u00a0\u00a0"
+        },
+        {
+          "start": "458.38",
+          "dur": "7.17",
+          "text": "that considers themselves athletic so I'm trying\u00a0\nto target men that are thirty five to fifty that\u00a0\u00a0"
+        },
+        {
+          "start": "465.55",
+          "dur": "6.51",
+          "text": "are into cycling and this is a very niche topic\u00a0\nthis is I'm not trying to go for everybody in\u00a0\u00a0"
+        },
+        {
+          "start": "472.06",
+          "dur": "5.28",
+          "text": "the world this is going to make more sense as we\u00a0\ngo later on as you see my ad and you see the ad\u00a0\u00a0"
+        },
+        {
+          "start": "477.34",
+          "dur": "3.96",
+          "text": "copy but I think this is something very important\u00a0\nright from the beginning to talk about is that you\u00a0\u00a0"
+        },
+        {
+          "start": "481.3",
+          "dur": "8.91",
+          "text": "don't want to target a wide range you don't want\u00a0\nto target all men 35 to 50 because let's see oops\u00a0\u00a0"
+        },
+        {
+          "start": "490.21",
+          "dur": "8.67",
+          "text": "I forgot to so that was issue here the United\u00a0\nStates I accidentally deleted that you don't\u00a0\u00a0"
+        },
+        {
+          "start": "498.88",
+          "dur": "4.77",
+          "text": "want to target that wide of a range because look\u00a0\nat that it's 29 million people so I don't want\u00a0\u00a0"
+        },
+        {
+          "start": "503.65",
+          "dur": "4.8",
+          "text": "to target 29 million people I want to target you\u00a0\nwant to get that number to around 150,000 or less\u00a0\u00a0"
+        },
+        {
+          "start": "508.45",
+          "dur": "7.2",
+          "text": "so you're only trying to go to a small subset\u00a0\nof the population so here detailed targeting we\u00a0\u00a0"
+        },
+        {
+          "start": "515.65",
+          "dur": "3.84",
+          "text": "can look at a bunch of different things we can\u00a0\ntarget people on a bunch of different metrics\u00a0\u00a0"
+        },
+        {
+          "start": "519.49",
+          "dur": "6.48",
+          "text": "so if we click it let's go go to browse you can go\u00a0\nthrough here and see some of the options so under\u00a0\u00a0"
+        },
+        {
+          "start": "525.97",
+          "dur": "5.67",
+          "text": "demographics you can look at things like education\u00a0\nwhat generation they are there financial so what\u00a0\u00a0"
+        },
+        {
+          "start": "531.64",
+          "dur": "5.37",
+          "text": "what their income is and let's say I want target\u00a0\npeople only that make $50,000 or more because to\u00a0\u00a0"
+        },
+        {
+          "start": "537.01",
+          "dur": "4.95",
+          "text": "be honest if you make less than that you probably\u00a0\ncan't afford my product or is it's at least you\u00a0\u00a0"
+        },
+        {
+          "start": "541.96",
+          "dur": "5.34",
+          "text": "have better things that spend your money on so\u00a0\nthat might be the first thing I do so I'm going\u00a0\u00a0"
+        },
+        {
+          "start": "547.3",
+          "dur": "5.76",
+          "text": "to click all those so now in the United States it\u00a0\nnarrows it down to 18 million people went from 29\u00a0\u00a0"
+        },
+        {
+          "start": "553.06",
+          "dur": "4.71",
+          "text": "million to 18 million so I'm going to narrow the\u00a0\naudience I'm going to click this button here to\u00a0\u00a0"
+        },
+        {
+          "start": "557.77",
+          "dur": "4.65",
+          "text": "narrow the audience even more and there's a few\u00a0\ndifferent tips I want to give you right now to\u00a0\u00a0"
+        },
+        {
+          "start": "562.42",
+          "dur": "10.62",
+          "text": "start thinking about the first one is you can do\u00a0\nsomething very simple like cycling and that should\u00a0\u00a0"
+        },
+        {
+          "start": "573.04",
+          "dur": "5.82",
+          "text": "narrow the audience even more so it went from\u00a0\n19 million to 3.1 million that still might be\u00a0\u00a0"
+        },
+        {
+          "start": "578.86",
+          "dur": "6.9",
+          "text": "too broad so I might want to instead consider\u00a0\nsomething like an event maybe Tour de France\u00a0\u00a0"
+        },
+        {
+          "start": "585.76",
+          "dur": "15.18",
+          "text": "Tour de France so that starts to narrow it down a\u00a0\nlittle bit more look at that so cycling too broad\u00a0\u00a0"
+        },
+        {
+          "start": "600.94",
+          "dur": "6.27",
+          "text": "of a topic have 3.1 million people now we're\u00a0\ntargeting people that make over $50,000 in the\u00a0\u00a0"
+        },
+        {
+          "start": "607.21",
+          "dur": "5.7",
+          "text": "United States that are also interested in the Tour\u00a0\nde France and you can narrow this even further we\u00a0\u00a0"
+        },
+        {
+          "start": "612.91",
+          "dur": "7.2",
+          "text": "could look at let's see what we got here we'll\u00a0\nclick on browse again and once again we'll in a\u00a0\u00a0"
+        },
+        {
+          "start": "620.11",
+          "dur": "5.85",
+          "text": "later lesson go over all these different things\u00a0\nyou can look at demographics that's more things\u00a0\u00a0"
+        },
+        {
+          "start": "625.96",
+          "dur": "5.88",
+          "text": "about the person what kind of generation they are\u00a0\ntheir life events interests but one of my favorite\u00a0\u00a0"
+        },
+        {
+          "start": "631.84",
+          "dur": "4.77",
+          "text": "things is behaviors and interests or things like\u00a0\nthe Tour de France that they're interested in it\u00a0\u00a0"
+        },
+        {
+          "start": "636.61",
+          "dur": "7.5",
+          "text": "behaviors specifically if we go down to purchase\u00a0\nbehavior this is gold if you're trying to sell\u00a0\u00a0"
+        },
+        {
+          "start": "644.11",
+          "dur": "4.86",
+          "text": "something Facebook has a general idea and it's not\u00a0\nperfect they have a general idea of who's actually\u00a0\u00a0"
+        },
+        {
+          "start": "648.97",
+          "dur": "5.1",
+          "text": "purchasing things so right now our audience is at\u00a0\n$280,000 let's go to purchasing behavior so what\u00a0\u00a0"
+        },
+        {
+          "start": "654.07",
+          "dur": "5.34",
+          "text": "am i selling I'm selling a food and drink go ahead\u00a0\nand click there but specifically I'm selling a\u00a0\u00a0"
+        },
+        {
+          "start": "659.41",
+          "dur": "6.24",
+          "text": "fresh and healthy type of food and drink so people\u00a0\nthat are interested in fresh and healthy food make\u00a0\u00a0"
+        },
+        {
+          "start": "665.65",
+          "dur": "5.76",
+          "text": "over 2000 and are interested in the Tour de France\u00a0\nwhat does that mean that means I'm getting a reach\u00a0\u00a0"
+        },
+        {
+          "start": "671.41",
+          "dur": "4.41",
+          "text": "of only a hundred thousand people in the United\u00a0\nStates there is only a hundred thousand males from\u00a0\u00a0"
+        },
+        {
+          "start": "675.82",
+          "dur": "5.31",
+          "text": "35 to 50 that are interested in the Tour de France\u00a0\nmake over fifty thousand dollars and are buying\u00a0\u00a0"
+        },
+        {
+          "start": "681.13",
+          "dur": "7.35",
+          "text": "fresh and healthy products this is perfect this\u00a0\nis what you want a very core group of people that\u00a0\u00a0"
+        },
+        {
+          "start": "688.48",
+          "dur": "4.65",
+          "text": "are going to buy from here we can look at a few\u00a0\ndifferent things we look at a connections you can\u00a0\u00a0"
+        },
+        {
+          "start": "693.13",
+          "dur": "5.22",
+          "text": "add a connection type and what this is there's a\u00a0\nlot of it makes you look at but people who already\u00a0\u00a0"
+        },
+        {
+          "start": "698.35",
+          "dur": "3.72",
+          "text": "like your page which you probably don't want to do\u00a0\nbecause if you're trying to get your message out\u00a0\u00a0"
+        },
+        {
+          "start": "702.07",
+          "dur": "5.43",
+          "text": "to a broader audience there's no reason to target\u00a0\nonly people who already like my page for instance\u00a0\u00a0"
+        },
+        {
+          "start": "707.5",
+          "dur": "6.39",
+          "text": "if this would would make it a much smaller you can\u00a0\ndo friends of people who like your page or exclude\u00a0\u00a0"
+        },
+        {
+          "start": "713.89",
+          "dur": "4.17",
+          "text": "people who like your page so you can say only show\u00a0\nthis to people that do not already like my page so\u00a0\u00a0"
+        },
+        {
+          "start": "718.06",
+          "dur": "6.48",
+          "text": "I'm going to go ahead and get rid of that you can\u00a0\nalso save this audience which is very helpful if\u00a0\u00a0"
+        },
+        {
+          "start": "724.54",
+          "dur": "4.41",
+          "text": "you're going to be reusing the same audience over\u00a0\nand over again so I might want to call this males\u00a0\u00a0"
+        },
+        {
+          "start": "728.95",
+          "dur": "18.96",
+          "text": "thirty five to fifty you us over 50k towards the\u00a0\nFrance and fresh and healthy now you can come up\u00a0\u00a0"
+        },
+        {
+          "start": "747.91",
+          "dur": "3.75",
+          "text": "with your own naming convention this is just the\u00a0\nfirst thing that popped in my head for this one\u00a0\u00a0"
+        },
+        {
+          "start": "751.66",
+          "dur": "7.35",
+          "text": "but the next important thing we're going to look\u00a0\nat here is let's scroll up a little bit placements\u00a0\u00a0"
+        },
+        {
+          "start": "759.01",
+          "dur": "5.58",
+          "text": "and this is the first major trick tip whatever\u00a0\nyou want to call it I'm going to give you don't\u00a0\u00a0"
+        },
+        {
+          "start": "764.59",
+          "dur": "4.5",
+          "text": "do automatic placements Facebook is trying to\u00a0\nsteal money from you it's click Edit placements\u00a0\u00a0"
+        },
+        {
+          "start": "769.09",
+          "dur": "6.15",
+          "text": "for sure you do not at least at this stage for\u00a0\nthe early stages don't want to do a messenger\u00a0\u00a0"
+        },
+        {
+          "start": "775.24",
+          "dur": "7.41",
+          "text": "messenger ad you don't want to do audience Network\u00a0\neither that's just awful in my opinion audience\u00a0\u00a0"
+        },
+        {
+          "start": "782.65",
+          "dur": "4.71",
+          "text": "network is basically all these sites that are\u00a0\naffiliated with Facebook they have native my\u00a0\u00a0"
+        },
+        {
+          "start": "787.36",
+          "dur": "6",
+          "text": "banners apps things like that little it'll show\u00a0\nup on some Facebook apps on different apps it'll\u00a0\u00a0"
+        },
+        {
+          "start": "793.36",
+          "dur": "5.37",
+          "text": "show up on the ads you don't want that probably\u00a0\ndon't want Instagram well later in this course\u00a0\u00a0"
+        },
+        {
+          "start": "798.73",
+          "dur": "5.55",
+          "text": "I have a module specifically on so granddad's if\u00a0\nyou're interested in Instagram watch that that'll\u00a0\u00a0"
+        },
+        {
+          "start": "804.28",
+          "dur": "4.95",
+          "text": "talk about it but let's assume you're just trying\u00a0\nto do Facebook ads so then you drop this down and\u00a0\u00a0"
+        },
+        {
+          "start": "809.23",
+          "dur": "5.88",
+          "text": "you don't want instant articles uncheck that if\u00a0\nyou don't want to do right column either and let\u00a0\u00a0"
+        },
+        {
+          "start": "815.11",
+          "dur": "5.31",
+          "text": "me show you what right column is so right column\u00a0\nare all these ads really what you want is the\u00a0\u00a0"
+        },
+        {
+          "start": "820.42",
+          "dur": "5.07",
+          "text": "newsfeed that's it so this right column people\u00a0\nknow their ads it's never anything but ads you\u00a0\u00a0"
+        },
+        {
+          "start": "825.49",
+          "dur": "5.28",
+          "text": "want your ad to not look like an ad so look at\u00a0\nthis for instance this looks like an ad that's\u00a0\u00a0"
+        },
+        {
+          "start": "830.77",
+          "dur": "4.68",
+          "text": "pretty bad because I'm going to scroll right\u00a0\npast it now I'm gonna see if I can find another\u00a0\u00a0"
+        },
+        {
+          "start": "835.45",
+          "dur": "6.09",
+          "text": "ad doesn't look like an ad but anyways you get an\u00a0\nidea of what ads look like so this for instance\u00a0\u00a0"
+        },
+        {
+          "start": "841.54",
+          "dur": "3.6",
+          "text": "not sure if it's an ad or not I'm going to stop\u00a0\nI'm going to kind of look at it and see what's\u00a0\u00a0"
+        },
+        {
+          "start": "845.14",
+          "dur": "5.46",
+          "text": "going on but as soon as you see something that's\u00a0\nan ad the average Facebook consumer is going to\u00a0\u00a0"
+        },
+        {
+          "start": "850.6",
+          "dur": "6.27",
+          "text": "roll the right pass like nobody posts an image\u00a0\nlike this it's just unheard of so anyways in the\u00a0\u00a0"
+        },
+        {
+          "start": "856.87",
+          "dur": "5.94",
+          "text": "newsfeed is the only spot you want and it looks\u00a0\nlike it looks like it's not working but this is\u00a0\u00a0"
+        },
+        {
+          "start": "862.81",
+          "dur": "6",
+          "text": "one of the tricks that Facebook does as soon as\u00a0\nyou click that there's two options to unclick but\u00a0\u00a0"
+        },
+        {
+          "start": "868.81",
+          "dur": "5.58",
+          "text": "you unclick that and it makes it look like there's\u00a0\nnothing happening but this means that only the\u00a0\u00a0"
+        },
+        {
+          "start": "874.39",
+          "dur": "4.53",
+          "text": "newsfeed is active and that's the only place your\u00a0\nad will go so this is the way you want it this is\u00a0\u00a0"
+        },
+        {
+          "start": "878.92",
+          "dur": "4.65",
+          "text": "the setup you want and once again you can look at\u00a0\nthe checklist if you get confused on what step is\u00a0\u00a0"
+        },
+        {
+          "start": "883.57",
+          "dur": "7.32",
+          "text": "what step you're in look at the checklist I have\u00a0\nbelow to figure that out so let's go to Advanced\u00a0\u00a0"
+        },
+        {
+          "start": "890.89",
+          "dur": "6.36",
+          "text": "Options this is the second trick I have for you\u00a0\nAdvanced Options this is not really an advanced\u00a0\u00a0"
+        },
+        {
+          "start": "897.25",
+          "dur": "6.78",
+          "text": "option this is a mandatory option specific mobile\u00a0\ndevices and operating systems so for most people\u00a0\u00a0"
+        },
+        {
+          "start": "904.03",
+          "dur": "5.94",
+          "text": "uncheck that there are exceptions it you know\u00a0\nmaybe you really do want Facebook ads to show\u00a0\u00a0"
+        },
+        {
+          "start": "909.97",
+          "dur": "7.14",
+          "text": "up on people's phone but for most people you want\u00a0\nto uncheck that now notice it lowered my reach to\u00a0\u00a0"
+        },
+        {
+          "start": "917.11",
+          "dur": "5.79",
+          "text": "34,000 people that's okay I think you want to\u00a0\nkeep it between twenty thousand your audience\u00a0\u00a0"
+        },
+        {
+          "start": "922.9",
+          "dur": "4.26",
+          "text": "your potential reach between twenty thousand\u00a0\none hundred fifty thousand now if I want to I\u00a0\u00a0"
+        },
+        {
+          "start": "927.16",
+          "dur": "6.48",
+          "text": "could change I could edit this audience to make\u00a0\nit a little bit bigger but for right now let's\u00a0\u00a0"
+        },
+        {
+          "start": "933.64",
+          "dur": "6.6",
+          "text": "say that is fine this is going to be an extremely\u00a0\ntargeted thing so not to jump around too much the\u00a0\u00a0"
+        },
+        {
+          "start": "940.24",
+          "dur": "5.82",
+          "text": "reasons you want to uncheck all mobile devices you\u00a0\nonly want it on desktop because people buy off the\u00a0\u00a0"
+        },
+        {
+          "start": "946.06",
+          "dur": "5.43",
+          "text": "desktop people are much less likely to buy your\u00a0\nproduct off a mobile phone and the whole point of\u00a0\u00a0"
+        },
+        {
+          "start": "951.49",
+          "dur": "7.35",
+          "text": "advertising is to make money so if you're trying\u00a0\nto advertise to a place where people are not going\u00a0\u00a0"
+        },
+        {
+          "start": "958.84",
+          "dur": "6.09",
+          "text": "to purchase your product you're wasting your money\u00a0\nso let's scroll down a little bit further so daily\u00a0\u00a0"
+        },
+        {
+          "start": "964.93",
+          "dur": "4.56",
+          "text": "budget now this is up to you this is how much\u00a0\nmoney a day you're going to spend I recommend\u00a0\u00a0"
+        },
+        {
+          "start": "969.49",
+          "dur": "7.23",
+          "text": "starting with at least $5 you can do more or less\u00a0\nit's 100 cent up to you and set a schedule once\u00a0\u00a0"
+        },
+        {
+          "start": "976.72",
+          "dur": "5.19",
+          "text": "again you decide how long you want to do it for\u00a0\nI usually just let it run continuously starting\u00a0\u00a0"
+        },
+        {
+          "start": "981.91",
+          "dur": "3.81",
+          "text": "today and especially if you're new to this check\u00a0\nup on it like once a day just see how it's doing\u00a0\u00a0"
+        },
+        {
+          "start": "985.72",
+          "dur": "7.92",
+          "text": "and once you see that engagement is dying down\u00a0\nyou can just pause the ad learn from it and do and\u00a0\u00a0"
+        },
+        {
+          "start": "993.64",
+          "dur": "5.13",
+          "text": "figure out how to improve the next ad so for the\u00a0\nbit amount I usually just do automatic that's fine\u00a0\u00a0"
+        },
+        {
+          "start": "998.77",
+          "dur": "6.24",
+          "text": "and we're optimizing for link clicks here you can\u00a0\ndo other things but link clicks is the best this\u00a0\u00a0"
+        },
+        {
+          "start": "1005.01",
+          "dur": "4.56",
+          "text": "is one of the few times that Facebook's automatic\u00a0\nrecommendations are actually the best because\u00a0\u00a0"
+        },
+        {
+          "start": "1009.57",
+          "dur": "5.94",
+          "text": "that's what you're trying to do you're trying\u00a0\nto drive traffic to your website ad scheduling\u00a0\u00a0"
+        },
+        {
+          "start": "1015.51",
+          "dur": "7.65",
+          "text": "that's all good you can you can change this oh\u00a0\nokay that's if you change it to lifetime budget\u00a0\u00a0"
+        },
+        {
+          "start": "1023.16",
+          "dur": "5.67",
+          "text": "so if you want to change it to lifetime budget\u00a0\nyou can run ads on a schedule you can say hey I\u00a0\u00a0"
+        },
+        {
+          "start": "1028.83",
+          "dur": "7.47",
+          "text": "want them to only run from 6:00 a.m. to 9:00 p.m.\u00a0\nwhich is a little bit more of an advanced tip but\u00a0\u00a0"
+        },
+        {
+          "start": "1036.3",
+          "dur": "4.47",
+          "text": "it might be worth considering especially because\u00a0\nmost people probably aren't buying from midnight\u00a0\u00a0"
+        },
+        {
+          "start": "1040.77",
+          "dur": "3.48",
+          "text": "to 6 o'clock but that's debatable so I'm going\u00a0\nto leave that for another time I'm just going\u00a0\u00a0"
+        },
+        {
+          "start": "1044.25",
+          "dur": "8.37",
+          "text": "to I'm going to go back to instead of lifetime\u00a0\nbudget daily budget go back to $5 there we go and\u00a0\u00a0"
+        },
+        {
+          "start": "1052.62",
+          "dur": "6.54",
+          "text": "delivery type standard show your ads throughout\u00a0\nyour selected schedule that's totally fine so\u00a0\u00a0"
+        },
+        {
+          "start": "1059.16",
+          "dur": "4.86",
+          "text": "at this point we're pretty good this is the ad set\u00a0\nwe're done with the ad set and we're going to talk\u00a0\u00a0"
+        },
+        {
+          "start": "1064.02",
+          "dur": "7.05",
+          "text": "about creating the actual ad itself so we're gonna\u00a0\nclick continue and I have a few different pages\u00a0\u00a0"
+        },
+        {
+          "start": "1071.07",
+          "dur": "9.63",
+          "text": "here for the name of this I'm going to call it 35\u00a0\n250 cycling and your naming convention may vary\u00a0\u00a0"
+        },
+        {
+          "start": "1080.7",
+          "dur": "4.92",
+          "text": "I'll give you some tips later in the course on how\u00a0\nyou can how you should in my opinion name it but\u00a0\u00a0"
+        },
+        {
+          "start": "1085.62",
+          "dur": "5.52",
+          "text": "that's just a quick example we're going to select\u00a0\nwhich page and this might not you might just have\u00a0\u00a0"
+        },
+        {
+          "start": "1091.14",
+          "dur": "6.03",
+          "text": "one default page but for me I have multiple pages\u00a0\nthat are run so this is for the performance nut\u00a0\u00a0"
+        },
+        {
+          "start": "1097.17",
+          "dur": "4.62",
+          "text": "butter account I'm running a performance nut\u00a0\nbutter ad so I need to obviously select the\u00a0\u00a0"
+        },
+        {
+          "start": "1101.79",
+          "dur": "5.7",
+          "text": "performance nut butter and we're going to start\u00a0\nwith single image there's also carousel video\u00a0\u00a0"
+        },
+        {
+          "start": "1107.49",
+          "dur": "5.22",
+          "text": "slideshow a bunch of other stuff single image is\u00a0\nthe most common one and from my experience the\u00a0\u00a0"
+        },
+        {
+          "start": "1112.71",
+          "dur": "5.55",
+          "text": "best converting ones your experience may vary so\u00a0\nwe're going to have to upload an image and let me\u00a0\u00a0"
+        },
+        {
+          "start": "1118.26",
+          "dur": "9.33",
+          "text": "show you before I upload the image what my image\u00a0\nlooks like so this is the image you know what to\u00a0\u00a0"
+        },
+        {
+          "start": "1127.59",
+          "dur": "5.34",
+          "text": "be honest with you I just photoshopped this I took\u00a0\na picture of my hand holding a packet performance\u00a0\u00a0"
+        },
+        {
+          "start": "1132.93",
+          "dur": "7.11",
+          "text": "and that butter and I put back there some cycling\u00a0\npeople some people that were cycling very basic I\u00a0\u00a0"
+        },
+        {
+          "start": "1140.04",
+          "dur": "5.31",
+          "text": "just got this off a stock photo type thing and I\u00a0\njust wanted to see I wanted to test this I'm not\u00a0\u00a0"
+        },
+        {
+          "start": "1145.35",
+          "dur": "4.53",
+          "text": "saying this is the best photo because this does\u00a0\nlook a little bit too much like an ad in an ideal\u00a0\u00a0"
+        },
+        {
+          "start": "1149.88",
+          "dur": "5.28",
+          "text": "world actually one of the best tips I have for\u00a0\nyou is try to see if you can get your users to\u00a0\u00a0"
+        },
+        {
+          "start": "1155.16",
+          "dur": "4.44",
+          "text": "take photos of them using the product and use that\u00a0\nas an advertisement because I don't look natural\u00a0\u00a0"
+        },
+        {
+          "start": "1159.6",
+          "dur": "6",
+          "text": "it won't look like an ad when you try to make it\u00a0\nlook too much like an ad Facebook doesn't like it\u00a0\u00a0"
+        },
+        {
+          "start": "1165.6",
+          "dur": "6.24",
+          "text": "because users don't like it and use and they won't\u00a0\nreward you if you're creating a bad experience so\u00a0\u00a0"
+        },
+        {
+          "start": "1171.84",
+          "dur": "15.45",
+          "text": "let's go ahead and do this I'm going to upload\u00a0\nmy image and you needs to be 1200 by 628 pixels\u00a0\u00a0"
+        },
+        {
+          "start": "1187.29",
+          "dur": "4.53",
+          "text": "later in the course we'll talk about specifics\u00a0\non how to build a really good image including\u00a0\u00a0"
+        },
+        {
+          "start": "1191.82",
+          "dur": "6.24",
+          "text": "I will have a template for you that you can use\u00a0\nso we're going to go down here at this point so\u00a0\u00a0"
+        },
+        {
+          "start": "1198.06",
+          "dur": "5.91",
+          "text": "this is only eligible for the desktop news feed\u00a0\nif it was eligible for the mobile news feed you\u00a0\u00a0"
+        },
+        {
+          "start": "1203.97",
+          "dur": "4.23",
+          "text": "well you can still see what a preview of what it\u00a0\nwould look like but this ad is only going to be\u00a0\u00a0"
+        },
+        {
+          "start": "1208.2",
+          "dur": "8.76",
+          "text": "eligible for the desktop newsfeed so the website\u00a0\nURL I'm going to go ahead and do see performance\u00a0\u00a0"
+        },
+        {
+          "start": "1216.96",
+          "dur": "29.43",
+          "text": "map better calm so the two most important\u00a0\nthings of creating a Facebook ad are the\u00a0\u00a0"
+        },
+        {
+          "start": "1246.39",
+          "dur": "5.97",
+          "text": "image and the headline so for this headline\u00a0\nyou want to put something that's catchy just\u00a0\u00a0"
+        },
+        {
+          "start": "1252.36",
+          "dur": "9.45",
+          "text": "going to catch people's attention so we might\u00a0\nsay something like instant energy from sat"
+        },
+        {
+          "start": "1261.81",
+          "dur": "9.42",
+          "text": "need some energy on the go from fat and I'm just\u00a0\ndoing this off the top my head later in this\u00a0\u00a0"
+        },
+        {
+          "start": "1271.23",
+          "dur": "4.47",
+          "text": "course we're going to talk about specifically\u00a0\nhow to write a good headline how to create a\u00a0\u00a0"
+        },
+        {
+          "start": "1275.7",
+          "dur": "4.5",
+          "text": "good image like I said but from right now that's\u00a0\ngood because if someone scrolling past this they\u00a0\u00a0"
+        },
+        {
+          "start": "1280.2",
+          "dur": "7.17",
+          "text": "might be like instant energy on the go from fat\u00a0\nnot the best but it's it's decent for right off\u00a0\u00a0"
+        },
+        {
+          "start": "1287.37",
+          "dur": "5.88",
+          "text": "the top my head it's decent so the text this less\u00a0\nimportant but you still should do it you might say\u00a0\u00a0"
+        },
+        {
+          "start": "1293.25",
+          "dur": "19.77",
+          "text": "something like that packs more calories per ounce\u00a0\nany other food get your healthy that on today"
+        },
+        {
+          "start": "1314.08",
+          "dur": "11.82",
+          "text": "that's decent it's once again probably\u00a0\nnot the best but that's right there you\u00a0\u00a0"
+        },
+        {
+          "start": "1325.9",
+          "dur": "9.3",
+          "text": "can also do the newsfeed link description put\u00a0\nsome interesting information right here you\u00a0\u00a0"
+        },
+        {
+          "start": "1335.2",
+          "dur": "5.37",
+          "text": "can make it look like an article there's so many\u00a0\noptions here now for the call to action you have\u00a0\u00a0"
+        },
+        {
+          "start": "1340.57",
+          "dur": "4.11",
+          "text": "a few different options learn more is one of my\u00a0\npersonal favorites because it's a soft sell it's\u00a0\u00a0"
+        },
+        {
+          "start": "1344.68",
+          "dur": "6.21",
+          "text": "not it's not saying hey buy now' or shop now' but\u00a0\nmaybe that's what you want i think this is one of\u00a0\u00a0"
+        },
+        {
+          "start": "1350.89",
+          "dur": "4.74",
+          "text": "the best things that you can split test is does\u00a0\nthe learn more or the shop now' work actually\u00a0\u00a0"
+        },
+        {
+          "start": "1355.63",
+          "dur": "5.13",
+          "text": "I take that back I think headline and the image\u00a0\nitself is probably the best thing to split test\u00a0\u00a0"
+        },
+        {
+          "start": "1360.76",
+          "dur": "4.89",
+          "text": "but that's an interesting split test still to do\u00a0\nis to learn more versus shop now but there is a\u00a0\u00a0"
+        },
+        {
+          "start": "1365.65",
+          "dur": "6.42",
+          "text": "ton of options here that you have to choose from\u00a0\nnow the display link you may or may not want to\u00a0\u00a0"
+        },
+        {
+          "start": "1372.07",
+          "dur": "5.31",
+          "text": "change this for instance for my other company be\u00a0\ndance where it's a dance clothing company I might\u00a0\u00a0"
+        },
+        {
+          "start": "1377.38",
+          "dur": "8.55",
+          "text": "do something like slash shorts so it would look\u00a0\nlike this if I was advertising a pair of shorts\u00a0\u00a0"
+        },
+        {
+          "start": "1385.93",
+          "dur": "5.94",
+          "text": "for instance performance mutter komm slash\u00a0\nshorts now obviously performance nut butter\u00a0\u00a0"
+        },
+        {
+          "start": "1391.87",
+          "dur": "6.69",
+          "text": "does not sell shorts and performance nut butter\u00a0\ncalm explains everything for the URL parameters\u00a0\u00a0"
+        },
+        {
+          "start": "1398.56",
+          "dur": "4.86",
+          "text": "this is actually an important step it says it's\u00a0\noptional I think it should be mandatory so what\u00a0\u00a0"
+        },
+        {
+          "start": "1403.42",
+          "dur": "5.76",
+          "text": "we're going to do here is we're going to go\u00a0\nto the URL builder and I'll put a link down\u00a0\u00a0"
+        },
+        {
+          "start": "1409.18",
+          "dur": "5.76",
+          "text": "below for this we got performance nut butter calm\u00a0\nand you'd fill in all this information I already\u00a0\u00a0"
+        },
+        {
+          "start": "1414.94",
+          "dur": "5.97",
+          "text": "had it pre filled campaign source Facebook\u00a0\nads campaign medium CPC and then instead of\u00a0\u00a0"
+        },
+        {
+          "start": "1420.91",
+          "dur": "10.44",
+          "text": "campaign name being OCR it could be something like\u00a0\ncycling thirty five to fifty six five to fifty"
+        },
+        {
+          "start": "1434.76",
+          "dur": "13.53",
+          "text": "Tour de France buying so then we would go down\u00a0\nhere and all you need to do is copy this this\u00a0\u00a0"
+        },
+        {
+          "start": "1448.29",
+          "dur": "4.26",
+          "text": "last part the question mark so what that's going\u00a0\nto do is it's going to when someone clicks on your\u00a0\u00a0"
+        },
+        {
+          "start": "1452.55",
+          "dur": "6.39",
+          "text": "ad it's going to make it so it's this link and\u00a0\nwhen people go to your website using that link\u00a0\u00a0"
+        },
+        {
+          "start": "1458.94",
+          "dur": "5.16",
+          "text": "oops I just did the last part but when people go\u00a0\nto your website using that whole link it'll tag\u00a0\u00a0"
+        },
+        {
+          "start": "1464.1",
+          "dur": "3.87",
+          "text": "it in Google Analytics so the short version is\u00a0\nyou need to do this so you can tag it in Google\u00a0\u00a0"
+        },
+        {
+          "start": "1467.97",
+          "dur": "6.18",
+          "text": "Analytics let's go ahead and add that right\u00a0\nthere boom pretty simple but very effective\u00a0\u00a0"
+        },
+        {
+          "start": "1474.15",
+          "dur": "5.01",
+          "text": "so now you can see okay sure I got 50 clicks\u00a0\nfrom Google Analytics how many pages did they\u00a0\u00a0"
+        },
+        {
+          "start": "1479.16",
+          "dur": "6",
+          "text": "go do what was their engagement like do they buy\u00a0\nanything it's just very very powerful last but\u00a0\u00a0"
+        },
+        {
+          "start": "1485.16",
+          "dur": "5.67",
+          "text": "not least before we confirm is that you need\u00a0\nto have a pixel and we haven't talked yet in\u00a0\u00a0"
+        },
+        {
+          "start": "1490.83",
+          "dur": "6.03",
+          "text": "this course about how to create your pixel\u00a0\n100% you should be doing this and a pixel is\u00a0\u00a0"
+        },
+        {
+          "start": "1496.86",
+          "dur": "4.47",
+          "text": "great it's a little bit of code that goes on\u00a0\nyour website and it allows Facebook to track\u00a0\u00a0"
+        },
+        {
+          "start": "1501.33",
+          "dur": "4.53",
+          "text": "everybody coming to your site it'll allow you\u00a0\nto track your conversions it'll allow you to\u00a0\u00a0"
+        },
+        {
+          "start": "1505.86",
+          "dur": "6.18",
+          "text": "remark it to those people so when someone clicks\u00a0\non this ad and goes to my website Facebook knows\u00a0\u00a0"
+        },
+        {
+          "start": "1512.04",
+          "dur": "5.07",
+          "text": "and Facebook can retarget them so in the next\u00a0\nlesson or the lesson after that we're going to\u00a0\u00a0"
+        },
+        {
+          "start": "1517.11",
+          "dur": "5.76",
+          "text": "go over how to set up the pixel why the pixel\u00a0\nis so important but trust me when I say one of\u00a0\u00a0"
+        },
+        {
+          "start": "1522.87",
+          "dur": "4.95",
+          "text": "the first things you should do is set up a pixel\u00a0\nso we're going to go ahead and click confirm here"
+        },
+        {
+          "start": "1534.3",
+          "dur": "6.72",
+          "text": "second or two so it's in review and at this point\u00a0\nwe could duplicate the ad if we're going to make\u00a0\u00a0"
+        },
+        {
+          "start": "1541.02",
+          "dur": "6.42",
+          "text": "another similar ad or we can just go ahead and\u00a0\nclick continue so at this point I'm going to\u00a0\u00a0"
+        },
+        {
+          "start": "1547.44",
+          "dur": "6.63",
+          "text": "take you through this whole Facebook Ads manager\u00a0\nwe're going to go over the ads manager first and\u00a0\u00a0"
+        },
+        {
+          "start": "1554.07",
+          "dur": "6.45",
+          "text": "I'm going to show you some really nifty tips\u00a0\nand tricks so let's look at here so if I go to\u00a0\u00a0"
+        },
+        {
+          "start": "1560.52",
+          "dur": "6.06",
+          "text": "account overview this will give you a snapshot of\u00a0\nhow your account is going now for performance not\u00a0\u00a0"
+        },
+        {
+          "start": "1566.58",
+          "dur": "4.08",
+          "text": "butter I haven't been running a lot of Facebook\u00a0\nads because I'm in a limbo state right now my\u00a0\u00a0"
+        },
+        {
+          "start": "1570.66",
+          "dur": "5.7",
+          "text": "Kickstarter is done but I don't have product\u00a0\nyet to sell so I use Facebook ads to promote it\u00a0\u00a0"
+        },
+        {
+          "start": "1576.36",
+          "dur": "5.67",
+          "text": "during the Kickstarter now if we go to campaigns\u00a0\nthis is where the real fun begins you can see how\u00a0\u00a0"
+        },
+        {
+          "start": "1582.03",
+          "dur": "7.32",
+          "text": "effective your campaign campaigns were so there's\u00a0\nso much to go over here I'm going to give you a\u00a0\u00a0"
+        },
+        {
+          "start": "1589.35",
+          "dur": "6.48",
+          "text": "brief overview and we can dive in deeper later\u00a0\nin the course so this really the epicenter of\u00a0\u00a0"
+        },
+        {
+          "start": "1595.83",
+          "dur": "5.94",
+          "text": "where everything happens in facebook ads so this\u00a0\nis a list of all the different campaigns you've\u00a0\u00a0"
+        },
+        {
+          "start": "1601.77",
+          "dur": "4.59",
+          "text": "run and you can see this is the campaign we just\u00a0\nmade I'm going to go ahead and turn that off and\u00a0\u00a0"
+        },
+        {
+          "start": "1606.36",
+          "dur": "4.8",
+          "text": "you can toggle thank them on and off by just\u00a0\nclicking that button so I'm turning off that\u00a0\u00a0"
+        },
+        {
+          "start": "1611.16",
+          "dur": "6.75",
+          "text": "traffic because I made it just for this tutorial\u00a0\nlike I said you can click it back on at any point\u00a0\u00a0"
+        },
+        {
+          "start": "1617.91",
+          "dur": "5.43",
+          "text": "it shows the delivery whether it's active or\u00a0\ninactive which is a good thing to look at the\u00a0\u00a0"
+        },
+        {
+          "start": "1623.34",
+          "dur": "4.83",
+          "text": "next thing is the results how many clicks have\u00a0\nyou gotten so this is a traffic for Kickstarter\u00a0\u00a0"
+        },
+        {
+          "start": "1628.17",
+          "dur": "5.4",
+          "text": "campaign I ran it got 30 clicks it reached 5,000\u00a0\npeople that's how many people actually saw the ad\u00a0\u00a0"
+        },
+        {
+          "start": "1633.57",
+          "dur": "7.17",
+          "text": "and it cost me about $4 per link click the total\u00a0\namount I spent was 124 dollars now this is useful\u00a0\u00a0"
+        },
+        {
+          "start": "1640.74",
+          "dur": "5.76",
+          "text": "information you can scroll over you can see some\u00a0\nmore information there so this is a basic traffic\u00a0\u00a0"
+        },
+        {
+          "start": "1646.5",
+          "dur": "6.9",
+          "text": "campaign now one huge tip I have for you is these\u00a0\nare the default columns but you can change them\u00a0\u00a0"
+        },
+        {
+          "start": "1653.4",
+          "dur": "7.8",
+          "text": "you can look at engagement instead so this is\u00a0\nhow many post comments I got post reactions so\u00a0\u00a0"
+        },
+        {
+          "start": "1661.2",
+          "dur": "7.74",
+          "text": "this post reactions are like thumbs up different\u00a0\nemotions that people clicked and post comments\u00a0\u00a0"
+        },
+        {
+          "start": "1668.94",
+          "dur": "4.89",
+          "text": "obviously pretty self-explanatory how many\u00a0\npeople commented on it link kicks clicks page\u00a0\u00a0"
+        },
+        {
+          "start": "1673.83",
+          "dur": "5.61",
+          "text": "likes how many people liked my page because it's\u00a0\nso engagement very very helpful another thing you\u00a0\u00a0"
+        },
+        {
+          "start": "1679.44",
+          "dur": "7.2",
+          "text": "can look at is customizing your columns which I\u00a0\nhighly recommend and I will once again we'll go\u00a0\u00a0"
+        },
+        {
+          "start": "1686.64",
+          "dur": "5.16",
+          "text": "over this in much more detail I'll show you some\u00a0\nof my favorite styles of custom columns but we\u00a0\u00a0"
+        },
+        {
+          "start": "1691.8",
+          "dur": "5.82",
+          "text": "can decide what we want to show in what we don't\u00a0\none thing I really enjoy let's let's go over all\u00a0\u00a0"
+        },
+        {
+          "start": "1697.62",
+          "dur": "6.03",
+          "text": "these so you can look at how many people at reach\u00a0\nso let's go ahead and click that actions relevant\u00a0\u00a0"
+        },
+        {
+          "start": "1703.65",
+          "dur": "5.79",
+          "text": "score if you take away one thing from this section\u00a0\nit's that you should see the relevant score and\u00a0\u00a0"
+        },
+        {
+          "start": "1709.44",
+          "dur": "7.92",
+          "text": "see how to adjust it so this is now our custom\u00a0\nsetting and to see relevant score you have to go\u00a0\u00a0"
+        },
+        {
+          "start": "1717.36",
+          "dur": "6.78",
+          "text": "to the add set level so just to let you know\u00a0\ncampaign is like the big umbrella turn then\u00a0\u00a0"
+        },
+        {
+          "start": "1724.14",
+          "dur": "4.11",
+          "text": "within that you click on it it takes you to the\u00a0\nadd set and you could have multiple add sets in\u00a0\u00a0"
+        },
+        {
+          "start": "1728.25",
+          "dur": "7.05",
+          "text": "the same campaign then when you click on that\u00a0\nyou can see the add and this is where you can\u00a0\u00a0"
+        },
+        {
+          "start": "1735.3",
+          "dur": "5.28",
+          "text": "see things like relevance score now a 4 is not\u00a0\nvery good it's from 1 to 10 so I messed up so\u00a0\u00a0"
+        },
+        {
+          "start": "1740.58",
+          "dur": "6.24",
+          "text": "that image I showed you didn't do very good with\u00a0\nthe audience I was going after so I can do better\u00a0\u00a0"
+        },
+        {
+          "start": "1746.82",
+          "dur": "6.15",
+          "text": "next time so once again multiple add sets and then\u00a0\nyou can have multiple ads within the ad set the\u00a0\u00a0"
+        },
+        {
+          "start": "1752.97",
+          "dur": "7.56",
+          "text": "ad is the image the copy those kind of things so\u00a0\nmaybe within this cyclists ad set I'd want to have\u00a0\u00a0"
+        },
+        {
+          "start": "1760.53",
+          "dur": "5.64",
+          "text": "multiple ads in the ad set contains information\u00a0\nlike targeting and all that information we went\u00a0\u00a0"
+        },
+        {
+          "start": "1766.17",
+          "dur": "8.25",
+          "text": "over earlier in this first lesson I know I'm going\u00a0\nreally fast will dive into all this in a lot more\u00a0\u00a0"
+        },
+        {
+          "start": "1774.42",
+          "dur": "6.99",
+          "text": "detail but I'm trying to give you a very broad\u00a0\noverview of the Facebook Ads platform so once\u00a0\u00a0"
+        },
+        {
+          "start": "1781.41",
+          "dur": "5.91",
+          "text": "again once we can see some information on each of\u00a0\nthese different ad sets so let's go to campaigns\u00a0\u00a0"
+        },
+        {
+          "start": "1787.32",
+          "dur": "7.71",
+          "text": "we saw that 39 people took action and 30 link\u00a0\nclicks but when we click in deeper we saw that\u00a0\u00a0"
+        },
+        {
+          "start": "1795.03",
+          "dur": "5.22",
+          "text": "14 of the link clicks came from cyclist eight came\u00a0\nfrom OCR that's like obstacle course running and\u00a0\u00a0"
+        },
+        {
+          "start": "1800.25",
+          "dur": "6.96",
+          "text": "eight came from running and the cheapest of all\u00a0\nof them was purling click was cycling so I know\u00a0\u00a0"
+        },
+        {
+          "start": "1807.21",
+          "dur": "5.94",
+          "text": "that that's something I probably should look at a\u00a0\nlittle bit more in detail let's go to performance\u00a0\u00a0"
+        },
+        {
+          "start": "1813.15",
+          "dur": "5.82",
+          "text": "and you can check different columns here as well\u00a0\nfrequency so frequency is another one of those\u00a0\u00a0"
+        },
+        {
+          "start": "1818.97",
+          "dur": "6.87",
+          "text": "things that's very important to look at is how\u00a0\noften are people seeing your ad basically how\u00a0\u00a0"
+        },
+        {
+          "start": "1825.84",
+          "dur": "4.29",
+          "text": "many times as a better way of putting it is how\u00a0\nmany times is a person seeing your ad so for this\u00a0\u00a0"
+        },
+        {
+          "start": "1830.13",
+          "dur": "6.03",
+          "text": "every person just saw the ad once now depends on\u00a0\nwho you ask I've heard about four to five times\u00a0\u00a0"
+        },
+        {
+          "start": "1836.16",
+          "dur": "4.44",
+          "text": "is probably ideal that way it's not because how\u00a0\nmany times have you seen an ad and you bought a\u00a0\u00a0"
+        },
+        {
+          "start": "1840.6",
+          "dur": "6",
+          "text": "product for the first time very often you probably\u00a0\nneed to see it a few times now this is once again\u00a0\u00a0"
+        },
+        {
+          "start": "1846.6",
+          "dur": "7.74",
+          "text": "debatable your results may vary things like button\u00a0\nclick so once again cyclists that are two other\u00a0\u00a0"
+        },
+        {
+          "start": "1854.34",
+          "dur": "6.66",
+          "text": "people click the button so it's probably pretty\u00a0\npretty interesting and if we click in here we can\u00a0\u00a0"
+        },
+        {
+          "start": "1861",
+          "dur": "6.39",
+          "text": "see specifically some of the information on this\u00a0\nad but since I just have one AD per ad set may not\u00a0\u00a0"
+        },
+        {
+          "start": "1867.39",
+          "dur": "6.99",
+          "text": "be the most interesting so let's go back to the\u00a0\ncampaign level here I have other types of ads in\u00a0\u00a0"
+        },
+        {
+          "start": "1874.38",
+          "dur": "7.83",
+          "text": "this as well I have the last date video the nine\u00a0\ndays away video let's look at the last day video\u00a0\u00a0"
+        },
+        {
+          "start": "1882.21",
+          "dur": "7.02",
+          "text": "and one of the things I talked about earlier is\u00a0\nthe power of video ads on Facebook so let's see\u00a0\u00a0"
+        },
+        {
+          "start": "1889.23",
+          "dur": "10.56",
+          "text": "what we got and instead of custom I'm going to\u00a0\ngo to video engagement to look at this one so\u00a0\u00a0"
+        },
+        {
+          "start": "1899.79",
+          "dur": "9.51",
+          "text": "the last day video spent about a hundred bucks\u00a0\nthe last day scroll over so it cost me about two\u00a0\u00a0"
+        },
+        {
+          "start": "1909.3",
+          "dur": "5.1",
+          "text": "cents per three second video view now that sounds\u00a0\nreally good and you'll hear a lot of marketers on\u00a0\u00a0"
+        },
+        {
+          "start": "1914.4",
+          "dur": "5.22",
+          "text": "the internet say like wow I got a one cent video\u00a0\nof you but three seconds isn't very long to watch\u00a0\u00a0"
+        },
+        {
+          "start": "1919.62",
+          "dur": "4.05",
+          "text": "a video a better metric is probably around ten\u00a0\nseconds because if someone's watching it for 10\u00a0\u00a0"
+        },
+        {
+          "start": "1923.67",
+          "dur": "4.71",
+          "text": "seconds it's up to you as the marketer to get them\u00a0\nengaged I got that for about eight cents and for\u00a0\u00a0"
+        },
+        {
+          "start": "1928.38",
+          "dur": "5.4",
+          "text": "me since I was so specifically targeted that was\u00a0\nworth it I wanted to get my message out I wanted\u00a0\u00a0"
+        },
+        {
+          "start": "1933.78",
+          "dur": "7.37",
+          "text": "to let people know what my campaign was about\u00a0\nthis is once again debatable everyone's going\u00a0\u00a0"
+        },
+        {
+          "start": "1941.15",
+          "dur": "4.2",
+          "text": "to have a different opinion on that but we can\u00a0\nsee I reached 11,000 people Mountain spent was\u00a0\u00a0"
+        },
+        {
+          "start": "1945.35",
+          "dur": "7.68",
+          "text": "$100 on average people watched about 13% of\u00a0\nthe video and see this will start to show you\u00a0\u00a0"
+        },
+        {
+          "start": "1953.03",
+          "dur": "6.75",
+          "text": "things like video watched at 25 percentage video\u00a0\nwatched at 50 percent video watched 75 and video\u00a0\u00a0"
+        },
+        {
+          "start": "1959.78",
+          "dur": "4.89",
+          "text": "watched at 95 so someone watches at 95 percent\u00a0\nof the way through that's pretty good so I got\u00a0\u00a0"
+        },
+        {
+          "start": "1964.67",
+          "dur": "7.08",
+          "text": "300 people to watch my video all the way through\u00a0\nfor $100 depends who you talk to but for me at\u00a0\u00a0"
+        },
+        {
+          "start": "1971.75",
+          "dur": "4.95",
+          "text": "this stage it was worth it I wanted to get the\u00a0\nword out and my audience was so specifically\u00a0\u00a0"
+        },
+        {
+          "start": "1976.7",
+          "dur": "6.54",
+          "text": "in niche targeted it was worth it to me so and\u00a0\nthen we can look at video watched at 100 percent\u00a0\u00a0"
+        },
+        {
+          "start": "1983.24",
+          "dur": "5.37",
+          "text": "so most people to watch it at 3 at 95 percent\u00a0\nquestion at 100 percent that's one of the things\u00a0\u00a0"
+        },
+        {
+          "start": "1988.61",
+          "dur": "5.52",
+          "text": "we'll talk about later in this course is video\u00a0\nads but like I said they can be very powerful\u00a0\u00a0"
+        },
+        {
+          "start": "1994.13",
+          "dur": "4.65",
+          "text": "if you've done them correctly in fact I want to\u00a0\nshow you really quick a video ad that I thought\u00a0\u00a0"
+        },
+        {
+          "start": "1998.78",
+          "dur": "7.44",
+          "text": "was really well done so this ad it's about it's\u00a0\na little over a minute but it looks almost like\u00a0\u00a0"
+        },
+        {
+          "start": "2006.22",
+          "dur": "4.98",
+          "text": "a an ad that your friend would post but it's kind\u00a0\nof interesting and it's this guy that's going to\u00a0\u00a0"
+        },
+        {
+          "start": "2011.2",
+          "dur": "6.75",
+          "text": "be doing a magic trick one other thing to note\u00a0\nis that it has text down here and you definitely\u00a0\u00a0"
+        },
+        {
+          "start": "2017.95",
+          "dur": "5.58",
+          "text": "want to add in let's go to zoom video you want\u00a0\nto add in the text the little captions if you're\u00a0\u00a0"
+        },
+        {
+          "start": "2023.53",
+          "dur": "6",
+          "text": "going to be doing a video so we're going to pause\u00a0\nat that point because I can talk about this all\u00a0\u00a0"
+        },
+        {
+          "start": "2029.53",
+          "dur": "6.03",
+          "text": "day and I know I'm throwing a lot at you the last\u00a0\nfew things I want to show you or a few advanced\u00a0\u00a0"
+        },
+        {
+          "start": "2035.56",
+          "dur": "6",
+          "text": "things that I was really they're all really good\u00a0\nto know before you start your first Facebook Ads\u00a0\u00a0"
+        },
+        {
+          "start": "2041.56",
+          "dur": "6",
+          "text": "campaign the first thing we're going to talk about\u00a0\nis the how to make audiences then we're going to\u00a0\u00a0"
+        },
+        {
+          "start": "2047.56",
+          "dur": "5.43",
+          "text": "talk about the power editor and both of these are\u00a0\nextremely powerful tools and if nothing else you\u00a0\u00a0"
+        },
+        {
+          "start": "2052.99",
+          "dur": "5.16",
+          "text": "should at least know they exist you don't need\u00a0\nto use them right off the bat the audiences is\u00a0\u00a0"
+        },
+        {
+          "start": "2058.15",
+          "dur": "4.92",
+          "text": "like it sounds for building specific audiences\u00a0\nI'm gonna show you some really awesome tips and\u00a0\u00a0"
+        },
+        {
+          "start": "2063.07",
+          "dur": "4.83",
+          "text": "tricks on audiences and then the power editor\u00a0\nis a more advanced tool especially if you're\u00a0\u00a0"
+        },
+        {
+          "start": "2067.9",
+          "dur": "6.15",
+          "text": "working with mold campaigns multiple ad sets can\u00a0\nbecome very very useful and I will show you that\u00a0\u00a0"
+        },
+        {
+          "start": "2074.05",
+          "dur": "7.23",
+          "text": "very quickly so let's look at audiences first\u00a0\nand I have a few different audiences there's a\u00a0\u00a0"
+        },
+        {
+          "start": "2081.28",
+          "dur": "5.79",
+          "text": "few different type of audiences you can build so\u00a0\nlet's wait till it goes up so for instance this\u00a0\u00a0"
+        },
+        {
+          "start": "2087.07",
+          "dur": "5.91",
+          "text": "one saved audience we created earlier so I can\u00a0\nreuse this over and over again and it's very easy\u00a0\u00a0"
+        },
+        {
+          "start": "2092.98",
+          "dur": "5.13",
+          "text": "to do I might even show you later in this video\u00a0\nhow to reuse that audience but there's that's a\u00a0\u00a0"
+        },
+        {
+          "start": "2098.11",
+          "dur": "6.03",
+          "text": "saved audience but there's also custom audiences\u00a0\nthis is the retargeting audience so this is people\u00a0\u00a0"
+        },
+        {
+          "start": "2104.14",
+          "dur": "4.47",
+          "text": "that went to my website went through my pixel\u00a0\nso I might want to target people that have been\u00a0\u00a0"
+        },
+        {
+          "start": "2108.61",
+          "dur": "6.18",
+          "text": "to my website using this custom audience the and\u00a0\nthere's look-alike audiences and there'll be some\u00a0\u00a0"
+        },
+        {
+          "start": "2114.79",
+          "dur": "4.98",
+          "text": "other things that we show but let's create our\u00a0\nfirst audience together so we're going to try\u00a0\u00a0"
+        },
+        {
+          "start": "2119.77",
+          "dur": "6.15",
+          "text": "to do a custom audience because I think that is\u00a0\npretty important you have a few different options\u00a0\u00a0"
+        },
+        {
+          "start": "2125.92",
+          "dur": "6.51",
+          "text": "customer file website traffic app activity or\u00a0\nengagement customer file is if you have a list\u00a0\u00a0"
+        },
+        {
+          "start": "2132.43",
+          "dur": "3.45",
+          "text": "of emails this is the one I'm going to show you\u00a0\nif you have a list of emails save a list of a\u00a0\u00a0"
+        },
+        {
+          "start": "2135.88",
+          "dur": "4.86",
+          "text": "thousand people that have purchased from you and\u00a0\nyou want to target them or a thousand people that\u00a0\u00a0"
+        },
+        {
+          "start": "2140.74",
+          "dur": "4.11",
+          "text": "you know are interested in your product and you\u00a0\nwant to target them this is what you're going to\u00a0\u00a0"
+        },
+        {
+          "start": "2144.85",
+          "dur": "4.62",
+          "text": "do and let's go ahead and start with that and I'll\u00a0\nexplain the others after we're done so if you have\u00a0\u00a0"
+        },
+        {
+          "start": "2149.47",
+          "dur": "4.38",
+          "text": "a customer file which is like a spreadsheet or\u00a0\nsomething like that or a MailChimp account where\u00a0\u00a0"
+        },
+        {
+          "start": "2153.85",
+          "dur": "5.28",
+          "text": "you have a lot of emails you can import them from\u00a0\nthere so ad customers from your own file or copy\u00a0\u00a0"
+        },
+        {
+          "start": "2159.13",
+          "dur": "7.38",
+          "text": "and paste that's what I usually prefer so let's\u00a0\ngo ahead and fair file with your customer data\u00a0\u00a0"
+        },
+        {
+          "start": "2166.51",
+          "dur": "5.22",
+          "text": "so instead of doing a CSV which you can upload if\u00a0\nyou notice CSV is and you have one you can upload\u00a0\u00a0"
+        },
+        {
+          "start": "2171.73",
+          "dur": "4.71",
+          "text": "it you can just also copy and paste it which is a\u00a0\nlittle bit more beginner friendly and I can show\u00a0\u00a0"
+        },
+        {
+          "start": "2176.44",
+          "dur": "7.38",
+          "text": "you so I have a list here I'm copying of a bunch\u00a0\nof emails go ahead and paste them right there so\u00a0\u00a0"
+        },
+        {
+          "start": "2183.82",
+          "dur": "5.91",
+          "text": "now I got a it's only showing the first twenty of\u00a0\nthe eighty two rows and let's go ahead and name\u00a0\u00a0"
+        },
+        {
+          "start": "2189.73",
+          "dur": "8.94",
+          "text": "this audience I'm going to call it test one two\u00a0\nthree audience and click Next upload and create"
+        },
+        {
+          "start": "2199.52",
+          "dur": "12.57",
+          "text": "I'll be only the first name that's fine upload\u00a0\nanyways alright so that audience is now ready\u00a0\u00a0"
+        },
+        {
+          "start": "2212.09",
+          "dur": "4.2",
+          "text": "test one two three well it's technically not\u00a0\nready yet it needs to update the audience it\u00a0\u00a0"
+        },
+        {
+          "start": "2216.29",
+          "dur": "3.99",
+          "text": "takes a little bit of time on the backend Facebook\u00a0\nservers but now we have a custom audience I could\u00a0\u00a0"
+        },
+        {
+          "start": "2220.28",
+          "dur": "4.86",
+          "text": "target those 82 people I have in a Facebook\u00a0\nad obviously my email list is much bigger than\u00a0\u00a0"
+        },
+        {
+          "start": "2225.14",
+          "dur": "5.67",
+          "text": "that but that was just a quick version the next\u00a0\nthing we can do is create a look-alike audience\u00a0\u00a0"
+        },
+        {
+          "start": "2230.81",
+          "dur": "4.68",
+          "text": "so let's say I have those 82 customers and that\u00a0\nmight not be big enough actually to be honest\u00a0\u00a0"
+        },
+        {
+          "start": "2235.49",
+          "dur": "6",
+          "text": "let's see yeah this one might be a better one\u00a0\nbut I can create a look-alike audience and what\u00a0\u00a0"
+        },
+        {
+          "start": "2241.49",
+          "dur": "8.4",
+          "text": "that is is let me show you first so subscribe\u00a0\nmembers so down here I had a list just like\u00a0\u00a0"
+        },
+        {
+          "start": "2249.89",
+          "dur": "6.87",
+          "text": "I just uploaded a custom list of 500 people 500\u00a0\nemails that signed up for performance nut butter\u00a0\u00a0"
+        },
+        {
+          "start": "2256.76",
+          "dur": "5.31",
+          "text": "before it was live and said hey yes I am 100%\u00a0\ninterested so I give that list to Facebook and\u00a0\u00a0"
+        },
+        {
+          "start": "2262.07",
+          "dur": "4.44",
+          "text": "said hey these people are all interested in\u00a0\nmy product Facebook can you go out and find\u00a0\u00a0"
+        },
+        {
+          "start": "2266.51",
+          "dur": "4.29",
+          "text": "more people that are interested in this product\u00a0\nfor me and for me since I just want to sell in\u00a0\u00a0"
+        },
+        {
+          "start": "2270.8",
+          "dur": "5.37",
+          "text": "the United States I'm going to go to locations\u00a0\nand then go to North America and United States\u00a0\u00a0"
+        },
+        {
+          "start": "2276.17",
+          "dur": "6.78",
+          "text": "boom and let's make this as small as possible\u00a0\naudience size 1% so that's going to give me an\u00a0\u00a0"
+        },
+        {
+          "start": "2282.95",
+          "dur": "5.13",
+          "text": "audience size of 2.1 million people so that's 2.1\u00a0\nmillion people in the United States that Facebook\u00a0\u00a0"
+        },
+        {
+          "start": "2288.08",
+          "dur": "5.46",
+          "text": "thinks is similar to my email list that I gave\u00a0\nto them and I hope this makes sense and we'll\u00a0\u00a0"
+        },
+        {
+          "start": "2293.54",
+          "dur": "9.75",
+          "text": "dive in deeper into this later let's go ahead\u00a0\nand create audience so I already created this\u00a0\u00a0"
+        },
+        {
+          "start": "2303.29",
+          "dur": "6.93",
+          "text": "exact audience for my campaign and you can see\u00a0\nit right here now the cool thing about this is\u00a0\u00a0"
+        },
+        {
+          "start": "2310.22",
+          "dur": "4.38",
+          "text": "you can use this custom audience that's 2.1\u00a0\nmillion people and when you're creating an\u00a0\u00a0"
+        },
+        {
+          "start": "2314.6",
+          "dur": "7.2",
+          "text": "ad you can actually narrow it down further so let\u00a0\nme just quickly show you actually you know what I\u00a0\u00a0"
+        },
+        {
+          "start": "2321.8",
+          "dur": "7.05",
+          "text": "can yeah I'll show you that really quickly in an\u00a0\nad so let's go ahead and create campaign traffic"
+        },
+        {
+          "start": "2330.89",
+          "dur": "10.65",
+          "text": "so the first thing I want to show you is you can\u00a0\nuse a saved audience for instance this one that\u00a0\u00a0"
+        },
+        {
+          "start": "2341.54",
+          "dur": "5.43",
+          "text": "we made earlier now I can use this over and over\u00a0\nagain but instead of that let's say we wanted to\u00a0\u00a0"
+        },
+        {
+          "start": "2346.97",
+          "dur": "5.01",
+          "text": "create a new one we can use one of the custom\u00a0\naudiences we just built like test one two three"
+        },
+        {
+          "start": "2351.98",
+          "dur": "9.51",
+          "text": "so I uploaded that list of emails to Facebook\u00a0\nand said hey can you just target these people\u00a0\u00a0"
+        },
+        {
+          "start": "2361.49",
+          "dur": "6.84",
+          "text": "now the next thing we can look at is this\u00a0\nlook-alike subscribed audience so if we go\u00a0\u00a0"
+        },
+        {
+          "start": "2368.33",
+          "dur": "13.77",
+          "text": "back here and once again this will be the most\u00a0\njam-packed lesson all the rest of the lessons\u00a0\u00a0"
+        },
+        {
+          "start": "2382.1",
+          "dur": "4.23",
+          "text": "are going to be a lot more slow and methodical\u00a0\ngoing step by step I just want to give you a\u00a0\u00a0"
+        },
+        {
+          "start": "2386.33",
+          "dur": "6.3",
+          "text": "shotgun approach of all the basics for Facebook\u00a0\nads so like I said this is 2.1 million people\u00a0\u00a0"
+        },
+        {
+          "start": "2392.63",
+          "dur": "4.59",
+          "text": "from here we can actually narrow that down so\u00a0\nwe said hey Facebook I have this email list\u00a0\u00a0"
+        },
+        {
+          "start": "2397.22",
+          "dur": "4.17",
+          "text": "find people that are similar but you don't\u00a0\nwant to trust Facebook completely let's say\u00a0\u00a0"
+        },
+        {
+          "start": "2401.39",
+          "dur": "4.29",
+          "text": "I just wanted to target men that brings it\u00a0\ndown to five hundred ninety thousand let's\u00a0\u00a0"
+        },
+        {
+          "start": "2405.68",
+          "dur": "4.89",
+          "text": "say of those similar people I just want to\u00a0\ntarget people that have a purchase behavior\u00a0\u00a0"
+        },
+        {
+          "start": "2410.57",
+          "dur": "11.43",
+          "text": "which is one of my favorite things oops browse\u00a0\nbehaviors purchase behavior Sweden drink healthy"
+        },
+        {
+          "start": "2431.71",
+          "dur": "16.8",
+          "text": "let's go ahead and just click all the plot low-fat\u00a0\nthat narrowed it down to 300,000 people and we can\u00a0\u00a0"
+        },
+        {
+          "start": "2448.51",
+          "dur": "4.68",
+          "text": "continue to narrow this down but that's how you\u00a0\nwould want to use a look-alike audience don't\u00a0\u00a0"
+        },
+        {
+          "start": "2453.19",
+          "dur": "4.86",
+          "text": "show your ads the 2.1 million people that's\u00a0\nway too big of an approach way too big of a\u00a0\u00a0"
+        },
+        {
+          "start": "2458.05",
+          "dur": "3.87",
+          "text": "shotgun approach so that's the basics here of\u00a0\nhow to create an audience we're going to go in\u00a0\u00a0"
+        },
+        {
+          "start": "2461.92",
+          "dur": "5.52",
+          "text": "deeper into this later in the course as always\u00a0\nand the next thing I want to show you is the\u00a0\u00a0"
+        },
+        {
+          "start": "2467.44",
+          "dur": "11.82",
+          "text": "power editor which is an amazing tool right here\u00a0\nnow the power editor allows you to do things that\u00a0\u00a0"
+        },
+        {
+          "start": "2479.26",
+          "dur": "4.5",
+          "text": "would take hours on your own in bulk and it does\u00a0\nit a few different ways so I'll show you one of\u00a0\u00a0"
+        },
+        {
+          "start": "2483.76",
+          "dur": "5.22",
+          "text": "the first things that I really enjoy probably\u00a0\nthis alone makes the power editor worth it so\u00a0\u00a0"
+        },
+        {
+          "start": "2488.98",
+          "dur": "10.44",
+          "text": "it's loading up here so once it's loaded it'll\u00a0\nlook somewhat similar to the ad manager but it\u00a0\u00a0"
+        },
+        {
+          "start": "2499.42",
+          "dur": "5.88",
+          "text": "will be more powerful so one of the first things\u00a0\nyou can do let's look at that traffic campaign I\u00a0\u00a0"
+        },
+        {
+          "start": "2505.3",
+          "dur": "5.88",
+          "text": "just made and we can duplicate it this alone is\u00a0\none of my favorite things you can do multiple\u00a0\u00a0"
+        },
+        {
+          "start": "2511.18",
+          "dur": "9.27",
+          "text": "duplications in fact or if instead of duplicating\u00a0\nthe campaign I wanted to duplicate the ad set just\u00a0\u00a0"
+        },
+        {
+          "start": "2520.45",
+          "dur": "5.46",
+          "text": "so I can make some tweaks I could do that as well\u00a0\nand we'll talk it's a little bit more challenging\u00a0\u00a0"
+        },
+        {
+          "start": "2525.91",
+          "dur": "7.89",
+          "text": "to navigate let's go here and here but we can\u00a0\ngo through and we could duplicate the ad sets as\u00a0\u00a0"
+        },
+        {
+          "start": "2533.8",
+          "dur": "4.95",
+          "text": "well so that's just one of the quick cool things\u00a0\nyou can do there's a lot of other things in the\u00a0\u00a0"
+        },
+        {
+          "start": "2538.75",
+          "dur": "7.68",
+          "text": "basics on how you would use this is if you click\u00a0\nhome edit you don't want to actually do that click\u00a0\u00a0"
+        },
+        {
+          "start": "2546.43",
+          "dur": "8.72",
+          "text": "on the campaign sorry and you can click Edit here\u00a0\nand then pull this over and it allows you to edit\u00a0\u00a0"
+        },
+        {
+          "start": "2555.15",
+          "dur": "6.39",
+          "text": "your ad set and you can do this in bulk and it's\u00a0\na little bit easier using the power editor than\u00a0\u00a0"
+        },
+        {
+          "start": "2561.54",
+          "dur": "6.66",
+          "text": "it is in the ads manager you go through and edit\u00a0\nall this stuff you can also click down here click\u00a0\u00a0"
+        },
+        {
+          "start": "2568.2",
+          "dur": "5.37",
+          "text": "this edit button click over yep it'll bring it\u00a0\nit'll slide on over from here and you can edit\u00a0\u00a0"
+        },
+        {
+          "start": "2573.57",
+          "dur": "7.11",
+          "text": "this at and this allows you to make some tweaks\u00a0\nand it you can review them before you push them\u00a0\u00a0"
+        },
+        {
+          "start": "2580.68",
+          "dur": "4.29",
+          "text": "to actually be alive so you can make a bunch\u00a0\nchanges and then if you don't you can just if\u00a0\u00a0"
+        },
+        {
+          "start": "2584.97",
+          "dur": "3.51",
+          "text": "you don't want to use them you can just discard\u00a0\nall the changes so for instance right now if I\u00a0\u00a0"
+        },
+        {
+          "start": "2588.48",
+          "dur": "6.33",
+          "text": "review items and push it to the ads manager all\u00a0\nthose duplicates I made will be pushed to the\u00a0\u00a0"
+        },
+        {
+          "start": "2594.81",
+          "dur": "4.41",
+          "text": "ad manager but if I say wait a minute I made a\u00a0\nmistake I can discard the changes so that also\u00a0\u00a0"
+        },
+        {
+          "start": "2599.22",
+          "dur": "5.64",
+          "text": "makes it really worth it when you make changes an\u00a0\nads manager it's semi more permanent when you make\u00a0\u00a0"
+        },
+        {
+          "start": "2604.86",
+          "dur": "4.92",
+          "text": "it in power editor you have a last minute chance\u00a0\nto change it so I'm going to show you one more\u00a0\u00a0"
+        },
+        {
+          "start": "2609.78",
+          "dur": "7.14",
+          "text": "thing that we'll just quickly touch on before we\u00a0\nwrap up here and that's exporting and importing\u00a0\u00a0"
+        },
+        {
+          "start": "2616.92",
+          "dur": "6.45",
+          "text": "this is huge if you know anything about Excel\u00a0\nor how to use it you can make massive changes\u00a0\u00a0"
+        },
+        {
+          "start": "2623.37",
+          "dur": "8.22",
+          "text": "extremely quickly so let's go ahead and export so\u00a0\nwe'll export selected and it'll pull it up into\u00a0\u00a0"
+        },
+        {
+          "start": "2631.59",
+          "dur": "5.67",
+          "text": "a spreadsheet and I'm not going to go over this\u00a0\nright now because it's too advanced but this puts\u00a0\u00a0"
+        },
+        {
+          "start": "2637.26",
+          "dur": "7.14",
+          "text": "everything you did in a spreadsheet so if I wanted\u00a0\nto I could copy and paste this and make duplicates\u00a0\u00a0"
+        },
+        {
+          "start": "2644.4",
+          "dur": "6.99",
+          "text": "and make changes very very quickly so you can\u00a0\nsee this is the ad set name here this is the\u00a0\u00a0"
+        },
+        {
+          "start": "2651.39",
+          "dur": "9.51",
+          "text": "link I use targeting was over there and if this\u00a0\nis complete gibberish you don't worry this is not\u00a0\u00a0"
+        },
+        {
+          "start": "2660.9",
+          "dur": "4.71",
+          "text": "that important but it's just a helpful tip if you\u00a0\nare someone that understands this kind of stuff\u00a0\u00a0"
+        },
+        {
+          "start": "2665.61",
+          "dur": "5.61",
+          "text": "so this is the targeting criteria I use you have\u00a0\nflexible inclusions another targeting all right\u00a0\u00a0"
+        },
+        {
+          "start": "2671.22",
+          "dur": "7.02",
+          "text": "yeah that includes all the targeting criteria and\u00a0\nyou can see here things like the income range and\u00a0\u00a0"
+        },
+        {
+          "start": "2678.24",
+          "dur": "5.82",
+          "text": "the buying behaviors and interests anyways I just\u00a0\nwanted to quickly show you that and when you're\u00a0\u00a0"
+        },
+        {
+          "start": "2684.06",
+          "dur": "6.95",
+          "text": "done changing it you can in or it so import ads\u00a0\nin bulk which is huge if you want to create 10\u00a0\u00a0"
+        },
+        {
+          "start": "2691.01",
+          "dur": "5.16",
+          "text": "ads and they're all fairly similar and I might do\u00a0\nthis if I'm trying to target people that are 25 to\u00a0\u00a0"
+        },
+        {
+          "start": "2696.17",
+          "dur": "8.37",
+          "text": "35 and do a similar thing similar targeting for\u00a0\npeople that are 35 to 45 you can upload them in\u00a0\u00a0"
+        },
+        {
+          "start": "2704.54",
+          "dur": "8.58",
+          "text": "bulk very very helpful so this is an overview of\u00a0\nthe Facebook Ads platform I hope you enjoyed this\u00a0\u00a0"
+        },
+        {
+          "start": "2713.12",
+          "dur": "6.6",
+          "text": "first lesson and if there was anything that was\u00a0\ntoo fast obviously just go back rewind rewar in\u00a0\u00a0"
+        },
+        {
+          "start": "2719.72",
+          "dur": "5.79",
+          "text": "later episodes will pretty much cover all these\u00a0\ntopics in a lot more depth thank you for watching\u00a0\u00a0"
+        },
+        {
+          "start": "2725.51",
+          "dur": "4.71",
+          "text": "this first lesson and I want you to be a hundred\u00a0\npercent satisfied with buying this course I put\u00a0\u00a0"
+        },
+        {
+          "start": "2730.22",
+          "dur": "4.56",
+          "text": "a lot of time and energy into this course almost\u00a0\npretty much everything I know about Facebook Ads\u00a0\u00a0"
+        },
+        {
+          "start": "2734.78",
+          "dur": "5.19",
+          "text": "is in here but if you have any questions about\u00a0\nFacebook Ads please email me travis at effective\u00a0\u00a0"
+        },
+        {
+          "start": "2739.97",
+          "dur": "5.31",
+          "text": "e-commerce leave a comment down below on this page\u00a0\nlet me know anything i don't cover in this course\u00a0\u00a0"
+        },
+        {
+          "start": "2745.28",
+          "dur": "4.74",
+          "text": "because i want to answer all the questions that\u00a0\nyou have because if you have that question someone\u00a0\u00a0"
+        },
+        {
+          "start": "2750.02",
+          "dur": "5.31",
+          "text": "else probably has the same question so thank you\u00a0\nfor watching this first lesson and I can't wait\u00a0\u00a0"
+        },
+        {
+          "start": "2755.33",
+          "dur": "3.69",
+          "text": "to see you in the next lesson like I said at the\u00a0\nbeginning of the course this is actually the first\u00a0\u00a0"
+        },
+        {
+          "start": "2759.02",
+          "dur": "3.99",
+          "text": "lesson from my beginners Facebook Ads course\u00a0\nwhich you can find out more information about\u00a0\u00a0"
+        },
+        {
+          "start": "2763.01",
+          "dur": "4.89",
+          "text": "by clicking up here it's very affordable very\u00a0\nreasonably priced I know people that are just\u00a0\u00a0"
+        },
+        {
+          "start": "2767.9",
+          "dur": "4.32",
+          "text": "starting out with Facebook Ads have a tight budget\u00a0\nyou need to save your money as much as you can for\u00a0\u00a0"
+        },
+        {
+          "start": "2772.22",
+          "dur": "5.58",
+          "text": "your facebook ads but this course will save you\u00a0\nthousands of dollars and hundreds of hours I wish\u00a0\u00a0"
+        },
+        {
+          "start": "2777.8",
+          "dur": "4.23",
+          "text": "I would have had it when I first started out\u00a0\nall the lessons in here would have saved me so\u00a0\u00a0"
+        },
+        {
+          "start": "2782.03",
+          "dur": "5.16",
+          "text": "much time and money it's insane I'm also if you\u00a0\nbuy the course I'm giving you a free 30-minute\u00a0\u00a0"
+        },
+        {
+          "start": "2787.19",
+          "dur": "5.55",
+          "text": "one-on-one consultation session the course has a\u00a0\nton of information everything I think you need to\u00a0\u00a0"
+        },
+        {
+          "start": "2792.74",
+          "dur": "4.56",
+          "text": "get up and running but inevitably you'll probably\u00a0\nhave more questions so that's why I'm bundling a\u00a0\u00a0"
+        },
+        {
+          "start": "2797.3",
+          "dur": "4.68",
+          "text": "free one-on-one consulting session with that\u00a0\nclick up here to find out more information I\u00a0\u00a0"
+        },
+        {
+          "start": "2801.98",
+          "dur": "6.39",
+          "text": "also have the link down in the show notes or go\u00a0\nto effective ecommerce comm / Facebook course"
+        }
+      ]
+    }
+  ]
+}

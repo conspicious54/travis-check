@@ -1,0 +1,1082 @@
+{
+  "text": "in this episode of the effective ecommerce podcast I'm actually going to be doing a crossover episode so it's not only a podcast but it's also going to be a YouTube video so a lot of this stuff is going to be very easier to see than it is just to hear it in audio form so if you go to my youtube channel type in go to youtube type and effective e-commerce you'll find my YouTube channel and you can actually watch the video and watch along with me so I'll be recording my screen at the same time obviously if you're just finding me on YouTube I do have a podcast as well where i talk about e-commerce stuff but let's get into the 7 secrets of google analytics so these are the 7 secrets we have source / medium secondary dimensions ecommerce a section transactions transactions goals and funnels and geo locations and last but not least segments so all seven of these things are things that you can look at your data you can look at the data in Google Analytics to get a better idea of what's going on with your website how you can improve your website and a lot of really good information so I do have some bonus info at the end of some of the most powerful things that you can do with Google Analytics as well I might I might end up saving that for the next episode but we'll see if I can get to it in this episode so let's start from the beginning but before we get into that I do want to remind you that I have an AdWords course that will be launching February 20th it's not that far away it's a little over two weeks away I believe so get excited for that because that's gonna be a really in-depth course about Google Adwords and product listing ads Google Shopping adds two of my most and you'll actually see in this walkthrough how valuable they are to me so for this walkthrough I'm going to be using data if you're watching this on YouTube that is from 2016 January to February so it's about two years old that way my competitors don't get any useful information out of this but you guys still will because you'll see all the secrets so secret number one is to go to source / medium and the way you would get there is once you're in Google Analytics under acquisition go to all traffic source slash medium this is the number one thing I look at the most it's very very powerful it shows you a snapshot of where all your traffic is coming from and it shows you just a bunch of really good data and if you have it properly set up you'll be able to see your revenue and the far right column see the number of transactions and on the left and the very far left column you'll see the sources of the traffic's and the medium so for instance Google slash CPC is my number one source for traffic that's Adwords and product listing ads so that's where I get most my traffic for my main or at least was my main clothing dance clothing company at the time number two for me is Google slash organic so I got almost four thousand people coming from Google CPC almost thirty five people thirty five hundred people coming from Google organic now a lot of the people that are finding me through Google organic the way that they actually found me in the first place was through PPC and there's ways that I can tell this and maybe I'll show later in this how I can show that or how I can know that but for me source number three is direct slash none direct means that they typed in my address into the URL so it comes direct to the website so Google Analytics doesn't know where the traffic is coming from which is absolutely fine and you have to realize with that if people are typing in my URL directly they found me somewhere else so maybe a friend told them about me but good chance that they found me first from paid advertising or possibly organic SEO and then they decided ah I want to go back to that website and they typed it in so for me number four is Bing CPC so once again another paid advertising platform and then finally fifth is Pinterest DIY pins and there's a lot more after that but the number five traffic source for me I've got almost 600 people that come from it versus the number one which is almost four thousand and then the number six traffic source is 250 people so what does this mean there's a steep decline there's the 80/20 principle what that means is 80% of your results come from 20% of your inputs as you can see here I've got hundreds of different sources to O 224 to be exact but over 80% of my traffic comes from my top five or six sources so to me that means that I should double down and I should really work hard on these sources so for me it's obviously AdWords is my number one source of traffic Adwords and product listing ads so what does that mean well that means that I should really capitalize on that I should add more AdWords I should spend more time and money on perfecting those because that's kind of the that's the 8020 of my traffic is paid traffic and just in case anyone is interested in the course if you're on YouTube you can click up here to check it out sorry I don't mean this to all be selling the course this really is going to be the seven secrets of Google Analytics but this is just actually a good reminder of how powerful it can be so anyways let's go into the next thing and the next thing oops I accidentally a-to-z this column that's okay so if you click on any of the column headers it'll a to Z to column so the next thing I want to look at is secondary dimensions and there is a bunch of different categories for secondary dimensions and I'll explain what it is in just a second but the categories are like acquisition advertising behavior custom dimensions time social users blah blah blah secondary dimensions and once again this is easier to see if you're watching the video than it is if you're on the podcast is it basically it'll take this traffic source of Google / CPC and split it into a bunch of different secondary image so an example of this would be if I clicked on behaviors and landing page let's see if it does it properly give it a second it would take Google / CPC and say Google / CPC people that landed on this product page Google Flash CPC people that landed on a different product page and you can see here if you're watching the video it's split it so most people at least in terms of revenue they're landing on my main pages then we have the color no that's for organic okay yeah for organic that most people are landing directly on my home page for let's see organic then some more people are landing on the colors anyways you can look at a bunch of different data this is a very powerful tool secondary dimensions and there's a lot of different ones that you can use I usually I think the most common one I use is landing pages but let's see what else we can do you can do advertising I think you can do ad group AdWords ad group so you can split it up into AdWords ad groups that way you can see exactly all this dimensions and all this data about the AdWords ad groups let's go here let's see you can once again a to Z the column you can see I have the yellow unitards for instance I can see how many users it gets I can see what how many of them are new users how many sessions are doing the bounce rate pages per session just a ton of data so this is extremely valuable the next thing we'll look at so I'm gonna get rid of this thing if I just refresh it it'll actually get rid of it alright let's do it so the next thing I want to show is if you scroll up to the top there's a few different things you'll see its summary site usage goal set 1 and e-commerce click on that ecommerce little tab little section and you can get some interesting information so the next thing you're gonna do is at the top here originally it was summary that was clicked but you're gonna click on ecommerce to the far right here this is gonna give you some good information so you can see that these columns have changed so now let go source /medium users sessions revenue transactions average order value e-commerce conversion rate and per session value this per session value is very useful and what you can do if you want is a twosie that and go through and see where is your best per session value coming from so for me this dancer deals is one of them but you see this isn't very significant data so what I like to do is I like to go show all my rows and scroll through until I see an out lighter liar so for Facebook I see on average I'm getting a per session value of $8 that means every time I get someone from Facebook to my website it's worth $8 so in theory that means that I could spend a lot of money on Facebook Ads and it's worth it for me not that's not always true same thing the thank-you order email is good but then the really the most profitable one is direct if someone comes directly to my website I can now see how profitable that is next is see Peace CBC and then next is organic so I'm making about four dollars every time I can get someone to type in my URL and I'm making about four dollars and that's revenue every time someone clicks on one of my ads so very interesting data to know there next up let's go to transactions this is another one of those things that I like to look at I don't look at it as much as I used to but it's it's fun and you go to conversions at the bottom ecommerce I believe it's sales performance so they've changed this up in the last few years so yeah you can see each sale and you can see some fun data here and this is where secondary dimensions really shine is so I can see for instance one of the sales sale transaction ID 1:06 87 and I can use secondary dimensions to say hey acquisition what was the source / medium for that and one of the things I notice okay that was actually paid advertising now if I wanted to do again a secondary dimension I could go in here and say behavior actually let's go back to advertising and then go to add words ad group comes up so bailar dancer that means that they typed in my name that's what I have it set for another thing I could do is behavior landing page and I can go through all my top all my top sales all my like really big sales and see where they were they landing and this one they were landing on high waist briefs then the next one was the shopping cart and not surprisingly default most these are the home page so I see that it seems like a lot of people that are placing big orders come to my website a few times and the final time that they come to my website there directly typing in be dance or calm so that's important information to know and it's important for when I'm spending money on advertising to realize that I not only have to get them to the website one time but I have to get them there over and over again and you can go through all these different secondary dimensions and look up what all of them do let's see what else we have see if there's anything else that use social mmm not really I wouldn't use social time times kind of fun you can you can look at a day of the week for instance so what day of the week to most my big sales happen why not so zero I believe that Sunday I might be wrong on that so 0 I think Sunday and then you know 3 is Monday Tuesday Wednesday Wednesday and I see somewhat of a pattern there's a lot of zeros on here there's a few threes so it's just an interesting idea maybe I ramped up my ad spend on the days that big sales tend to happen it's just some information that you can kind of log away and think about let's go to the next thing and that's goal funnels and I show in a separate video how to set up goal funnels you can go to goals and then funnel visualizations a fun way to do it our goal flogs I believe let me see this no funnel visualization and maybe at the time I didn't have it set up let me just see something and obviously in the upper right hand corner you can change the date the next thing I want to show you is the goal funnels and this is a very powerful tool for analyzing your data as well and to get to there your under conversions you'll click on goals and then funnel visualization and you need to set this up and I do have a separate video showing how to set this up and I'll link it to this video but you're gonna have to go and figure out which goal you want to visualize for me I'm gonna look at order placed because I have the correct visualization set up and the way I have it is I can see every time someone goes to the shopping cart what percentage of those people go to the one-page checkout and then what percent of those actually place an order you can see it's only about 50% of the people that get to the shopping cart get actually place an order so what I can try to do is figure out how can I make that so it converts better because every step you lose a certain percentage of people every time someone goes to the shopping cart not all of them are going to convert and go to the checkout page every time someone goes to a checkout page not all of them are going to actually purchase and you want to figure out what are they doing so I noticed for instance eleven people are from the checkout page going to my frequently asked questions twelve people for my shopping cart are going to frequently asked questions maybe it's something I need to be more clear and answer these questions earlier on maybe I could figure out what kind of questions they have maybe it's the return policy or something like that and I can make that more clear on the shopping cart or the checkout page but it's just a way to look at your data and try to learn as much as you can so the next secret that I'm going to go over is geo locations and if you go up into audience I believe and then go to demographics and no geo and then location this is a cool tool for realizing and figuring out where most your traffic is coming from but you can do a lot more than just that so if you look at mine like almost all of its coming from the United States as small amounts coming from Canada small amounts coming from the UK and this is interesting for me for a bunch of different reasons but one it's kind of cool it's kind of cool to see where all this traffic is coming from but the other reason is you can go down and you can actually look at and just change the date here so I'm not giving away any that's private information you can actually if you want to you can click on the United States for instance if you live in the United States and you can actually go by state so I can see California's where most my most my traffic comes from most the users Texas is number two New York is number three that's not super surprising but what about what if I order it in conversion percentage and see yeah so what has the highest conversion percentage and it tends to be let's Montana so maybe I need to do more advertising to Montana and as you can see there's not a lot of traffic coming from there but Massachusetts I get almost 500 people coming from and it's got a nine percent conversion rate Missouri's ten percent conversion rate Kansas is twelve percent conversion rate so I I can look at this and I can even drill in deeper I believe and look at what areas of Massachusetts and this might be something I do and look at they're all coming from this area and I'm sure that's some big town Boston probably I can look at that data and I can advertise I can do Facebook ads to Boston see what other kind of information we can do I can look at it doesn't show the average order value I can look at the e-commerce tab within geolocation as well and I can see the procession values let's order it in order of procession value so Wyoming has the highest perception per session value but Massachusetts number four with quite a lot of data it's got four hundred fifty five people coming from so once again maybe for my Facebook ads if I'm gonna target a location I target dancers in the Boston area I target maybe Ohio as well but Massachusetts per session I'm making nine dollars versus let's look at California California is low California I'm making three dollars so I'm making three times the amount per session every time someone logs onto my website in Massachusetts so that's really valuable information the average order value is a hundred dollars and we can also look at the average order value see where the average order value is the highest it looks like on average it's or West Virginia it's the highest and that's important information to know as well so you can I'm hoping you're starting to realize how powerful Google AdWords is and all this different data that you can go through and if you're listening on the podcast feel free to real issen to this and follow along or just go watch the video on YouTube the last thing I want to talk about is segments and segments are cool for a number of different reasons because it allows you to segment your data and let me explain more what I mean so to show this off properly I'm gonna go back to source slash medium but you can use this anywhere in your data so I'm gonna go add segment up here at the top and I might say something like mmm let me see what I got paid traffic I only want to show paid traffic so now all of Google Analytics is only gonna show paid traffic it's only gonna show Google CPC Bing CPC Bing pas and Bing slash Yahoo CPC so what's helpful about this is now I can look at geo locations I can look at where is my geo locations coming from for instance so now I can look at all the different data using just that segment and only of all my traffic only 40% of it comes from paid traffic but I can see how do people using paid traffic how do they interact with my site differently you can also look at things like mobile traffic you can make your own custom segments I did one here where I only want to filter for people that have made more than two transactions in the lifetime I believe of the site let's see how it goes so people that have made more than two transactions and its segments so this is like the total paid traffic this is two-plus transactions basically the thing I want to get across is you can segment people and and you can show different types of data like I said you can show mobile traffic only direct traffic only new users just a bunch of different things and right here there's the custom section as well where you can make a new segment and if you do that you could also segment by age by gender by language segment my traffic sources the options are endless and that's the big point I want to get across over and over again is with Google Analytics everything you want to know about your website you can pretty much find out and it's hugely powerful so I'm gonna do the next episode which is gonna be about five things that you five powerful things you can learn from Google Analytics and it'll be more a practical way to apply Google Analytics to improving your business but I hope this at least spurs you into thinking about what kind of interesting things you can be doing I also want to mention again I do have the Adwords and Google product listing ads course coming out soon if you're watching the YouTube video can click up here if not and go to effective e-commerce dot-com to keep up-to-date about that it's going to be launching February 20th I'm working on it right now it's gonna be really awesome it's a complete brain dump of everything I know about paid advertising and I'm really gonna I can already tell I'm proud of it so anyways with that being said guys I hope to see you guys in the course I'll be talking more about that next week and for everybody watching YouTube don't forget to click the subscribe button and leave a comment if you have any questions if you have any questions leave it in the comment I answer every single one and I hope this was helpful",
+  "id": "fDkeQcuZjKU",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=googleanalytics\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this episode of the effective ecommerce podcast I'm actually going to be doing a crossover episode. So it's not only a podcast but it's also going to be a YouTube video. So a lot of this stuff is going to be very easier to see than it is just to hear it in audio form. So if you go to my YouTube channel type in go to YouTube type and effective e-commerce you'll find my YouTube channel and you can actually watch the video and watch along with me. So I'll be recording my screen at the same time obviously if you're just finding me on YouTube I do have a podcast as well where I talk about e-commerce stuff but let's get into the 7 secrets of google analytics. So these are the 7 secrets we have source/medium secondary dimensions ecommerce a section transactions goals and funnels and geo locations and last but not least segments. So all seven of these things are things that you can look at your data you can look at the data in Google Analytics to get a better idea of what's going on with your website how you can improve your website and a lot of really good information. \n\nI do have some bonus info at the end of some of the most powerful things that you can do with Google Analytics as well I might I might end up saving that for the next episode but we'll see if I can get to it in this episode. So let's start from the beginning but before we get into that I do want to remind you that I have an AdWords course that will be launching February 20th it's not that far away it's a little over two weeks away I believe. So get excited for that because that's gonna be a really in-depth course about Google Adwords and product listing ads Google Shopping adds two of my most and you'll actually see in this walkthrough how valuable they are to me. So for this walkthrough I'm going to be using data if you're watching this on YouTube that is from 2016 January to February. \n\nSo it's about two years old that way my competitors don't get any useful information out of this but you guys still will because you'll see all the secrets. So secret number one is to go to source / medium and the way you would get there is once you're in Google Analytics under acquisition go to all traffic source slash medium this is the number one thing I look at the most it's very very powerful it shows you a snapshot of where all your traffic is coming from and it shows you just a bunch of really good data and if you have it properly set up you'll be able to see your revenue and the far right column see the number of transactions and on the left and the very far left column you'll see the sources of the traffic's and the medium."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "1233",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2018-02-13",
+      "title": {
+        "simpleText": "7 Google Analytics Secrets | Effective Ecommerce Podcast # 32"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "7 Google Analytics Secrets | Effective Ecommerce Podcast # 32",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.03",
+          "dur": "5.4",
+          "text": "in this episode of the effective ecommerce podcast\u00a0\nI'm actually going to be doing a crossover episode\u00a0\u00a0"
+        },
+        {
+          "start": "5.43",
+          "dur": "6.42",
+          "text": "so it's not only a podcast but it's also going\u00a0\nto be a YouTube video so a lot of this stuff is\u00a0\u00a0"
+        },
+        {
+          "start": "11.85",
+          "dur": "6.12",
+          "text": "going to be very easier to see than it is just to\u00a0\nhear it in audio form so if you go to my youtube\u00a0\u00a0"
+        },
+        {
+          "start": "17.97",
+          "dur": "4.26",
+          "text": "channel type in go to youtube type and effective\u00a0\ne-commerce you'll find my YouTube channel and you\u00a0\u00a0"
+        },
+        {
+          "start": "22.23",
+          "dur": "4.14",
+          "text": "can actually watch the video and watch along\u00a0\nwith me so I'll be recording my screen at the\u00a0\u00a0"
+        },
+        {
+          "start": "26.37",
+          "dur": "5.07",
+          "text": "same time obviously if you're just finding me on\u00a0\nYouTube I do have a podcast as well where i talk\u00a0\u00a0"
+        },
+        {
+          "start": "31.44",
+          "dur": "6.06",
+          "text": "about e-commerce stuff but let's get into the\u00a0\n7 secrets of google analytics so these are the\u00a0\u00a0"
+        },
+        {
+          "start": "37.5",
+          "dur": "7.05",
+          "text": "7 secrets we have source / medium secondary\u00a0\ndimensions ecommerce a section transactions\u00a0\u00a0"
+        },
+        {
+          "start": "44.55",
+          "dur": "8.49",
+          "text": "transactions goals and funnels and geo locations\u00a0\nand last but not least segments so all seven of\u00a0\u00a0"
+        },
+        {
+          "start": "53.04",
+          "dur": "4.23",
+          "text": "these things are things that you can look at\u00a0\nyour data you can look at the data in Google\u00a0\u00a0"
+        },
+        {
+          "start": "57.27",
+          "dur": "6.12",
+          "text": "Analytics to get a better idea of what's going\u00a0\non with your website how you can improve your\u00a0\u00a0"
+        },
+        {
+          "start": "63.39",
+          "dur": "7.44",
+          "text": "website and a lot of really good information so I\u00a0\ndo have some bonus info at the end of some of the\u00a0\u00a0"
+        },
+        {
+          "start": "70.83",
+          "dur": "5.52",
+          "text": "most powerful things that you can do with Google\u00a0\nAnalytics as well I might I might end up saving\u00a0\u00a0"
+        },
+        {
+          "start": "76.35",
+          "dur": "5.73",
+          "text": "that for the next episode but we'll see if I can\u00a0\nget to it in this episode so let's start from the\u00a0\u00a0"
+        },
+        {
+          "start": "82.08",
+          "dur": "5.01",
+          "text": "beginning but before we get into that I do want to\u00a0\nremind you that I have an AdWords course that will\u00a0\u00a0"
+        },
+        {
+          "start": "87.09",
+          "dur": "6",
+          "text": "be launching February 20th it's not that far away\u00a0\nit's a little over two weeks away I believe so get\u00a0\u00a0"
+        },
+        {
+          "start": "93.09",
+          "dur": "5.58",
+          "text": "excited for that because that's gonna be a really\u00a0\nin-depth course about Google Adwords and product\u00a0\u00a0"
+        },
+        {
+          "start": "98.67",
+          "dur": "4.68",
+          "text": "listing ads Google Shopping adds two of my most\u00a0\nand you'll actually see in this walkthrough how\u00a0\u00a0"
+        },
+        {
+          "start": "103.35",
+          "dur": "4.65",
+          "text": "valuable they are to me so for this walkthrough\u00a0\nI'm going to be using data if you're watching\u00a0\u00a0"
+        },
+        {
+          "start": "108",
+          "dur": "6.42",
+          "text": "this on YouTube that is from 2016 January to\u00a0\nFebruary so it's about two years old that way my\u00a0\u00a0"
+        },
+        {
+          "start": "114.42",
+          "dur": "4.74",
+          "text": "competitors don't get any useful information out\u00a0\nof this but you guys still will because you'll see\u00a0\u00a0"
+        },
+        {
+          "start": "119.16",
+          "dur": "7.44",
+          "text": "all the secrets so secret number one is to go to\u00a0\nsource / medium and the way you would get there is\u00a0\u00a0"
+        },
+        {
+          "start": "126.6",
+          "dur": "6.3",
+          "text": "once you're in Google Analytics under acquisition\u00a0\ngo to all traffic source slash medium this is the\u00a0\u00a0"
+        },
+        {
+          "start": "132.9",
+          "dur": "6.48",
+          "text": "number one thing I look at the most it's very\u00a0\nvery powerful it shows you a snapshot of where\u00a0\u00a0"
+        },
+        {
+          "start": "139.38",
+          "dur": "5.67",
+          "text": "all your traffic is coming from and it shows\u00a0\nyou just a bunch of really good data and if you\u00a0\u00a0"
+        },
+        {
+          "start": "145.05",
+          "dur": "5.28",
+          "text": "have it properly set up you'll be able to see your\u00a0\nrevenue and the far right column see the number of\u00a0\u00a0"
+        },
+        {
+          "start": "150.33",
+          "dur": "7.02",
+          "text": "transactions and on the left and the very far left\u00a0\ncolumn you'll see the sources of the traffic's and\u00a0\u00a0"
+        },
+        {
+          "start": "157.35",
+          "dur": "6.09",
+          "text": "the medium so for instance Google slash CPC is\u00a0\nmy number one source for traffic that's Adwords\u00a0\u00a0"
+        },
+        {
+          "start": "163.44",
+          "dur": "5.22",
+          "text": "and product listing ads so that's where I get\u00a0\nmost my traffic for my main or at least was my\u00a0\u00a0"
+        },
+        {
+          "start": "168.66",
+          "dur": "5.85",
+          "text": "main clothing dance clothing company at the time\u00a0\nnumber two for me is Google slash organic so I\u00a0\u00a0"
+        },
+        {
+          "start": "174.51",
+          "dur": "5.64",
+          "text": "got almost four thousand people coming from Google\u00a0\nCPC almost thirty five people thirty five hundred\u00a0\u00a0"
+        },
+        {
+          "start": "180.15",
+          "dur": "5.01",
+          "text": "people coming from Google organic now a lot of\u00a0\nthe people that are finding me through Google\u00a0\u00a0"
+        },
+        {
+          "start": "185.16",
+          "dur": "6.33",
+          "text": "organic the way that they actually found me in\u00a0\nthe first place was through PPC and there's ways\u00a0\u00a0"
+        },
+        {
+          "start": "191.49",
+          "dur": "5.31",
+          "text": "that I can tell this and maybe I'll show later in\u00a0\nthis how I can show that or how I can know that\u00a0\u00a0"
+        },
+        {
+          "start": "196.8",
+          "dur": "6.51",
+          "text": "but for me source number three is direct slash\u00a0\nnone direct means that they typed in my address\u00a0\u00a0"
+        },
+        {
+          "start": "203.31",
+          "dur": "5.25",
+          "text": "into the URL so it comes direct to the website so\u00a0\nGoogle Analytics doesn't know where the traffic\u00a0\u00a0"
+        },
+        {
+          "start": "208.56",
+          "dur": "5.52",
+          "text": "is coming from which is absolutely fine and you\u00a0\nhave to realize with that if people are typing\u00a0\u00a0"
+        },
+        {
+          "start": "214.08",
+          "dur": "6.6",
+          "text": "in my URL directly they found me somewhere else so\u00a0\nmaybe a friend told them about me but good chance\u00a0\u00a0"
+        },
+        {
+          "start": "220.68",
+          "dur": "6.9",
+          "text": "that they found me first from paid advertising\u00a0\nor possibly organic SEO and then they decided ah\u00a0\u00a0"
+        },
+        {
+          "start": "227.58",
+          "dur": "5.91",
+          "text": "I want to go back to that website and they typed\u00a0\nit in so for me number four is Bing CPC so once\u00a0\u00a0"
+        },
+        {
+          "start": "233.49",
+          "dur": "5.91",
+          "text": "again another paid advertising platform and then\u00a0\nfinally fifth is Pinterest DIY pins and there's\u00a0\u00a0"
+        },
+        {
+          "start": "239.4",
+          "dur": "7.65",
+          "text": "a lot more after that but the number five traffic\u00a0\nsource for me I've got almost 600 people that come\u00a0\u00a0"
+        },
+        {
+          "start": "247.05",
+          "dur": "4.86",
+          "text": "from it versus the number one which is almost four\u00a0\nthousand and then the number six traffic source\u00a0\u00a0"
+        },
+        {
+          "start": "251.91",
+          "dur": "6.6",
+          "text": "is 250 people so what does this mean there's a\u00a0\nsteep decline there's the 80/20 principle what\u00a0\u00a0"
+        },
+        {
+          "start": "258.51",
+          "dur": "6",
+          "text": "that means is 80% of your results come from 20% of\u00a0\nyour inputs as you can see here I've got hundreds\u00a0\u00a0"
+        },
+        {
+          "start": "264.51",
+          "dur": "8.04",
+          "text": "of different sources to O 224 to be exact but\u00a0\nover 80% of my traffic comes from my top five\u00a0\u00a0"
+        },
+        {
+          "start": "272.55",
+          "dur": "7.08",
+          "text": "or six sources so to me that means that I should\u00a0\ndouble down and I should really work hard on these\u00a0\u00a0"
+        },
+        {
+          "start": "279.63",
+          "dur": "4.89",
+          "text": "sources so for me it's obviously AdWords is my\u00a0\nnumber one source of traffic Adwords and product\u00a0\u00a0"
+        },
+        {
+          "start": "284.52",
+          "dur": "5.22",
+          "text": "listing ads so what does that mean well that means\u00a0\nthat I should really capitalize on that I should\u00a0\u00a0"
+        },
+        {
+          "start": "289.74",
+          "dur": "5.04",
+          "text": "add more AdWords I should spend more time and\u00a0\nmoney on perfecting those because that's kind of\u00a0\u00a0"
+        },
+        {
+          "start": "294.78",
+          "dur": "8.58",
+          "text": "the that's the 8020 of my traffic is paid traffic\u00a0\nand just in case anyone is interested in the\u00a0\u00a0"
+        },
+        {
+          "start": "303.36",
+          "dur": "3.87",
+          "text": "course if you're on YouTube you can click up here\u00a0\nto check it out sorry I don't mean this to all be\u00a0\u00a0"
+        },
+        {
+          "start": "307.23",
+          "dur": "3.57",
+          "text": "selling the course this really is going to be the\u00a0\nseven secrets of Google Analytics but this is just\u00a0\u00a0"
+        },
+        {
+          "start": "310.8",
+          "dur": "6.3",
+          "text": "actually a good reminder of how powerful it can\u00a0\nbe so anyways let's go into the next thing and the\u00a0\u00a0"
+        },
+        {
+          "start": "317.1",
+          "dur": "6.48",
+          "text": "next thing oops I accidentally a-to-z this column\u00a0\nthat's okay so if you click on any of the column\u00a0\u00a0"
+        },
+        {
+          "start": "323.58",
+          "dur": "6.3",
+          "text": "headers it'll a to Z to column so the next thing I\u00a0\nwant to look at is secondary dimensions and there\u00a0\u00a0"
+        },
+        {
+          "start": "329.88",
+          "dur": "4.2",
+          "text": "is a bunch of different categories for secondary\u00a0\ndimensions and I'll explain what it is in just\u00a0\u00a0"
+        },
+        {
+          "start": "334.08",
+          "dur": "7.47",
+          "text": "a second but the categories are like acquisition\u00a0\nadvertising behavior custom dimensions time social\u00a0\u00a0"
+        },
+        {
+          "start": "341.55",
+          "dur": "7.11",
+          "text": "users blah blah blah secondary dimensions and once\u00a0\nagain this is easier to see if you're watching the\u00a0\u00a0"
+        },
+        {
+          "start": "348.66",
+          "dur": "6.24",
+          "text": "video than it is if you're on the podcast is it\u00a0\nbasically it'll take this traffic source of Google\u00a0\u00a0"
+        },
+        {
+          "start": "354.9",
+          "dur": "6.36",
+          "text": "/ CPC and split it into a bunch of different\u00a0\nsecondary image so an example of this would be if\u00a0\u00a0"
+        },
+        {
+          "start": "361.26",
+          "dur": "10.5",
+          "text": "I clicked on behaviors and landing page let's see\u00a0\nif it does it properly give it a second it would\u00a0\u00a0"
+        },
+        {
+          "start": "371.76",
+          "dur": "8.22",
+          "text": "take Google / CPC and say Google / CPC people\u00a0\nthat landed on this product page Google Flash\u00a0\u00a0"
+        },
+        {
+          "start": "379.98",
+          "dur": "5.52",
+          "text": "CPC people that landed on a different product page\u00a0\nand you can see here if you're watching the video\u00a0\u00a0"
+        },
+        {
+          "start": "385.5",
+          "dur": "7.08",
+          "text": "it's split it so most people at least in terms\u00a0\nof revenue they're landing on my main pages then\u00a0\u00a0"
+        },
+        {
+          "start": "392.58",
+          "dur": "6.48",
+          "text": "we have the color no that's for organic okay yeah\u00a0\nfor organic that most people are landing directly\u00a0\u00a0"
+        },
+        {
+          "start": "399.06",
+          "dur": "10.48",
+          "text": "on my home page for let's see organic then some\u00a0\nmore people are landing on the colors anyways you\u00a0\u00a0"
+        },
+        {
+          "start": "409.54",
+          "dur": "4.02",
+          "text": "can look at a bunch of different data this is\u00a0\na very powerful tool secondary dimensions and\u00a0\u00a0"
+        },
+        {
+          "start": "413.56",
+          "dur": "3.66",
+          "text": "there's a lot of different ones that you can use\u00a0\nI usually I think the most common one I use is\u00a0\u00a0"
+        },
+        {
+          "start": "417.22",
+          "dur": "5.67",
+          "text": "landing pages but let's see what else we can\u00a0\ndo you can do advertising I think you can do\u00a0\u00a0"
+        },
+        {
+          "start": "422.89",
+          "dur": "7.62",
+          "text": "ad group AdWords ad group so you can split it\u00a0\nup into AdWords ad groups that way you can see\u00a0\u00a0"
+        },
+        {
+          "start": "430.51",
+          "dur": "9.93",
+          "text": "exactly all this dimensions and all this data\u00a0\nabout the AdWords ad groups let's go here let's\u00a0\u00a0"
+        },
+        {
+          "start": "440.44",
+          "dur": "10.95",
+          "text": "see you can once again a to Z the column you can\u00a0\nsee I have the yellow unitards for instance I can\u00a0\u00a0"
+        },
+        {
+          "start": "451.39",
+          "dur": "4.95",
+          "text": "see how many users it gets I can see what how many\u00a0\nof them are new users how many sessions are doing\u00a0\u00a0"
+        },
+        {
+          "start": "456.34",
+          "dur": "6.84",
+          "text": "the bounce rate pages per session just a ton of\u00a0\ndata so this is extremely valuable the next thing\u00a0\u00a0"
+        },
+        {
+          "start": "463.18",
+          "dur": "7.56",
+          "text": "we'll look at so I'm gonna get rid of this thing\u00a0\nif I just refresh it it'll actually get rid of it\u00a0\u00a0"
+        },
+        {
+          "start": "470.74",
+          "dur": "8.19",
+          "text": "alright let's do it so the next thing I want to\u00a0\nshow is if you scroll up to the top there's a few\u00a0\u00a0"
+        },
+        {
+          "start": "478.93",
+          "dur": "4.74",
+          "text": "different things you'll see its summary site\u00a0\nusage goal set 1 and e-commerce click on that\u00a0\u00a0"
+        },
+        {
+          "start": "483.67",
+          "dur": "7.89",
+          "text": "ecommerce little tab little section and you can\u00a0\nget some interesting information so the next thing\u00a0\u00a0"
+        },
+        {
+          "start": "491.56",
+          "dur": "4.56",
+          "text": "you're gonna do is at the top here originally\u00a0\nit was summary that was clicked but you're gonna\u00a0\u00a0"
+        },
+        {
+          "start": "496.12",
+          "dur": "4.86",
+          "text": "click on ecommerce to the far right here this is\u00a0\ngonna give you some good information so you can\u00a0\u00a0"
+        },
+        {
+          "start": "500.98",
+          "dur": "6.21",
+          "text": "see that these columns have changed so now let go\u00a0\nsource /medium users sessions revenue transactions\u00a0\u00a0"
+        },
+        {
+          "start": "507.19",
+          "dur": "4.83",
+          "text": "average order value e-commerce conversion rate and\u00a0\nper session value this per session value is very\u00a0\u00a0"
+        },
+        {
+          "start": "512.02",
+          "dur": "6.96",
+          "text": "useful and what you can do if you want is a twosie\u00a0\nthat and go through and see where is your best per\u00a0\u00a0"
+        },
+        {
+          "start": "518.98",
+          "dur": "5.28",
+          "text": "session value coming from so for me this dancer\u00a0\ndeals is one of them but you see this isn't very\u00a0\u00a0"
+        },
+        {
+          "start": "524.26",
+          "dur": "6.12",
+          "text": "significant data so what I like to do is I like\u00a0\nto go show all my rows and scroll through until\u00a0\u00a0"
+        },
+        {
+          "start": "530.38",
+          "dur": "6.9",
+          "text": "I see an out lighter liar so for Facebook I see on\u00a0\naverage I'm getting a per session value of $8 that\u00a0\u00a0"
+        },
+        {
+          "start": "537.28",
+          "dur": "5.64",
+          "text": "means every time I get someone from Facebook to my\u00a0\nwebsite it's worth $8 so in theory that means that\u00a0\u00a0"
+        },
+        {
+          "start": "542.92",
+          "dur": "5.28",
+          "text": "I could spend a lot of money on Facebook Ads and\u00a0\nit's worth it for me not that's not always true\u00a0\u00a0"
+        },
+        {
+          "start": "548.2",
+          "dur": "6.33",
+          "text": "same thing the thank-you order email is good but\u00a0\nthen the really the most profitable one is direct\u00a0\u00a0"
+        },
+        {
+          "start": "554.53",
+          "dur": "7.86",
+          "text": "if someone comes directly to my website I can now\u00a0\nsee how profitable that is next is see Peace CBC\u00a0\u00a0"
+        },
+        {
+          "start": "562.39",
+          "dur": "5.64",
+          "text": "and then next is organic so I'm making about four\u00a0\ndollars every time I can get someone to type in my\u00a0\u00a0"
+        },
+        {
+          "start": "568.03",
+          "dur": "5.46",
+          "text": "URL and I'm making about four dollars and that's\u00a0\nrevenue every time someone clicks on one of my\u00a0\u00a0"
+        },
+        {
+          "start": "573.49",
+          "dur": "7.23",
+          "text": "ads so very interesting data to know there next\u00a0\nup let's go to transactions this is another one\u00a0\u00a0"
+        },
+        {
+          "start": "580.72",
+          "dur": "3.69",
+          "text": "of those things that I like to look at I don't\u00a0\nlook at it as much as I used to but it's it's\u00a0\u00a0"
+        },
+        {
+          "start": "584.41",
+          "dur": "7.65",
+          "text": "fun and you go to conversions at the bottom\u00a0\necommerce I believe it's sales performance so\u00a0\u00a0"
+        },
+        {
+          "start": "592.06",
+          "dur": "6.54",
+          "text": "they've changed this up in the last few years\u00a0\nso yeah you can see each sale and you can see\u00a0\u00a0"
+        },
+        {
+          "start": "598.6",
+          "dur": "5.46",
+          "text": "some fun data here and this is where secondary\u00a0\ndimensions really shine is so I can see for\u00a0\u00a0"
+        },
+        {
+          "start": "604.06",
+          "dur": "6.42",
+          "text": "instance one of the sales sale transaction ID\u00a0\n1:06 87 and I can use secondary dimensions to\u00a0\u00a0"
+        },
+        {
+          "start": "610.48",
+          "dur": "9.72",
+          "text": "say hey acquisition what was the source / medium\u00a0\nfor that and one of the things I notice okay that\u00a0\u00a0"
+        },
+        {
+          "start": "620.2",
+          "dur": "4.05",
+          "text": "was actually paid advertising now if I wanted\u00a0\nto do again a secondary dimension I could go\u00a0\u00a0"
+        },
+        {
+          "start": "624.25",
+          "dur": "10.11",
+          "text": "in here and say behavior actually let's go back\u00a0\nto advertising and then go to add words ad group"
+        },
+        {
+          "start": "639.6",
+          "dur": "5.04",
+          "text": "comes up so bailar dancer that means that they\u00a0\ntyped in my name that's what I have it set for\u00a0\u00a0"
+        },
+        {
+          "start": "644.64",
+          "dur": "7.26",
+          "text": "another thing I could do is behavior landing\u00a0\npage and I can go through all my top all my\u00a0\u00a0"
+        },
+        {
+          "start": "651.9",
+          "dur": "6.3",
+          "text": "top sales all my like really big sales and see\u00a0\nwhere they were they landing and this one they\u00a0\u00a0"
+        },
+        {
+          "start": "658.2",
+          "dur": "6.27",
+          "text": "were landing on high waist briefs then the next\u00a0\none was the shopping cart and not surprisingly\u00a0\u00a0"
+        },
+        {
+          "start": "664.47",
+          "dur": "4.92",
+          "text": "default most these are the home page so I see\u00a0\nthat it seems like a lot of people that are\u00a0\u00a0"
+        },
+        {
+          "start": "669.39",
+          "dur": "3.84",
+          "text": "placing big orders come to my website a few\u00a0\ntimes and the final time that they come to my\u00a0\u00a0"
+        },
+        {
+          "start": "673.23",
+          "dur": "5.4",
+          "text": "website there directly typing in be dance or\u00a0\ncalm so that's important information to know\u00a0\u00a0"
+        },
+        {
+          "start": "678.63",
+          "dur": "4.56",
+          "text": "and it's important for when I'm spending money\u00a0\non advertising to realize that I not only have\u00a0\u00a0"
+        },
+        {
+          "start": "683.19",
+          "dur": "3.96",
+          "text": "to get them to the website one time but I have to\u00a0\nget them there over and over again and you can go\u00a0\u00a0"
+        },
+        {
+          "start": "687.15",
+          "dur": "5.07",
+          "text": "through all these different secondary dimensions\u00a0\nand look up what all of them do let's see what\u00a0\u00a0"
+        },
+        {
+          "start": "692.22",
+          "dur": "5.52",
+          "text": "else we have see if there's anything else that\u00a0\nuse social mmm not really I wouldn't use social\u00a0\u00a0"
+        },
+        {
+          "start": "697.74",
+          "dur": "6.42",
+          "text": "time times kind of fun you can you can look at\u00a0\na day of the week for instance so what day of\u00a0\u00a0"
+        },
+        {
+          "start": "704.16",
+          "dur": "6.57",
+          "text": "the week to most my big sales happen why not\u00a0\nso zero I believe that Sunday I might be wrong\u00a0\u00a0"
+        },
+        {
+          "start": "710.73",
+          "dur": "8.1",
+          "text": "on that so 0 I think Sunday and then you know 3\u00a0\nis Monday Tuesday Wednesday Wednesday and I see\u00a0\u00a0"
+        },
+        {
+          "start": "718.83",
+          "dur": "5.28",
+          "text": "somewhat of a pattern there's a lot of zeros\u00a0\non here there's a few threes so it's just an\u00a0\u00a0"
+        },
+        {
+          "start": "724.11",
+          "dur": "5.61",
+          "text": "interesting idea maybe I ramped up my ad spend on\u00a0\nthe days that big sales tend to happen it's just\u00a0\u00a0"
+        },
+        {
+          "start": "729.72",
+          "dur": "4.92",
+          "text": "some information that you can kind of log away\u00a0\nand think about let's go to the next thing and\u00a0\u00a0"
+        },
+        {
+          "start": "734.64",
+          "dur": "7.8",
+          "text": "that's goal funnels and I show in a separate\u00a0\nvideo how to set up goal funnels you can go\u00a0\u00a0"
+        },
+        {
+          "start": "742.44",
+          "dur": "9.3",
+          "text": "to goals and then funnel visualizations a fun way\u00a0\nto do it our goal flogs I believe let me see this\u00a0\u00a0"
+        },
+        {
+          "start": "751.74",
+          "dur": "6.93",
+          "text": "no funnel visualization and maybe at the time I\u00a0\ndidn't have it set up let me just see something"
+        },
+        {
+          "start": "761.35",
+          "dur": "6.27",
+          "text": "and obviously in the upper right hand corner you\u00a0\ncan change the date the next thing I want to show\u00a0\u00a0"
+        },
+        {
+          "start": "767.62",
+          "dur": "4.08",
+          "text": "you is the goal funnels and this is a very\u00a0\npowerful tool for analyzing your data as well\u00a0\u00a0"
+        },
+        {
+          "start": "771.7",
+          "dur": "5.25",
+          "text": "and to get to there your under conversions you'll\u00a0\nclick on goals and then funnel visualization and\u00a0\u00a0"
+        },
+        {
+          "start": "776.95",
+          "dur": "4.53",
+          "text": "you need to set this up and I do have a separate\u00a0\nvideo showing how to set this up and I'll link\u00a0\u00a0"
+        },
+        {
+          "start": "781.48",
+          "dur": "4.47",
+          "text": "it to this video but you're gonna have to go and\u00a0\nfigure out which goal you want to visualize for\u00a0\u00a0"
+        },
+        {
+          "start": "785.95",
+          "dur": "5.13",
+          "text": "me I'm gonna look at order placed because I have\u00a0\nthe correct visualization set up and the way I\u00a0\u00a0"
+        },
+        {
+          "start": "791.08",
+          "dur": "4.74",
+          "text": "have it is I can see every time someone goes\u00a0\nto the shopping cart what percentage of those\u00a0\u00a0"
+        },
+        {
+          "start": "795.82",
+          "dur": "4.68",
+          "text": "people go to the one-page checkout and then what\u00a0\npercent of those actually place an order you can\u00a0\u00a0"
+        },
+        {
+          "start": "800.5",
+          "dur": "5.34",
+          "text": "see it's only about 50% of the people that get to\u00a0\nthe shopping cart get actually place an order so\u00a0\u00a0"
+        },
+        {
+          "start": "805.84",
+          "dur": "5.58",
+          "text": "what I can try to do is figure out how can I make\u00a0\nthat so it converts better because every step you\u00a0\u00a0"
+        },
+        {
+          "start": "811.42",
+          "dur": "3.96",
+          "text": "lose a certain percentage of people every time\u00a0\nsomeone goes to the shopping cart not all of\u00a0\u00a0"
+        },
+        {
+          "start": "815.38",
+          "dur": "4.17",
+          "text": "them are going to convert and go to the checkout\u00a0\npage every time someone goes to a checkout page\u00a0\u00a0"
+        },
+        {
+          "start": "819.55",
+          "dur": "4.35",
+          "text": "not all of them are going to actually purchase\u00a0\nand you want to figure out what are they doing\u00a0\u00a0"
+        },
+        {
+          "start": "823.9",
+          "dur": "5.49",
+          "text": "so I noticed for instance eleven people are from\u00a0\nthe checkout page going to my frequently asked\u00a0\u00a0"
+        },
+        {
+          "start": "829.39",
+          "dur": "5.01",
+          "text": "questions twelve people for my shopping cart are\u00a0\ngoing to frequently asked questions maybe it's\u00a0\u00a0"
+        },
+        {
+          "start": "834.4",
+          "dur": "3.66",
+          "text": "something I need to be more clear and answer these\u00a0\nquestions earlier on maybe I could figure out what\u00a0\u00a0"
+        },
+        {
+          "start": "838.06",
+          "dur": "4.26",
+          "text": "kind of questions they have maybe it's the return\u00a0\npolicy or something like that and I can make that\u00a0\u00a0"
+        },
+        {
+          "start": "842.32",
+          "dur": "4.56",
+          "text": "more clear on the shopping cart or the checkout\u00a0\npage but it's just a way to look at your data\u00a0\u00a0"
+        },
+        {
+          "start": "846.88",
+          "dur": "6.39",
+          "text": "and try to learn as much as you can so the next\u00a0\nsecret that I'm going to go over is geo locations\u00a0\u00a0"
+        },
+        {
+          "start": "853.27",
+          "dur": "12.18",
+          "text": "and if you go up into audience I believe and then\u00a0\ngo to demographics and no geo and then location\u00a0\u00a0"
+        },
+        {
+          "start": "865.45",
+          "dur": "5.79",
+          "text": "this is a cool tool for realizing and figuring\u00a0\nout where most your traffic is coming from but\u00a0\u00a0"
+        },
+        {
+          "start": "871.24",
+          "dur": "4.56",
+          "text": "you can do a lot more than just that so if you\u00a0\nlook at mine like almost all of its coming from\u00a0\u00a0"
+        },
+        {
+          "start": "875.8",
+          "dur": "4.89",
+          "text": "the United States as small amounts coming from\u00a0\nCanada small amounts coming from the UK and this\u00a0\u00a0"
+        },
+        {
+          "start": "880.69",
+          "dur": "3.6",
+          "text": "is interesting for me for a bunch of different\u00a0\nreasons but one it's kind of cool it's kind of\u00a0\u00a0"
+        },
+        {
+          "start": "884.29",
+          "dur": "6.03",
+          "text": "cool to see where all this traffic is coming from\u00a0\nbut the other reason is you can go down and you\u00a0\u00a0"
+        },
+        {
+          "start": "890.32",
+          "dur": "4.87",
+          "text": "can actually look at and just change the date\u00a0\nhere so I'm not giving away any that's private\u00a0\u00a0"
+        },
+        {
+          "start": "895.19",
+          "dur": "5.91",
+          "text": "information you can actually if you want to you\u00a0\ncan click on the United States for instance if\u00a0\u00a0"
+        },
+        {
+          "start": "901.1",
+          "dur": "6.9",
+          "text": "you live in the United States and you can actually\u00a0\ngo by state so I can see California's where most\u00a0\u00a0"
+        },
+        {
+          "start": "908",
+          "dur": "5.46",
+          "text": "my most my traffic comes from most the users\u00a0\nTexas is number two New York is number three\u00a0\u00a0"
+        },
+        {
+          "start": "913.46",
+          "dur": "7.29",
+          "text": "that's not super surprising but what about what if\u00a0\nI order it in conversion percentage and see yeah\u00a0\u00a0"
+        },
+        {
+          "start": "920.75",
+          "dur": "8.91",
+          "text": "so what has the highest conversion percentage and\u00a0\nit tends to be let's Montana so maybe I need to do\u00a0\u00a0"
+        },
+        {
+          "start": "929.66",
+          "dur": "3.48",
+          "text": "more advertising to Montana and as you can see\u00a0\nthere's not a lot of traffic coming from there\u00a0\u00a0"
+        },
+        {
+          "start": "933.14",
+          "dur": "5.49",
+          "text": "but Massachusetts I get almost 500 people coming\u00a0\nfrom and it's got a nine percent conversion rate\u00a0\u00a0"
+        },
+        {
+          "start": "938.63",
+          "dur": "6.06",
+          "text": "Missouri's ten percent conversion rate Kansas is\u00a0\ntwelve percent conversion rate so I I can look at\u00a0\u00a0"
+        },
+        {
+          "start": "944.69",
+          "dur": "5.07",
+          "text": "this and I can even drill in deeper I believe and\u00a0\nlook at what areas of Massachusetts and this might\u00a0\u00a0"
+        },
+        {
+          "start": "949.76",
+          "dur": "4.53",
+          "text": "be something I do and look at they're all coming\u00a0\nfrom this area and I'm sure that's some big town\u00a0\u00a0"
+        },
+        {
+          "start": "954.29",
+          "dur": "7.86",
+          "text": "Boston probably I can look at that data and I\u00a0\ncan advertise I can do Facebook ads to Boston\u00a0\u00a0"
+        },
+        {
+          "start": "962.15",
+          "dur": "7.44",
+          "text": "see what other kind of information we can do I can\u00a0\nlook at it doesn't show the average order value I\u00a0\u00a0"
+        },
+        {
+          "start": "969.59",
+          "dur": "7.29",
+          "text": "can look at the e-commerce tab within geolocation\u00a0\nas well and I can see the procession values let's\u00a0\u00a0"
+        },
+        {
+          "start": "976.88",
+          "dur": "5.97",
+          "text": "order it in order of procession value so Wyoming\u00a0\nhas the highest perception per session value but\u00a0\u00a0"
+        },
+        {
+          "start": "982.85",
+          "dur": "5.22",
+          "text": "Massachusetts number four with quite a lot of data\u00a0\nit's got four hundred fifty five people coming\u00a0\u00a0"
+        },
+        {
+          "start": "988.07",
+          "dur": "5.7",
+          "text": "from so once again maybe for my Facebook ads if\u00a0\nI'm gonna target a location I target dancers in\u00a0\u00a0"
+        },
+        {
+          "start": "993.77",
+          "dur": "7.86",
+          "text": "the Boston area I target maybe Ohio as well but\u00a0\nMassachusetts per session I'm making nine dollars\u00a0\u00a0"
+        },
+        {
+          "start": "1001.63",
+          "dur": "9.3",
+          "text": "versus let's look at California California is low\u00a0\nCalifornia I'm making three dollars so I'm making\u00a0\u00a0"
+        },
+        {
+          "start": "1010.93",
+          "dur": "6.21",
+          "text": "three times the amount per session every time\u00a0\nsomeone logs onto my website in Massachusetts\u00a0\u00a0"
+        },
+        {
+          "start": "1017.14",
+          "dur": "4.83",
+          "text": "so that's really valuable information the average\u00a0\norder value is a hundred dollars and we can also\u00a0\u00a0"
+        },
+        {
+          "start": "1021.97",
+          "dur": "4.98",
+          "text": "look at the average order value see where the\u00a0\naverage order value is the highest it looks\u00a0\u00a0"
+        },
+        {
+          "start": "1026.95",
+          "dur": "5.73",
+          "text": "like on average it's or West Virginia it's the\u00a0\nhighest and that's important information to know\u00a0\u00a0"
+        },
+        {
+          "start": "1032.68",
+          "dur": "6.39",
+          "text": "as well so you can I'm hoping you're starting\u00a0\nto realize how powerful Google AdWords is and\u00a0\u00a0"
+        },
+        {
+          "start": "1039.07",
+          "dur": "3.75",
+          "text": "all this different data that you can go through\u00a0\nand if you're listening on the podcast feel free\u00a0\u00a0"
+        },
+        {
+          "start": "1042.82",
+          "dur": "5.28",
+          "text": "to real issen to this and follow along or just\u00a0\ngo watch the video on YouTube the last thing I\u00a0\u00a0"
+        },
+        {
+          "start": "1048.1",
+          "dur": "6.75",
+          "text": "want to talk about is segments and segments are\u00a0\ncool for a number of different reasons because\u00a0\u00a0"
+        },
+        {
+          "start": "1054.85",
+          "dur": "5.19",
+          "text": "it allows you to segment your data and let me\u00a0\nexplain more what I mean so to show this off\u00a0\u00a0"
+        },
+        {
+          "start": "1060.04",
+          "dur": "4.08",
+          "text": "properly I'm gonna go back to source slash medium\u00a0\nbut you can use this anywhere in your data so I'm\u00a0\u00a0"
+        },
+        {
+          "start": "1064.12",
+          "dur": "6.69",
+          "text": "gonna go add segment up here at the top and I\u00a0\nmight say something like mmm let me see what I\u00a0\u00a0"
+        },
+        {
+          "start": "1070.81",
+          "dur": "9.48",
+          "text": "got paid traffic I only want to show paid traffic\u00a0\nso now all of Google Analytics is only gonna show\u00a0\u00a0"
+        },
+        {
+          "start": "1080.29",
+          "dur": "6.99",
+          "text": "paid traffic it's only gonna show Google CPC\u00a0\nBing CPC Bing pas and Bing slash Yahoo CPC\u00a0\u00a0"
+        },
+        {
+          "start": "1087.28",
+          "dur": "6.45",
+          "text": "so what's helpful about this is now I can look\u00a0\nat geo locations I can look at where is my geo\u00a0\u00a0"
+        },
+        {
+          "start": "1093.73",
+          "dur": "5.7",
+          "text": "locations coming from for instance so now I can\u00a0\nlook at all the different data using just that\u00a0\u00a0"
+        },
+        {
+          "start": "1099.43",
+          "dur": "6.36",
+          "text": "segment and only of all my traffic only 40% of\u00a0\nit comes from paid traffic but I can see how do\u00a0\u00a0"
+        },
+        {
+          "start": "1105.79",
+          "dur": "3.99",
+          "text": "people using paid traffic how do they interact\u00a0\nwith my site differently you can also look at\u00a0\u00a0"
+        },
+        {
+          "start": "1109.78",
+          "dur": "7.35",
+          "text": "things like mobile traffic you can make your own\u00a0\ncustom segments I did one here where I only want\u00a0\u00a0"
+        },
+        {
+          "start": "1117.13",
+          "dur": "5.07",
+          "text": "to filter for people that have made more than\u00a0\ntwo transactions in the lifetime I believe of\u00a0\u00a0"
+        },
+        {
+          "start": "1122.2",
+          "dur": "6.87",
+          "text": "the site let's see how it goes so people that have\u00a0\nmade more than two transactions and its segments\u00a0\u00a0"
+        },
+        {
+          "start": "1129.07",
+          "dur": "6.12",
+          "text": "so this is like the total paid traffic this is\u00a0\ntwo-plus transactions basically the thing I want\u00a0\u00a0"
+        },
+        {
+          "start": "1135.19",
+          "dur": "5.73",
+          "text": "to get across is you can segment people and and\u00a0\nyou can show different types of data like I said\u00a0\u00a0"
+        },
+        {
+          "start": "1140.92",
+          "dur": "7.89",
+          "text": "you can show mobile traffic only direct traffic\u00a0\nonly new users just a bunch of different things\u00a0\u00a0"
+        },
+        {
+          "start": "1148.81",
+          "dur": "5.7",
+          "text": "and right here there's the custom section as\u00a0\nwell where you can make a new segment and if\u00a0\u00a0"
+        },
+        {
+          "start": "1154.51",
+          "dur": "9",
+          "text": "you do that you could also segment by age by\u00a0\ngender by language segment my traffic sources\u00a0\u00a0"
+        },
+        {
+          "start": "1163.51",
+          "dur": "4.71",
+          "text": "the options are endless and that's the big point\u00a0\nI want to get across over and over again is with\u00a0\u00a0"
+        },
+        {
+          "start": "1168.22",
+          "dur": "5.52",
+          "text": "Google Analytics everything you want to know about\u00a0\nyour website you can pretty much find out and it's\u00a0\u00a0"
+        },
+        {
+          "start": "1173.74",
+          "dur": "6.96",
+          "text": "hugely powerful so I'm gonna do the next episode\u00a0\nwhich is gonna be about five things that you\u00a0\u00a0"
+        },
+        {
+          "start": "1180.7",
+          "dur": "4.89",
+          "text": "five powerful things you can learn from Google\u00a0\nAnalytics and it'll be more a practical way to\u00a0\u00a0"
+        },
+        {
+          "start": "1185.59",
+          "dur": "6.27",
+          "text": "apply Google Analytics to improving your business\u00a0\nbut I hope this at least spurs you into thinking\u00a0\u00a0"
+        },
+        {
+          "start": "1191.86",
+          "dur": "3.84",
+          "text": "about what kind of interesting things you can be\u00a0\ndoing I also want to mention again I do have the\u00a0\u00a0"
+        },
+        {
+          "start": "1195.7",
+          "dur": "4.32",
+          "text": "Adwords and Google product listing ads course\u00a0\ncoming out soon if you're watching the YouTube\u00a0\u00a0"
+        },
+        {
+          "start": "1200.02",
+          "dur": "5.28",
+          "text": "video can click up here if not and go to effective\u00a0\ne-commerce dot-com to keep up-to-date about that\u00a0\u00a0"
+        },
+        {
+          "start": "1205.3",
+          "dur": "4.35",
+          "text": "it's going to be launching February 20th I'm\u00a0\nworking on it right now it's gonna be really\u00a0\u00a0"
+        },
+        {
+          "start": "1209.65",
+          "dur": "6.24",
+          "text": "awesome it's a complete brain dump of everything I\u00a0\nknow about paid advertising and I'm really gonna I\u00a0\u00a0"
+        },
+        {
+          "start": "1215.89",
+          "dur": "5.16",
+          "text": "can already tell I'm proud of it so anyways with\u00a0\nthat being said guys I hope to see you guys in\u00a0\u00a0"
+        },
+        {
+          "start": "1221.05",
+          "dur": "4.05",
+          "text": "the course I'll be talking more about that next\u00a0\nweek and for everybody watching YouTube don't\u00a0\u00a0"
+        },
+        {
+          "start": "1225.1",
+          "dur": "4.2",
+          "text": "forget to click the subscribe button and leave\u00a0\na comment if you have any questions if you have\u00a0\u00a0"
+        },
+        {
+          "start": "1229.3",
+          "dur": "3.33",
+          "text": "any questions leave it in the comment I answer\u00a0\nevery single one and I hope this was helpful"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 120,
+      "title": "Source Medium"
+    },
+    {
+      "start_time": 490,
+      "title": "Ecommerce"
+    },
+    {
+      "start_time": 766,
+      "title": "Funnel Visualization"
+    }
+  ]
+}

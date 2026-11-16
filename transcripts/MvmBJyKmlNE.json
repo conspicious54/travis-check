@@ -1,0 +1,1307 @@
+{
+  "text": "in this city we're gonna do a complete walkthrough tutorial on Google Analytics and Google Analytics is the most powerful free tool you could ever ask for and it's really amazing that Google does provide this service for free and we're gonna go over how to use it a lot of people have no idea what to do and if you don't have Google Analytics installed yet you need to do that as soon as possible it's best if you have from day one of starting your store but then the question I get all the time is what do I do once I have all this data how do I use this data to improve my store and that's what we're gonna do so we're gonna go over eight different things on how to use Google Analytics plus some more advanced tips at the end eight things are we're gonna look at source /medium AdWords if you're using AdWords Google Analytics can be very helpful behavior transactions goals funnels audience and segments so I'm gonna we're gonna talk about all these and we're gonna start with what I think is the most important thing and that is the source /medium so if you go to acquisition all traffic source /medium this is the one thing people always ask me what's the one thing in Google Analytics you look at the most and it's this and so I want to show you a few different things one you can change the date up here so let's say you wanted to do from August 22nd 2016 all the way to August 28th 2017 so that's a that's a year's worth the date and this is a lot of data now keep in mind one of the problems with Google Analytics is it won't tell you if there's an offline purchase so my revenue is actually higher than this by quite a lot but a lot of our revenue came in the form of phone calls so you can set Google Analytics up so it will work with that but this is predominantly website traffic and website sales so I'm gonna even go a little bit more narrow just not to give away too much great information let's go let's go to there I don't wanna give up all the secrets to my website so first off you can look at this period so let's look at June 1st to August 28th and you can just keep it like this I'll show you one other trick if you want to you can click this compare button and compare it to the previous year or the previous period but that's something a little bit more advanced maybe we'll get into later in this video I'll just show you really quick how that works because it's kind of a cool tool so you can see that all right last year I had this much or you know last year this year I've had about seven thousand eight hundred last year I had seven thousand eight hundred coming from Google PPC so I just wanted to give a little quick bit about that but let's actually get into the real thing here so once you are on source /medium these right here will tell you the channels that you're getting traffic from so Google CPC so that's paid advertising Google organic that's organic traffic traffic from Google Pinterest DIY pins I these are pins from Pinterest I can show you guys if you're interested in a different video basically it's from Pinterest we have special DIY pins direct slash none is if people type in B dancewear com Bing CPC is paid ads from Bing this is a specific email that we sent out this is from Facebook Pinterest and it's pretty self-explanatory now this is just gonna automatically show the first ten if I want to I can show even more so we get a ton of traffic from a ton of different sources let's focus on for instance Google organic so this is the number of people that came within this period of time to the website this is the percentage of new sessions people that this is their first time on the website this is the new users so that's just you know using that data to calculate how many new users come to the website the bounce rate so this is what percentage of people get to the website and automatically bounce so a little over half of the people that come to my website so you know you can calculate it if you'd want immediately leave the page pages per session on this is one of my most important things and we'll repeat this a few times during this tutorial but the number of pages per session is very important it lets you know how engaged users are so for instance people that come from my Pinterest DIY pins on average only go to one point five pages that means that they go to one page and some people go to two pages so on average it's one point five that means they're not really looking around my website a lot as a pose the people that come from organic traffic they're looking at whatever page they landed on they're looking at a second page and a third page you're looking at my about Us page you're looking at fa Q's they're looking a lot around my website they're pretty engaged you can also tell by the time the average session duration so right here direct slash none they spend a lot of time 2 minutes and 43 seconds on average that's important another thing you're gonna find is the e-commerce conversion rate and these will vary as you can see people that come from my Pinterest DIY pins almost none of them buy so I'm getting a lot of traffic but they're not buying so we'll talk about what this means later but that might mean it's an opportunity for me to make make those convert better but I'll explain what I did with that later so this is a conversion rate you're gonna look at this and say hey how come this is only at point four eight so people coming from Facebook not very likely to buy so maybe I don't really care about driving much more traffic from their direct aisle they're pretty likely to buy it three point four and then Google CPC we got three percent they are pretty likely to buy so maybe I'd want to send more of that kind of traffic to my website next up is transaction so how many actual sales did I get from this channel 210 and last is the revenue so Google CPC made me almost made me $11,000 Google organic made me $10,000 DIY pins in that period made me nothing so maybe I don't want to spend as much time on DIY pins or maybe I do you know this is debatable direct ten thousand so I want to know how can I send more people to my URL directly and a lot of that's gonna be repeat traffic so that's hard to do I can look at CPC the conversion rate there's about half of what it is for Google so I hope this gives you an idea of some of the stuff that you can do now one of the next things I want to talk about is create you can use secondary dimension dimensions so there's a lot of different things you can do let's look at well source is gonna already be there so you can I'll just show you a quick simple behavior landing page this is gonna get crazy here alright so that brings up all little landing pages and you could do a few different things you can sort by source slash medium and I'll take a second it's a lot of data it's trying to calculate all right so that'll then take you to the landing page let's scroll down so these are all the different source slash mediums and all the different landing pages so for instance youtube.com/ a lot of them come to my default page scroll down even further a lot of youtube Yahoo organic so this just segments it often breaks it up even more here we go this is what I was looking for Pinterest DIY pins so you can see a lot of people about 50 people are coming to for ways to change the hemline of your dance skirt from Pinterest DIY pins this is important same thing Pinterest DIY pins here four ways I can see which one of these are the most popular and I know to make more of those Wow look at this one right here Pinterest DIY pins creating a square cut skirt 400 something alright so that's the topic that people are interested in maybe I want to make more topics like that that just helps you segment it a little bit I'm gonna go ahead and go up and I'm going to get rid of this landing page just click that X all right and the next thing I want to show you is what to do with this source / medium data and I already kind of mentioned it but usually what I like to do is look at what are my top five or so referral sources how am I getting traffic to my website so my top five make up probably 80 to 90% of all my traffic like that's a huge amount of traffic so I want to I want to spend as much time as possible doubling down on these I want to try to figure out how can I get even more traffic out of that because this is what's working let's do more of what is working the next thing I might look at is what is making me the most revenue top five that are making me the most revenue so Bing so it looks like it's paid advertising and organic advertising okay I want to double down on that another thing I'm gonna look at is ecommerce conversion rate and obviously there's some outliers here like I only got to two bits of traffic from this so it's a hundred percent ecommerce conversion rate that doesn't really mean much want to look for like two to thirty four so I got two hundred thirty-four from bing Organic coupon sore com okay well that's because people are looking for coupons let's see two hundred sixty yahoo organic direct google CPC so you get an idea so email so that's something i'm getting a pretty good conversion rate off email maybe i should be sending a little bit more emails up maybe i should prioritize that a little bit more instagrams not doing bad either right there i believe i look at pages slash sessions as well another thing you might want to do is let's go back to the sessions you can see this has a really small an already kind of mentioned a really small ecommerce conversion rate how can i bump that up what can i do to make my DIY pins convert better and what I ended up doing is if you go to one of my DIY pins it takes you to an email capture basically DIY pins and that's actually getting a four point three one percent conversion rate so that's not actually bad so I'm not making say with my DIY pins but I am capturing emails so that is pretty good and what I did is I clicked up here at goal set 1 you can also click on this ecommerce thing and it will change all these columns for you so let's look here so the average order value the most the highest one is from direct the next highest one was when I did this this email offer gives you a little idea of some of the different stuff per session value is pretty important let's let's see what the highest per session value is once again it's these are some outliers you're gonna have to ignore but email email is not doing bad that's pretty good so my average per session value from email is pretty good let's go to 50 direct once again keeps winning so that's source slash medium that's some of the basics here I hope that part was helpful we still have a lot more to cover the next thing I like to look at is I do run AdWords as you can tell and I'll go to this Adwords and I'll go to bid adjustments cuz that's one of my favourite things to look at and this will let you know how to adjust the bids should you increase should you decrease how much money what's working what's not working not gonna spend too much time on this because these are some secrets I do not want to give away but that can be very helpful if you're trying to tweak things you can also look at what keywords are working for you and actually my favorite one is search queries this is a list of all the search queries that people use to come to your website and you can see I've got two thousand sixty eight of them and what you can actually do if you want and this is works on almost any page you can export it as an excel file so let's do that together unix exporter there's a few different things but what I'll do is I'll export it as an excel file and let's go down here export Excel one more time and it will bring up a page like this and look at the data set 1 and this will be all the different search queries and what you can do is go through these and try to find negative keywords for instance instance compression shorts women that's not something we're really selling so we're really selling dance clothing so I'd say hey that's a negative keyword so this allows you to look at what people are using your AdWords how they're getting to your website and try to find some negative keywords I'm gonna I'm not gonna dive too much deeper into this because I think this is really isn't applicable to everyone if you're not running AdWords it probably isn't very helpful to you I want to go down and look at behavior now so within behavior there's a few really cool things let's look at behavior flow first off so behavior flow allows you to see the path that people take when they get to your website so most people go to my main home page and once they get there this is just a repeat they go to my main home page again but then you can see from here a lot of people are going to shopping cart people are going to search results leotard more leotards and ninety-three other pages that's how I didn't but this could be more interesting let's to go highlight through here alright so leotards a lot of people are landing on my homepage from leotards and they're going here then they're going to max my homepage and this just gives you an idea of the path that people are taking now this is so much data sometimes it's a little bit hard to go through another thing you can look at is your if your going to site content let's go all pages this will show you the traffic that goes to all your different pages and this is very helpful because you can see all right most people are going to my home page that's pretty typical a lot of people are going to my shopping cart but leotards leotards is actually my highest trafficked page how can I improve this so in 56% of people are exiting how can I lower that number so we now that we know that leotards are very is a very valuable page we're gonna try to figure out how we can improve it so what I do is I like to look at my top 10 trafficked pages and see how I can improve them because most your traffic is probably coming to your top 10 20 30 pages another thing you can do is look at what are your top landing pages similar to top pages but this is like the top pages people are actually landing on and leotards is number 3 so I need to start putting a little bit more effort and emphasis on leotards because that's really doing well for me another one making a hairpiece with lace so let's go to that page actually let's take a look at it you can click here to go to that so this page is alright it's not the best my thought now would be how can I improve this and make it even better so this email capture you know that's that's great that was a good addition that's something that I did earlier when I was reviewing my stats I realized that I needed to add an email capture exit pages very similar to landing pages we can try to figure out so one of my top exit pages is the leotard page high waist page and we try to figure out how can we make it so people aren't exiting I would also look at things like site search overview actually let's go to search terms so this will let you know if you set it up properly it'll let you know what people are searching for on your website so on my website I have a little search box and these are the things that people are searching for so one thing you might want to do is look at what happens when people search for those so that comes up good another thing this lets you know if a lot of people are searching for it it's probably because it's hard to find so people aren't sure where to look so leotards it's actually under other unitards and bike tardes leotard so this will let you know what things people are searching for and you're gonna want to look and make sure and make it easier for people to find these things the next thing we're gonna look at is actually gonna be transactions this is another thing I really enjoy looking at if you go to conversions ecommerce let's go to go to sales performance and then you can see all your different sales if you actually click on the secondary dimension acquisition source slash medium you can see where those sales are coming from so a lot of my bigger sales are direct that was organic that was organic email 12 ah so if you ever have a sale and you're wondering how did this person find me you can go into sales performance and do a secondary dimension of source /medium now there's a lot of different secondary dimensions I know I'm going fast and I know this is a lot of information but you can play with this you can see things like what was the landing page so default boys sleeveless so this person landed on this landing page that's kind of interesting you can also look at things like the dates that's pretty boring but there's a lot you can look at let's see City that's a fun one so Palmetto you know all these different cities we have here you can use this data to try to do a better job of targeting you can look also-- at gender probably not very very accurate country not that accurate alright not that important to me since I'm mostly a US based age isn't always the most accurate either a lot of information in secondary dimensions I could do a whole video just on secondary dimensions so we're not gonna I'm not going to go down that another thing I want to look at is the goals let's look at overview now I can show in a separate video if you want how to set up goals but once you have them set up the question still is what to do with them and so this is the overview page let's look at reverse goal path I think it's kind of interesting or funnel those visual visualization visualization so you have to set up the funnels properly but let's look at order placed so this is how many people come to my shopping cart this is how many people go to the one-page checkout and this is how many people actually exit so what this allows you to do is see what percentage of people you're losing and I'm about two thirds of people lose I get lost so we can see why so they're going to this article for instance let's see what that article is so they're looking at this page as a customer service page they're looking at the fa Q's so I'm losing some people because they're looking at the fa Q's but this if you set it up properly will allow you to see the different funnel visualizations it's email confirmation that's pretty that's pretty standard yeah so that's just let you see some of the different goals and the funnels now let's look at audience so we only have a little bit more left in this video one of the things I like doing is going down to location so the geolocation of the audience so for me most of my traffic comes from the United States not surprisingly let's go ahead and click on that then from the United States most my traffic comes from California Texas Florida and New York once again not super surprising what's maybe more interesting is what's the average pages per session let's look at that for instance so people from Iowa they visit on average four point six five pages so the people from Iowa tend to be really engaged with what I'm selling so maybe I should take more emphasis there and spend more of my dollars there same thing New Jersey I mean Delaware's pretty good to Mississippi another thing we can look at is the to do instead of the conversions for that we can say ecommerce what has the highest e-commerce conversion rate so revenue of course is gonna probably be highest in California Texas Florida New York but what has the highest conversion rate so Oregon Maine Maryland Washington Oklahoma we can look at these and maybe I want to send catalogs I want to send them out catalogues my products to those specific states because that seems to be where there's a really happening dancing and they're really likely to buy from me as opposed to if you see California is pretty low on the list I don't know I don't know exactly where it is it's at 33 that's not great at all in fact Oregon and Maryland and Washington have more than double the more than double the conversion rate so I want to probably send more of my ad dollars up in these states because it seems to be where people are buying from me you can also look at things like demographics like overview so it's saying most my target audience is 35 to 45 once again I don't know how accurate this is eighty-four percent female 16 percent male that seems like it's probably correct interest and once again this isn't gonna be that accurate but let's look at an overview shoppers slash value shoppers food and dining enthusiasts so she just gives me an idea of the different audiences that I have here so there's a lot more that we can look at one last thing I want to show you is segments before we kind of wrap things up here so if you close that if you add a segment and maybe what I want to do is instead of all users I want to go here and segment people based on let's see see if they can do mobile mobile and tablet traffic so you see I'm at 28,000 right now but of that twenty eight thousand sixteen thousand is mobile and tablet traffic so that's a lot of mobile and tablet traffic and what I can do now is see alright how do they interact with my website so the conversion rate goes way down as you can see but first off sixty percent of my traffic is mobile and tablet that's really interesting that means that I need to do a better job of having a mobile-friendly website another thing I can do let's go ahead and remove that I can do things like add segments people that have two plus transactions or and that was a custom one that I did I can show on a separate video how to do that made a purchase that's a fun one apply so all right of all the people that made a purchase where are they coming from so only 1500 people actually made a purchase so all this data and all the segmentation there's so much more where you going to your I could do a whole course just on this but basically this allows you to look and really segment your audience and figure out alright where are the people coming from that actually make a purchase where are the people coming from that make two plus purchases what about mobile traffic what is their pattern how do they how are they different from people that come on desktop so there is so much you can do I'm just we're just scratching the surface with this if you enjoy this video and you want more like it make sure you click that subscribe button it's down below at the bottom I also have the e-commerce success pack and I'll make sure it include a checklist for checking your Google Analytics click up here it has a bunch of other goodies as well it has things like checklist for your AdWords and starting an online store marketing ideas how to hire a virtual assistant the complete guide and last but not least if you have any questions about Google Analytics please leave it below as a comment and I will make sure and respond to it",
+  "id": "MvmBJyKmlNE",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=walkhroughgoogleanalytics\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video we're gonna do a complete walkthrough tutorial on Google Analytics and Google Analytics is the most powerful free tool you could ever ask for."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "1568",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-10-03",
+      "title": {
+        "simpleText": "Google Analytics Tutorial with Step by Step Walkthrough"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "Google Analytics Tutorial with Step by Step Walkthrough",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0",
+          "dur": "4.29",
+          "text": "in this city we're gonna do a complete walkthrough\u00a0\ntutorial on Google Analytics and Google Analytics\u00a0\u00a0"
+        },
+        {
+          "start": "4.29",
+          "dur": "6.66",
+          "text": "is the most powerful free tool you could ever\u00a0\nask for and it's really amazing that Google does\u00a0\u00a0"
+        },
+        {
+          "start": "10.95",
+          "dur": "4.26",
+          "text": "provide this service for free and we're gonna\u00a0\ngo over how to use it a lot of people have no\u00a0\u00a0"
+        },
+        {
+          "start": "15.21",
+          "dur": "4.05",
+          "text": "idea what to do and if you don't have Google\u00a0\nAnalytics installed yet you need to do that as\u00a0\u00a0"
+        },
+        {
+          "start": "19.26",
+          "dur": "5.1",
+          "text": "soon as possible it's best if you have from day\u00a0\none of starting your store but then the question\u00a0\u00a0"
+        },
+        {
+          "start": "24.36",
+          "dur": "5.01",
+          "text": "I get all the time is what do I do once I have\u00a0\nall this data how do I use this data to improve\u00a0\u00a0"
+        },
+        {
+          "start": "29.37",
+          "dur": "4.59",
+          "text": "my store and that's what we're gonna do so we're\u00a0\ngonna go over eight different things on how to\u00a0\u00a0"
+        },
+        {
+          "start": "33.96",
+          "dur": "4.23",
+          "text": "use Google Analytics plus some more advanced\u00a0\ntips at the end eight things are we're gonna\u00a0\u00a0"
+        },
+        {
+          "start": "38.19",
+          "dur": "4.32",
+          "text": "look at source /medium AdWords if you're using\u00a0\nAdWords Google Analytics can be very helpful\u00a0\u00a0"
+        },
+        {
+          "start": "42.51",
+          "dur": "6.12",
+          "text": "behavior transactions goals funnels audience and\u00a0\nsegments so I'm gonna we're gonna talk about all\u00a0\u00a0"
+        },
+        {
+          "start": "48.63",
+          "dur": "6.39",
+          "text": "these and we're gonna start with what I think is\u00a0\nthe most important thing and that is the source\u00a0\u00a0"
+        },
+        {
+          "start": "55.02",
+          "dur": "5.46",
+          "text": "/medium so if you go to acquisition all traffic\u00a0\nsource /medium this is the one thing people always\u00a0\u00a0"
+        },
+        {
+          "start": "60.48",
+          "dur": "5.22",
+          "text": "ask me what's the one thing in Google Analytics\u00a0\nyou look at the most and it's this and so I want\u00a0\u00a0"
+        },
+        {
+          "start": "65.7",
+          "dur": "4.74",
+          "text": "to show you a few different things one you can\u00a0\nchange the date up here so let's say you wanted\u00a0\u00a0"
+        },
+        {
+          "start": "70.44",
+          "dur": "9.93",
+          "text": "to do from August 22nd 2016 all the way to August\u00a0\n28th 2017 so that's a that's a year's worth the\u00a0\u00a0"
+        },
+        {
+          "start": "80.37",
+          "dur": "5.64",
+          "text": "date and this is a lot of data now keep in mind\u00a0\none of the problems with Google Analytics is it\u00a0\u00a0"
+        },
+        {
+          "start": "86.01",
+          "dur": "5.94",
+          "text": "won't tell you if there's an offline purchase so\u00a0\nmy revenue is actually higher than this by quite\u00a0\u00a0"
+        },
+        {
+          "start": "91.95",
+          "dur": "5.91",
+          "text": "a lot but a lot of our revenue came in the form of\u00a0\nphone calls so you can set Google Analytics up so\u00a0\u00a0"
+        },
+        {
+          "start": "97.86",
+          "dur": "6.48",
+          "text": "it will work with that but this is predominantly\u00a0\nwebsite traffic and website sales so I'm gonna\u00a0\u00a0"
+        },
+        {
+          "start": "104.34",
+          "dur": "5.46",
+          "text": "even go a little bit more narrow just not to give\u00a0\naway too much great information let's go let's go\u00a0\u00a0"
+        },
+        {
+          "start": "109.8",
+          "dur": "5.37",
+          "text": "to there I don't wanna give up all the secrets\u00a0\nto my website so first off you can look at this\u00a0\u00a0"
+        },
+        {
+          "start": "115.17",
+          "dur": "5.7",
+          "text": "period so let's look at June 1st to August\u00a0\n28th and you can just keep it like this I'll\u00a0\u00a0"
+        },
+        {
+          "start": "120.87",
+          "dur": "5.76",
+          "text": "show you one other trick if you want to you can\u00a0\nclick this compare button and compare it to the\u00a0\u00a0"
+        },
+        {
+          "start": "126.63",
+          "dur": "3.81",
+          "text": "previous year or the previous period but that's\u00a0\nsomething a little bit more advanced maybe we'll\u00a0\u00a0"
+        },
+        {
+          "start": "130.44",
+          "dur": "4.77",
+          "text": "get into later in this video I'll just show\u00a0\nyou really quick how that works because it's\u00a0\u00a0"
+        },
+        {
+          "start": "135.21",
+          "dur": "8.04",
+          "text": "kind of a cool tool so you can see that all right\u00a0\nlast year I had this much or you know last year\u00a0\u00a0"
+        },
+        {
+          "start": "143.25",
+          "dur": "4.32",
+          "text": "this year I've had about seven thousand eight\u00a0\nhundred last year I had seven thousand eight\u00a0\u00a0"
+        },
+        {
+          "start": "147.57",
+          "dur": "5.58",
+          "text": "hundred coming from Google PPC so I just wanted\u00a0\nto give a little quick bit about that but let's\u00a0\u00a0"
+        },
+        {
+          "start": "153.15",
+          "dur": "6.99",
+          "text": "actually get into the real thing here so once you\u00a0\nare on source /medium these right here will tell\u00a0\u00a0"
+        },
+        {
+          "start": "160.14",
+          "dur": "4.92",
+          "text": "you the channels that you're getting traffic from\u00a0\nso Google CPC so that's paid advertising Google\u00a0\u00a0"
+        },
+        {
+          "start": "165.06",
+          "dur": "7.38",
+          "text": "organic that's organic traffic traffic from Google\u00a0\nPinterest DIY pins I these are pins from Pinterest\u00a0\u00a0"
+        },
+        {
+          "start": "172.44",
+          "dur": "4.95",
+          "text": "I can show you guys if you're interested in a\u00a0\ndifferent video basically it's from Pinterest\u00a0\u00a0"
+        },
+        {
+          "start": "177.39",
+          "dur": "8.58",
+          "text": "we have special DIY pins direct slash none is\u00a0\nif people type in B dancewear com Bing CPC is\u00a0\u00a0"
+        },
+        {
+          "start": "185.97",
+          "dur": "7.8",
+          "text": "paid ads from Bing this is a specific email that\u00a0\nwe sent out this is from Facebook Pinterest and\u00a0\u00a0"
+        },
+        {
+          "start": "193.77",
+          "dur": "4.32",
+          "text": "it's pretty self-explanatory now this is just\u00a0\ngonna automatically show the first ten if I\u00a0\u00a0"
+        },
+        {
+          "start": "198.09",
+          "dur": "8.7",
+          "text": "want to I can show even more so we get a ton of\u00a0\ntraffic from a ton of different sources let's\u00a0\u00a0"
+        },
+        {
+          "start": "206.79",
+          "dur": "6.33",
+          "text": "focus on for instance Google organic so this is\u00a0\nthe number of people that came within this period\u00a0\u00a0"
+        },
+        {
+          "start": "213.12",
+          "dur": "4.32",
+          "text": "of time to the website this is the percentage of\u00a0\nnew sessions people that this is their first time\u00a0\u00a0"
+        },
+        {
+          "start": "217.44",
+          "dur": "6.42",
+          "text": "on the website this is the new users so that's\u00a0\njust you know using that data to calculate how\u00a0\u00a0"
+        },
+        {
+          "start": "223.86",
+          "dur": "5.1",
+          "text": "many new users come to the website the bounce\u00a0\nrate so this is what percentage of people get\u00a0\u00a0"
+        },
+        {
+          "start": "228.96",
+          "dur": "4.92",
+          "text": "to the website and automatically bounce so\u00a0\na little over half of the people that come\u00a0\u00a0"
+        },
+        {
+          "start": "233.88",
+          "dur": "5.64",
+          "text": "to my website so you know you can calculate it\u00a0\nif you'd want immediately leave the page pages\u00a0\u00a0"
+        },
+        {
+          "start": "239.52",
+          "dur": "4.32",
+          "text": "per session on this is one of my most important\u00a0\nthings and we'll repeat this a few times during\u00a0\u00a0"
+        },
+        {
+          "start": "243.84",
+          "dur": "6.24",
+          "text": "this tutorial but the number of pages per session\u00a0\nis very important it lets you know how engaged\u00a0\u00a0"
+        },
+        {
+          "start": "250.08",
+          "dur": "4.98",
+          "text": "users are so for instance people that come from\u00a0\nmy Pinterest DIY pins on average only go to one\u00a0\u00a0"
+        },
+        {
+          "start": "255.06",
+          "dur": "7.08",
+          "text": "point five pages that means that they go to\u00a0\none page and some people go to two pages so\u00a0\u00a0"
+        },
+        {
+          "start": "262.14",
+          "dur": "5.25",
+          "text": "on average it's one point five that means they're\u00a0\nnot really looking around my website a lot as a\u00a0\u00a0"
+        },
+        {
+          "start": "267.39",
+          "dur": "4.11",
+          "text": "pose the people that come from organic traffic\u00a0\nthey're looking at whatever page they landed\u00a0\u00a0"
+        },
+        {
+          "start": "271.5",
+          "dur": "3.45",
+          "text": "on they're looking at a second page and a third\u00a0\npage you're looking at my about Us page you're\u00a0\u00a0"
+        },
+        {
+          "start": "274.95",
+          "dur": "3.9",
+          "text": "looking at fa Q's they're looking a lot around\u00a0\nmy website they're pretty engaged you can also\u00a0\u00a0"
+        },
+        {
+          "start": "278.85",
+          "dur": "7.29",
+          "text": "tell by the time the average session duration so\u00a0\nright here direct slash none they spend a lot of\u00a0\u00a0"
+        },
+        {
+          "start": "286.14",
+          "dur": "5.91",
+          "text": "time 2 minutes and 43 seconds on average that's\u00a0\nimportant another thing you're gonna find is the\u00a0\u00a0"
+        },
+        {
+          "start": "292.05",
+          "dur": "6.66",
+          "text": "e-commerce conversion rate and these will vary as\u00a0\nyou can see people that come from my Pinterest DIY\u00a0\u00a0"
+        },
+        {
+          "start": "298.71",
+          "dur": "6.21",
+          "text": "pins almost none of them buy so I'm getting a lot\u00a0\nof traffic but they're not buying so we'll talk\u00a0\u00a0"
+        },
+        {
+          "start": "304.92",
+          "dur": "7.08",
+          "text": "about what this means later but that might mean\u00a0\nit's an opportunity for me to make make those\u00a0\u00a0"
+        },
+        {
+          "start": "312",
+          "dur": "4.83",
+          "text": "convert better but I'll explain what I did with\u00a0\nthat later so this is a conversion rate you're\u00a0\u00a0"
+        },
+        {
+          "start": "316.83",
+          "dur": "4.08",
+          "text": "gonna look at this and say hey how come this is\u00a0\nonly at point four eight so people coming from\u00a0\u00a0"
+        },
+        {
+          "start": "320.91",
+          "dur": "4.68",
+          "text": "Facebook not very likely to buy so maybe I don't\u00a0\nreally care about driving much more traffic from\u00a0\u00a0"
+        },
+        {
+          "start": "325.59",
+          "dur": "7.02",
+          "text": "their direct aisle they're pretty likely to buy it\u00a0\nthree point four and then Google CPC we got three\u00a0\u00a0"
+        },
+        {
+          "start": "332.61",
+          "dur": "6.45",
+          "text": "percent they are pretty likely to buy so maybe I'd\u00a0\nwant to send more of that kind of traffic to my\u00a0\u00a0"
+        },
+        {
+          "start": "339.06",
+          "dur": "7.2",
+          "text": "website next up is transaction so how many actual\u00a0\nsales did I get from this channel 210 and last is\u00a0\u00a0"
+        },
+        {
+          "start": "346.26",
+          "dur": "8.28",
+          "text": "the revenue so Google CPC made me almost made me\u00a0\n$11,000 Google organic made me $10,000 DIY pins\u00a0\u00a0"
+        },
+        {
+          "start": "354.54",
+          "dur": "5.34",
+          "text": "in that period made me nothing so maybe I don't\u00a0\nwant to spend as much time on DIY pins or maybe I\u00a0\u00a0"
+        },
+        {
+          "start": "359.88",
+          "dur": "6.63",
+          "text": "do you know this is debatable direct ten thousand\u00a0\nso I want to know how can I send more people to my\u00a0\u00a0"
+        },
+        {
+          "start": "366.51",
+          "dur": "5.97",
+          "text": "URL directly and a lot of that's gonna be repeat\u00a0\ntraffic so that's hard to do I can look at CPC\u00a0\u00a0"
+        },
+        {
+          "start": "372.48",
+          "dur": "7.2",
+          "text": "the conversion rate there's about half of what it\u00a0\nis for Google so I hope this gives you an idea of\u00a0\u00a0"
+        },
+        {
+          "start": "379.68",
+          "dur": "5.34",
+          "text": "some of the stuff that you can do now one of the\u00a0\nnext things I want to talk about is create you\u00a0\u00a0"
+        },
+        {
+          "start": "385.02",
+          "dur": "6.54",
+          "text": "can use secondary dimension dimensions so there's\u00a0\na lot of different things you can do let's look\u00a0\u00a0"
+        },
+        {
+          "start": "391.56",
+          "dur": "11.25",
+          "text": "at well source is gonna already be there so you\u00a0\ncan I'll just show you a quick simple behavior\u00a0\u00a0"
+        },
+        {
+          "start": "402.81",
+          "dur": "15.87",
+          "text": "landing page this is gonna get crazy here alright\u00a0\nso that brings up all little landing pages and you\u00a0\u00a0"
+        },
+        {
+          "start": "418.68",
+          "dur": "9.36",
+          "text": "could do a few different things you can sort by\u00a0\nsource slash medium and I'll take a second it's\u00a0\u00a0"
+        },
+        {
+          "start": "428.04",
+          "dur": "5.97",
+          "text": "a lot of data it's trying to calculate all right\u00a0\nso that'll then take you to the landing page let's\u00a0\u00a0"
+        },
+        {
+          "start": "434.01",
+          "dur": "3.24",
+          "text": "scroll down so these are all the different source\u00a0\nslash mediums and all the different landing pages\u00a0\u00a0"
+        },
+        {
+          "start": "437.25",
+          "dur": "8.37",
+          "text": "so for instance youtube.com/ a lot of them come\u00a0\nto my default page scroll down even further a lot\u00a0\u00a0"
+        },
+        {
+          "start": "445.62",
+          "dur": "12.87",
+          "text": "of youtube Yahoo organic so this just segments\u00a0\nit often breaks it up even more here we go this\u00a0\u00a0"
+        },
+        {
+          "start": "458.49",
+          "dur": "5.91",
+          "text": "is what I was looking for Pinterest DIY pins\u00a0\nso you can see a lot of people about 50 people\u00a0\u00a0"
+        },
+        {
+          "start": "464.4",
+          "dur": "5.34",
+          "text": "are coming to for ways to change the hemline\u00a0\nof your dance skirt from Pinterest DIY pins\u00a0\u00a0"
+        },
+        {
+          "start": "469.74",
+          "dur": "4.53",
+          "text": "this is important same thing Pinterest DIY pins\u00a0\nhere four ways I can see which one of these are\u00a0\u00a0"
+        },
+        {
+          "start": "474.27",
+          "dur": "6.27",
+          "text": "the most popular and I know to make more of those\u00a0\nWow look at this one right here Pinterest DIY pins\u00a0\u00a0"
+        },
+        {
+          "start": "480.54",
+          "dur": "4.59",
+          "text": "creating a square cut skirt 400 something alright\u00a0\nso that's the topic that people are interested in\u00a0\u00a0"
+        },
+        {
+          "start": "485.13",
+          "dur": "6.39",
+          "text": "maybe I want to make more topics like that\u00a0\nthat just helps you segment it a little bit\u00a0\u00a0"
+        },
+        {
+          "start": "491.52",
+          "dur": "13.44",
+          "text": "I'm gonna go ahead and go up and I'm going to\u00a0\nget rid of this landing page just click that X"
+        },
+        {
+          "start": "508.45",
+          "dur": "5.67",
+          "text": "all right and the next thing I want to show you\u00a0\nis what to do with this source / medium data and\u00a0\u00a0"
+        },
+        {
+          "start": "514.12",
+          "dur": "7.38",
+          "text": "I already kind of mentioned it but usually what\u00a0\nI like to do is look at what are my top five or\u00a0\u00a0"
+        },
+        {
+          "start": "521.5",
+          "dur": "9.09",
+          "text": "so referral sources how am I getting traffic to\u00a0\nmy website so my top five make up probably 80 to\u00a0\u00a0"
+        },
+        {
+          "start": "530.59",
+          "dur": "5.52",
+          "text": "90% of all my traffic like that's a huge amount\u00a0\nof traffic so I want to I want to spend as much\u00a0\u00a0"
+        },
+        {
+          "start": "536.11",
+          "dur": "3.84",
+          "text": "time as possible doubling down on these I want to\u00a0\ntry to figure out how can I get even more traffic\u00a0\u00a0"
+        },
+        {
+          "start": "539.95",
+          "dur": "5.55",
+          "text": "out of that because this is what's working let's\u00a0\ndo more of what is working the next thing I might\u00a0\u00a0"
+        },
+        {
+          "start": "545.5",
+          "dur": "9.03",
+          "text": "look at is what is making me the most revenue\u00a0\ntop five that are making me the most revenue\u00a0\u00a0"
+        },
+        {
+          "start": "554.53",
+          "dur": "5.22",
+          "text": "so Bing so it looks like it's paid advertising\u00a0\nand organic advertising okay I want to double\u00a0\u00a0"
+        },
+        {
+          "start": "559.75",
+          "dur": "6.21",
+          "text": "down on that another thing I'm gonna look at is\u00a0\necommerce conversion rate and obviously there's\u00a0\u00a0"
+        },
+        {
+          "start": "565.96",
+          "dur": "4.56",
+          "text": "some outliers here like I only got to two bits\u00a0\nof traffic from this so it's a hundred percent\u00a0\u00a0"
+        },
+        {
+          "start": "570.52",
+          "dur": "5.1",
+          "text": "ecommerce conversion rate that doesn't really\u00a0\nmean much want to look for like two to thirty\u00a0\u00a0"
+        },
+        {
+          "start": "575.62",
+          "dur": "5.25",
+          "text": "four so I got two hundred thirty-four from bing\u00a0\nOrganic coupon sore com okay well that's because\u00a0\u00a0"
+        },
+        {
+          "start": "580.87",
+          "dur": "7.53",
+          "text": "people are looking for coupons let's see two\u00a0\nhundred sixty yahoo organic direct google CPC\u00a0\u00a0"
+        },
+        {
+          "start": "588.4",
+          "dur": "5.52",
+          "text": "so you get an idea so email so that's something\u00a0\ni'm getting a pretty good conversion rate off\u00a0\u00a0"
+        },
+        {
+          "start": "593.92",
+          "dur": "5.07",
+          "text": "email maybe i should be sending a little bit more\u00a0\nemails up maybe i should prioritize that a little\u00a0\u00a0"
+        },
+        {
+          "start": "598.99",
+          "dur": "10.05",
+          "text": "bit more instagrams not doing bad either right\u00a0\nthere i believe i look at pages slash sessions\u00a0\u00a0"
+        },
+        {
+          "start": "609.04",
+          "dur": "8.82",
+          "text": "as well another thing you might want to do is\u00a0\nlet's go back to the sessions you can see this\u00a0\u00a0"
+        },
+        {
+          "start": "617.86",
+          "dur": "4.26",
+          "text": "has a really small an already kind of mentioned a\u00a0\nreally small ecommerce conversion rate how can i\u00a0\u00a0"
+        },
+        {
+          "start": "622.12",
+          "dur": "5.34",
+          "text": "bump that up what can i do to make my DIY pins\u00a0\nconvert better and what I ended up doing is if\u00a0\u00a0"
+        },
+        {
+          "start": "627.46",
+          "dur": "6.87",
+          "text": "you go to one of my DIY pins it takes you\u00a0\nto an email capture basically DIY pins and\u00a0\u00a0"
+        },
+        {
+          "start": "634.33",
+          "dur": "5.67",
+          "text": "that's actually getting a four point three one\u00a0\npercent conversion rate so that's not actually\u00a0\u00a0"
+        },
+        {
+          "start": "640",
+          "dur": "6.54",
+          "text": "bad so I'm not making say with my DIY pins but\u00a0\nI am capturing emails so that is pretty good and\u00a0\u00a0"
+        },
+        {
+          "start": "646.54",
+          "dur": "4.65",
+          "text": "what I did is I clicked up here at goal set 1\u00a0\nyou can also click on this ecommerce thing and\u00a0\u00a0"
+        },
+        {
+          "start": "651.19",
+          "dur": "6.78",
+          "text": "it will change all these columns for you so let's\u00a0\nlook here so the average order value the most the\u00a0\u00a0"
+        },
+        {
+          "start": "657.97",
+          "dur": "5.49",
+          "text": "highest one is from direct the next highest one\u00a0\nwas when I did this this email offer gives you\u00a0\u00a0"
+        },
+        {
+          "start": "663.46",
+          "dur": "4.14",
+          "text": "a little idea of some of the different stuff per\u00a0\nsession value is pretty important let's let's see\u00a0\u00a0"
+        },
+        {
+          "start": "667.6",
+          "dur": "6.3",
+          "text": "what the highest per session value is once again\u00a0\nit's these are some outliers you're gonna have\u00a0\u00a0"
+        },
+        {
+          "start": "673.9",
+          "dur": "5.28",
+          "text": "to ignore but email email is not doing bad that's\u00a0\npretty good so my average per session value from\u00a0\u00a0"
+        },
+        {
+          "start": "679.18",
+          "dur": "11.7",
+          "text": "email is pretty good let's go to 50 direct once\u00a0\nagain keeps winning so that's source slash medium\u00a0\u00a0"
+        },
+        {
+          "start": "690.88",
+          "dur": "5.13",
+          "text": "that's some of the basics here I hope that part\u00a0\nwas helpful we still have a lot more to cover the\u00a0\u00a0"
+        },
+        {
+          "start": "696.01",
+          "dur": "4.32",
+          "text": "next thing I like to look at is I do run AdWords\u00a0\nas you can tell and I'll go to this Adwords and\u00a0\u00a0"
+        },
+        {
+          "start": "700.33",
+          "dur": "6",
+          "text": "I'll go to bid adjustments cuz that's one of my\u00a0\nfavourite things to look at and this will let you\u00a0\u00a0"
+        },
+        {
+          "start": "706.33",
+          "dur": "5.91",
+          "text": "know how to adjust the bids should you increase\u00a0\nshould you decrease how much money what's working\u00a0\u00a0"
+        },
+        {
+          "start": "712.24",
+          "dur": "3.39",
+          "text": "what's not working not gonna spend too much\u00a0\ntime on this because these are some secrets\u00a0\u00a0"
+        },
+        {
+          "start": "715.63",
+          "dur": "8.07",
+          "text": "I do not want to give away but that can be very\u00a0\nhelpful if you're trying to tweak things you can\u00a0\u00a0"
+        },
+        {
+          "start": "723.7",
+          "dur": "4.71",
+          "text": "also look at what keywords are working for you\u00a0\nand actually my favorite one is search queries\u00a0\u00a0"
+        },
+        {
+          "start": "728.41",
+          "dur": "7.68",
+          "text": "this is a list of all the search queries that\u00a0\npeople use to come to your website and you can\u00a0\u00a0"
+        },
+        {
+          "start": "736.09",
+          "dur": "5.46",
+          "text": "see I've got two thousand sixty eight of them\u00a0\nand what you can actually do if you want and\u00a0\u00a0"
+        },
+        {
+          "start": "741.55",
+          "dur": "5.46",
+          "text": "this is works on almost any page you can export\u00a0\nit as an excel file so let's do that together\u00a0\u00a0"
+        },
+        {
+          "start": "747.01",
+          "dur": "5.91",
+          "text": "unix exporter there's a few different things but\u00a0\nwhat I'll do is I'll export it as an excel file"
+        },
+        {
+          "start": "758.46",
+          "dur": "3.48",
+          "text": "and let's go down here"
+        },
+        {
+          "start": "769.73",
+          "dur": "14.64",
+          "text": "export Excel one more time and it will bring up\u00a0\na page like this and look at the data set 1 and\u00a0\u00a0"
+        },
+        {
+          "start": "784.37",
+          "dur": "3.78",
+          "text": "this will be all the different search queries\u00a0\nand what you can do is go through these and\u00a0\u00a0"
+        },
+        {
+          "start": "788.15",
+          "dur": "6.45",
+          "text": "try to find negative keywords for instance\u00a0\ninstance compression shorts women that's not\u00a0\u00a0"
+        },
+        {
+          "start": "794.6",
+          "dur": "4.44",
+          "text": "something we're really selling so we're really\u00a0\nselling dance clothing so I'd say hey that's a\u00a0\u00a0"
+        },
+        {
+          "start": "799.04",
+          "dur": "4.98",
+          "text": "negative keyword so this allows you to look at\u00a0\nwhat people are using your AdWords how they're\u00a0\u00a0"
+        },
+        {
+          "start": "804.02",
+          "dur": "4.5",
+          "text": "getting to your website and try to find some\u00a0\nnegative keywords I'm gonna I'm not gonna dive\u00a0\u00a0"
+        },
+        {
+          "start": "808.52",
+          "dur": "3.39",
+          "text": "too much deeper into this because I think\u00a0\nthis is really isn't applicable to everyone\u00a0\u00a0"
+        },
+        {
+          "start": "811.91",
+          "dur": "5.58",
+          "text": "if you're not running AdWords it probably isn't\u00a0\nvery helpful to you I want to go down and look\u00a0\u00a0"
+        },
+        {
+          "start": "817.49",
+          "dur": "7.05",
+          "text": "at behavior now so within behavior there's a\u00a0\nfew really cool things let's look at behavior\u00a0\u00a0"
+        },
+        {
+          "start": "824.54",
+          "dur": "8.16",
+          "text": "flow first off so behavior flow allows you\u00a0\nto see the path that people take when they\u00a0\u00a0"
+        },
+        {
+          "start": "832.7",
+          "dur": "7.92",
+          "text": "get to your website so most people go to my\u00a0\nmain home page and once they get there this\u00a0\u00a0"
+        },
+        {
+          "start": "840.62",
+          "dur": "5.61",
+          "text": "is just a repeat they go to my main home page\u00a0\nagain but then you can see from here a lot of\u00a0\u00a0"
+        },
+        {
+          "start": "846.23",
+          "dur": "5.31",
+          "text": "people are going to shopping cart people are\u00a0\ngoing to search results leotard more leotards\u00a0\u00a0"
+        },
+        {
+          "start": "851.54",
+          "dur": "9.12",
+          "text": "and ninety-three other pages that's how I didn't\u00a0\nbut this could be more interesting let's to go\u00a0\u00a0"
+        },
+        {
+          "start": "860.66",
+          "dur": "5.25",
+          "text": "highlight through here alright so leotards a lot\u00a0\nof people are landing on my homepage from leotards\u00a0\u00a0"
+        },
+        {
+          "start": "865.91",
+          "dur": "4.65",
+          "text": "and they're going here then they're going to max\u00a0\nmy homepage and this just gives you an idea of\u00a0\u00a0"
+        },
+        {
+          "start": "870.56",
+          "dur": "4.59",
+          "text": "the path that people are taking now this is so\u00a0\nmuch data sometimes it's a little bit hard to\u00a0\u00a0"
+        },
+        {
+          "start": "875.15",
+          "dur": "7.65",
+          "text": "go through another thing you can look at is your\u00a0\nif your going to site content let's go all pages"
+        },
+        {
+          "start": "882.8",
+          "dur": "6.93",
+          "text": "this will show you the traffic that\u00a0\ngoes to all your different pages and\u00a0\u00a0"
+        },
+        {
+          "start": "889.73",
+          "dur": "3.81",
+          "text": "this is very helpful because you\u00a0\ncan see all right most people are\u00a0\u00a0"
+        },
+        {
+          "start": "893.54",
+          "dur": "2.58",
+          "text": "going to my home page that's pretty\u00a0\ntypical a lot of people are going to\u00a0\u00a0"
+        },
+        {
+          "start": "896.12",
+          "dur": "4.86",
+          "text": "my shopping cart but leotards leotards\u00a0\nis actually my highest trafficked page"
+        },
+        {
+          "start": "903.35",
+          "dur": "5.94",
+          "text": "how can I improve this so in 56% of people\u00a0\nare exiting how can I lower that number so\u00a0\u00a0"
+        },
+        {
+          "start": "909.29",
+          "dur": "5.04",
+          "text": "we now that we know that leotards are very\u00a0\nis a very valuable page we're gonna try to\u00a0\u00a0"
+        },
+        {
+          "start": "914.33",
+          "dur": "5.55",
+          "text": "figure out how we can improve it so what I do is\u00a0\nI like to look at my top 10 trafficked pages and\u00a0\u00a0"
+        },
+        {
+          "start": "919.88",
+          "dur": "5.49",
+          "text": "see how I can improve them because most your\u00a0\ntraffic is probably coming to your top 10 20\u00a0\u00a0"
+        },
+        {
+          "start": "925.37",
+          "dur": "5.16",
+          "text": "30 pages another thing you can do is look at\u00a0\nwhat are your top landing pages similar to top\u00a0\u00a0"
+        },
+        {
+          "start": "930.53",
+          "dur": "5.52",
+          "text": "pages but this is like the top pages people are\u00a0\nactually landing on and leotards is number 3 so\u00a0\u00a0"
+        },
+        {
+          "start": "936.05",
+          "dur": "4.68",
+          "text": "I need to start putting a little bit more effort\u00a0\nand emphasis on leotards because that's really\u00a0\u00a0"
+        },
+        {
+          "start": "940.73",
+          "dur": "5.22",
+          "text": "doing well for me another one making a hairpiece\u00a0\nwith lace so let's go to that page actually let's\u00a0\u00a0"
+        },
+        {
+          "start": "945.95",
+          "dur": "9.15",
+          "text": "take a look at it you can click here to go to\u00a0\nthat so this page is alright it's not the best\u00a0\u00a0"
+        },
+        {
+          "start": "955.1",
+          "dur": "6.84",
+          "text": "my thought now would be how can I improve this\u00a0\nand make it even better so this email capture\u00a0\u00a0"
+        },
+        {
+          "start": "961.94",
+          "dur": "3.6",
+          "text": "you know that's that's great that was a good\u00a0\naddition that's something that I did earlier\u00a0\u00a0"
+        },
+        {
+          "start": "965.54",
+          "dur": "7.62",
+          "text": "when I was reviewing my stats I realized that I\u00a0\nneeded to add an email capture exit pages very\u00a0\u00a0"
+        },
+        {
+          "start": "973.16",
+          "dur": "5.61",
+          "text": "similar to landing pages we can try to figure out\u00a0\nso one of my top exit pages is the leotard page\u00a0\u00a0"
+        },
+        {
+          "start": "978.77",
+          "dur": "6.99",
+          "text": "high waist page and we try to figure out how can\u00a0\nwe make it so people aren't exiting I would also\u00a0\u00a0"
+        },
+        {
+          "start": "985.76",
+          "dur": "10.11",
+          "text": "look at things like site search overview actually\u00a0\nlet's go to search terms so this will let you know\u00a0\u00a0"
+        },
+        {
+          "start": "995.87",
+          "dur": "4.56",
+          "text": "if you set it up properly it'll let you know\u00a0\nwhat people are searching for on your website\u00a0\u00a0"
+        },
+        {
+          "start": "1000.43",
+          "dur": "8.64",
+          "text": "so on my website I have a little search box and\u00a0\nthese are the things that people are searching\u00a0\u00a0"
+        },
+        {
+          "start": "1009.07",
+          "dur": "6.33",
+          "text": "for so one thing you might want to do is look\u00a0\nat what happens when people search for those"
+        },
+        {
+          "start": "1020.9",
+          "dur": "3.6",
+          "text": "so that comes up good another thing this lets\u00a0\nyou know if a lot of people are searching for\u00a0\u00a0"
+        },
+        {
+          "start": "1024.5",
+          "dur": "6.63",
+          "text": "it it's probably because it's hard to find so\u00a0\npeople aren't sure where to look so leotards\u00a0\u00a0"
+        },
+        {
+          "start": "1031.13",
+          "dur": "6.96",
+          "text": "it's actually under other unitards and bike\u00a0\ntardes leotard so this will let you know what\u00a0\u00a0"
+        },
+        {
+          "start": "1038.09",
+          "dur": "4.89",
+          "text": "things people are searching for and you're gonna\u00a0\nwant to look and make sure and make it easier for\u00a0\u00a0"
+        },
+        {
+          "start": "1042.98",
+          "dur": "7.23",
+          "text": "people to find these things the next thing we're\u00a0\ngonna look at is actually gonna be transactions\u00a0\u00a0"
+        },
+        {
+          "start": "1050.21",
+          "dur": "7.2",
+          "text": "this is another thing I really enjoy looking at\u00a0\nif you go to conversions ecommerce let's go to"
+        },
+        {
+          "start": "1068.44",
+          "dur": "5.58",
+          "text": "go to sales performance and then you can see\u00a0\nall your different sales if you actually click\u00a0\u00a0"
+        },
+        {
+          "start": "1074.02",
+          "dur": "4.41",
+          "text": "on the secondary dimension acquisition source\u00a0\nslash medium you can see where those sales are\u00a0\u00a0"
+        },
+        {
+          "start": "1078.43",
+          "dur": "6.63",
+          "text": "coming from so a lot of my bigger sales are direct\u00a0\nthat was organic that was organic email 12 ah so\u00a0\u00a0"
+        },
+        {
+          "start": "1085.06",
+          "dur": "3.57",
+          "text": "if you ever have a sale and you're wondering\u00a0\nhow did this person find me you can go into\u00a0\u00a0"
+        },
+        {
+          "start": "1088.63",
+          "dur": "5.19",
+          "text": "sales performance and do a secondary dimension\u00a0\nof source /medium now there's a lot of different\u00a0\u00a0"
+        },
+        {
+          "start": "1093.82",
+          "dur": "4.53",
+          "text": "secondary dimensions I know I'm going fast and I\u00a0\nknow this is a lot of information but you can play\u00a0\u00a0"
+        },
+        {
+          "start": "1098.35",
+          "dur": "8.97",
+          "text": "with this you can see things like what was the\u00a0\nlanding page so default boys sleeveless so this\u00a0\u00a0"
+        },
+        {
+          "start": "1107.32",
+          "dur": "4.47",
+          "text": "person landed on this landing page that's kind\u00a0\nof interesting you can also look at things like\u00a0\u00a0"
+        },
+        {
+          "start": "1111.79",
+          "dur": "8.28",
+          "text": "the dates that's pretty boring but there's a lot\u00a0\nyou can look at let's see City that's a fun one"
+        },
+        {
+          "start": "1120.07",
+          "dur": "10.86",
+          "text": "so Palmetto you know all these different\u00a0\ncities we have here you can use this data\u00a0\u00a0"
+        },
+        {
+          "start": "1130.93",
+          "dur": "11.79",
+          "text": "to try to do a better job of targeting you\u00a0\ncan look also-- at gender probably not very\u00a0\u00a0"
+        },
+        {
+          "start": "1142.72",
+          "dur": "4.8",
+          "text": "very accurate country not that accurate alright\u00a0\nnot that important to me since I'm mostly a US\u00a0\u00a0"
+        },
+        {
+          "start": "1147.52",
+          "dur": "6.15",
+          "text": "based age isn't always the most accurate\u00a0\neither a lot of information in secondary\u00a0\u00a0"
+        },
+        {
+          "start": "1153.67",
+          "dur": "4.05",
+          "text": "dimensions I could do a whole video just on\u00a0\nsecondary dimensions so we're not gonna I'm\u00a0\u00a0"
+        },
+        {
+          "start": "1157.72",
+          "dur": "5.76",
+          "text": "not going to go down that another thing I want to\u00a0\nlook at is the goals let's look at overview now\u00a0\u00a0"
+        },
+        {
+          "start": "1163.48",
+          "dur": "3.6",
+          "text": "I can show in a separate video if you want\u00a0\nhow to set up goals but once you have them\u00a0\u00a0"
+        },
+        {
+          "start": "1167.08",
+          "dur": "7.41",
+          "text": "set up the question still is what to do with\u00a0\nthem and so this is the overview page let's\u00a0\u00a0"
+        },
+        {
+          "start": "1174.49",
+          "dur": "5.73",
+          "text": "look at reverse goal path I think it's kind of\u00a0\ninteresting or funnel those visual visualization"
+        },
+        {
+          "start": "1188.56",
+          "dur": "10.2",
+          "text": "visualization so you have to set up the funnels\u00a0\nproperly but let's look at order placed so this\u00a0\u00a0"
+        },
+        {
+          "start": "1198.76",
+          "dur": "3.87",
+          "text": "is how many people come to my shopping cart this\u00a0\nis how many people go to the one-page checkout\u00a0\u00a0"
+        },
+        {
+          "start": "1202.63",
+          "dur": "5.34",
+          "text": "and this is how many people actually exit so what\u00a0\nthis allows you to do is see what percentage of\u00a0\u00a0"
+        },
+        {
+          "start": "1207.97",
+          "dur": "8.07",
+          "text": "people you're losing and I'm about two thirds\u00a0\nof people lose I get lost so we can see why so\u00a0\u00a0"
+        },
+        {
+          "start": "1216.04",
+          "dur": "10.65",
+          "text": "they're going to this article for instance\u00a0\nlet's see what that article is so they're\u00a0\u00a0"
+        },
+        {
+          "start": "1226.69",
+          "dur": "6.54",
+          "text": "looking at this page as a customer service page\u00a0\nthey're looking at the fa Q's so I'm losing some\u00a0\u00a0"
+        },
+        {
+          "start": "1233.23",
+          "dur": "3.72",
+          "text": "people because they're looking at the fa Q's but\u00a0\nthis if you set it up properly will allow you to\u00a0\u00a0"
+        },
+        {
+          "start": "1236.95",
+          "dur": "8.34",
+          "text": "see the different funnel visualizations it's\u00a0\nemail confirmation that's pretty that's pretty\u00a0\u00a0"
+        },
+        {
+          "start": "1245.29",
+          "dur": "7.89",
+          "text": "standard yeah so that's just let you see some of\u00a0\nthe different goals and the funnels now let's look\u00a0\u00a0"
+        },
+        {
+          "start": "1253.18",
+          "dur": "9",
+          "text": "at audience so we only have a little bit more left\u00a0\nin this video one of the things I like doing is\u00a0\u00a0"
+        },
+        {
+          "start": "1262.18",
+          "dur": "10.62",
+          "text": "going down to location so the geolocation of the\u00a0\naudience so for me most of my traffic comes from\u00a0\u00a0"
+        },
+        {
+          "start": "1272.8",
+          "dur": "9.24",
+          "text": "the United States not surprisingly let's go ahead\u00a0\nand click on that then from the United States most\u00a0\u00a0"
+        },
+        {
+          "start": "1282.04",
+          "dur": "7.02",
+          "text": "my traffic comes from California Texas Florida and\u00a0\nNew York once again not super surprising what's\u00a0\u00a0"
+        },
+        {
+          "start": "1289.06",
+          "dur": "9.27",
+          "text": "maybe more interesting is what's the average pages\u00a0\nper session let's look at that for instance so\u00a0\u00a0"
+        },
+        {
+          "start": "1298.33",
+          "dur": "5.64",
+          "text": "people from Iowa they visit on average four point\u00a0\nsix five pages so the people from Iowa tend to be\u00a0\u00a0"
+        },
+        {
+          "start": "1303.97",
+          "dur": "5.04",
+          "text": "really engaged with what I'm selling so maybe I\u00a0\nshould take more emphasis there and spend more of\u00a0\u00a0"
+        },
+        {
+          "start": "1309.01",
+          "dur": "7.8",
+          "text": "my dollars there same thing New Jersey I mean\u00a0\nDelaware's pretty good to Mississippi another\u00a0\u00a0"
+        },
+        {
+          "start": "1316.81",
+          "dur": "5.92",
+          "text": "thing we can look at is the to do instead of\u00a0\nthe conversions for that we can say ecommerce\u00a0\u00a0"
+        },
+        {
+          "start": "1322.73",
+          "dur": "8.79",
+          "text": "what has the highest e-commerce conversion rate so\u00a0\nrevenue of course is gonna probably be highest in\u00a0\u00a0"
+        },
+        {
+          "start": "1331.52",
+          "dur": "6.57",
+          "text": "California Texas Florida New York but what has the\u00a0\nhighest conversion rate so Oregon Maine Maryland\u00a0\u00a0"
+        },
+        {
+          "start": "1338.09",
+          "dur": "5.55",
+          "text": "Washington Oklahoma we can look at these and maybe\u00a0\nI want to send catalogs I want to send them out\u00a0\u00a0"
+        },
+        {
+          "start": "1343.64",
+          "dur": "4.23",
+          "text": "catalogues my products to those specific states\u00a0\nbecause that seems to be where there's a really\u00a0\u00a0"
+        },
+        {
+          "start": "1347.87",
+          "dur": "5.49",
+          "text": "happening dancing and they're really likely to\u00a0\nbuy from me as opposed to if you see California is\u00a0\u00a0"
+        },
+        {
+          "start": "1353.36",
+          "dur": "9.96",
+          "text": "pretty low on the list I don't know I don't know\u00a0\nexactly where it is it's at 33 that's not great at\u00a0\u00a0"
+        },
+        {
+          "start": "1363.32",
+          "dur": "9.9",
+          "text": "all in fact Oregon and Maryland and Washington\u00a0\nhave more than double the more than double the\u00a0\u00a0"
+        },
+        {
+          "start": "1373.22",
+          "dur": "4.44",
+          "text": "conversion rate so I want to probably send more\u00a0\nof my ad dollars up in these states because it\u00a0\u00a0"
+        },
+        {
+          "start": "1377.66",
+          "dur": "4.92",
+          "text": "seems to be where people are buying from me you\u00a0\ncan also look at things like demographics like\u00a0\u00a0"
+        },
+        {
+          "start": "1382.58",
+          "dur": "6.6",
+          "text": "overview so it's saying most my target audience\u00a0\nis 35 to 45 once again I don't know how accurate\u00a0\u00a0"
+        },
+        {
+          "start": "1389.18",
+          "dur": "7.59",
+          "text": "this is eighty-four percent female 16 percent male\u00a0\nthat seems like it's probably correct interest and\u00a0\u00a0"
+        },
+        {
+          "start": "1396.77",
+          "dur": "6.42",
+          "text": "once again this isn't gonna be that accurate\u00a0\nbut let's look at an overview shoppers slash\u00a0\u00a0"
+        },
+        {
+          "start": "1403.19",
+          "dur": "6.15",
+          "text": "value shoppers food and dining enthusiasts so she\u00a0\njust gives me an idea of the different audiences\u00a0\u00a0"
+        },
+        {
+          "start": "1409.34",
+          "dur": "5.58",
+          "text": "that I have here so there's a lot more that we\u00a0\ncan look at one last thing I want to show you is\u00a0\u00a0"
+        },
+        {
+          "start": "1414.92",
+          "dur": "11.37",
+          "text": "segments before we kind of wrap things up here so\u00a0\nif you close that if you add a segment and maybe\u00a0\u00a0"
+        },
+        {
+          "start": "1426.29",
+          "dur": "8.88",
+          "text": "what I want to do is instead of all users I want\u00a0\nto go here and segment people based on let's see"
+        },
+        {
+          "start": "1440.77",
+          "dur": "14.31",
+          "text": "see if they can do mobile mobile and tablet\u00a0\ntraffic so you see I'm at 28,000 right now but\u00a0\u00a0"
+        },
+        {
+          "start": "1455.08",
+          "dur": "4.17",
+          "text": "of that twenty eight thousand sixteen thousand\u00a0\nis mobile and tablet traffic so that's a lot of\u00a0\u00a0"
+        },
+        {
+          "start": "1459.25",
+          "dur": "6.06",
+          "text": "mobile and tablet traffic and what I can do now is\u00a0\nsee alright how do they interact with my website\u00a0\u00a0"
+        },
+        {
+          "start": "1465.31",
+          "dur": "7.17",
+          "text": "so the conversion rate goes way down as you can\u00a0\nsee but first off sixty percent of my traffic is\u00a0\u00a0"
+        },
+        {
+          "start": "1472.48",
+          "dur": "5.34",
+          "text": "mobile and tablet that's really interesting that\u00a0\nmeans that I need to do a better job of having a\u00a0\u00a0"
+        },
+        {
+          "start": "1477.82",
+          "dur": "10.2",
+          "text": "mobile-friendly website another thing I can do\u00a0\nlet's go ahead and remove that I can do things\u00a0\u00a0"
+        },
+        {
+          "start": "1488.02",
+          "dur": "8.37",
+          "text": "like add segments people that have two plus\u00a0\ntransactions or and that was a custom one that\u00a0\u00a0"
+        },
+        {
+          "start": "1496.39",
+          "dur": "9.27",
+          "text": "I did I can show on a separate video how to do\u00a0\nthat made a purchase that's a fun one apply so\u00a0\u00a0"
+        },
+        {
+          "start": "1505.66",
+          "dur": "4.38",
+          "text": "all right of all the people that made a purchase\u00a0\nwhere are they coming from so only 1500 people\u00a0\u00a0"
+        },
+        {
+          "start": "1510.04",
+          "dur": "5.43",
+          "text": "actually made a purchase so all this data and\u00a0\nall the segmentation there's so much more where\u00a0\u00a0"
+        },
+        {
+          "start": "1515.47",
+          "dur": "5.25",
+          "text": "you going to your I could do a whole course\u00a0\njust on this but basically this allows you to\u00a0\u00a0"
+        },
+        {
+          "start": "1520.72",
+          "dur": "5.22",
+          "text": "look and really segment your audience and figure\u00a0\nout alright where are the people coming from that\u00a0\u00a0"
+        },
+        {
+          "start": "1525.94",
+          "dur": "3.54",
+          "text": "actually make a purchase where are the people\u00a0\ncoming from that make two plus purchases what\u00a0\u00a0"
+        },
+        {
+          "start": "1529.48",
+          "dur": "5.52",
+          "text": "about mobile traffic what is their pattern how do\u00a0\nthey how are they different from people that come\u00a0\u00a0"
+        },
+        {
+          "start": "1535",
+          "dur": "4.95",
+          "text": "on desktop so there is so much you can do I'm just\u00a0\nwe're just scratching the surface with this if you\u00a0\u00a0"
+        },
+        {
+          "start": "1539.95",
+          "dur": "3.39",
+          "text": "enjoy this video and you want more like it make\u00a0\nsure you click that subscribe button it's down\u00a0\u00a0"
+        },
+        {
+          "start": "1543.34",
+          "dur": "5.37",
+          "text": "below at the bottom I also have the e-commerce\u00a0\nsuccess pack and I'll make sure it include a\u00a0\u00a0"
+        },
+        {
+          "start": "1548.71",
+          "dur": "5.34",
+          "text": "checklist for checking your Google Analytics click\u00a0\nup here it has a bunch of other goodies as well it\u00a0\u00a0"
+        },
+        {
+          "start": "1554.05",
+          "dur": "4.5",
+          "text": "has things like checklist for your AdWords and\u00a0\nstarting an online store marketing ideas how\u00a0\u00a0"
+        },
+        {
+          "start": "1558.55",
+          "dur": "4.5",
+          "text": "to hire a virtual assistant the complete guide\u00a0\nand last but not least if you have any questions\u00a0\u00a0"
+        },
+        {
+          "start": "1563.05",
+          "dur": "5.04",
+          "text": "about Google Analytics please leave it below as\u00a0\na comment and I will make sure and respond to it"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 120,
+      "title": "Compare"
+    },
+    {
+      "start_time": 165,
+      "title": "Traffic Sources"
+    },
+    {
+      "start_time": 210,
+      "title": "Organic Traffic"
+    },
+    {
+      "start_time": 380,
+      "title": "Secondary Dimensions"
+    },
+    {
+      "start_time": 510,
+      "title": "Source Medium Data"
+    },
+    {
+      "start_time": 690,
+      "title": "Adwords"
+    },
+    {
+      "start_time": 800,
+      "title": "Behavior"
+    },
+    {
+      "start_time": 885,
+      "title": "Traffic"
+    },
+    {
+      "start_time": 975,
+      "title": "Search Terms"
+    },
+    {
+      "start_time": 1070,
+      "title": "Sales Performance"
+    },
+    {
+      "start_time": 1160,
+      "title": "Goals"
+    },
+    {
+      "start_time": 1245,
+      "title": "Audience"
+    },
+    {
+      "start_time": 1425,
+      "title": "Segment"
+    }
+  ]
+}

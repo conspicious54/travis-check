@@ -1,0 +1,451 @@
+{
+  "text": "in this video I'm gonna show you how to set up your Google Merchant Center account but more importantly this is going to be your product listing ads feed and how to set it up the first step of which is to set up your your Merchant Center account so we'll click on I just googled Merchant Center click on that click sign up from here select our country and put United States because that's where I'll locate it out of asana yoga pants' website URL is going to be awesome new yoga pants' calm on me go ahead and copy that put it in here put your name I'm gonna unclick all this kind of stuff at a different contact for no we don't need all that just go ahead and click that click yes continue you're going to have to basically claim your URL and the problem was I thought I could do it through Google Analytics you cannot you have to do this HTML file upload and to do that basically you download this file and Shopify you're going to go to your settings files upload it there so just click upload it'll give you this little URL take that URL and then go to online store navigation and then you our URL redirects you're going to add a URL redirect paste that in there oops paste paste this part in here from from this and then the long thing that we had in that last slide you paste it in here add your URL redirect I already did it I actually did it for a different different which Michalek account so you can see it there so the next step after this is actually getting your product feet and you can see feeds here right now we don't have any feed so let me show you how to do that so to do that you're going to go back here we're going to go down to apps and depending on what platform you want you're on it's at this stage Shopify is a little bit different than a lot of the other ones let's go ahead and visit Shopify app store search I believe it's called the Google shopping up oops the Google Shopping app will click on this click get stall app at which point you're going to click sign into your Google account let's go ahead I went ahead and signed in and then just click allow then you're going to get the number so let's say the account ID number is right up here I'll go to type it in one one zero eight three three zero five four copy that put it in here confirm your account we're going to go to settings website verification I believe that's already done I already showed you how to do that Google Analytics is easy way easiest way if you don't have an account setup unit or with instructions here so I'm going to click test your domain the next step is after you've got that I had to fix something with my domain settings but it's pretty easy to fix next follow these instructions basically and this is going to be creating the shipping method and I'll go ahead and do this so we're going to click plus shipping method I'm going to call this free shipping because in my store everything's going to be free shipping you'll want to match whatever let's say the transit time is two to five days and zero dollars go ahead and click Save test shipping rates alright it took a second to update so choose a collection I'm going to call it homepage or I could just do all products maybe I'll do all products just make it easier and then click publish so now the products are being published to Google so this might happen to you so I'll show you really quick I I was stopped because I had some errors so let's see what the errors are and it's probably going to be if you haven't done this before the error is in setting up the product category so the Google and the GTIN is missing but start with the product category so let's say work out clothing so we have a few different ones here we have clothing apparel and accessories like active wear so this is we're probably going to be around here clothing active wear so maybe I'll even just type in active wear let's try yoga nope basically you got to find what yours is so I know it's going to be under probably under active wear if not maybe then I'm just going to put it under the general category of clothing activewear because it doesn't really have a subcategory so then I'd also click tell Google to ignore product identifier unless your product does have a GTIN or a valid NPN then then you need to put it in but mine doesn't because you know we're our own company we have our own products see and one of the problems is only the first variant can be published to Google Merchant Center so that's another problem with doing this feed the automatic way but I'll go ahead and save and publish it's still I saw an error on the other one so we can do that we can fix that so there's some of the product details well the age group say adult gender female so now it's successfully been published to Google Merchant Center I can click the back button I still have an error on this one so view all I'll fix this really quick just to show you again yoga shorts so we're going to call it active wear active wear we'll go tell Google to ignore this age group adult female go ahead and click Save and publish alright so there's a few little minor errors I had to fix but now it's good to go so we can go over to our Google Merchant Center and once we're in the Merchant Center we can look at our products and we have a bunch of products here it's going to take a little bit of time before it officially gets approved so these are all waiting review right now but you can see they're pretty much ready to go and this item ID you're going to use that in the next lesson to be able to actually make the advertisements within Adwords so that's it for this lesson that's basically how you set up your feet it's not a hard process at all if you like this video then you're going to love my new e-commerce course the 25k ecommerce profit plant in it I teach you the strategies and techniques that I actually use to build my own successful e-commerce business we talked about how to set up a website an e-commerce site that actually makes sales then we talked about how to get traffic to that site and ultimately I give you the tips and techniques on how to make it be as profitable as possible we talked about things such as SEO Google Analytics everything you've heard about AdWords it's all in there this is really pretty much everything I know about e-commerce I put in this one course I was tired of people asking me how do I get traffic to my website or how do I build an e-commerce site and I wanted to just bundle it all up in one course when you buy the course you'll get free lifetime access to my private Facebook group and on top of that for the first hundred people to buy the course I'll give you a free one-on-one 30 minute consultation you can go to effective e-commerce comm or click up here now to buy the course and make sure that you get one of the free 30-minute one-on-one consultation sessions",
+  "id": "iYx10tvn7jU",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=googleshopping\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video I'm gonna show you how to set up your Google Merchant Center account but more importantly this is going to be your product listing ads feed and how to set it up the first step of which is to set up your your Merchant Center account. S"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "578",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-02-14",
+      "title": {
+        "simpleText": "How to Set Up The Product Listing Ads Feed For Google Shopping"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Set Up The Product Listing Ads Feed For Google Shopping",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.03",
+          "dur": "4.47",
+          "text": "in this video I'm gonna show you how to set\u00a0\nup your Google Merchant Center account but\u00a0\u00a0"
+        },
+        {
+          "start": "4.5",
+          "dur": "4.23",
+          "text": "more importantly this is going to be your product\u00a0\nlisting ads feed and how to set it up the first\u00a0\u00a0"
+        },
+        {
+          "start": "8.73",
+          "dur": "4.5",
+          "text": "step of which is to set up your your Merchant\u00a0\nCenter account so we'll click on I just googled\u00a0\u00a0"
+        },
+        {
+          "start": "13.23",
+          "dur": "9.24",
+          "text": "Merchant Center click on that click sign up\u00a0\nfrom here select our country and put United\u00a0\u00a0"
+        },
+        {
+          "start": "22.47",
+          "dur": "9.42",
+          "text": "States because that's where I'll locate it out\u00a0\nof asana yoga pants' website URL is going to be\u00a0\u00a0"
+        },
+        {
+          "start": "31.89",
+          "dur": "13.17",
+          "text": "awesome new yoga pants' calm on me go ahead and\u00a0\ncopy that put it in here put your name I'm gonna\u00a0\u00a0"
+        },
+        {
+          "start": "45.06",
+          "dur": "4.47",
+          "text": "unclick all this kind of stuff at a different\u00a0\ncontact for no we don't need all that just go\u00a0\u00a0"
+        },
+        {
+          "start": "49.53",
+          "dur": "8.04",
+          "text": "ahead and click that click yes continue you're\u00a0\ngoing to have to basically claim your URL and\u00a0\u00a0"
+        },
+        {
+          "start": "57.57",
+          "dur": "3.9",
+          "text": "the problem was I thought I could do it through\u00a0\nGoogle Analytics you cannot you have to do this\u00a0\u00a0"
+        },
+        {
+          "start": "61.47",
+          "dur": "5.94",
+          "text": "HTML file upload and to do that basically you\u00a0\ndownload this file and Shopify you're going to\u00a0\u00a0"
+        },
+        {
+          "start": "67.41",
+          "dur": "8.22",
+          "text": "go to your settings files upload it there so just\u00a0\nclick upload it'll give you this little URL take\u00a0\u00a0"
+        },
+        {
+          "start": "75.63",
+          "dur": "11.19",
+          "text": "that URL and then go to online store navigation\u00a0\nand then you our URL redirects you're going to\u00a0\u00a0"
+        },
+        {
+          "start": "86.82",
+          "dur": "10.62",
+          "text": "add a URL redirect paste that in there oops\u00a0\npaste paste this part in here from from this\u00a0\u00a0"
+        },
+        {
+          "start": "97.44",
+          "dur": "8.49",
+          "text": "and then the long thing that we had in that\u00a0\nlast slide you paste it in here add your URL\u00a0\u00a0"
+        },
+        {
+          "start": "105.93",
+          "dur": "7.56",
+          "text": "redirect I already did it I actually did it for\u00a0\na different different which Michalek account so\u00a0\u00a0"
+        },
+        {
+          "start": "113.49",
+          "dur": "5.85",
+          "text": "you can see it there so the next step after this\u00a0\nis actually getting your product feet and you can\u00a0\u00a0"
+        },
+        {
+          "start": "119.34",
+          "dur": "4.59",
+          "text": "see feeds here right now we don't have any feed\u00a0\nso let me show you how to do that so to do that\u00a0\u00a0"
+        },
+        {
+          "start": "123.93",
+          "dur": "4.89",
+          "text": "you're going to go back here we're going to go\u00a0\ndown to apps and depending on what platform you\u00a0\u00a0"
+        },
+        {
+          "start": "128.82",
+          "dur": "5.76",
+          "text": "want you're on it's at this stage Shopify is a\u00a0\nlittle bit different than a lot of the other ones\u00a0\u00a0"
+        },
+        {
+          "start": "134.58",
+          "dur": "9.39",
+          "text": "let's go ahead and visit Shopify app store search\u00a0\nI believe it's called the Google shopping up oops"
+        },
+        {
+          "start": "143.97",
+          "dur": "22.44",
+          "text": "the Google Shopping app will\u00a0\nclick on this click get stall app"
+        },
+        {
+          "start": "172.36",
+          "dur": "3.3",
+          "text": "at which point you're going to\u00a0\nclick sign into your Google account"
+        },
+        {
+          "start": "175.66",
+          "dur": "18.33",
+          "text": "let's go ahead I went ahead and signed in\u00a0\nand then just click allow then you're going\u00a0\u00a0"
+        },
+        {
+          "start": "193.99",
+          "dur": "6.15",
+          "text": "to get the number so let's say the account ID\u00a0\nnumber is right up here I'll go to type it in\u00a0\u00a0"
+        },
+        {
+          "start": "200.14",
+          "dur": "11.82",
+          "text": "one one zero eight three three zero five four\u00a0\ncopy that put it in here confirm your account"
+        },
+        {
+          "start": "219.18",
+          "dur": "5.97",
+          "text": "we're going to go to settings website\u00a0\nverification I believe that's already\u00a0\u00a0"
+        },
+        {
+          "start": "225.15",
+          "dur": "3.6",
+          "text": "done I already showed you how to do that\u00a0\nGoogle Analytics is easy way easiest way\u00a0\u00a0"
+        },
+        {
+          "start": "228.75",
+          "dur": "4.35",
+          "text": "if you don't have an account setup unit\u00a0\nor with instructions here so I'm going to\u00a0\u00a0"
+        },
+        {
+          "start": "233.1",
+          "dur": "8.34",
+          "text": "click test your domain the next step is after\u00a0\nyou've got that I had to fix something with\u00a0\u00a0"
+        },
+        {
+          "start": "241.44",
+          "dur": "5.1",
+          "text": "my domain settings but it's pretty easy to\u00a0\nfix next follow these instructions basically\u00a0\u00a0"
+        },
+        {
+          "start": "246.54",
+          "dur": "7.74",
+          "text": "and this is going to be creating the shipping\u00a0\nmethod and I'll go ahead and do this so we're\u00a0\u00a0"
+        },
+        {
+          "start": "254.28",
+          "dur": "4.02",
+          "text": "going to click plus shipping method I'm going\u00a0\nto call this free shipping because in my store\u00a0\u00a0"
+        },
+        {
+          "start": "258.3",
+          "dur": "3.81",
+          "text": "everything's going to be free shipping you'll\u00a0\nwant to match whatever let's say the transit\u00a0\u00a0"
+        },
+        {
+          "start": "262.11",
+          "dur": "8.97",
+          "text": "time is two to five days and zero dollars\u00a0\ngo ahead and click Save test shipping rates"
+        },
+        {
+          "start": "271.08",
+          "dur": "8.04",
+          "text": "alright it took a second to update\u00a0\nso choose a collection I'm going to\u00a0\u00a0"
+        },
+        {
+          "start": "279.12",
+          "dur": "4.29",
+          "text": "call it homepage or I could just do all\u00a0\nproducts maybe I'll do all products just\u00a0\u00a0"
+        },
+        {
+          "start": "283.41",
+          "dur": "6.9",
+          "text": "make it easier and then click publish so now\u00a0\nthe products are being published to Google"
+        },
+        {
+          "start": "290.31",
+          "dur": "8.82",
+          "text": "so this might happen to you so I'll show you\u00a0\nreally quick I I was stopped because I had\u00a0\u00a0"
+        },
+        {
+          "start": "299.13",
+          "dur": "3.84",
+          "text": "some errors so let's see what the errors are\u00a0\nand it's probably going to be if you haven't\u00a0\u00a0"
+        },
+        {
+          "start": "302.97",
+          "dur": "6.81",
+          "text": "done this before the error is in setting\u00a0\nup the product category so the Google and\u00a0\u00a0"
+        },
+        {
+          "start": "309.78",
+          "dur": "5.64",
+          "text": "the GTIN is missing but start with the\u00a0\nproduct category so let's say work out"
+        },
+        {
+          "start": "320.36",
+          "dur": "10.5",
+          "text": "clothing so we have a few different\u00a0\nones here we have clothing apparel\u00a0\u00a0"
+        },
+        {
+          "start": "330.86",
+          "dur": "6.42",
+          "text": "and accessories like active wear so this\u00a0\nis we're probably going to be around here\u00a0\u00a0"
+        },
+        {
+          "start": "337.28",
+          "dur": "19.38",
+          "text": "clothing active wear so maybe I'll even\u00a0\njust type in active wear let's try yoga"
+        },
+        {
+          "start": "356.66",
+          "dur": "7.71",
+          "text": "nope"
+        },
+        {
+          "start": "364.37",
+          "dur": "8.61",
+          "text": "basically you got to find what yours is so I\u00a0\u00a0"
+        },
+        {
+          "start": "372.98",
+          "dur": "3.51",
+          "text": "know it's going to be under probably\u00a0\nunder active wear if not maybe then"
+        },
+        {
+          "start": "386.04",
+          "dur": "5.04",
+          "text": "I'm just going to put it under the general\u00a0\ncategory of clothing activewear because\u00a0\u00a0"
+        },
+        {
+          "start": "391.08",
+          "dur": "6.39",
+          "text": "it doesn't really have a subcategory so then\u00a0\nI'd also click tell Google to ignore product\u00a0\u00a0"
+        },
+        {
+          "start": "397.47",
+          "dur": "8.16",
+          "text": "identifier unless your product does have\u00a0\na GTIN or a valid NPN then then you need\u00a0\u00a0"
+        },
+        {
+          "start": "405.63",
+          "dur": "3.87",
+          "text": "to put it in but mine doesn't because you\u00a0\nknow we're our own company we have our own\u00a0\u00a0"
+        },
+        {
+          "start": "409.5",
+          "dur": "5.73",
+          "text": "products see and one of the problems is only\u00a0\nthe first variant can be published to Google\u00a0\u00a0"
+        },
+        {
+          "start": "415.23",
+          "dur": "4.68",
+          "text": "Merchant Center so that's another problem with\u00a0\ndoing this feed the automatic way but I'll go\u00a0\u00a0"
+        },
+        {
+          "start": "419.91",
+          "dur": "4.38",
+          "text": "ahead and save and publish it's still I saw\u00a0\nan error on the other one so we can do that\u00a0\u00a0"
+        },
+        {
+          "start": "424.29",
+          "dur": "12.36",
+          "text": "we can fix that so there's some of the product\u00a0\ndetails well the age group say adult gender\u00a0\u00a0"
+        },
+        {
+          "start": "436.65",
+          "dur": "15",
+          "text": "female so now it's successfully been published\u00a0\nto Google Merchant Center I can click the back\u00a0\u00a0"
+        },
+        {
+          "start": "451.65",
+          "dur": "6",
+          "text": "button I still have an error on this one so\u00a0\nview all I'll fix this really quick just to\u00a0\u00a0"
+        },
+        {
+          "start": "457.65",
+          "dur": "13.8",
+          "text": "show you again yoga shorts so we're going\u00a0\nto call it active wear active wear we'll go\u00a0\u00a0"
+        },
+        {
+          "start": "471.45",
+          "dur": "8.46",
+          "text": "tell Google to ignore this age group adult\u00a0\nfemale go ahead and click Save and publish"
+        },
+        {
+          "start": "489.6",
+          "dur": "4.89",
+          "text": "alright so there's a few little minor errors I had\u00a0\nto fix but now it's good to go so we can go over\u00a0\u00a0"
+        },
+        {
+          "start": "494.49",
+          "dur": "5.4",
+          "text": "to our Google Merchant Center and once we're in\u00a0\nthe Merchant Center we can look at our products\u00a0\u00a0"
+        },
+        {
+          "start": "499.89",
+          "dur": "4.56",
+          "text": "and we have a bunch of products here it's going\u00a0\nto take a little bit of time before it officially\u00a0\u00a0"
+        },
+        {
+          "start": "504.45",
+          "dur": "4.71",
+          "text": "gets approved so these are all waiting review\u00a0\nright now but you can see they're pretty much\u00a0\u00a0"
+        },
+        {
+          "start": "509.16",
+          "dur": "4.62",
+          "text": "ready to go and this item ID you're going to use\u00a0\nthat in the next lesson to be able to actually\u00a0\u00a0"
+        },
+        {
+          "start": "513.78",
+          "dur": "4.65",
+          "text": "make the advertisements within Adwords so that's\u00a0\nit for this lesson that's basically how you set\u00a0\u00a0"
+        },
+        {
+          "start": "518.43",
+          "dur": "3.36",
+          "text": "up your feet it's not a hard process at all\u00a0\nif you like this video then you're going to\u00a0\u00a0"
+        },
+        {
+          "start": "521.79",
+          "dur": "5.43",
+          "text": "love my new e-commerce course the 25k ecommerce\u00a0\nprofit plant in it I teach you the strategies and\u00a0\u00a0"
+        },
+        {
+          "start": "527.22",
+          "dur": "4.71",
+          "text": "techniques that I actually use to build my own\u00a0\nsuccessful e-commerce business we talked about\u00a0\u00a0"
+        },
+        {
+          "start": "531.93",
+          "dur": "4.68",
+          "text": "how to set up a website an e-commerce site that\u00a0\nactually makes sales then we talked about how to\u00a0\u00a0"
+        },
+        {
+          "start": "536.61",
+          "dur": "3.99",
+          "text": "get traffic to that site and ultimately I give\u00a0\nyou the tips and techniques on how to make it\u00a0\u00a0"
+        },
+        {
+          "start": "540.6",
+          "dur": "4.86",
+          "text": "be as profitable as possible we talked about\u00a0\nthings such as SEO Google Analytics everything\u00a0\u00a0"
+        },
+        {
+          "start": "545.46",
+          "dur": "4.05",
+          "text": "you've heard about AdWords it's all in there\u00a0\nthis is really pretty much everything I know\u00a0\u00a0"
+        },
+        {
+          "start": "549.51",
+          "dur": "4.65",
+          "text": "about e-commerce I put in this one course I was\u00a0\ntired of people asking me how do I get traffic\u00a0\u00a0"
+        },
+        {
+          "start": "554.16",
+          "dur": "3.39",
+          "text": "to my website or how do I build an e-commerce\u00a0\nsite and I wanted to just bundle it all up in\u00a0\u00a0"
+        },
+        {
+          "start": "557.55",
+          "dur": "5.4",
+          "text": "one course when you buy the course you'll get free\u00a0\nlifetime access to my private Facebook group and\u00a0\u00a0"
+        },
+        {
+          "start": "562.95",
+          "dur": "4.17",
+          "text": "on top of that for the first hundred people to\u00a0\nbuy the course I'll give you a free one-on-one\u00a0\u00a0"
+        },
+        {
+          "start": "567.12",
+          "dur": "5.79",
+          "text": "30 minute consultation you can go to effective\u00a0\ne-commerce comm or click up here now to buy the\u00a0\u00a0"
+        },
+        {
+          "start": "572.91",
+          "dur": "4.65",
+          "text": "course and make sure that you get one of the\u00a0\nfree 30-minute one-on-one consultation sessions"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 9,
+      "title": "Set Up Your Your Merchant Center Account"
+    },
+    {
+      "start_time": 221,
+      "title": "Website Verification"
+    },
+    {
+      "start_time": 248,
+      "title": "Creating the Shipping Method"
+    },
+    {
+      "start_time": 304,
+      "title": "Setting Up the Product Category"
+    },
+    {
+      "start_time": 396,
+      "title": "Ignore Product Identifier"
+    }
+  ]
+}

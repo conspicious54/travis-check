@@ -1,0 +1,366 @@
+{
+  "text": "first thing we're gonna do is buy our hosting you need someone that's gonna host a WordPress website I'm gonna go with psych round I'll show you that in a second then you have to buy your domain name you can do that through SiteGround or you can do it through someone else I did it through namecheap.com after that you're gonna transfer your domain name over to SiteGround install WordPress and finalize all these setup personally I recommend buying hosting from SiteGround I've compared all the different hosting platforms and in my opinion psych round wins I'll put a link down below to the comparison video I did so you can go to effective e-commerce comm slash a site ground or you can click the links up here or down below I've got the hook up and this is the cheapest price you'll be able to find SiteGround for and by using this link I will give you a free 30-minute one-on-one consulting session just in case you have any questions on setting up WordPress alright so let's start the clock and let's get started so you're gonna go to that website click on WordPress hosting and let's click get started now honestly you can probably just go with the startup plan I'm gonna go with the go geek plan because I have a website that's gonna be having a lot of traffic and I want more than one website so the get the startup is good if you only have one website where these are both good if you want unlimited website so I'm gonna go ahead and do this but once again you can always upgrade later so to start up just go with the sort of plan let's go get plan you have the choice between registering a new domain or if you want to buy a domain from another place you'll save some money it's gonna cost sixteen dollars to register through SiteGround or you can say I already have a domain and register through GoDaddy or Namecheap I'm gonna put the website in that I want to have the WordPress hosting on and then click proceed finally you're gonna enter in all your account information here just like you would on any normal website and for the period it's up to you what you want to do you can go with the trial I don't recommend doing that it's you know you have to pay a setup fee do 12 months 24 months or 36 months it's once again it's really up to you how long you want to lock in that good rate for and I don't think you need the website now the rest of stuff is fine go ahead and click confirm and click pay now once you finish paying for saikhan you're gonna be directed to this page and to set it up you'll go to my accounts and click the launch a setup wizard now since I already have a domain name I'm gonna click I already have a domain name and type it in it's the passion product formula and then click start a new website and you can go with WordPress once you finish that you can go to my account you're gonna get your name servers these is Bay this is basically where you're gonna use to point your domain name to so I got two of them here now we're gonna go over Namecheap and if you haven't yet purchase your domain name at this point I already have a domain name I purchased otherwise I would just simply type in here search for it in checkout so I need to log in and then I'll go to my dashboard here and I'm gonna use this domain name the passion product formula so I'm gonna click on manage down here where it says name servers instead of the name cheap basic DNS we're gonna go custom DNS I'm just going to copy over this information click this little checkmark to save it it says it usually takes up to 48 hours for this to take effect but I find that a lot of times it's it's a lot quicker than that it can take up to 48 hours but sometimes it's even a few hours or even sooner than that you know with that you go back to the my accounts and you're gonna go to your cPanel so click go to cPanel scroll down to the WordPress installer go ahead and click on that install and I just go with the quick one usually to be honest and choose the domain name we're gonna go at the passion product formula this will be your admin username and admin password down here scroll down farther and you can click some of these if you want I don't really deal with that that often and that's it it's starting to it's starting to install right now that's it you're done you can go over to the administrator URL just so you can set up some things before you before you really check it out check it out too much but this is the back end you you officially have a site so let's take a look at what your site looks like at this point it's pretty terrible I'm quickly gonna show you how you can fix it up and then in the next video I do will go into an even more in-depth tutorial the first things you want to do is go over to appearance and then themes you can select different themes let's try a live preview of this theme for instance looks at least a little bit better I like I like the 20 2016 I think I feel like that's a good one as well so I'll just activate that just so you can see changes in real time this is what I use for my effective e-commerce website but also want to change this stuff the my blog my WordPress blog go to Settings General called passion product formula scroll down and click Save and just like that it's already taking shape in the next video I do all linked down below we'll do a complete tutorial on how to really up your WordPress game how to really get going and don't forget if you are gonna be creating a WordPress website go with SiteGround I have links up here or down below I also have the link comparing all the different ones so even if you do want to go with a different hosting platform I have links to pretty much all of them and I'm willing to give you and happy to give you that free 30-minute consultation session please like comment and subscribe down below and remember to enjoy the journey",
+  "id": "hinIrM3lPXs",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here:  https://start.travismarziani.com/?utm_source=youtube&utm_campaign=wordpressin4\n\nIf you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nThis video will be about setting up Wordpress in 5 minutes. I will take you through the different steps below:\n\nBuy Hosting\nThe first step that you need to do is to look for a site that is going to host a Wordpress website. I would personally go with SiteGround.\n\nGo to www.effectiveecommerce.com/siteground, find Wordpress Hosting and click Get Started. Choose from the different plans that would suit you. The StartUp plan is good if you only have one website while GrowBig and GoGeek are great if you have multiple websites. You can also upgrade your plan later on.\n\nBuy Domain Name\nAfter choosing your plan, you need to buy your domain name. You can use SiteGround or you can use other sites like Namecheap or GoDaddy. If you use another site to buy your domain name, enter the website in that you want to have the Wordpress hosting on and click proceed. After this, you need to enter your account information. For the period, you can choose how long you want to lock-in the site.\n\nTransfer Domain Name\nAfter paying, you will be directed to another page. Go to My Accounts and click Launch Setup Wizard. Type in the domain name and click continue. Select Start a new website and click Wordpress.\n\nOnce done, go to My Account and copy the Account DNS. Go to where you bought your domain name and log-in. In my case, I used Namecheap. Find the domain name that you will use and click Manage. Go to Nameservers and choose Custom DNS. Paste in the Account DNS from SiteGround.\n\nInstall Wordpress\nGo to My Accounts and click Go to cPanel. Scroll down to the Wordpress installer. Click Install. Type in your Domain Name, Admin Name, and Admin Password. You can also tick those other options that apply. After that, click Install.\n\nFinalize Set Up\nGo to the administrative URL. Here, you can make changes to your site like themes, For this, you can go to Appearance and then Themes. There are different selections you can choose from. You can also edit other things like Site Title in the backend."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "309",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2019-04-09",
+      "title": {
+        "simpleText": "How to Set Up WordPress in 4 Minutes"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Set Up WordPress in 4 Minutes",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.03",
+          "dur": "4.77",
+          "text": "first thing we're gonna do is buy our hosting\u00a0\nyou need someone that's gonna host a WordPress\u00a0\u00a0"
+        },
+        {
+          "start": "4.8",
+          "dur": "4.23",
+          "text": "website I'm gonna go with psych round I'll show\u00a0\nyou that in a second then you have to buy your\u00a0\u00a0"
+        },
+        {
+          "start": "9.03",
+          "dur": "3.99",
+          "text": "domain name you can do that through SiteGround\u00a0\nor you can do it through someone else I did it\u00a0\u00a0"
+        },
+        {
+          "start": "13.02",
+          "dur": "5.31",
+          "text": "through namecheap.com after that you're gonna\u00a0\ntransfer your domain name over to SiteGround\u00a0\u00a0"
+        },
+        {
+          "start": "18.33",
+          "dur": "6.18",
+          "text": "install WordPress and finalize all these setup\u00a0\npersonally I recommend buying hosting from\u00a0\u00a0"
+        },
+        {
+          "start": "24.51",
+          "dur": "4.86",
+          "text": "SiteGround I've compared all the different hosting\u00a0\nplatforms and in my opinion psych round wins I'll\u00a0\u00a0"
+        },
+        {
+          "start": "29.37",
+          "dur": "4.56",
+          "text": "put a link down below to the comparison video I\u00a0\ndid so you can go to effective e-commerce comm\u00a0\u00a0"
+        },
+        {
+          "start": "33.93",
+          "dur": "4.98",
+          "text": "slash a site ground or you can click the links up\u00a0\nhere or down below I've got the hook up and this\u00a0\u00a0"
+        },
+        {
+          "start": "38.91",
+          "dur": "3.48",
+          "text": "is the cheapest price you'll be able to find\u00a0\nSiteGround for and by using this link I will\u00a0\u00a0"
+        },
+        {
+          "start": "42.39",
+          "dur": "4.35",
+          "text": "give you a free 30-minute one-on-one consulting\u00a0\nsession just in case you have any questions on\u00a0\u00a0"
+        },
+        {
+          "start": "46.74",
+          "dur": "4.65",
+          "text": "setting up WordPress alright so let's start the\u00a0\nclock and let's get started so you're gonna go to\u00a0\u00a0"
+        },
+        {
+          "start": "51.39",
+          "dur": "5.85",
+          "text": "that website click on WordPress hosting and let's\u00a0\nclick get started now honestly you can probably\u00a0\u00a0"
+        },
+        {
+          "start": "57.24",
+          "dur": "4.8",
+          "text": "just go with the startup plan I'm gonna go with\u00a0\nthe go geek plan because I have a website that's\u00a0\u00a0"
+        },
+        {
+          "start": "62.04",
+          "dur": "4.68",
+          "text": "gonna be having a lot of traffic and I want more\u00a0\nthan one website so the get the startup is good\u00a0\u00a0"
+        },
+        {
+          "start": "66.72",
+          "dur": "4.62",
+          "text": "if you only have one website where these are\u00a0\nboth good if you want unlimited website so I'm\u00a0\u00a0"
+        },
+        {
+          "start": "71.34",
+          "dur": "3.78",
+          "text": "gonna go ahead and do this but once again you\u00a0\ncan always upgrade later so to start up just go\u00a0\u00a0"
+        },
+        {
+          "start": "75.12",
+          "dur": "4.35",
+          "text": "with the sort of plan let's go get plan you have\u00a0\nthe choice between registering a new domain or\u00a0\u00a0"
+        },
+        {
+          "start": "79.47",
+          "dur": "4.11",
+          "text": "if you want to buy a domain from another place\u00a0\nyou'll save some money it's gonna cost sixteen\u00a0\u00a0"
+        },
+        {
+          "start": "83.58",
+          "dur": "4.86",
+          "text": "dollars to register through SiteGround or you can\u00a0\nsay I already have a domain and register through\u00a0\u00a0"
+        },
+        {
+          "start": "88.44",
+          "dur": "5.49",
+          "text": "GoDaddy or Namecheap I'm gonna put the website\u00a0\nin that I want to have the WordPress hosting on\u00a0\u00a0"
+        },
+        {
+          "start": "95.62",
+          "dur": "3.9",
+          "text": "and then click proceed finally you're gonna\u00a0\nenter in all your account information here\u00a0\u00a0"
+        },
+        {
+          "start": "99.52",
+          "dur": "6.6",
+          "text": "just like you would on any normal website and for\u00a0\nthe period it's up to you what you want to do you\u00a0\u00a0"
+        },
+        {
+          "start": "106.12",
+          "dur": "4.59",
+          "text": "can go with the trial I don't recommend doing\u00a0\nthat it's you know you have to pay a setup fee\u00a0\u00a0"
+        },
+        {
+          "start": "110.71",
+          "dur": "5.43",
+          "text": "do 12 months 24 months or 36 months it's once\u00a0\nagain it's really up to you how long you want\u00a0\u00a0"
+        },
+        {
+          "start": "116.14",
+          "dur": "6.39",
+          "text": "to lock in that good rate for and I don't think\u00a0\nyou need the website now the rest of stuff is\u00a0\u00a0"
+        },
+        {
+          "start": "122.53",
+          "dur": "4.29",
+          "text": "fine go ahead and click confirm and click pay\u00a0\nnow once you finish paying for saikhan you're\u00a0\u00a0"
+        },
+        {
+          "start": "126.82",
+          "dur": "6.54",
+          "text": "gonna be directed to this page and to set it up\u00a0\nyou'll go to my accounts and click the launch\u00a0\u00a0"
+        },
+        {
+          "start": "133.36",
+          "dur": "4.38",
+          "text": "a setup wizard now since I already have a domain\u00a0\nname I'm gonna click I already have a domain name\u00a0\u00a0"
+        },
+        {
+          "start": "137.74",
+          "dur": "7.8",
+          "text": "and type it in it's the passion product formula\u00a0\nand then click start a new website and you can\u00a0\u00a0"
+        },
+        {
+          "start": "145.54",
+          "dur": "5.13",
+          "text": "go with WordPress once you finish that you can go\u00a0\nto my account you're gonna get your name servers\u00a0\u00a0"
+        },
+        {
+          "start": "150.67",
+          "dur": "5.76",
+          "text": "these is Bay this is basically where you're gonna\u00a0\nuse to point your domain name to so I got two of\u00a0\u00a0"
+        },
+        {
+          "start": "156.43",
+          "dur": "4.5",
+          "text": "them here now we're gonna go over Namecheap and if\u00a0\nyou haven't yet purchase your domain name at this\u00a0\u00a0"
+        },
+        {
+          "start": "160.93",
+          "dur": "3.87",
+          "text": "point I already have a domain name I purchased\u00a0\notherwise I would just simply type in here search\u00a0\u00a0"
+        },
+        {
+          "start": "164.8",
+          "dur": "7.17",
+          "text": "for it in checkout so I need to log in and then\u00a0\nI'll go to my dashboard here and I'm gonna use\u00a0\u00a0"
+        },
+        {
+          "start": "171.97",
+          "dur": "4.08",
+          "text": "this domain name the passion product formula so\u00a0\nI'm gonna click on manage down here where it says\u00a0\u00a0"
+        },
+        {
+          "start": "176.05",
+          "dur": "4.59",
+          "text": "name servers instead of the name cheap basic DNS\u00a0\nwe're gonna go custom DNS I'm just going to copy\u00a0\u00a0"
+        },
+        {
+          "start": "180.64",
+          "dur": "5.85",
+          "text": "over this information click this little checkmark\u00a0\nto save it it says it usually takes up to 48 hours\u00a0\u00a0"
+        },
+        {
+          "start": "186.49",
+          "dur": "4.14",
+          "text": "for this to take effect but I find that a lot of\u00a0\ntimes it's it's a lot quicker than that it can\u00a0\u00a0"
+        },
+        {
+          "start": "190.63",
+          "dur": "4.5",
+          "text": "take up to 48 hours but sometimes it's even a few\u00a0\nhours or even sooner than that you know with that\u00a0\u00a0"
+        },
+        {
+          "start": "195.13",
+          "dur": "5.28",
+          "text": "you go back to the my accounts and you're gonna\u00a0\ngo to your cPanel so click go to cPanel scroll\u00a0\u00a0"
+        },
+        {
+          "start": "200.41",
+          "dur": "5.49",
+          "text": "down to the WordPress installer go ahead and click\u00a0\non that install and I just go with the quick one\u00a0\u00a0"
+        },
+        {
+          "start": "205.9",
+          "dur": "4.44",
+          "text": "usually to be honest and choose the domain name\u00a0\nwe're gonna go at the passion product formula this\u00a0\u00a0"
+        },
+        {
+          "start": "210.34",
+          "dur": "6.48",
+          "text": "will be your admin username and admin password\u00a0\ndown here scroll down farther and you can click\u00a0\u00a0"
+        },
+        {
+          "start": "216.82",
+          "dur": "5.13",
+          "text": "some of these if you want I don't really deal\u00a0\nwith that that often and that's it it's starting\u00a0\u00a0"
+        },
+        {
+          "start": "221.95",
+          "dur": "6.1",
+          "text": "to it's starting to install right now that's it\u00a0\nyou're done you can go over to the administrator\u00a0\u00a0"
+        },
+        {
+          "start": "228.05",
+          "dur": "4.74",
+          "text": "URL just so you can set up some things before you\u00a0\nbefore you really check it out check it out too\u00a0\u00a0"
+        },
+        {
+          "start": "232.79",
+          "dur": "5.73",
+          "text": "much but this is the back end you you officially\u00a0\nhave a site so let's take a look at what your site\u00a0\u00a0"
+        },
+        {
+          "start": "238.52",
+          "dur": "4.2",
+          "text": "looks like at this point it's pretty terrible\u00a0\nI'm quickly gonna show you how you can fix it\u00a0\u00a0"
+        },
+        {
+          "start": "242.72",
+          "dur": "4.8",
+          "text": "up and then in the next video I do will go into\u00a0\nan even more in-depth tutorial the first things\u00a0\u00a0"
+        },
+        {
+          "start": "247.52",
+          "dur": "5.1",
+          "text": "you want to do is go over to appearance and then\u00a0\nthemes you can select different themes let's try\u00a0\u00a0"
+        },
+        {
+          "start": "252.62",
+          "dur": "6.45",
+          "text": "a live preview of this theme for instance looks\u00a0\nat least a little bit better I like I like the\u00a0\u00a0"
+        },
+        {
+          "start": "259.07",
+          "dur": "4.83",
+          "text": "20 2016 I think I feel like that's a good one as\u00a0\nwell so I'll just activate that just so you can\u00a0\u00a0"
+        },
+        {
+          "start": "263.9",
+          "dur": "5.01",
+          "text": "see changes in real time this is what I use for\u00a0\nmy effective e-commerce website but also want to\u00a0\u00a0"
+        },
+        {
+          "start": "268.91",
+          "dur": "6.96",
+          "text": "change this stuff the my blog my WordPress blog\u00a0\ngo to Settings General called passion product\u00a0\u00a0"
+        },
+        {
+          "start": "275.87",
+          "dur": "5.58",
+          "text": "formula scroll down and click Save and just like\u00a0\nthat it's already taking shape in the next video\u00a0\u00a0"
+        },
+        {
+          "start": "281.45",
+          "dur": "4.74",
+          "text": "I do all linked down below we'll do a complete\u00a0\ntutorial on how to really up your WordPress game\u00a0\u00a0"
+        },
+        {
+          "start": "286.19",
+          "dur": "4.92",
+          "text": "how to really get going and don't forget if you\u00a0\nare gonna be creating a WordPress website go with\u00a0\u00a0"
+        },
+        {
+          "start": "291.11",
+          "dur": "4.11",
+          "text": "SiteGround I have links up here or down below I\u00a0\nalso have the link comparing all the different\u00a0\u00a0"
+        },
+        {
+          "start": "295.22",
+          "dur": "5.16",
+          "text": "ones so even if you do want to go with a different\u00a0\nhosting platform I have links to pretty much all\u00a0\u00a0"
+        },
+        {
+          "start": "300.38",
+          "dur": "3.93",
+          "text": "of them and I'm willing to give you and happy\u00a0\nto give you that free 30-minute consultation\u00a0\u00a0"
+        },
+        {
+          "start": "304.31",
+          "dur": "4.62",
+          "text": "session please like comment and subscribe\u00a0\ndown below and remember to enjoy the journey"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 54,
+      "title": "Buy Hosting"
+    },
+    {
+      "start_time": 79,
+      "title": "Buy a Domain Name"
+    },
+    {
+      "start_time": 136,
+      "title": "Transfer Domain Name"
+    },
+    {
+      "start_time": 203,
+      "title": "Install Wordpress"
+    },
+    {
+      "start_time": 245,
+      "title": "Finalize Set Up"
+    }
+  ]
+}

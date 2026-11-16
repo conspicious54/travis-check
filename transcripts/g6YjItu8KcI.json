@@ -1,0 +1,640 @@
+{
+  "text": "in this video i'm going to show you three ways to find negative keywords for your adwords campaign and this is a crucial step a lot of people forget about this step a lot of people don't add any negative keywords to their campaigns which is just a big mistake and this video this is actually an example from the adwords and product listing ads course that i just launched you can click up here to find out more information or down below but let's get right into it so the three different techniques i'm going to show you step by step how to use all these i'm going to do a little screen share here in just a second i'll show you how to use all these and the three different techniques are number one uber suggest number two the keyword planner and number three is actually using your own data actually reviewing your campaigns and this is number three is the most powerful way i'd say number two is the most common way most people know about number two and then number one uber suggests is probably my favorite way if you want to find a lot of negative keywords before you spend a dollar ubersuggest is the best and the keyword planner is number two but number three option actually finding negative keywords from your own data which i'll show you how to do is it's extremely powerful in the sense that you're you've you can guarantee that you're wasting money on these and it's a good way to make sure you're not wasting any more money and i'm gonna show you how to do all three of these in this video the first way to find negative keywords in one of my favorite ways is ubersuggest and this is a real like nice trick you can just google ubersuggest or go to ubersuggest.io this is actually different version of ubersuggest than i used in the past so let me show you what it does if you type in nutbutter basically what it's doing is it's scraping google for this information let me show you so if you type in nut butter into google you'll see the most commonly searched for things type in the letter a you'll see all the most commonly typed in things with the with an a coming afterwards b c d and it takes all that data and it gives it to you in a very convenient form so we see here abc abc butter about peanut butter um all natural peanut butter but this isn't exactly what i wanted oh okay it's because i had the google keyword planner also checked let's do it without that all right almond nut butter one kilogram so i start finding some negative keywords and you can click this next to it because almond for me doesn't describe my product at all um best nut butter 2015 i'd say maybe the 2015 would be blendtec because i i don't have anything to do with blendtec people looking for blendtec nut butter jar are probably looking for recipes or something like that butternut 5150 so one thing i might do is make an exact or make a phrase match of butternut a negative keyword because anyone typing in the word butter nut is looking for something different than nut butter butternut this this curb beast whatever butternut squash um i'd probably use butternut as a negative keyword let's see what else we have here i mean i could just go on and on and once you're done once you've clicked as many as you can and there's a few different pages what you can do is export to csv let me show you what'll come up so you'll get this information here you can go through and you can just delete everything except for the things one kilogram actually would also be a negative keyword so for me 2015 i don't that's a negative keyword blendtec that's a negative keyword butternut is a negative keyword phrase and then this zerban teen that's oops butternut and squash i'll make both those a um negative keyword and ultimately you can save this file and use it and add it to your adwords the next thing we're going to look at is the google adwords keyword planner so go ahead and log in here and once you're logged in you'll see the the keyword planner up in the top right go up to this tools and then keyword planner you'll see it here so this is one of the more common ways that people find negative keywords and i think it's good it'll help you find things you never would have thought about let's go start over i just go search for new keywords nut butter get ideas and right off the bat you can start adding them over here so almond butter peanut butter um organic is not a keyword i use cashew butter is good maker so that's one just go through here and find everything to me that's irrelevant high protein peanut butter because people looking up for protein that's not good for me because i don't do protein it's a healthy fat nut butter not a protein nut butter and then eventually once you get all of them you'll do the same process download it save the file go through here got the keyword right here and i already have almond but i'll just do it again peanut that's one uh organic because it's technically not currently an organic product maker if someone looks up nut butter maker i don't want them to show it to me uh protein if someone's typing in protein i don't want them to show my ad and so i go through and obviously there's a lot more data that i can sift through here but i'd find all the matching things the last way to get negative keywords and by far the most powerful one is through the data that you've gathered by running your adwords so once you've run adwords for a little while you're going to come in here you're going to go to acquisition you're going to go to adwords and you're gonna go to search queries and what this does is it says what the search query was that triggered your ad um and you're gonna go down to the bottom and say show rows 5 000 you know 5 000 rows and this is old data for me so i'm not i don't mind showing it to you guys because it was from a long time ago 2015 actually and what you'll do is you'll export this data export it you can do it to a google sheet but i just like doing excel csv or excel file okay then the next thing i do is i go over to pages per session and go z to a oh no a to z sorry and i look at what keywords people just come to the website and bounce immediately and you can see those are keywords that i'm not converting for so all these things were search queries that made me no money so i want to see if they're helpful so for instance plain anyone searching for plain booty shorts that might be okay but let's say minnesota i don't sell minnesota i don't sell uh like i don't have a store in minnesota and i definitely don't have a calendar so what i like to do is i go in here and i delete this and so to me minnesota is a negative keyword 2015's a negative keyword calendar is a negative keyword all those dance is good uh oops yeah 2015. oh it goes over there ballet skirt i think that's okay jays if someone's typing in anything to do with js i don't sell anything related to jays uh flowing skirt i guess that's okay so i delete everything that's okay and i'm left with eventually just the words that i want to add to my negative keyword list so let's see all colors in florida so you see um and i don't sell harem pants so in florida someone's typing in specifically looking for dance for stores in florida i don't want to show it to them i want to show my ad to them so anyways eventually i would just narrow it down to the data that is negative keyword so let's just say hypothetically it was only these ones and then i take this data and i put it into the negative keywords in adwords last thing i just want to quickly show you is you go into adwords you can click on whatever your campaign is and how to actually get your negative keywords in there so click on campaign and then you're going to go to keywords and then i'm going to go to negative keywords and i already got a ton of negative keywords in here but i'd add more and all you have to do is open up those excel files that we saved and obviously this one for instance was for dance wear but i could copy it and paste it in there and then the other one i had this one copy it paste it in there and then just hit save and it'll add it to your negative keywords so those are the best three ways to find negative keywords this is one of the many mistakes i see people making with adwords and with product listing ads and in fact if you're running product listing ads negative keywords is the most important thing you need to be doing and it's the number one mistake i see people making with their product listing ads so the reason i'm talking about this is because i actually just launched the adwords and product listing ads course up here you can click up here or there's also a link down below and it's step by step a to z it's the exact course that i wish i would have had when i was starting adwords and you know what this course isn't for everyone there's some people watching this video that want to make the mistakes on their own struggle and learn it on your own and that's okay that's how i was when i was starting but i wish if i could go back i would have told myself just spend a little bit of money on a course and you'll you won't waste the money on adwords so if you're serious about adwords and you're serious about learning how to make money with adwords check out the course learn from people learn from me someone that's already done it and i've made a few million dollars of revenue using adwords so anyways the links are up here you can watch it and it goes into detail there's a little video on the course about exactly what's in the course but if you haven't yet make sure you click that subscribe button i also do have a free you can click up here as well for the link and down below i have an adwords success pack and so if you're looking for the free option that's fine you can click up here or down below like i said the paid course is just for the accelerated if you're really looking to learn this material as fast as possible the adwords uh checklist adwords success pack includes an adwords checklist it includes a checklist for product listing ads it includes basically everything you need to do to get up and running with adwords fairly fast the course just goes into more detail anyways make sure you click subscribe and if you have any questions please leave it in the comments down below i'm happy to answer any of your questions",
+  "id": "g6YjItu8KcI",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=negativekeywords\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video I'm gonna show you three ways to find negative keywords for your AdWords campaign and this is a crucial step a lot of people\nforget about this step a lot of people don't add any negative keywords to their campaigns which is just a big mistake and this video this is actually an example from the AdWords and product listing ads course that I just launched you can click up here to find out more information or down below but let's get right into it."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "694",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2018-03-07",
+      "title": {
+        "simpleText": "How to Find Negative Keywords in Adwords"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Find Negative Keywords in Adwords",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.16",
+          "dur": "5.12",
+          "text": "in this video i'm going to show you three ways to\u00a0\nfind negative keywords for your adwords campaign\u00a0\u00a0"
+        },
+        {
+          "start": "5.28",
+          "dur": "4.96",
+          "text": "and this is a crucial step a lot of people\u00a0\nforget about this step a lot of people don't add\u00a0\u00a0"
+        },
+        {
+          "start": "10.24",
+          "dur": "7.44",
+          "text": "any negative keywords to their campaigns which is\u00a0\njust a big mistake and this video this is actually\u00a0\u00a0"
+        },
+        {
+          "start": "17.68",
+          "dur": "4.72",
+          "text": "an example from the adwords and product listing\u00a0\nads course that i just launched you can click\u00a0\u00a0"
+        },
+        {
+          "start": "22.4",
+          "dur": "4.88",
+          "text": "up here to find out more information or down below\u00a0\nbut let's get right into it so the three different\u00a0\u00a0"
+        },
+        {
+          "start": "27.28",
+          "dur": "4",
+          "text": "techniques i'm going to show you step by step how\u00a0\nto use all these i'm going to do a little screen\u00a0\u00a0"
+        },
+        {
+          "start": "31.28",
+          "dur": "4.32",
+          "text": "share here in just a second i'll show you how to\u00a0\nuse all these and the three different techniques\u00a0\u00a0"
+        },
+        {
+          "start": "35.6",
+          "dur": "7.28",
+          "text": "are number one uber suggest number two the keyword\u00a0\nplanner and number three is actually using your\u00a0\u00a0"
+        },
+        {
+          "start": "42.88",
+          "dur": "5.04",
+          "text": "own data actually reviewing your campaigns and\u00a0\nthis is number three is the most powerful way\u00a0\u00a0"
+        },
+        {
+          "start": "47.92",
+          "dur": "3.84",
+          "text": "i'd say number two is the most common way most\u00a0\npeople know about number two and then number\u00a0\u00a0"
+        },
+        {
+          "start": "51.76",
+          "dur": "4.48",
+          "text": "one uber suggests is probably my favorite way\u00a0\nif you want to find a lot of negative keywords\u00a0\u00a0"
+        },
+        {
+          "start": "56.24",
+          "dur": "6.32",
+          "text": "before you spend a dollar ubersuggest is the best\u00a0\nand the keyword planner is number two but number\u00a0\u00a0"
+        },
+        {
+          "start": "62.56",
+          "dur": "3.76",
+          "text": "three option actually finding negative keywords\u00a0\nfrom your own data which i'll show you how to do\u00a0\u00a0"
+        },
+        {
+          "start": "67.44",
+          "dur": "4.56",
+          "text": "is it's extremely powerful in the sense that\u00a0\nyou're you've you can guarantee that you're\u00a0\u00a0"
+        },
+        {
+          "start": "72",
+          "dur": "3.6",
+          "text": "wasting money on these and it's a good way to\u00a0\nmake sure you're not wasting any more money and\u00a0\u00a0"
+        },
+        {
+          "start": "75.6",
+          "dur": "4.72",
+          "text": "i'm gonna show you how to do all three of these in\u00a0\nthis video the first way to find negative keywords\u00a0\u00a0"
+        },
+        {
+          "start": "80.32",
+          "dur": "4.72",
+          "text": "in one of my favorite ways is ubersuggest and\u00a0\nthis is a real like nice trick you can just\u00a0\u00a0"
+        },
+        {
+          "start": "85.04",
+          "dur": "5.92",
+          "text": "google ubersuggest or go to ubersuggest.io this\u00a0\nis actually different version of ubersuggest than\u00a0\u00a0"
+        },
+        {
+          "start": "90.96",
+          "dur": "7.12",
+          "text": "i used in the past so let me show you what it does\u00a0\nif you type in nutbutter basically what it's doing\u00a0\u00a0"
+        },
+        {
+          "start": "98.08",
+          "dur": "5.44",
+          "text": "is it's scraping google for this information\u00a0\nlet me show you so if you type in nut butter\u00a0\u00a0"
+        },
+        {
+          "start": "103.52",
+          "dur": "4.8",
+          "text": "into google you'll see the most commonly\u00a0\nsearched for things type in the letter a\u00a0\u00a0"
+        },
+        {
+          "start": "108.32",
+          "dur": "6.24",
+          "text": "you'll see all the most commonly typed in\u00a0\nthings with the with an a coming afterwards b c\u00a0\u00a0"
+        },
+        {
+          "start": "115.44",
+          "dur": "6.4",
+          "text": "d and it takes all that data and it gives it to\u00a0\nyou in a very convenient form so we see here abc\u00a0\u00a0"
+        },
+        {
+          "start": "122.48",
+          "dur": "8.24",
+          "text": "abc butter about peanut butter um all natural\u00a0\npeanut butter but this isn't exactly what i wanted\u00a0\u00a0"
+        },
+        {
+          "start": "132.4",
+          "dur": "5.6",
+          "text": "oh okay it's because i had the google keyword\u00a0\nplanner also checked let's do it without that all\u00a0\u00a0"
+        },
+        {
+          "start": "138",
+          "dur": "5.04",
+          "text": "right almond nut butter one kilogram so i start\u00a0\nfinding some negative keywords and you can click\u00a0\u00a0"
+        },
+        {
+          "start": "143.04",
+          "dur": "6.64",
+          "text": "this next to it because almond for me doesn't\u00a0\ndescribe my product at all um best nut butter 2015\u00a0\u00a0"
+        },
+        {
+          "start": "151.12",
+          "dur": "7.68",
+          "text": "i'd say maybe the 2015 would be blendtec because\u00a0\ni i don't have anything to do with blendtec\u00a0\u00a0"
+        },
+        {
+          "start": "158.8",
+          "dur": "5.28",
+          "text": "people looking for blendtec nut butter jar are\u00a0\nprobably looking for recipes or something like\u00a0\u00a0"
+        },
+        {
+          "start": "164.08",
+          "dur": "8.96",
+          "text": "that butternut 5150 so one thing i might do is\u00a0\nmake an exact or make a phrase match of butternut\u00a0\u00a0"
+        },
+        {
+          "start": "173.92",
+          "dur": "4",
+          "text": "a negative keyword because\u00a0\nanyone typing in the word butter\u00a0\u00a0"
+        },
+        {
+          "start": "177.92",
+          "dur": "2.96",
+          "text": "nut is looking for something\u00a0\ndifferent than nut butter"
+        },
+        {
+          "start": "183.2",
+          "dur": "4",
+          "text": "butternut this this curb beast\u00a0\nwhatever butternut squash\u00a0\u00a0"
+        },
+        {
+          "start": "187.76",
+          "dur": "4.16",
+          "text": "um i'd probably use butternut as a negative\u00a0\nkeyword let's see what else we have here"
+        },
+        {
+          "start": "195.68",
+          "dur": "4.16",
+          "text": "i mean i could just go on and on and once you're\u00a0\ndone once you've clicked as many as you can and\u00a0\u00a0"
+        },
+        {
+          "start": "199.84",
+          "dur": "5.52",
+          "text": "there's a few different pages what you can do\u00a0\nis export to csv let me show you what'll come up"
+        },
+        {
+          "start": "208.24",
+          "dur": "5.28",
+          "text": "so you'll get this information here you\u00a0\ncan go through and you can just delete\u00a0\u00a0"
+        },
+        {
+          "start": "213.52",
+          "dur": "5.28",
+          "text": "everything except for the things one kilogram\u00a0\nactually would also be a negative keyword\u00a0\u00a0"
+        },
+        {
+          "start": "218.8",
+          "dur": "7.52",
+          "text": "so for me 2015 i don't that's a negative keyword\u00a0\nblendtec that's a negative keyword butternut"
+        },
+        {
+          "start": "228.96",
+          "dur": "8",
+          "text": "is a negative keyword phrase and\u00a0\nthen this zerban teen that's oops"
+        },
+        {
+          "start": "239.6",
+          "dur": "5.04",
+          "text": "butternut and squash i'll make both those\u00a0\na um negative keyword and ultimately you\u00a0\u00a0"
+        },
+        {
+          "start": "244.64",
+          "dur": "5.84",
+          "text": "can save this file and use it and add it to\u00a0\nyour adwords the next thing we're going to\u00a0\u00a0"
+        },
+        {
+          "start": "250.48",
+          "dur": "4.8",
+          "text": "look at is the google adwords keyword\u00a0\nplanner so go ahead and log in here"
+        },
+        {
+          "start": "263.84",
+          "dur": "5.12",
+          "text": "and once you're logged in you'll see the\u00a0\nthe keyword planner up in the top right"
+        },
+        {
+          "start": "275.12",
+          "dur": "6.48",
+          "text": "go up to this tools and then keyword planner\u00a0\nyou'll see it here so this is one of the more\u00a0\u00a0"
+        },
+        {
+          "start": "281.6",
+          "dur": "4.48",
+          "text": "common ways that people find negative keywords\u00a0\nand i think it's good it'll help you find things\u00a0\u00a0"
+        },
+        {
+          "start": "286.08",
+          "dur": "6.96",
+          "text": "you never would have thought about let's go start\u00a0\nover i just go search for new keywords nut butter"
+        },
+        {
+          "start": "295.12",
+          "dur": "0.72",
+          "text": "get ideas"
+        },
+        {
+          "start": "299.2",
+          "dur": "4",
+          "text": "and right off the bat you can start\u00a0\nadding them over here so almond butter\u00a0\u00a0"
+        },
+        {
+          "start": "303.2",
+          "dur": "6.64",
+          "text": "peanut butter um organic is not a\u00a0\nkeyword i use cashew butter is good\u00a0\u00a0"
+        },
+        {
+          "start": "310.88",
+          "dur": "5.2",
+          "text": "maker so that's one just go through here\u00a0\nand find everything to me that's irrelevant\u00a0\u00a0"
+        },
+        {
+          "start": "316.08",
+          "dur": "4.56",
+          "text": "high protein peanut butter because people\u00a0\nlooking up for protein that's not good for\u00a0\u00a0"
+        },
+        {
+          "start": "320.64",
+          "dur": "5.12",
+          "text": "me because i don't do protein it's a healthy\u00a0\nfat nut butter not a protein nut butter and\u00a0\u00a0"
+        },
+        {
+          "start": "325.76",
+          "dur": "5.12",
+          "text": "then eventually once you get all of them you'll\u00a0\ndo the same process download it save the file"
+        },
+        {
+          "start": "334.08",
+          "dur": "4.72",
+          "text": "go through here got the keyword\u00a0\nright here and i already have\u00a0\u00a0"
+        },
+        {
+          "start": "338.8",
+          "dur": "3.2",
+          "text": "almond but i'll just do it again peanut that's one"
+        },
+        {
+          "start": "345.28",
+          "dur": "6.56",
+          "text": "uh organic because it's technically not currently\u00a0\nan organic product maker if someone looks up nut\u00a0\u00a0"
+        },
+        {
+          "start": "351.84",
+          "dur": "5.2",
+          "text": "butter maker i don't want them to show it to me\u00a0\nuh protein if someone's typing in protein i don't\u00a0\u00a0"
+        },
+        {
+          "start": "357.04",
+          "dur": "4.8",
+          "text": "want them to show my ad and so i go through and\u00a0\nobviously there's a lot more data that i can sift\u00a0\u00a0"
+        },
+        {
+          "start": "361.84",
+          "dur": "6.96",
+          "text": "through here but i'd find all the matching things\u00a0\nthe last way to get negative keywords and by far\u00a0\u00a0"
+        },
+        {
+          "start": "368.8",
+          "dur": "4.56",
+          "text": "the most powerful one is through the data that\u00a0\nyou've gathered by running your adwords so once\u00a0\u00a0"
+        },
+        {
+          "start": "373.36",
+          "dur": "4.08",
+          "text": "you've run adwords for a little while you're going\u00a0\nto come in here you're going to go to acquisition\u00a0\u00a0"
+        },
+        {
+          "start": "378.16",
+          "dur": "3.76",
+          "text": "you're going to go to adwords and\u00a0\nyou're gonna go to search queries\u00a0\u00a0"
+        },
+        {
+          "start": "383.84",
+          "dur": "6.56",
+          "text": "and what this does is it says what the search\u00a0\nquery was that triggered your ad um and you're\u00a0\u00a0"
+        },
+        {
+          "start": "390.4",
+          "dur": "6.56",
+          "text": "gonna go down to the bottom and say show rows\u00a0\n5 000 you know 5 000 rows and this is old data\u00a0\u00a0"
+        },
+        {
+          "start": "396.96",
+          "dur": "5.04",
+          "text": "for me so i'm not i don't mind showing it to\u00a0\nyou guys because it was from a long time ago"
+        },
+        {
+          "start": "405.44",
+          "dur": "4.96",
+          "text": "2015 actually and what you'll\u00a0\ndo is you'll export this data\u00a0\u00a0"
+        },
+        {
+          "start": "410.96",
+          "dur": "5.76",
+          "text": "export it you can do it to a google sheet\u00a0\nbut i just like doing excel csv or excel file"
+        },
+        {
+          "start": "420.32",
+          "dur": "6.48",
+          "text": "okay then the next thing i do is i go over to\u00a0\npages per session and go z to a oh no a to z sorry\u00a0\u00a0"
+        },
+        {
+          "start": "428.64",
+          "dur": "6.32",
+          "text": "and i look at what keywords people just come to\u00a0\nthe website and bounce immediately and you can see\u00a0\u00a0"
+        },
+        {
+          "start": "434.96",
+          "dur": "4.88",
+          "text": "those are keywords that i'm not converting for so\u00a0\nall these things were search queries that made me\u00a0\u00a0"
+        },
+        {
+          "start": "439.84",
+          "dur": "6.96",
+          "text": "no money so i want to see if they're helpful so\u00a0\nfor instance plain anyone searching for plain\u00a0\u00a0"
+        },
+        {
+          "start": "446.8",
+          "dur": "6.4",
+          "text": "booty shorts that might be okay but let's say\u00a0\nminnesota i don't sell minnesota i don't sell\u00a0\u00a0"
+        },
+        {
+          "start": "453.2",
+          "dur": "5.6",
+          "text": "uh like i don't have a store in minnesota and\u00a0\ni definitely don't have a calendar so what i\u00a0\u00a0"
+        },
+        {
+          "start": "458.8",
+          "dur": "6.08",
+          "text": "like to do is i go in here and i delete this\u00a0\nand so to me minnesota is a negative keyword\u00a0\u00a0"
+        },
+        {
+          "start": "464.88",
+          "dur": "9.68",
+          "text": "2015's a negative keyword calendar is a negative\u00a0\nkeyword all those dance is good uh oops yeah 2015."
+        },
+        {
+          "start": "477.52",
+          "dur": "3.68",
+          "text": "oh it goes over there ballet\u00a0\nskirt i think that's okay\u00a0\u00a0"
+        },
+        {
+          "start": "482.4",
+          "dur": "5.04",
+          "text": "jays if someone's typing in anything to\u00a0\ndo with js i don't sell anything related\u00a0\u00a0"
+        },
+        {
+          "start": "487.44",
+          "dur": "5.44",
+          "text": "to jays uh flowing skirt i guess that's\u00a0\nokay so i delete everything that's okay"
+        },
+        {
+          "start": "495.76",
+          "dur": "3.92",
+          "text": "and i'm left with eventually just the words\u00a0\nthat i want to add to my negative keyword list"
+        },
+        {
+          "start": "502.8",
+          "dur": "3.04",
+          "text": "so let's see all colors"
+        },
+        {
+          "start": "508.08",
+          "dur": "8.56",
+          "text": "in florida so you see um and i don't sell\u00a0\nharem pants so in florida someone's typing\u00a0\u00a0"
+        },
+        {
+          "start": "516.64",
+          "dur": "4.88",
+          "text": "in specifically looking for dance for stores in\u00a0\nflorida i don't want to show it to them i want to\u00a0\u00a0"
+        },
+        {
+          "start": "521.52",
+          "dur": "7.28",
+          "text": "show my ad to them so anyways eventually i would\u00a0\njust narrow it down to the data that is negative\u00a0\u00a0"
+        },
+        {
+          "start": "528.8",
+          "dur": "4.24",
+          "text": "keyword so let's just say hypothetically it was\u00a0\nonly these ones and then i take this data and i\u00a0\u00a0"
+        },
+        {
+          "start": "533.04",
+          "dur": "4.24",
+          "text": "put it into the negative keywords in adwords\u00a0\nlast thing i just want to quickly show you is\u00a0\u00a0"
+        },
+        {
+          "start": "537.28",
+          "dur": "5.12",
+          "text": "you go into adwords you can click on whatever your\u00a0\ncampaign is and how to actually get your negative\u00a0\u00a0"
+        },
+        {
+          "start": "542.4",
+          "dur": "6.08",
+          "text": "keywords in there so click on campaign and then\u00a0\nyou're going to go to keywords and then i'm going\u00a0\u00a0"
+        },
+        {
+          "start": "548.48",
+          "dur": "7.12",
+          "text": "to go to negative keywords and i already got a\u00a0\nton of negative keywords in here but i'd add more\u00a0\u00a0"
+        },
+        {
+          "start": "555.6",
+          "dur": "6.32",
+          "text": "and all you have to do is open up those excel\u00a0\nfiles that we saved and obviously this one for\u00a0\u00a0"
+        },
+        {
+          "start": "561.92",
+          "dur": "6.4",
+          "text": "instance was for dance wear but i could copy it\u00a0\nand paste it in there and then the other one i had"
+        },
+        {
+          "start": "572.72",
+          "dur": "5.76",
+          "text": "this one copy it paste it in there and\u00a0\nthen just hit save and it'll add it to\u00a0\u00a0"
+        },
+        {
+          "start": "578.48",
+          "dur": "5.6",
+          "text": "your negative keywords so those are the best\u00a0\nthree ways to find negative keywords this is\u00a0\u00a0"
+        },
+        {
+          "start": "584.08",
+          "dur": "5.36",
+          "text": "one of the many mistakes i see people making with\u00a0\nadwords and with product listing ads and in fact\u00a0\u00a0"
+        },
+        {
+          "start": "589.44",
+          "dur": "4.48",
+          "text": "if you're running product listing ads negative\u00a0\nkeywords is the most important thing you need\u00a0\u00a0"
+        },
+        {
+          "start": "593.92",
+          "dur": "4.56",
+          "text": "to be doing and it's the number one mistake i see\u00a0\npeople making with their product listing ads so\u00a0\u00a0"
+        },
+        {
+          "start": "599.04",
+          "dur": "4.08",
+          "text": "the reason i'm talking about this is because i\u00a0\nactually just launched the adwords and product\u00a0\u00a0"
+        },
+        {
+          "start": "603.12",
+          "dur": "5.28",
+          "text": "listing ads course up here you can click up here\u00a0\nor there's also a link down below and it's step\u00a0\u00a0"
+        },
+        {
+          "start": "608.4",
+          "dur": "6.24",
+          "text": "by step a to z it's the exact course that i wish i\u00a0\nwould have had when i was starting adwords and you\u00a0\u00a0"
+        },
+        {
+          "start": "614.64",
+          "dur": "5.6",
+          "text": "know what this course isn't for everyone there's\u00a0\nsome people watching this video that want to make\u00a0\u00a0"
+        },
+        {
+          "start": "620.24",
+          "dur": "4.72",
+          "text": "the mistakes on their own struggle and learn it on\u00a0\nyour own and that's okay that's how i was when i\u00a0\u00a0"
+        },
+        {
+          "start": "624.96",
+          "dur": "4.8",
+          "text": "was starting but i wish if i could go back i would\u00a0\nhave told myself just spend a little bit of money\u00a0\u00a0"
+        },
+        {
+          "start": "629.76",
+          "dur": "5.28",
+          "text": "on a course and you'll you won't waste the money\u00a0\non adwords so if you're serious about adwords and\u00a0\u00a0"
+        },
+        {
+          "start": "635.04",
+          "dur": "5.52",
+          "text": "you're serious about learning how to make money\u00a0\nwith adwords check out the course learn from\u00a0\u00a0"
+        },
+        {
+          "start": "640.56",
+          "dur": "4.4",
+          "text": "people learn from me someone that's already done\u00a0\nit and i've made a few million dollars of revenue\u00a0\u00a0"
+        },
+        {
+          "start": "644.96",
+          "dur": "4.4",
+          "text": "using adwords so anyways the links are up here\u00a0\nyou can watch it and it goes into detail there's\u00a0\u00a0"
+        },
+        {
+          "start": "649.36",
+          "dur": "5.44",
+          "text": "a little video on the course about exactly what's\u00a0\nin the course but if you haven't yet make sure\u00a0\u00a0"
+        },
+        {
+          "start": "654.8",
+          "dur": "4.56",
+          "text": "you click that subscribe button i also do have a\u00a0\nfree you can click up here as well for the link\u00a0\u00a0"
+        },
+        {
+          "start": "659.36",
+          "dur": "4.16",
+          "text": "and down below i have an adwords success pack and\u00a0\nso if you're looking for the free option that's\u00a0\u00a0"
+        },
+        {
+          "start": "663.52",
+          "dur": "5.04",
+          "text": "fine you can click up here or down below like i\u00a0\nsaid the paid course is just for the accelerated\u00a0\u00a0"
+        },
+        {
+          "start": "668.56",
+          "dur": "6.08",
+          "text": "if you're really looking to learn this material as\u00a0\nfast as possible the adwords uh checklist adwords\u00a0\u00a0"
+        },
+        {
+          "start": "674.64",
+          "dur": "4.56",
+          "text": "success pack includes an adwords checklist it\u00a0\nincludes a checklist for product listing ads\u00a0\u00a0"
+        },
+        {
+          "start": "679.2",
+          "dur": "5.76",
+          "text": "it includes basically everything you need to\u00a0\ndo to get up and running with adwords fairly\u00a0\u00a0"
+        },
+        {
+          "start": "684.96",
+          "dur": "4.8",
+          "text": "fast the course just goes into more detail anyways\u00a0\nmake sure you click subscribe and if you have any\u00a0\u00a0"
+        },
+        {
+          "start": "689.76",
+          "dur": "4.32",
+          "text": "questions please leave it in the comments down\u00a0\nbelow i'm happy to answer any of your questions"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 35,
+      "title": "Three Methods"
+    },
+    {
+      "start_time": 78,
+      "title": "Ubersuggest"
+    },
+    {
+      "start_time": 250,
+      "title": "Google Keyword Planner"
+    },
+    {
+      "start_time": 366,
+      "title": "Search Queries"
+    },
+    {
+      "start_time": 535,
+      "title": "Finding Negative Keywords"
+    }
+  ]
+}

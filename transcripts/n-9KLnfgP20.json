@@ -1,0 +1,337 @@
+{
+  "text": "Instagram is an amazing platform for you to market your e-commerce business but there's one big problem the only link that can be added that goes to your e-commerce business is in the profile link and that doesn't show it's not trackable in Google Analytics the only way that I've seen that other people are able to track this is by making it a bitly link which looks ugly gross and in fact a lot of people think it looks like spam so in this video I'm going to show you how to get around that how to put a link in your Instagram profile and make it trackable in Google Analytics you know exactly how many people are coming from your Instagram over to your actual store and you can measure the value of your Instagram marketing strategy it's Wednesday which means it's QA day and this question comes from one of my private coaching clients Angela who asked I love Instagram but how do I actually make it so people I can see if people are coming from my Instagram profile over to my website and the quick answer is if you're technical you do a 301 redirect so for instance for my site I have my Instagram profile be dance or comm / our - dance wear and that isn't a real link when people click on it it takes them to a page on my website which then does a 301 redirect to my homepage with the UTM tracking and if you don't know UTM tracking is it basically it shows in Google Analytics it tells Google Analytics this link comes from a certain source and I'm going to show you later in this video actually step-by-step how to do this but for the techie people those are the bullet points profile - a fake link to your website do a 301 redirect within your website into - a link that has the UTM tagging on it and that's it but now for the less technical people that want the more step-by-step I'm going to show you how to do this right now in this part of the video I'm going to show you the step by step how to actually get Instagram the links trackable in your Google Analytics so you see here I have Instagram slash profile only 86 I don't have a lot coming from Instagram but the key is that I can actually see it in my Google Analytics so let me show you how to and you know so now I can see oh maybe this campaign I sent on the 17th February 17th did really well so I should do more stuff like that etc so let's show you the step by step how to so this is my profile and this is the link I actually have my profile be dancer comm slash art dancer and you can change that by going to edit profile and I put it there alright so from there what you do is you go into your website I'm running Volusion currently so I'm going to show you how to do it through Volusion but it's the same process with it with anything this is a 301 redirect so if I go up here you see this is the 301 redirect manager Shopify and BigCommerce have something similar WordPress has something similar just Google how to do 301 redirects but let me show you the nuts and bolts so what I'm telling my website Volusion is that make it bigger here is that if someone comes in to be dancer comm slash our dance we're forward them to be dancer comm slash question mark you UTM underscore source Instagram medium equals profile and campaign equals profile so what this is doing is actually adding tracking into so that Google Analytics can actually pick it up and figure out where it's coming from so let me show you what would happen if someone were to click on my profile link they'd go from bean answer home slash art dance wear but it automatically forward them to this UTM source Instagram and that's where you know you see the source Instagram medium profile in my analytics here instagram / profile that's why and to build this you can go in you can use Google URL builder just type in URL builder into Google and you'll see it but I put in there for the website URL bean answer comm I put for the campaign source Instagram campaign medium profile and I also put the campaign name as profile and that's just the way I do it I'm not saying it's the right way to do it but it's generally how I do it and then you see it's there and then you hit generate URL it'll generate a URL for you take this second half copy it put it into your 301 redirect / whatever you want just make sure this I use / hour dancer to make sure the / whatever you want it to be is something that is not an actual page there's got to be a fake thing so it could be / Instagram and then so whenever someone types in your website / Instagram slash our dance where / special offer whatever you want it to be they're actually forwarded to a link with this UTM source so if you have any questions please let me know but hopefully that clears some things up make sure you subscribe down below I'm going to give you new episodes every week making sure you stay ahead on the latest and greatest in e-commerce news and the trends you don't want to get caught behind and if you haven't already make sure you sign up for my ecommerce success pack there's a ton of great stuff in there basically when you sign up I'm going to send you check list marketing ideas other stuff like that and it's going to be just tons of value in there I promise but thank you guys for watching this and remember we have new e-commerce news episodes every Monday tips and tricks on Tuesdays and Q&A on Wednesdays so if you have any questions please leave it in the comments below",
+  "id": "n-9KLnfgP20",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "People & Blogs",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=trackinginstagramclicks\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "325",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2016-03-03",
+      "title": {
+        "simpleText": "How to Make Instagram Link Clicks Trackable In Google Analytics"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Make Instagram Link Clicks Trackable In Google Analytics",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0",
+          "dur": "4.53",
+          "text": "Instagram is an amazing platform for you to\u00a0\nmarket your e-commerce business but there's\u00a0\u00a0"
+        },
+        {
+          "start": "4.53",
+          "dur": "5.64",
+          "text": "one big problem the only link that can be added\u00a0\nthat goes to your e-commerce business is in the\u00a0\u00a0"
+        },
+        {
+          "start": "10.17",
+          "dur": "5.31",
+          "text": "profile link and that doesn't show it's not\u00a0\ntrackable in Google Analytics the only way\u00a0\u00a0"
+        },
+        {
+          "start": "15.48",
+          "dur": "5.13",
+          "text": "that I've seen that other people are able to track\u00a0\nthis is by making it a bitly link which looks ugly\u00a0\u00a0"
+        },
+        {
+          "start": "20.61",
+          "dur": "5.34",
+          "text": "gross and in fact a lot of people think it looks\u00a0\nlike spam so in this video I'm going to show you\u00a0\u00a0"
+        },
+        {
+          "start": "25.95",
+          "dur": "6.09",
+          "text": "how to get around that how to put a link in your\u00a0\nInstagram profile and make it trackable in Google\u00a0\u00a0"
+        },
+        {
+          "start": "32.04",
+          "dur": "4.71",
+          "text": "Analytics you know exactly how many people are\u00a0\ncoming from your Instagram over to your actual\u00a0\u00a0"
+        },
+        {
+          "start": "36.75",
+          "dur": "4.92",
+          "text": "store and you can measure the value of your\u00a0\nInstagram marketing strategy it's Wednesday\u00a0\u00a0"
+        },
+        {
+          "start": "41.67",
+          "dur": "5.79",
+          "text": "which means it's QA day and this question comes\u00a0\nfrom one of my private coaching clients Angela\u00a0\u00a0"
+        },
+        {
+          "start": "47.46",
+          "dur": "6.27",
+          "text": "who asked I love Instagram but how do I actually\u00a0\nmake it so people I can see if people are coming\u00a0\u00a0"
+        },
+        {
+          "start": "53.73",
+          "dur": "6",
+          "text": "from my Instagram profile over to my website and\u00a0\nthe quick answer is if you're technical you do a\u00a0\u00a0"
+        },
+        {
+          "start": "59.73",
+          "dur": "7.8",
+          "text": "301 redirect so for instance for my site I have my\u00a0\nInstagram profile be dance or comm / our - dance\u00a0\u00a0"
+        },
+        {
+          "start": "67.53",
+          "dur": "6.21",
+          "text": "wear and that isn't a real link when people click\u00a0\non it it takes them to a page on my website which\u00a0\u00a0"
+        },
+        {
+          "start": "73.74",
+          "dur": "7.32",
+          "text": "then does a 301 redirect to my homepage with the\u00a0\nUTM tracking and if you don't know UTM tracking\u00a0\u00a0"
+        },
+        {
+          "start": "81.06",
+          "dur": "5.31",
+          "text": "is it basically it shows in Google Analytics it\u00a0\ntells Google Analytics this link comes from a\u00a0\u00a0"
+        },
+        {
+          "start": "86.37",
+          "dur": "4.02",
+          "text": "certain source and I'm going to show you later in\u00a0\nthis video actually step-by-step how to do this\u00a0\u00a0"
+        },
+        {
+          "start": "90.39",
+          "dur": "6.33",
+          "text": "but for the techie people those are the bullet\u00a0\npoints profile - a fake link to your website do\u00a0\u00a0"
+        },
+        {
+          "start": "96.72",
+          "dur": "9.06",
+          "text": "a 301 redirect within your website into - a link\u00a0\nthat has the UTM tagging on it and that's it but\u00a0\u00a0"
+        },
+        {
+          "start": "105.78",
+          "dur": "4.05",
+          "text": "now for the less technical people that want the\u00a0\nmore step-by-step I'm going to show you how to\u00a0\u00a0"
+        },
+        {
+          "start": "109.83",
+          "dur": "3.87",
+          "text": "do this right now in this part of the video I'm\u00a0\ngoing to show you the step by step how to actually\u00a0\u00a0"
+        },
+        {
+          "start": "113.7",
+          "dur": "6.18",
+          "text": "get Instagram the links trackable in your Google\u00a0\nAnalytics so you see here I have Instagram slash\u00a0\u00a0"
+        },
+        {
+          "start": "119.88",
+          "dur": "5.28",
+          "text": "profile only 86 I don't have a lot coming from\u00a0\nInstagram but the key is that I can actually see\u00a0\u00a0"
+        },
+        {
+          "start": "125.16",
+          "dur": "4.89",
+          "text": "it in my Google Analytics so let me show you\u00a0\nhow to and you know so now I can see oh maybe\u00a0\u00a0"
+        },
+        {
+          "start": "130.05",
+          "dur": "5.19",
+          "text": "this campaign I sent on the 17th February 17th\u00a0\ndid really well so I should do more stuff like\u00a0\u00a0"
+        },
+        {
+          "start": "135.24",
+          "dur": "5.55",
+          "text": "that etc so let's show you the step by step how\u00a0\nto so this is my profile and this is the link I\u00a0\u00a0"
+        },
+        {
+          "start": "140.79",
+          "dur": "4.44",
+          "text": "actually have my profile be dancer comm slash\u00a0\nart dancer and you can change that by going to\u00a0\u00a0"
+        },
+        {
+          "start": "145.23",
+          "dur": "9.54",
+          "text": "edit profile and I put it there alright so from\u00a0\nthere what you do is you go into your website I'm\u00a0\u00a0"
+        },
+        {
+          "start": "154.77",
+          "dur": "3.99",
+          "text": "running Volusion currently so I'm going to show\u00a0\nyou how to do it through Volusion but it's the\u00a0\u00a0"
+        },
+        {
+          "start": "158.76",
+          "dur": "6.24",
+          "text": "same process with it with anything this is a 301\u00a0\nredirect so if I go up here you see this is the\u00a0\u00a0"
+        },
+        {
+          "start": "165",
+          "dur": "5.1",
+          "text": "301 redirect manager Shopify and BigCommerce have\u00a0\nsomething similar WordPress has something similar\u00a0\u00a0"
+        },
+        {
+          "start": "170.1",
+          "dur": "5.7",
+          "text": "just Google how to do 301 redirects but let me\u00a0\nshow you the nuts and bolts so what I'm telling\u00a0\u00a0"
+        },
+        {
+          "start": "175.8",
+          "dur": "9.21",
+          "text": "my website Volusion is that make it bigger here is\u00a0\nthat if someone comes in to be dancer comm slash\u00a0\u00a0"
+        },
+        {
+          "start": "185.01",
+          "dur": "9.18",
+          "text": "our dance we're forward them to be dancer comm\u00a0\nslash question mark you UTM underscore source\u00a0\u00a0"
+        },
+        {
+          "start": "194.19",
+          "dur": "6.42",
+          "text": "Instagram medium equals profile and campaign\u00a0\nequals profile so what this is doing is actually\u00a0\u00a0"
+        },
+        {
+          "start": "200.61",
+          "dur": "5.91",
+          "text": "adding tracking into so that Google Analytics\u00a0\ncan actually pick it up and figure out where it's\u00a0\u00a0"
+        },
+        {
+          "start": "206.52",
+          "dur": "8.16",
+          "text": "coming from so let me show you what would happen\u00a0\nif someone were to click on my profile link they'd\u00a0\u00a0"
+        },
+        {
+          "start": "214.68",
+          "dur": "6.3",
+          "text": "go from bean answer home slash art dance wear but\u00a0\nit automatically forward them to this UTM source\u00a0\u00a0"
+        },
+        {
+          "start": "220.98",
+          "dur": "7.2",
+          "text": "Instagram and that's where you know you see the\u00a0\nsource Instagram medium profile in my analytics\u00a0\u00a0"
+        },
+        {
+          "start": "228.18",
+          "dur": "6.09",
+          "text": "here instagram / profile that's why and to build\u00a0\nthis you can go in you can use Google URL builder\u00a0\u00a0"
+        },
+        {
+          "start": "234.27",
+          "dur": "5.49",
+          "text": "just type in URL builder into Google and you'll\u00a0\nsee it but I put in there for the website URL\u00a0\u00a0"
+        },
+        {
+          "start": "239.76",
+          "dur": "7.2",
+          "text": "bean answer comm I put for the campaign source\u00a0\nInstagram campaign medium profile and I also\u00a0\u00a0"
+        },
+        {
+          "start": "246.96",
+          "dur": "5.76",
+          "text": "put the campaign name as profile and that's just\u00a0\nthe way I do it I'm not saying it's the right way\u00a0\u00a0"
+        },
+        {
+          "start": "252.72",
+          "dur": "5.76",
+          "text": "to do it but it's generally how I do it and then\u00a0\nyou see it's there and then you hit generate URL\u00a0\u00a0"
+        },
+        {
+          "start": "258.48",
+          "dur": "9.55",
+          "text": "it'll generate a URL for you take this second half\u00a0\ncopy it put it into your 301 redirect / whatever\u00a0\u00a0"
+        },
+        {
+          "start": "268.03",
+          "dur": "5.43",
+          "text": "you want just make sure this I use / hour dancer\u00a0\nto make sure the / whatever you want it to be is\u00a0\u00a0"
+        },
+        {
+          "start": "273.46",
+          "dur": "5.58",
+          "text": "something that is not an actual page there's got\u00a0\nto be a fake thing so it could be / Instagram and\u00a0\u00a0"
+        },
+        {
+          "start": "279.04",
+          "dur": "5.55",
+          "text": "then so whenever someone types in your website /\u00a0\nInstagram slash our dance where / special offer\u00a0\u00a0"
+        },
+        {
+          "start": "284.59",
+          "dur": "6.12",
+          "text": "whatever you want it to be they're actually\u00a0\nforwarded to a link with this UTM source so\u00a0\u00a0"
+        },
+        {
+          "start": "290.71",
+          "dur": "4.44",
+          "text": "if you have any questions please let me know but\u00a0\nhopefully that clears some things up make sure you\u00a0\u00a0"
+        },
+        {
+          "start": "295.15",
+          "dur": "4.41",
+          "text": "subscribe down below I'm going to give you new\u00a0\nepisodes every week making sure you stay ahead\u00a0\u00a0"
+        },
+        {
+          "start": "299.56",
+          "dur": "4.29",
+          "text": "on the latest and greatest in e-commerce news and\u00a0\nthe trends you don't want to get caught behind and\u00a0\u00a0"
+        },
+        {
+          "start": "303.85",
+          "dur": "3.63",
+          "text": "if you haven't already make sure you sign up for\u00a0\nmy ecommerce success pack there's a ton of great\u00a0\u00a0"
+        },
+        {
+          "start": "307.48",
+          "dur": "4.14",
+          "text": "stuff in there basically when you sign up I'm\u00a0\ngoing to send you check list marketing ideas other\u00a0\u00a0"
+        },
+        {
+          "start": "311.62",
+          "dur": "4.17",
+          "text": "stuff like that and it's going to be just tons of\u00a0\nvalue in there I promise but thank you guys for\u00a0\u00a0"
+        },
+        {
+          "start": "315.79",
+          "dur": "4.26",
+          "text": "watching this and remember we have new e-commerce\u00a0\nnews episodes every Monday tips and tricks on\u00a0\u00a0"
+        },
+        {
+          "start": "320.05",
+          "dur": "4.35",
+          "text": "Tuesdays and Q&A on Wednesdays so if you have any\u00a0\nquestions please leave it in the comments below"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 25,
+      "title": "QA Day"
+    },
+    {
+      "start_time": 110,
+      "title": "Step By Step"
+    },
+    {
+      "start_time": 294,
+      "title": "Outro"
+    }
+  ]
+}

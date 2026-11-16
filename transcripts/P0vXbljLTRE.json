@@ -1,0 +1,475 @@
+{
+  "text": "in this video we're going to talk about the Facebook pixel how to put it on your web page and what you can do with it now the Facebook pixel pixel is very important because that's how you can remarket to people and it also can uh also can track like goal conversions and thing things like that so there's a couple different ways on how you can do this what we're going to do is if you go hover up here you can go over to pixels and then you can click create a pixel uh this is one I'm just going to do a test pi pixel cuz I've already done this one in the past text pixel go ahead and create it text pixel is ready uh you can either email the pixel code that's especially if you have someone else that's running your website or install pixel now so I'm just going to go ahead and click install pixel now so copy the code of the clipboard now I'm going to show you how to do it in WordPress and in volusion is what I use but it's very similar to uh like a Shopify so if you go down to for volusion it'd be the five editor Shopify I'd have to show you in there how to do it but I'm sure once I show you here you'll be able to figure it out I'm going go to my template here I already have uh the code basically all I'd have to do is paste the code in here so I'm just going to paste it in but since it's already up there I'm going to go ahead and delete this normally I'd click save I'm not going to do that because like I said I already have the code right here and then if I were to go to Wordpress it'd be a similar process you you can actually uh go into plugins add new and they have the Facebook conversion pixel plugin this is for people that run like a woocommerce site or you know if you're just doing Facebook ads to your WordPress site for whatever reason I could install that now now I didn't do that what I did instead is I actually put it in the under appearance editor I went in there and I actually did it in the code itself which is a little bit more advanced of an option but you can see I think it was in like the theme footer I went in there and did it I'd recommend just doing the plugin it's probably easier proceed let's see if I have it yeah you can see the Facebook pixel is right there so now that you have the Facebook pixel installed it might take a little bit of time to fully register but it lets you do a lot of cool things uh for instance you can create an audience you can create custom audiences so let's go over here audiences the let's see which ones here now I've got a ton of different ones going on but the ones visitors from the last 90 days that's from my website so let's say I wanted to create a custom audience and you could do website traffic because we have the pixel installed now so you can do anyone who visits your website people who visit a specific web page people visiting specific web pages but not others people who haven't visited in a certain amount of time so we do all these different options and they're all pretty self-explanatory so let's say anyone who visits your websites uh in the last 30 days now what we could do that's cool is we can also go down and do specific pages and why this is important is because if you want to Target someone that just went to a certain product page and you want to show them an ad for that product now I might not do this CU I have not I don't have a ton of traffic but if you're a bigger site you might want to think about doing that or if you have a certain or if you have less products now I have so many products it would you know maybe this is something I should eventually do but what I could do is let's say anybody that's visited this page go to ads manager where was it here oh okay so I I could pick between the two domains here but the other option is people who visit a certain page so I could do whatever URL contains that and you might want to look at the formatting maybe it would just be best to do um like the the last part like slash that or I'm not sure exactly on the formatting but that's something you can look into I'm just showing you how basically to do this so I can say anybody that's visited my booty short page I want to show in the last 30 days I want to show them this ad so I might call this booty short I'm just going to put tests because I like always like to do that just because I'm not really using this just yet booty short test audience create audience uh see the audience is too small um which is kind of interesting so let's try another one because I don't think it should be that small you're all contains booty I just want to see what happens when I do that oh youur are all equal so that might be the even the better one let's say yeah go in there let's see what happens test to booty now I'm surprised that it still says the audience is too small um I'd want to play with that a little bit and you know see exactly what's going on something's wrong there but this just you know I'm showing you the basic uh ways that you can do it and there's some other things here but let's do one that actually works so anyone who visits your site within the last let's say 25 days oops 25 days include pass website traffic test two pass 25 hopefully this one works all right so obviously something is going wrong here but just generally showing you this is how it should work um oh I think maybe because I didn't select the domains something's going wrong obviously I I'm going to have to troubleshoot this and figure it out but just so you understand the basics on how it works this is normally how it would work I think down below here I actually have one visitors from the last 90 days let's click on that one visitor anyone has visited your website in the last 90 days I mean that's basically you know what what I've been trying to do here so you can see I have the visitors from the last 30 days visitors from the last 90 days and buyers and the reason I have those is I want to exclude buyers people that have already purchased from seeing my ad and to do that to do the the buyer pixel oops website's freaking out I can go ahead and click on that let me just show you how I did that so people who visited the URLs containing orders finished in the last 90 days uh because orders finished is the final page the thank you page so anyone that's reached that page I know they completed a purchase so what I would do there is I could show ads to anybody that's been on my website but hasn't reached the orders finish page so here's just some ideas I'm sure you could think of a hundred others of your own on how you can use custom audiences and be able to build your own ads I really uh retargeting ads are the only ads I do year round because they're so powerful and I highly recommend doing that so I would Target people that have been on your website in the last 30 days and have not actually purchased do some kind of retargeting AD you can even do a n up to 90 days and throw them some kind of coupon offer or things like that but hopefully this gets the ideas flowing and that's how you do some custom audiences and set up the Facebook",
+  "id": "P0vXbljLTRE",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=facebookadspixel\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "532",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2016-12-20",
+      "title": {
+        "simpleText": "How To Install The Facebook Ads Pixel and How to Use It"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How To Install The Facebook Ads Pixel and How to Use It",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.84",
+          "dur": "4.32",
+          "text": "in this video we're going to talk about the\u00a0\nFacebook pixel how to put it on your web page\u00a0\u00a0"
+        },
+        {
+          "start": "5.16",
+          "dur": "4.32",
+          "text": "and what you can do with it now the Facebook\u00a0\npixel pixel is very important because that's\u00a0\u00a0"
+        },
+        {
+          "start": "9.48",
+          "dur": "5.76",
+          "text": "how you can remarket to people and it also\u00a0\ncan uh also can track like goal conversions\u00a0\u00a0"
+        },
+        {
+          "start": "15.24",
+          "dur": "5.84",
+          "text": "and thing things like that so there's a couple\u00a0\ndifferent ways on how you can do this what we're\u00a0\u00a0"
+        },
+        {
+          "start": "21.08",
+          "dur": "4.96",
+          "text": "going to do is if you go hover up here you can\u00a0\ngo over to pixels and then you can click create\u00a0\u00a0"
+        },
+        {
+          "start": "26.04",
+          "dur": "5.32",
+          "text": "a pixel uh this is one I'm just going to do\u00a0\na test pi pixel cuz I've already done this\u00a0\u00a0"
+        },
+        {
+          "start": "31.36",
+          "dur": "6.6",
+          "text": "one in the past text pixel go ahead and create\u00a0\nit text pixel is ready uh you can either email\u00a0\u00a0"
+        },
+        {
+          "start": "37.96",
+          "dur": "3.24",
+          "text": "the pixel code that's especially if you have\u00a0\nsomeone else that's running your website or\u00a0\u00a0"
+        },
+        {
+          "start": "41.2",
+          "dur": "5.96",
+          "text": "install pixel now so I'm just going to go ahead\u00a0\nand click install pixel now so copy the code of\u00a0\u00a0"
+        },
+        {
+          "start": "47.16",
+          "dur": "6.16",
+          "text": "the clipboard now I'm going to show you how to do\u00a0\nit in WordPress and in volusion is what I use but\u00a0\u00a0"
+        },
+        {
+          "start": "53.32",
+          "dur": "6.84",
+          "text": "it's very similar to uh like a Shopify so if\u00a0\nyou go down to for volusion it'd be the five\u00a0\u00a0"
+        },
+        {
+          "start": "60.16",
+          "dur": "4.56",
+          "text": "editor Shopify I'd have to show you in there\u00a0\nhow to do it but I'm sure once I show you here\u00a0\u00a0"
+        },
+        {
+          "start": "64.72",
+          "dur": "5.04",
+          "text": "you'll be able to figure it out I'm going\u00a0\ngo to my template here I already have uh\u00a0\u00a0"
+        },
+        {
+          "start": "69.76",
+          "dur": "6.24",
+          "text": "the code basically all I'd have to do is paste\u00a0\nthe code in here so I'm just going to paste it"
+        },
+        {
+          "start": "76",
+          "dur": "7.08",
+          "text": "in but since it's already up there I'm going\u00a0\nto go ahead and delete this normally I'd click"
+        },
+        {
+          "start": "83.08",
+          "dur": "7.36",
+          "text": "save I'm not going to do that because\u00a0\nlike I said I already have the code\u00a0\u00a0"
+        },
+        {
+          "start": "90.44",
+          "dur": "5.28",
+          "text": "right here and then if I were to\u00a0\ngo to Wordpress it'd be a similar"
+        },
+        {
+          "start": "95.72",
+          "dur": "6",
+          "text": "process you you can actually uh go into plugins\u00a0\u00a0"
+        },
+        {
+          "start": "101.72",
+          "dur": "4.16",
+          "text": "add new and they have the\u00a0\nFacebook conversion pixel"
+        },
+        {
+          "start": "105.88",
+          "dur": "14.84",
+          "text": "plugin this is for people that run like a\u00a0\nwoocommerce site or you know if you're just doing\u00a0\u00a0"
+        },
+        {
+          "start": "120.72",
+          "dur": "5.6",
+          "text": "Facebook ads to your WordPress site for whatever\u00a0\nreason I could install that now now I didn't do\u00a0\u00a0"
+        },
+        {
+          "start": "126.32",
+          "dur": "9.44",
+          "text": "that what I did instead is I actually put it in\u00a0\nthe under appearance editor I went in there and\u00a0\u00a0"
+        },
+        {
+          "start": "135.76",
+          "dur": "6.96",
+          "text": "I actually did it in the code itself which is a\u00a0\nlittle bit more advanced of an option but you can"
+        },
+        {
+          "start": "142.72",
+          "dur": "8.8",
+          "text": "see I think it was in like the theme footer\u00a0\nI went in there and did it I'd recommend just\u00a0\u00a0"
+        },
+        {
+          "start": "151.52",
+          "dur": "6.96",
+          "text": "doing the plugin it's probably easier proceed\u00a0\nlet's see if I have it yeah you can see the\u00a0\u00a0"
+        },
+        {
+          "start": "158.48",
+          "dur": "5.24",
+          "text": "Facebook pixel is right there so now that you\u00a0\nhave the Facebook pixel installed it might take\u00a0\u00a0"
+        },
+        {
+          "start": "163.72",
+          "dur": "5.24",
+          "text": "a little bit of time to fully register but\u00a0\nit lets you do a lot of cool things uh for\u00a0\u00a0"
+        },
+        {
+          "start": "168.96",
+          "dur": "10.88",
+          "text": "instance you can create an audience you can create\u00a0\ncustom audiences so let's go over here audiences"
+        },
+        {
+          "start": "183.6",
+          "dur": "5.72",
+          "text": "the let's see which ones here now I've got a ton\u00a0\nof different ones going on but the ones visitors\u00a0\u00a0"
+        },
+        {
+          "start": "189.32",
+          "dur": "8.36",
+          "text": "from the last 90 days that's from my website so\u00a0\nlet's say I wanted to create a custom audience\u00a0\u00a0"
+        },
+        {
+          "start": "197.68",
+          "dur": "5.4",
+          "text": "and you could do website traffic because we have\u00a0\nthe pixel installed now so you can do anyone who\u00a0\u00a0"
+        },
+        {
+          "start": "203.08",
+          "dur": "4.8",
+          "text": "visits your website people who visit a specific\u00a0\nweb page people visiting specific web pages but\u00a0\u00a0"
+        },
+        {
+          "start": "207.88",
+          "dur": "4.12",
+          "text": "not others people who haven't visited in a certain\u00a0\namount of time so we do all these different\u00a0\u00a0"
+        },
+        {
+          "start": "212",
+          "dur": "5.04",
+          "text": "options and they're all pretty self-explanatory\u00a0\nso let's say anyone who visits your websites uh in\u00a0\u00a0"
+        },
+        {
+          "start": "217.04",
+          "dur": "8.56",
+          "text": "the last 30 days now what we could do that's cool\u00a0\nis we can also go down and do specific pages and\u00a0\u00a0"
+        },
+        {
+          "start": "225.6",
+          "dur": "4.6",
+          "text": "why this is important is because if you want to\u00a0\nTarget someone that just went to a certain product\u00a0\u00a0"
+        },
+        {
+          "start": "230.2",
+          "dur": "5.04",
+          "text": "page and you want to show them an ad for that\u00a0\nproduct now I might not do this CU I have not I\u00a0\u00a0"
+        },
+        {
+          "start": "235.24",
+          "dur": "4.88",
+          "text": "don't have a ton of traffic but if you're a bigger\u00a0\nsite you might want to think about doing that\u00a0\u00a0"
+        },
+        {
+          "start": "240.12",
+          "dur": "4.32",
+          "text": "or if you have a certain or if you have\u00a0\nless products now I have so many products\u00a0\u00a0"
+        },
+        {
+          "start": "244.44",
+          "dur": "3.36",
+          "text": "it would you know maybe this is something\u00a0\nI should eventually do but what I could\u00a0\u00a0"
+        },
+        {
+          "start": "247.8",
+          "dur": "7.72",
+          "text": "do is let's say anybody that's visited\u00a0\nthis page go to ads manager where was it"
+        },
+        {
+          "start": "255.52",
+          "dur": "14.44",
+          "text": "here oh okay so I I could pick between the two\u00a0\ndomains here but the other option is people who\u00a0\u00a0"
+        },
+        {
+          "start": "269.96",
+          "dur": "6.2",
+          "text": "visit a certain page so I could do whatever URL\u00a0\ncontains that and you might want to look at the\u00a0\u00a0"
+        },
+        {
+          "start": "276.16",
+          "dur": "7.88",
+          "text": "formatting maybe it would just be best to do\u00a0\num like the the last part like slash that or\u00a0\u00a0"
+        },
+        {
+          "start": "284.04",
+          "dur": "3.28",
+          "text": "I'm not sure exactly on the formatting but\u00a0\nthat's something you can look into I'm just\u00a0\u00a0"
+        },
+        {
+          "start": "287.32",
+          "dur": "6.64",
+          "text": "showing you how basically to do this so I can\u00a0\nsay anybody that's visited my booty short page\u00a0\u00a0"
+        },
+        {
+          "start": "293.96",
+          "dur": "5.88",
+          "text": "I want to show in the last 30 days I want\u00a0\nto show them this ad so I might call this\u00a0\u00a0"
+        },
+        {
+          "start": "299.84",
+          "dur": "2.56",
+          "text": "booty short I'm just going to put\u00a0\ntests because I like always like\u00a0\u00a0"
+        },
+        {
+          "start": "302.4",
+          "dur": "3.8",
+          "text": "to do that just because I'm not really\u00a0\nusing this just yet booty short test"
+        },
+        {
+          "start": "306.2",
+          "dur": "4.6",
+          "text": "audience create"
+        },
+        {
+          "start": "310.8",
+          "dur": "9.84",
+          "text": "audience uh see the audience is too small um\u00a0\nwhich is kind of interesting so let's try another"
+        },
+        {
+          "start": "320.64",
+          "dur": "4.48",
+          "text": "one because I don't think it should be that"
+        },
+        {
+          "start": "325.12",
+          "dur": "11.32",
+          "text": "small you're all contains booty I just\u00a0\nwant to see what happens when I do that\u00a0\u00a0"
+        },
+        {
+          "start": "336.44",
+          "dur": "4.08",
+          "text": "oh youur are all equal so that might\u00a0\nbe the even the better one let's say"
+        },
+        {
+          "start": "340.52",
+          "dur": "8.76",
+          "text": "yeah go in there let's see what happens test to"
+        },
+        {
+          "start": "349.28",
+          "dur": "11.2",
+          "text": "booty now I'm surprised that it still says the\u00a0\naudience is too small um I'd want to play with\u00a0\u00a0"
+        },
+        {
+          "start": "360.48",
+          "dur": "6.44",
+          "text": "that a little bit and you know see exactly what's\u00a0\ngoing on something's wrong there but this just you\u00a0\u00a0"
+        },
+        {
+          "start": "366.92",
+          "dur": "5.96",
+          "text": "know I'm showing you the basic uh ways that you\u00a0\ncan do it and there's some other things here but\u00a0\u00a0"
+        },
+        {
+          "start": "372.88",
+          "dur": "3.72",
+          "text": "let's do one that actually works so anyone\u00a0\nwho visits your site within the last let's\u00a0\u00a0"
+        },
+        {
+          "start": "376.6",
+          "dur": "13.24",
+          "text": "say 25 days oops 25 days include pass website\u00a0\ntraffic test two pass 25 hopefully this one"
+        },
+        {
+          "start": "389.84",
+          "dur": "5.96",
+          "text": "works all right so obviously something is going\u00a0\u00a0"
+        },
+        {
+          "start": "395.8",
+          "dur": "10.24",
+          "text": "wrong here but just generally showing\u00a0\nyou this is how it should work um oh I"
+        },
+        {
+          "start": "406.04",
+          "dur": "13.48",
+          "text": "think maybe because I didn't select the domains"
+        },
+        {
+          "start": "424.24",
+          "dur": "2.68",
+          "text": "something's going wrong obviously I I'm\u00a0\ngoing to have to troubleshoot this and\u00a0\u00a0"
+        },
+        {
+          "start": "426.92",
+          "dur": "5.36",
+          "text": "figure it out but just so you understand the\u00a0\nbasics on how it works this is normally how\u00a0\u00a0"
+        },
+        {
+          "start": "432.28",
+          "dur": "5.44",
+          "text": "it would work I think down below here I\u00a0\nactually have one visitors from the last\u00a0\u00a0"
+        },
+        {
+          "start": "437.72",
+          "dur": "4.52",
+          "text": "90 days let's click on that one visitor\u00a0\nanyone has visited your website in the\u00a0\u00a0"
+        },
+        {
+          "start": "442.24",
+          "dur": "7.68",
+          "text": "last 90 days I mean that's basically you\u00a0\nknow what what I've been trying to do here"
+        },
+        {
+          "start": "449.92",
+          "dur": "4.2",
+          "text": "so you can see I have the visitors from the\u00a0\nlast 30 days visitors from the last 90 days\u00a0\u00a0"
+        },
+        {
+          "start": "454.12",
+          "dur": "4.92",
+          "text": "and buyers and the reason I have those is I\u00a0\nwant to exclude buyers people that have already\u00a0\u00a0"
+        },
+        {
+          "start": "459.04",
+          "dur": "8.32",
+          "text": "purchased from seeing my ad and to do that to\u00a0\ndo the the buyer pixel oops website's freaking"
+        },
+        {
+          "start": "467.36",
+          "dur": "12.28",
+          "text": "out I can go ahead and click on that let me just\u00a0\nshow you how I did that so people who visited\u00a0\u00a0"
+        },
+        {
+          "start": "479.64",
+          "dur": "7",
+          "text": "the URLs containing orders finished in the last\u00a0\n90 days uh because orders finished is the final\u00a0\u00a0"
+        },
+        {
+          "start": "486.64",
+          "dur": "5.24",
+          "text": "page the thank you page so anyone that's reached\u00a0\nthat page I know they completed a purchase so what\u00a0\u00a0"
+        },
+        {
+          "start": "491.88",
+          "dur": "4.72",
+          "text": "I would do there is I could show ads to anybody\u00a0\nthat's been on my website but hasn't reached\u00a0\u00a0"
+        },
+        {
+          "start": "496.6",
+          "dur": "4.52",
+          "text": "the orders finish page so here's just some ideas\u00a0\nI'm sure you could think of a hundred others of\u00a0\u00a0"
+        },
+        {
+          "start": "501.12",
+          "dur": "7",
+          "text": "your own on how you can use custom audiences\u00a0\nand be able to build your own ads I really\u00a0\u00a0"
+        },
+        {
+          "start": "508.12",
+          "dur": "5.36",
+          "text": "uh retargeting ads are the only ads I do year\u00a0\nround because they're so powerful and I highly\u00a0\u00a0"
+        },
+        {
+          "start": "513.48",
+          "dur": "3.36",
+          "text": "recommend doing that so I would Target people\u00a0\nthat have been on your website in the last 30\u00a0\u00a0"
+        },
+        {
+          "start": "516.84",
+          "dur": "5.28",
+          "text": "days and have not actually purchased do some\u00a0\nkind of retargeting AD you can even do a n up\u00a0\u00a0"
+        },
+        {
+          "start": "522.12",
+          "dur": "5.56",
+          "text": "to 90 days and throw them some kind of coupon\u00a0\noffer or things like that but hopefully this\u00a0\u00a0"
+        },
+        {
+          "start": "527.68",
+          "dur": "3.84",
+          "text": "gets the ideas flowing and that's how you do\u00a0\nsome custom audiences and set up the Facebook"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 25,
+      "title": "Create a Pixel"
+    },
+    {
+      "start_time": 42,
+      "title": "Install a Pixel"
+    },
+    {
+      "start_time": 103,
+      "title": "The Facebook Conversion Pixel Plugin"
+    },
+    {
+      "start_time": 169,
+      "title": "Create an Audience"
+    },
+    {
+      "start_time": 193,
+      "title": "Create a Custom Audience"
+    },
+    {
+      "start_time": 305,
+      "title": "Test Audience"
+    }
+  ]
+}

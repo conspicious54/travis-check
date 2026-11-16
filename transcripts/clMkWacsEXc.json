@@ -1,0 +1,351 @@
+{
+  "text": "retargeting using AdWords is easy to do in it's one of the cheapest ways to get more sales on your website in this video I want to show you how to do it in just three steps in just four minutes the first step to retargeting using AdWords using Google Ads is to set up their G tag their their Google remarketing tag so to do that you're going to go into tools and then you're gonna go to audience manager so you need to create an audience so that you can remarket to them and to do that lets go down to audience sources and we're gonna go to the google ads tag click details and you'll see the tag setup instructions go ahead and copy this information and yours will be slightly different than mine so once we've copied that information we're gonna go to online store we're gonna click customize we're gonna click actions and then edit code and then we're going to go to theme dot liquid right above the slash body down here and go ahead and paste that code and then we'll click Save now we're gonna do the same thing going to settings and then checkout and scroll down below here and you're gonna paste it into the additional scripts down below now I do have a special script that I'll I'll save for you guys and show you that'll actually show like the the sales data so I'll put that in the description down below but once you say that you should be good to go and you can start using you can start remarketing you start building an audience and remarketing I just set it up now so it doesn't have much of an audience but it will in time once you've finished pasting that you're gonna go back to your Google ads and let's go to campaigns you are going to click new campaign and I'm gonna assume that you want to do a typical display ads campaign so I'm gonna click on display ads and you can do I guess we could do sales since we already have that all set up standard display campaign put in your website and could continue for campaign name I'm going to call it display remarketing and I'm just gonna do the United States conversions let's see what else we got budget honestly I think five date five dollars which is probably more than I really want to spend but I'll just I might even put two just because I only want to spend a little bit for now and then audiences this is the important part is you got to define the audiences so how they've interacted with your business and then go to website visitors all visitors system defined is the one on than a deal do all visitors AdWords as well but I think system defined is the correct one then we're gonna go down to ad group bid put fifty cents for now this point click upload display ads and start uploading different files different images that you have and if you want to know what dimensions to use you can click here and you can check out some of the different dimensions that are used some of the most common sizes are the square 250 by 250 the small square which is 200 by 200 leaderboard which is the 728 by 90 the inclined rectangle 300 by 250 the large rectangle and there's a few others as well but I think those would be five that I would start with if I were to only do five different dimensions for now I'll just go ahead and upload a 250 by 250 that I have and you can take any photos you have and crop them to make them into ads basically but I'm gonna go ahead and put that in there and then for the final URL you do want to do a product page you don't want to do just like a home page so this would be an example of my product page URL so I'm gonna copy this I'm gonna put this as the final URL and then we'll go ahead and click create campaign you could add more image sizes always later but for now I'm just going to start with that one and boom we should have it completed so you if you followed all these tips you have at least a basic remarketing campaign using Google you'll want to do ads for at least all the most common display dimensions that are available and I'll put a list down below of all the most common dimensions that you should make ads for and if you want to learn more about Google Ads and remarketing all that stuff I have a complete Google Ads tutorial right here there's a link up here and down below please like comment and subscribe on this video and I will see you in the next video",
+  "id": "clMkWacsEXc",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here:  https://start.travismarziani.com/?utm_source=youtube&utm_campaign=googleadsretargeting\n\nIf you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\n\n\nCommonly used dimension:\n\n250 x 250 \u2013 Square\n200 x 200 \u2013 Small Square\n468 x 60 \u2013 Banner\n728 x 90 \u2013 Leaderboard\n300 x 250 \u2013 Inline Rectangle\n336 x 280 \u2013 Large Rectangle\n120 x 600 \u2013 Skyscraper\n160 x 600 \u2013 Wide Skyscraper\n300 x 600 \u2013 Half-Page Ad\n970 x 90 \u2013 Large Leaderboard\n\n\nReTargeting using Adwords is easy to do and it is one of the cheapest ways to get more sales on your website. In this video, I'm going to show you how to do it in a few easy steps in just 4 minutes.\n\n1. Set up G-Tag \nSet up your G-Tag or the Google remarketing Ad by going to Tools, Audience Manager. Go down to Audience sources, click on details under Google Ads tag and you would see the tag set up instructions. Copy the code on the Global Site Tag. \nGo to Shopify, select online store, click Customize, Actions and then Edit Code, Go to theme.liquid, paste the code at the bottom of the slash body. Click save. Do the same thing on another area by going to Setting, Check Out, scroll down below and paste the same code on the Additional Scripts box.\n\n2. Create Display Ads\nGo back to Google Ads then go to Campaign, click New Campaign, select Display Ads, select Sales, select Standard Display Campaign, put in your website URL then click continue. Assign a campaign name and select the appropriate options. I think $2 is enough for the budget while you can put in $0.5 for the group bid just because I don't want to spend that much right now. \n\n3. Define Audience\nThis is the important part. Under audiences while working on the display ads, select How they have interacted with your business, choose website visitors, and then Select All visitors system defined. \n\n4. Upload Images\nClick Upload Display Ads and Upload images. You can check out the dimensions to use by clicking on the supported sizes and format. \n\n5. Product Page as final URL\nMake sure to assign your product page as your final URL not your Homepage URL. \n\nClick on Create Campaign at the end then you are all set up! If you follow all these steps then you should have at least a basic Remarketing campaign using Google."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "289",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2018-11-08",
+      "title": {
+        "simpleText": "How to Setup Google Adwords Retargeting in 4 Minutes"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Setup Google Adwords Retargeting in 4 Minutes",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0",
+          "dur": "5.19",
+          "text": "retargeting using AdWords is easy to do\nin it's one of the cheapest ways to get"
+        },
+        {
+          "start": "5.19",
+          "dur": "4.619",
+          "text": "more sales on your website in this video\nI want to show you how to do it in just"
+        },
+        {
+          "start": "9.809",
+          "dur": "4.141",
+          "text": "three steps in just four minutes\nthe first step to retargeting using"
+        },
+        {
+          "start": "13.95",
+          "dur": "5.28",
+          "text": "AdWords using Google Ads is to set up\ntheir G tag their their Google"
+        },
+        {
+          "start": "19.23",
+          "dur": "4.83",
+          "text": "remarketing tag so to do that you're\ngoing to go into tools and then you're"
+        },
+        {
+          "start": "24.06",
+          "dur": "4.35",
+          "text": "gonna go to audience manager so you need\nto create an audience so that you can"
+        },
+        {
+          "start": "28.41",
+          "dur": "5.76",
+          "text": "remarket to them and to do that lets go\ndown to audience sources and we're gonna"
+        },
+        {
+          "start": "34.17",
+          "dur": "5.28",
+          "text": "go to the google ads tag click details\nand you'll see the tag"
+        },
+        {
+          "start": "39.45",
+          "dur": "4.949",
+          "text": "setup instructions go ahead and copy\nthis information and yours will be"
+        },
+        {
+          "start": "44.399",
+          "dur": "3.601",
+          "text": "slightly different than mine so once\nwe've copied that information we're"
+        },
+        {
+          "start": "48",
+          "dur": "4.89",
+          "text": "gonna go to online store we're gonna\nclick customize we're gonna click"
+        },
+        {
+          "start": "52.89",
+          "dur": "6.57",
+          "text": "actions and then edit code and then\nwe're going to go to theme dot liquid"
+        },
+        {
+          "start": "59.46",
+          "dur": "6",
+          "text": "right above the slash body down here and\ngo ahead and paste that code and then"
+        },
+        {
+          "start": "65.46",
+          "dur": "6.03",
+          "text": "we'll click Save now we're gonna do the\nsame thing going to settings and then"
+        },
+        {
+          "start": "71.49",
+          "dur": "3.54",
+          "text": "checkout and scroll down below here and\nyou're gonna paste it into the"
+        },
+        {
+          "start": "75.03",
+          "dur": "5.49",
+          "text": "additional scripts down below now I do\nhave a special script that I'll I'll"
+        },
+        {
+          "start": "80.52",
+          "dur": "5.669",
+          "text": "save for you guys and show you that'll\nactually show like the the sales data so"
+        },
+        {
+          "start": "86.189",
+          "dur": "3.451",
+          "text": "I'll put that in the description down\nbelow but once you say that you should"
+        },
+        {
+          "start": "89.64",
+          "dur": "4.53",
+          "text": "be good to go and you can start using\nyou can start remarketing you start"
+        },
+        {
+          "start": "94.17",
+          "dur": "3.6",
+          "text": "building an audience and remarketing I\njust set it up now so it doesn't have"
+        },
+        {
+          "start": "97.77",
+          "dur": "3.419",
+          "text": "much of an audience\nbut it will in time once you've finished"
+        },
+        {
+          "start": "101.189",
+          "dur": "3.781",
+          "text": "pasting that you're gonna go back to\nyour Google ads and let's go to"
+        },
+        {
+          "start": "104.97",
+          "dur": "8.1",
+          "text": "campaigns you are going to click new\ncampaign and I'm gonna assume that you"
+        },
+        {
+          "start": "113.07",
+          "dur": "4.35",
+          "text": "want to do a typical display ads\ncampaign so I'm gonna click on display"
+        },
+        {
+          "start": "117.42",
+          "dur": "7.379",
+          "text": "ads and you can do I guess we could do\nsales since we already have that all set"
+        },
+        {
+          "start": "124.799",
+          "dur": "4.941",
+          "text": "up standard display campaign put in your\nwebsite"
+        },
+        {
+          "start": "130.53",
+          "dur": "5.799",
+          "text": "and could continue for campaign name I'm\ngoing to call it display remarketing and"
+        },
+        {
+          "start": "136.329",
+          "dur": "3.481",
+          "text": "I'm just gonna do the United States\nconversions let's see what else we got"
+        },
+        {
+          "start": "139.81",
+          "dur": "5.97",
+          "text": "budget honestly I think five date five\ndollars which is probably more than I"
+        },
+        {
+          "start": "145.78",
+          "dur": "3.689",
+          "text": "really want to spend but I'll just I\nmight even put two just because I only"
+        },
+        {
+          "start": "149.469",
+          "dur": "6.481",
+          "text": "want to spend a little bit for now and\nthen audiences this is the important"
+        },
+        {
+          "start": "155.95",
+          "dur": "4.83",
+          "text": "part is you got to define the audiences\nso how they've interacted with your"
+        },
+        {
+          "start": "160.78",
+          "dur": "6.359",
+          "text": "business and then go to website visitors\nall visitors system defined is the one"
+        },
+        {
+          "start": "167.139",
+          "dur": "4.201",
+          "text": "on than a deal do all visitors AdWords\nas well but I think system defined is"
+        },
+        {
+          "start": "171.34",
+          "dur": "12.84",
+          "text": "the correct one then we're gonna go down\nto ad group bid put fifty cents for now"
+        },
+        {
+          "start": "184.18",
+          "dur": "5.639",
+          "text": "this point click upload display ads and\nstart uploading different files"
+        },
+        {
+          "start": "189.819",
+          "dur": "3.66",
+          "text": "different images that you have and if\nyou want to know what dimensions to use"
+        },
+        {
+          "start": "193.479",
+          "dur": "3.66",
+          "text": "you can click here and you can check out\nsome of the different dimensions that"
+        },
+        {
+          "start": "197.139",
+          "dur": "7.02",
+          "text": "are used some of the most common sizes\nare the square 250 by 250 the small"
+        },
+        {
+          "start": "204.159",
+          "dur": "6.211",
+          "text": "square which is 200 by 200 leaderboard\nwhich is the 728 by 90 the inclined"
+        },
+        {
+          "start": "210.37",
+          "dur": "6.66",
+          "text": "rectangle 300 by 250 the large rectangle\nand there's a few others as well but I"
+        },
+        {
+          "start": "217.03",
+          "dur": "3.72",
+          "text": "think those would be five that I would\nstart with if I were to only do five"
+        },
+        {
+          "start": "220.75",
+          "dur": "6.269",
+          "text": "different dimensions for now I'll just\ngo ahead and upload a 250 by 250 that I"
+        },
+        {
+          "start": "227.019",
+          "dur": "5.43",
+          "text": "have and you can take any photos you\nhave and crop them to make them into ads"
+        },
+        {
+          "start": "232.449",
+          "dur": "4.35",
+          "text": "basically but I'm gonna go ahead and put\nthat in there and then for the final URL"
+        },
+        {
+          "start": "236.799",
+          "dur": "4.62",
+          "text": "you do want to do a product page you\ndon't want to do just like a home page"
+        },
+        {
+          "start": "241.419",
+          "dur": "3.391",
+          "text": "so this would be an example of my\nproduct page URL so I'm gonna copy this"
+        },
+        {
+          "start": "244.81",
+          "dur": "5.699",
+          "text": "I'm gonna put this as the final URL and\nthen we'll go ahead and click create"
+        },
+        {
+          "start": "250.509",
+          "dur": "5.22",
+          "text": "campaign you could add more image sizes\nalways later but for now I'm just going"
+        },
+        {
+          "start": "255.729",
+          "dur": "4.391",
+          "text": "to start with that one\nand boom we should have it completed so"
+        },
+        {
+          "start": "260.12",
+          "dur": "3.99",
+          "text": "you if you followed all these tips you\nhave at least a basic remarketing"
+        },
+        {
+          "start": "264.11",
+          "dur": "4.7",
+          "text": "campaign using Google you'll want to do\nads for at least all the most common"
+        },
+        {
+          "start": "268.81",
+          "dur": "4.87",
+          "text": "display dimensions that are available\nand I'll put a list down below of all"
+        },
+        {
+          "start": "273.68",
+          "dur": "3.18",
+          "text": "the most common dimensions that you\nshould make ads for and if you want to"
+        },
+        {
+          "start": "276.86",
+          "dur": "2.94",
+          "text": "learn more about Google Ads and\nremarketing all that stuff I have a"
+        },
+        {
+          "start": "279.8",
+          "dur": "4.68",
+          "text": "complete Google Ads tutorial right here\nthere's a link up here and down below"
+        },
+        {
+          "start": "284.48",
+          "dur": "3.84",
+          "text": "please like comment and subscribe on\nthis video and I will see you in the"
+        },
+        {
+          "start": "288.32",
+          "dur": "2.42",
+          "text": "next video"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 12,
+      "title": "Step 1 Create an Audience"
+    },
+    {
+      "start_time": 26,
+      "title": "Step 2 Add Google Ads Tag"
+    },
+    {
+      "start_time": 111,
+      "title": "Step 3 Create Display Ads Campaign"
+    },
+    {
+      "start_time": 266,
+      "title": "Outro"
+    }
+  ]
+}

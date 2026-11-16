@@ -1,0 +1,3361 @@
+{
+  "text": "we're going to go over the top 20 WordPress hosting companies one by one and we're going to talk about the pros and the cons for every single one of these companies all based on a full year of speed tests and Analysis and I'll be giving these hosting companies a rating from a to F A being the best and F being the worst which means by the end of this video you're going to know exactly which one of these companies you should go with to host your WordPress website and the winner is going to be a hosting company that I've used that not a lot of people know about and this hosting company is the best one out there it allows you to host hundreds of gigs of data it's also one of the most affordable ones so make sure you stay till the end of the video to find out who the winner is but before I share that make sure to smash the like button because as a bonus for watching this video I actually contacted all these hosting companies and I got the hookup I got discounted pricing the best pricing with all these different hosting companies that you can find anywhere on the internet and if you want those discounted rates there are links Down Below in the description with coupon codes to all the different hosting companies but first with most hosting companies out there they're going to offer you some different free services and if there's a hosting company that doesn't offer the services that I'm about to share with you for free don't sign up with them so let's share some of those common services that you're going to get and I recommend with any hosting company you sign up for that you make sure that they're going to give you free ssls free emails free support free backups and a money back guarantee and let me explain what each of these means SSL stands for secure sockets layer if you're going to be selling products on your website or if you just want to make sure that your website is secure you're going to need to add this SSL certificate to your website and this helps to secure all your online transactions it keeps all your customer information private and secure and you need this especially if you're going to be selling products online but even if you're not if you just want to have the best security you're going to want this SSL certificate and most hosting companies will give this to you for free next every hosting company should also offer you free email accounts I recommend at a minimum signing up for a hosting company that's going to give you at least 50 free email accounts and this allows you to create business emails for instance I recently launched a product called carnivore electrolytes we built an online store for it and I was able to create an email Travis carnivore electrolytes. comom another thing that hosting company should offer for free is support anytime that there is an issue with your website you want to make sure that you're able to contact someone for support and that's something that we're going to be talking about in this video is what level of support do all these different hosting companies offer because when your website is down you want to make sure that you can talk to your hosting company to get your website fixed as soon as possible the next service that you want to make sure your hosting company has is backups do they offer some kind of backup because if something happens to your website you want to make sure that you can get your website back up and running as soon as possible and the majority of Hosting companies do offer free backups but some don't and we'll talk about which ones do and which ones don't the last thing that we're going to talk about is a refund policy most hosting companies out there will offer some kind of a refund policy at least most good ones and if you see a web host without a refund policy I would not recommend going with them that is a massive red flag refunds are something that most web hosts out there should offer if there is some kind of an issue and those are the main things that you're going to want to look for in a hosting company but there are some other bonuses that you should think about and one of the big things is I love when a hosting company offers you a free domain name that is the ww. whatever the name of your website is.com and you're going to have to pay for this either way so if your hosting company offers it for free that is a huge win and it's going to save you money another one is a CDN or free access to a CDN and CDN stands for Content delivery Network and what this does is it allows your website to be faster because it will distribute your website in different images and content from your website to multiple different servers all around the world which is going to make it faster for anybody to load up your website from anywhere in the world another rare freebie that I want to mention is malware cleanup and very few web hosting companies offer this but it's probably one of the best free services you guys can get because malware removal protects your website against hackers who try to steal your data and damage your website and when shopping for web hosting you want to keep all these different features in mind and not all of these might be extremely necessary for your website but if one of these features are it might be the differen maker in choosing which different hosting company you want to go with now before we go through all the different web hosts out there and I help you to decide which one is perfect for you I do want you to understand a couple different specific terms that I'm going to be talking about and by understanding these different terms that I'm going to give to you right now it's going to help help you to understand which web hosting company is the best for hosting your WordPress website and the first term that we want to talk about is basic storage which refers to hard drives there's HDD and there's SSD HDD stands for hard disk drives and SSD stands for solid state drives HDD drives are slower to load information because they have many moving Parts SSD solid state drives don't have moving parts so they load faster which means that your website is going to perform better both these different options store data but SSD drives are a lot faster so keep that in mind another term that you need to know before we dive into the pros and the cons and go over all the speed tests for these different hosting companies is a term called nvme storage or nonvolatile Memory Express this is the fastest type of storage instead of loading the memory drive into a specific slot nvme loads directly from the motherboard this results in a much higher data transfer rate than SSD or HDD drives now let's get into it and I recorded the speed times and up times of these 20 different web hosts host Zinger blue host host skater kinsta 10 web A2 hosting in motion dream host fast comment GoDaddy green Geeks host Armada liquid web name hero pre-assemble sight ground TMD hosting WP wpx hosting and we also tested cloudways and all the providers out there like Amazon Digital ocean and vulture it's important to know that we're testing uptime and Page speed here and anything above 99.95% uptime meets the web hosting industry standard and Google suggests your website needs to load in less than 2 seconds with that let's get started by talking about host singer and a big Pro for host singer is their uptime of 99.96% with 3 hours of downtime throughout the entire year which is not bad and what really impressed me about them is their load time of 1.32 seconds for a WordPress hosting website hostinger is also really affordable it's one of the lowest cost web hosting companies out there and they have an easy to use website builder for your WordPress website it's honestly hard to find a better hosting company especially if this is the first time you've ever started a WordPress website and hostinger might be my favorite hosting company out there but I am going to announce the winner at the end of this video so make sure you keep watching because we still do have a lot more hosting companies to go next up we have blue host and first off let me say one big Pro for blue host is they do have relatively cheap plans but part of the reason why they're able to offer such cheap plans is they aren't the best quality out there they basically what they do is they're an aggregator they go and they buy lots of small little hosting companies and blue host is just a giant conglomerate and part of the reason they're able to offer such cheap hosting is also their support is not great and their uptime was 99.92% they had a total downtime of 6 hours throughout the year and their average load time for the website with Blu host was around 6.72 seconds which is way too slow and I actually used blue host when I first set up my website but I've had a ton of issues with them I've had uptime issues I've had support issues and overall I've lost thousands upon thousands of dollars in sales by using Blu host and yes blue host is cheap but they're kind of overpriced for what you get because their service really sucks and if I were to purchase a WordPress hosting company today knowing everything that I know I would not choose blue host in fact I'm in the process of moving my hosting over to a new company a company I'm going to be talking about later in this video the company that I said I think is the best hosting company out there so next up we have HostGator and host skater is another popular WordPress hosting website host skater showed an annual uptime of9 99.94% with only 3 hours of downtime which is pretty good but their average load time was slower at around 4.12 seconds which is slower than the 2 seconds that Google recommends a pro is they do have relatively good customer service and fairly affordable prices but here's a dirty little secret about HostGator they're actually owned by the same parent company that owns blue host and honestly blue host and HostGator are about the same and you know sometimes you get better luck with host or sometimes you get better luck with blue host so if you're choosing between these two I would choose whichever one is cheaper at the time again I have discount links to both of them down below in the description the next hosting company is kinsta and we tested kinsta for over a year and a big Pro with kinsta is there uptime of 99.99% with only 24 minutes of downtime throughout the entire year another Pro for kinsta is the average load time was only around 1.26 seconds so they're meeting Google's recommendation of less than 2 seconds of load time plus it does have automatic backups every single day a con for kinsta is the price with the packages starting at $35 a month and kinsta doesn't come with any free web domains which means for me this is a bit of a deal breaker it's it's very overpriced even though it does have really good performance next I looked at 10 web which is a new hosting company with an AI website builder and the first pro is they had an overall uptime of 99.99% % but they had more downtime uh with 60 Minutes of downtime throughout the year their load speed is another Pro of only 921 milliseconds which is under 1 second as for support that's another Pro for 10 web their team is fast and detailed and they have 247 website security however a big conon is their website editor which just kept crashing and it makes this website really unreliable and kind of hard to use at times another con for me and a con for 10 web is they're not very userfriendly for beginners and their packages start at around $10 for just one website the next hosting company is A2 hosting and their annual uptime was 99.98% with a downtime of Just 2 hours but a con is their average load time was 2.98 seconds which is kind of high another con is their website backups are only available with certain plans and although they have pros of being a great company for scaling your website in business their loading speed and because the fact that they don't offer backups for all their plan is a massive con and for me it means that I would not recommend this company the next one that we have is in motion and a pro for in motion is they have an uptime of 99% but a con is their speed with an average of 2.93 seconds another con for inmotion is compared to a lot of other hosting companies out there they're just more expensive and you don't get anything extra for all that extra money you're spending another big con which I've never seen before in in motion doesn't immediately activate your account once your payment has been processed you actually need to wait for your profile to be activated on a phone call from a new account specialist at inmotion next up we have dream host and the first big Pro for dream host is that they are recommended by WordPress themselves but that's kind of where the pros end there's not really a lot great about dream host I don't know why WordPress recommends dream host because it has a low annual uptime of 99.91% in an average of 7 hours of down time but the average load speed was 3.94 seconds which is pretty freaking slow and another con for dream host is their support requests have long delays and premium WordPress hosting requires additional costs up next is the hosting company fast comment and their uptime is 99.97% with only 1 hour of downtime throughout the entire year which isn't bad and a huge Pro is their 24/7 fast and reliable customer support and then plans are very inexpensive starting at .70 a month but their loading time is where I see a huge con their average load time clocked in at 3.29 seconds another con is their low disk space they only offer a Max of 35 GB which should be enough for most people out there but the hosting company that I'm going to recommend at the end of this video offers a lot more space than that the next company we're going to look at is GoDaddy and honestly there's not a lot of Pros with GoDaddy I really don't recommend using GoDaddy because they had an annual uptime of 99.85% with 11 hours of downtime and their load time was 2.97 seconds a big con with GoDaddy is also their price and the reason is GoDaddy spends a ton of money on advertising on marketing and I do recommend if you need to buy a domain name you can use GoDaddy to do that but the way that GoDaddy makes their money is by selling people their hosting plans and mostly what happens is older people that don't really understand people that aren't watching this kind of a video will get tricked into buying a cheap domain name with them and then paying extra money for hosting that they don't really need when there's better options out there and on top of this they only give you one SSL certificate per year which means that if you want to have multiple websites you're not going to be able to do that with their hosting plan another big con is creating a website using GoDaddy is really confusing in my opinion a lot of other hosting companies out there have much easier to use website Builders however one one big Pro I could think about with GoDaddy is they do offer phone support but so does the next company that I'm going to talk about the next company also offers phone support and I will say in talking with godaddy's phone support they can sometimes be kind of rude and I know a lot of people that have had negative experiences with godaddy's phone support So I don't recommend GoDaddy next up is green Geeks and one big Pro for green Geeks is they have an uptime of 99.98% and only two hours of downtime throughout the entire year but they did have an average load time of 2.49 seconds which is more than what Google recommends so this is not the best hosting company but honestly it's pretty close to what Google recommends so this isn't a terrible option next up is liquid web and first I have some big Pros for liquid web they achieved an annual uptime of 99.98% with only 1 hour of downtime and an average load speed of 1.38 seconds but a huge con is plan start at around $19 a month another con is recently their support has become really slow so this could be a good option for companies out there that need top tier managed hosting but it's really not a good call for beginners the next hosting company is name hero and over the span of 6 months name hero had an annual uptime of 99.98% with only 34 minutes of downtime which is really good and this just goes to show how reliable this company is another big Pro is they manage an average load time of 1.6 2 seconds plus they have really good customer service but their verification time is slow and another con is the price it's more expensive than other hosting companies for WordPress their hosting is also more expensive than other hosting companies out there including the winner that I'm going to be talking about in just a little bit next up is pressible this is a new company and it's got some great Pros their uptime is 99.99% and they only had 10 minutes of downtime they also had an average load time of 1.08 seconds and this is just on their personal plan pral also does have strong security but on the other hand the cost of this hosting company is really expensive it's $25 a month which is ridiculous compared to a lot of the other hosting companies that we've talked about so this is a good option if you really need the best uptime in one of the fastest website hosts out there but I wouldn't personally recommend this to most beginners out there the next hosting company we're going to talk about is Cy ground and this used to be my favorite hosting company and there's a lot of Pros here the first pro for cyon is they're actually one of the three companies that is recommended by WordPress themselves and their annual uptime is 99.99% with just 1 hour of downtime throughout the entire year and they have an average load time of 1.73 seconds on their grow big plan other Pros are they offer daily backups free cdns and they have managed WordPress hosting they also have very affordable pricing however overall I would say site ground is kind of a mid tier hosting company it's about middle-of the road pricing they also offer fairly affordable pricing but it's quite a bit more expensive than the winning hosting company that I'll be talking about in just a minute one big con with syy is with their lowest tier plan you can only have one website and you only get 10 GB of webspace and you're only allowed 10,000 monthly visits which just doesn't really make any sense which means if your website starts doing really well and starts getting more visitors you're going to have to pay more money next next up is TMD hosting and TMD hosting starts off with some big cons for me they only have an annual uptime of 99.9% with 8 hours of downtime they also had an average load time of 2.15 seconds using their starter package but as a pro they've got an easy to usee dashboard and their pricing is pretty competitive to start but their price is a bit of a double-edged sword it doesn't cost a lot to sign up but their renewal fees are really expensive next up after that is is WP engine WP engine's biggest Pro is speed WP engine had an annual uptime of 99.97% with Just 2 hours of downtime maintaining an average load time of 1.36 seconds another Pro with this hosting company is that it's really reliable and they have great customer support agents who are really knowledgeable in fact experts at WordPress and overall it's probably the most professional and one of the best hosting companies out there but they've got a massive con it's 10 times the price of all the other hosting companies so it's really not great for beginners up next we're going to talk about wpx hosting for WordPress first their's feed wpx hosting had a great annual uptime of 99.99% with only 22 minutes of downtime they also had an average load time of 1.93 seconds on their business plan and that's a big Pro the prices are also affordable for people that are new to Wordpress and they also have very low weight times which is a great addition for anyone that's looking for fast reliable support however ever there's no option for phone support it's all live chat another con is the hosting dashboard itself can get confusing and it's fairly outdated my opinion it it's not very intuitive and not very easy to use for beginners next up we're going to be talking about cloudways which is an all cloud-based hosting company but before we can begin with cloudways I just want to let you know that cloudways is not suitable for beginners because you have to migrate your website and it's easy to mess something up but of course make sure to keep watching cuz I am going to be reviewing the best web hosting company for beginners really for everyone and I'm going to be talking about like which hosting company is best for you I'll share what my favorite one is but we'll talk about which hosting compan is also going to be right for you but let's keep talking about cloudways and cloudways has an annual uptime of 99.99% with only 3 minutes of downtime which is a big Pro and they showcase exceptional reliability the average load time for this platform was 1.45 seconds and it's a great solution for businesses looking for hosting but a big con is the setup it's really complex and takes a while to try to get in and figure out how to set up cloudways another con is the trial period to test it out which is only 3 days next up is digital ocean and again a great Pro here is the speed with digital ocean the up time is 99.99% with only 1 minute of downtime which is incredible and the page speed load time was 1.59 seconds as I said it's a great hosting company for startups and this is a great hosting company for startups and midsize businesses but but even then there are some cons like there's no file manager or email hosting next up is Leno and lenoe had an uptime of 99.9% with only 7 Minutes of downtime and a big Pro is their page load speed time was under 1 second it was 970 milliseconds which is the fastest among all the different cloudways hosting options it's also very reliable but you do have to pay for website backup separately and they only go as far back as 14 days so you can't access version your website older than 2 weeks and the last hosting company before I get into the winner who I think is the best hosting company is vulture and they have an uptime of 99.99% with only 1 hour of downtime throughout the entire year and their average load time was 1.63 seconds which is a pretty big Pro and they've got great pricing structure as well for all their plans their support is fast and reliable but a big con for me is that it's just outdated when it comes to their infrastructure so now drum roll please let's announce the best web hosting company for WordPress and which one you should go with and I personally recommend and think the best web hosting company out there is hos singer and hos singer is the best hosting company out there because they allow you to store over a 100 gigabyt of data and you can create over a 100 websites even with their cheapest plan you also will get a free domain name free email and unlimited free ssls on top of that host singer has data centers all over the world and their website builder is one of the easiest ones and you can even use their free AI tools to build a website in seconds and best of all hostinger is one of the most affordable hosting companies out there plus I have the hookup with host singer I can get you an extra 10% off all you have to do is click on the link down below use coupon code Travis and you're going to get an additional 10% off even though hos singer is already probably the most affordable hosting company now I will say one big con with host singer is they are constantly raising their prices when I first found out about them they were only 99 cents a month now they're almost $3 a month which is still an insanely good deal but I'm telling that to you so that you know that if you're thinking about signing up for a hosting company I would recommend signing up with hostinger and doing it fast before they raise their prices so use the link down below sign up for hostinger and make sure that you use the coupon code Travis to get an extra 10% off",
+  "id": "VZR06fD01W4",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "BLACK FRIDAY deal from Hostinger - Save up to 79% for the Business plan by buying a 4-year subscription for just $3.49 per month: https://www.hostg.xyz/SHHWs\n\nI go over the PROS and CONS of the TOP 20 WordPress Web Hosting companies and I share with you the WINNER so you know exactly which one you should go with to host your WordPress Website!\n\nClick below to join the Waitlist For My Amazon FBA Course\nhttps://start.travismarziani.com/?utm_source=youtube&utm_campaign=bestwebhosting\n\nInstagram: https://www.instagram.com/travismarziani/\n\n0:00 Introduction\n1:20 Free Services to look for in a Hosting Company\n1:35 What is SSL?\n2:05 Free Email Accounts\n2:30 Support\n2:53 Backup\n3:10 Refund Policy\n3:40 Free Domain Name\n3:53 CDN\n4:15 Malware Cleanup\n5:07 What is Basic Storage?\n5:46 What is NVME Storage?\n6:52 Hostinger Pros and Cons\n7:37 bluehost Pros and Cons\n8:51 HostGator Pros and Cons\n9:40 Kinsta Pros and Cons\n10:20 10Web Pros and Cons\n11:05 A2 Hosting Pros and Cons\n11:38 inmotion Pros and Cons\n12:10 DreamHost Pros and Cons\n12:45 Fastcomet Pros and Cons\n13:23 GoDaddy Pros and Cons\n14:49 GreenGeeks Pros and Cons\n15:12 Liquid Web Pros and Cons\n15:42 NameHero Pros and Cons\n16:17 Pressable Pros and Cons\n16:53 SiteGround Pros and Cons\n17:58 TMD Hosting Pros and Cons\n18:28 WP engine Pros and Cons\n19:03 WPX Hosting Pros and Cons\n19:42 Cloudways Pros and Cons\n20:40 DigitalOcean Pros and Cons\n21:04 linode Pros and Cons\n21:35 Vultr Pros and Cons\n22:00 The Best Web Hosting Company\n\nTools I recommend:\nSign up using one of the links below and I will give you a free 1 on 1 consultation\nFBACreatives: https://fbacreatives.com (Get 40% OFF brand and logo designs with code: TRAVIS)\nShopify: http://travismarziani.com/shopify\nOnlinejobs.ph: http://travismarziani.com/onlinejobs\nSiteground: http://travismarziani.com/siteground\nHelium 10: http://travismarziani.com/helium10\nJungle Scout: http://travismarziani.com/junglescout\nWeb Hosting With Hostinger: https://www.hostg.xyz/SHHWs\nFiverr: http://travismarziani.com/gofiverr\n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel, so thank you!"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "1398",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2024-11-14",
+      "title": {
+        "simpleText": "BEST Web Hosting For WordPress (2026)! \ud83d\udda5\ufe0f"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "BEST Web Hosting For WordPress (2026)! \ud83d\udda5\ufe0f",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.04",
+          "dur": "4.719",
+          "text": "we're going to go over the top 20"
+        },
+        {
+          "start": "1.719",
+          "dur": "4.921",
+          "text": "WordPress hosting companies one by one"
+        },
+        {
+          "start": "4.759",
+          "dur": "4.721",
+          "text": "and we're going to talk about the pros"
+        },
+        {
+          "start": "6.64",
+          "dur": "6.079",
+          "text": "and the cons for every single one of"
+        },
+        {
+          "start": "9.48",
+          "dur": "6.079",
+          "text": "these companies all based on a full year"
+        },
+        {
+          "start": "12.719",
+          "dur": "5.121",
+          "text": "of speed tests and Analysis and I'll be"
+        },
+        {
+          "start": "15.559",
+          "dur": "7.121",
+          "text": "giving these hosting companies a rating"
+        },
+        {
+          "start": "17.84",
+          "dur": "6.759",
+          "text": "from a to F A being the best and F being"
+        },
+        {
+          "start": "22.68",
+          "dur": "3.8",
+          "text": "the worst which means by the end of this"
+        },
+        {
+          "start": "24.599",
+          "dur": "3.641",
+          "text": "video you're going to know exactly which"
+        },
+        {
+          "start": "26.48",
+          "dur": "4.44",
+          "text": "one of these companies you should go"
+        },
+        {
+          "start": "28.24",
+          "dur": "4.199",
+          "text": "with to host your WordPress website and"
+        },
+        {
+          "start": "30.92",
+          "dur": "3.72",
+          "text": "the winner is going to be a hosting"
+        },
+        {
+          "start": "32.439",
+          "dur": "4.12",
+          "text": "company that I've used that not a lot of"
+        },
+        {
+          "start": "34.64",
+          "dur": "4",
+          "text": "people know about and this hosting"
+        },
+        {
+          "start": "36.559",
+          "dur": "4.561",
+          "text": "company is the best one out there it"
+        },
+        {
+          "start": "38.64",
+          "dur": "4.16",
+          "text": "allows you to host hundreds of gigs of"
+        },
+        {
+          "start": "41.12",
+          "dur": "3.32",
+          "text": "data it's also one of the most"
+        },
+        {
+          "start": "42.8",
+          "dur": "2.759",
+          "text": "affordable ones so make sure you stay"
+        },
+        {
+          "start": "44.44",
+          "dur": "3.959",
+          "text": "till the end of the video to find out"
+        },
+        {
+          "start": "45.559",
+          "dur": "4.601",
+          "text": "who the winner is but before I share"
+        },
+        {
+          "start": "48.399",
+          "dur": "3.401",
+          "text": "that make sure to smash the like button"
+        },
+        {
+          "start": "50.16",
+          "dur": "3.48",
+          "text": "because as a bonus for watching this"
+        },
+        {
+          "start": "51.8",
+          "dur": "4.04",
+          "text": "video I actually contacted all these"
+        },
+        {
+          "start": "53.64",
+          "dur": "4.36",
+          "text": "hosting companies and I got the hookup I"
+        },
+        {
+          "start": "55.84",
+          "dur": "3.199",
+          "text": "got discounted pricing the best pricing"
+        },
+        {
+          "start": "58",
+          "dur": "2.48",
+          "text": "with all these different hosting"
+        },
+        {
+          "start": "59.039",
+          "dur": "3.441",
+          "text": "companies that you can find"
+        },
+        {
+          "start": "60.48",
+          "dur": "3.759",
+          "text": "anywhere on the internet and if you want"
+        },
+        {
+          "start": "62.48",
+          "dur": "3.2",
+          "text": "those discounted rates there are links"
+        },
+        {
+          "start": "64.239",
+          "dur": "3.041",
+          "text": "Down Below in the description with"
+        },
+        {
+          "start": "65.68",
+          "dur": "3.64",
+          "text": "coupon codes to all the different"
+        },
+        {
+          "start": "67.28",
+          "dur": "3.32",
+          "text": "hosting companies but first with most"
+        },
+        {
+          "start": "69.32",
+          "dur": "3.32",
+          "text": "hosting companies out there they're"
+        },
+        {
+          "start": "70.6",
+          "dur": "3.8",
+          "text": "going to offer you some different free"
+        },
+        {
+          "start": "72.64",
+          "dur": "3.32",
+          "text": "services and if there's a hosting"
+        },
+        {
+          "start": "74.4",
+          "dur": "2.84",
+          "text": "company that doesn't offer the services"
+        },
+        {
+          "start": "75.96",
+          "dur": "3.799",
+          "text": "that I'm about to share with you for"
+        },
+        {
+          "start": "77.24",
+          "dur": "4.6",
+          "text": "free don't sign up with them so let's"
+        },
+        {
+          "start": "79.759",
+          "dur": "3.521",
+          "text": "share some of those common services that"
+        },
+        {
+          "start": "81.84",
+          "dur": "3.319",
+          "text": "you're going to get and I recommend with"
+        },
+        {
+          "start": "83.28",
+          "dur": "3.04",
+          "text": "any hosting company you sign up for that"
+        },
+        {
+          "start": "85.159",
+          "dur": "5",
+          "text": "you make sure that they're going to give"
+        },
+        {
+          "start": "86.32",
+          "dur": "6.96",
+          "text": "you free ssls free emails free support"
+        },
+        {
+          "start": "90.159",
+          "dur": "4.681",
+          "text": "free backups and a money back guarantee"
+        },
+        {
+          "start": "93.28",
+          "dur": "4.6",
+          "text": "and let me explain what each of these"
+        },
+        {
+          "start": "94.84",
+          "dur": "4.8",
+          "text": "means SSL stands for secure sockets"
+        },
+        {
+          "start": "97.88",
+          "dur": "4.04",
+          "text": "layer if you're going to be selling"
+        },
+        {
+          "start": "99.64",
+          "dur": "3.759",
+          "text": "products on your website or if you just"
+        },
+        {
+          "start": "101.92",
+          "dur": "3.96",
+          "text": "want to make sure that your website is"
+        },
+        {
+          "start": "103.399",
+          "dur": "4.76",
+          "text": "secure you're going to need to add this"
+        },
+        {
+          "start": "105.88",
+          "dur": "4",
+          "text": "SSL certificate to your website and this"
+        },
+        {
+          "start": "108.159",
+          "dur": "4.161",
+          "text": "helps to secure all your online"
+        },
+        {
+          "start": "109.88",
+          "dur": "4.599",
+          "text": "transactions it keeps all your customer"
+        },
+        {
+          "start": "112.32",
+          "dur": "3.719",
+          "text": "information private and secure and you"
+        },
+        {
+          "start": "114.479",
+          "dur": "3.041",
+          "text": "need this especially if you're going to"
+        },
+        {
+          "start": "116.039",
+          "dur": "3.04",
+          "text": "be selling products online but even if"
+        },
+        {
+          "start": "117.52",
+          "dur": "3.519",
+          "text": "you're not if you just want to have the"
+        },
+        {
+          "start": "119.079",
+          "dur": "4.201",
+          "text": "best security you're going to want this"
+        },
+        {
+          "start": "121.039",
+          "dur": "4.36",
+          "text": "SSL certificate and most hosting"
+        },
+        {
+          "start": "123.28",
+          "dur": "4.04",
+          "text": "companies will give this to you for free"
+        },
+        {
+          "start": "125.399",
+          "dur": "4.64",
+          "text": "next every hosting company should also"
+        },
+        {
+          "start": "127.32",
+          "dur": "4.76",
+          "text": "offer you free email accounts I"
+        },
+        {
+          "start": "130.039",
+          "dur": "3.28",
+          "text": "recommend at a minimum signing up for a"
+        },
+        {
+          "start": "132.08",
+          "dur": "4.159",
+          "text": "hosting company that's going to give you"
+        },
+        {
+          "start": "133.319",
+          "dur": "4.761",
+          "text": "at least 50 free email accounts and this"
+        },
+        {
+          "start": "136.239",
+          "dur": "3.801",
+          "text": "allows you to create business emails for"
+        },
+        {
+          "start": "138.08",
+          "dur": "4.04",
+          "text": "instance I recently launched a product"
+        },
+        {
+          "start": "140.04",
+          "dur": "4.199",
+          "text": "called carnivore electrolytes we built"
+        },
+        {
+          "start": "142.12",
+          "dur": "4.16",
+          "text": "an online store for it and I was able to"
+        },
+        {
+          "start": "144.239",
+          "dur": "4.441",
+          "text": "create an email Travis carnivore"
+        },
+        {
+          "start": "146.28",
+          "dur": "5.2",
+          "text": "electrolytes. comom another thing that"
+        },
+        {
+          "start": "148.68",
+          "dur": "5.12",
+          "text": "hosting company should offer for free is"
+        },
+        {
+          "start": "151.48",
+          "dur": "3.479",
+          "text": "support anytime that there is an issue"
+        },
+        {
+          "start": "153.8",
+          "dur": "3.48",
+          "text": "with your website you want to make sure"
+        },
+        {
+          "start": "154.959",
+          "dur": "3.441",
+          "text": "that you're able to contact someone for"
+        },
+        {
+          "start": "157.28",
+          "dur": "2.239",
+          "text": "support and that's something that we're"
+        },
+        {
+          "start": "158.4",
+          "dur": "3.16",
+          "text": "going to be talking about in this video"
+        },
+        {
+          "start": "159.519",
+          "dur": "3.44",
+          "text": "is what level of support do all these"
+        },
+        {
+          "start": "161.56",
+          "dur": "3.36",
+          "text": "different hosting companies offer"
+        },
+        {
+          "start": "162.959",
+          "dur": "3.321",
+          "text": "because when your website is down you"
+        },
+        {
+          "start": "164.92",
+          "dur": "3.36",
+          "text": "want to make sure that you can talk to"
+        },
+        {
+          "start": "166.28",
+          "dur": "4.319",
+          "text": "your hosting company to get your website"
+        },
+        {
+          "start": "168.28",
+          "dur": "3.44",
+          "text": "fixed as soon as possible the next"
+        },
+        {
+          "start": "170.599",
+          "dur": "4.241",
+          "text": "service that you want to make sure your"
+        },
+        {
+          "start": "171.72",
+          "dur": "5",
+          "text": "hosting company has is backups do they"
+        },
+        {
+          "start": "174.84",
+          "dur": "3.52",
+          "text": "offer some kind of backup because if"
+        },
+        {
+          "start": "176.72",
+          "dur": "3.12",
+          "text": "something happens to your website you"
+        },
+        {
+          "start": "178.36",
+          "dur": "3.56",
+          "text": "want to make sure that you can get your"
+        },
+        {
+          "start": "179.84",
+          "dur": "3.56",
+          "text": "website back up and running as soon as"
+        },
+        {
+          "start": "181.92",
+          "dur": "3.84",
+          "text": "possible and the majority of Hosting"
+        },
+        {
+          "start": "183.4",
+          "dur": "4.24",
+          "text": "companies do offer free backups but some"
+        },
+        {
+          "start": "185.76",
+          "dur": "3.32",
+          "text": "don't and we'll talk about which ones do"
+        },
+        {
+          "start": "187.64",
+          "dur": "3.48",
+          "text": "and which ones don't the last thing that"
+        },
+        {
+          "start": "189.08",
+          "dur": "4.239",
+          "text": "we're going to talk about is a refund"
+        },
+        {
+          "start": "191.12",
+          "dur": "4.399",
+          "text": "policy most hosting companies out there"
+        },
+        {
+          "start": "193.319",
+          "dur": "3.801",
+          "text": "will offer some kind of a refund policy"
+        },
+        {
+          "start": "195.519",
+          "dur": "3.8",
+          "text": "at least most good ones and if you see a"
+        },
+        {
+          "start": "197.12",
+          "dur": "4.399",
+          "text": "web host without a refund policy I would"
+        },
+        {
+          "start": "199.319",
+          "dur": "4.681",
+          "text": "not recommend going with them that is a"
+        },
+        {
+          "start": "201.519",
+          "dur": "4.841",
+          "text": "massive red flag refunds are something"
+        },
+        {
+          "start": "204",
+          "dur": "4.92",
+          "text": "that most web hosts out there should"
+        },
+        {
+          "start": "206.36",
+          "dur": "3.799",
+          "text": "offer if there is some kind of an issue"
+        },
+        {
+          "start": "208.92",
+          "dur": "2.48",
+          "text": "and those are the main things that"
+        },
+        {
+          "start": "210.159",
+          "dur": "2.961",
+          "text": "you're going to want to look for in a"
+        },
+        {
+          "start": "211.4",
+          "dur": "4.399",
+          "text": "hosting company but there are some other"
+        },
+        {
+          "start": "213.12",
+          "dur": "4.399",
+          "text": "bonuses that you should think about and"
+        },
+        {
+          "start": "215.799",
+          "dur": "4.761",
+          "text": "one of the big things is I love when a"
+        },
+        {
+          "start": "217.519",
+          "dur": "5.481",
+          "text": "hosting company offers you a free domain"
+        },
+        {
+          "start": "220.56",
+          "dur": "4.84",
+          "text": "name that is the ww. whatever the name"
+        },
+        {
+          "start": "223",
+          "dur": "4.04",
+          "text": "of your website is.com and you're going"
+        },
+        {
+          "start": "225.4",
+          "dur": "4.08",
+          "text": "to have to pay for this either way so if"
+        },
+        {
+          "start": "227.04",
+          "dur": "4.16",
+          "text": "your hosting company offers it for free"
+        },
+        {
+          "start": "229.48",
+          "dur": "5.36",
+          "text": "that is a huge win and it's going to"
+        },
+        {
+          "start": "231.2",
+          "dur": "6.56",
+          "text": "save you money another one is a CDN or"
+        },
+        {
+          "start": "234.84",
+          "dur": "5.16",
+          "text": "free access to a CDN and CDN stands for"
+        },
+        {
+          "start": "237.76",
+          "dur": "4.52",
+          "text": "Content delivery Network and what this"
+        },
+        {
+          "start": "240",
+          "dur": "4.12",
+          "text": "does is it allows your website to be"
+        },
+        {
+          "start": "242.28",
+          "dur": "4.48",
+          "text": "faster because it will distribute your"
+        },
+        {
+          "start": "244.12",
+          "dur": "4.16",
+          "text": "website in different images and content"
+        },
+        {
+          "start": "246.76",
+          "dur": "3.44",
+          "text": "from your website to multiple different"
+        },
+        {
+          "start": "248.28",
+          "dur": "3.72",
+          "text": "servers all around the world which is"
+        },
+        {
+          "start": "250.2",
+          "dur": "3.759",
+          "text": "going to make it faster for anybody to"
+        },
+        {
+          "start": "252",
+          "dur": "3.76",
+          "text": "load up your website from anywhere in"
+        },
+        {
+          "start": "253.959",
+          "dur": "4.201",
+          "text": "the world another rare freebie that I"
+        },
+        {
+          "start": "255.76",
+          "dur": "4.52",
+          "text": "want to mention is malware cleanup and"
+        },
+        {
+          "start": "258.16",
+          "dur": "3.639",
+          "text": "very few web hosting companies offer"
+        },
+        {
+          "start": "260.28",
+          "dur": "3.76",
+          "text": "this but it's probably one of the best"
+        },
+        {
+          "start": "261.799",
+          "dur": "4.561",
+          "text": "free services you guys can get because"
+        },
+        {
+          "start": "264.04",
+          "dur": "4.8",
+          "text": "malware removal protects your website"
+        },
+        {
+          "start": "266.36",
+          "dur": "4.44",
+          "text": "against hackers who try to steal your"
+        },
+        {
+          "start": "268.84",
+          "dur": "3.199",
+          "text": "data and damage your website and when"
+        },
+        {
+          "start": "270.8",
+          "dur": "2.44",
+          "text": "shopping for web hosting you want to"
+        },
+        {
+          "start": "272.039",
+          "dur": "3.321",
+          "text": "keep all these different features in"
+        },
+        {
+          "start": "273.24",
+          "dur": "5.04",
+          "text": "mind and not all of these might be"
+        },
+        {
+          "start": "275.36",
+          "dur": "5.08",
+          "text": "extremely necessary for your website but"
+        },
+        {
+          "start": "278.28",
+          "dur": "4.4",
+          "text": "if one of these features are it might be"
+        },
+        {
+          "start": "280.44",
+          "dur": "4.28",
+          "text": "the differen maker in choosing which"
+        },
+        {
+          "start": "282.68",
+          "dur": "3.959",
+          "text": "different hosting company you want to go"
+        },
+        {
+          "start": "284.72",
+          "dur": "4.12",
+          "text": "with now before we go through all the"
+        },
+        {
+          "start": "286.639",
+          "dur": "3.761",
+          "text": "different web hosts out there and I help"
+        },
+        {
+          "start": "288.84",
+          "dur": "4.4",
+          "text": "you to decide which one is perfect for"
+        },
+        {
+          "start": "290.4",
+          "dur": "4.84",
+          "text": "you I do want you to understand a couple"
+        },
+        {
+          "start": "293.24",
+          "dur": "3.88",
+          "text": "different specific terms that I'm going"
+        },
+        {
+          "start": "295.24",
+          "dur": "3",
+          "text": "to be talking about and by understanding"
+        },
+        {
+          "start": "297.12",
+          "dur": "2.6",
+          "text": "these different terms that I'm going to"
+        },
+        {
+          "start": "298.24",
+          "dur": "3.32",
+          "text": "give to you right now it's going to help"
+        },
+        {
+          "start": "299.72",
+          "dur": "4.52",
+          "text": "help you to understand which web hosting"
+        },
+        {
+          "start": "301.56",
+          "dur": "5.04",
+          "text": "company is the best for hosting your"
+        },
+        {
+          "start": "304.24",
+          "dur": "3.959",
+          "text": "WordPress website and the first term"
+        },
+        {
+          "start": "306.6",
+          "dur": "4.4",
+          "text": "that we want to talk about is basic"
+        },
+        {
+          "start": "308.199",
+          "dur": "6.201",
+          "text": "storage which refers to hard drives"
+        },
+        {
+          "start": "311",
+          "dur": "6.44",
+          "text": "there's HDD and there's SSD HDD stands"
+        },
+        {
+          "start": "314.4",
+          "dur": "6.2",
+          "text": "for hard disk drives and SSD stands for"
+        },
+        {
+          "start": "317.44",
+          "dur": "5.24",
+          "text": "solid state drives HDD drives are slower"
+        },
+        {
+          "start": "320.6",
+          "dur": "5.4",
+          "text": "to load information because they have"
+        },
+        {
+          "start": "322.68",
+          "dur": "5.88",
+          "text": "many moving Parts SSD solid state drives"
+        },
+        {
+          "start": "326",
+          "dur": "4.6",
+          "text": "don't have moving parts so they load"
+        },
+        {
+          "start": "328.56",
+          "dur": "4.52",
+          "text": "faster which means that your website is"
+        },
+        {
+          "start": "330.6",
+          "dur": "5.48",
+          "text": "going to perform better both these"
+        },
+        {
+          "start": "333.08",
+          "dur": "5.959",
+          "text": "different options store data but SSD"
+        },
+        {
+          "start": "336.08",
+          "dur": "4.36",
+          "text": "drives are a lot faster so keep that in"
+        },
+        {
+          "start": "339.039",
+          "dur": "2.921",
+          "text": "mind another term that you need to know"
+        },
+        {
+          "start": "340.44",
+          "dur": "3.599",
+          "text": "before we dive into the pros and the"
+        },
+        {
+          "start": "341.96",
+          "dur": "4.4",
+          "text": "cons and go over all the speed tests for"
+        },
+        {
+          "start": "344.039",
+          "dur": "6.6",
+          "text": "these different hosting companies is a"
+        },
+        {
+          "start": "346.36",
+          "dur": "7.119",
+          "text": "term called nvme storage or nonvolatile"
+        },
+        {
+          "start": "350.639",
+          "dur": "5.28",
+          "text": "Memory Express this is the fastest type"
+        },
+        {
+          "start": "353.479",
+          "dur": "5.44",
+          "text": "of storage instead of loading the memory"
+        },
+        {
+          "start": "355.919",
+          "dur": "5.241",
+          "text": "drive into a specific slot nvme loads"
+        },
+        {
+          "start": "358.919",
+          "dur": "4.72",
+          "text": "directly from the motherboard this"
+        },
+        {
+          "start": "361.16",
+          "dur": "5.92",
+          "text": "results in a much higher data transfer"
+        },
+        {
+          "start": "363.639",
+          "dur": "5.081",
+          "text": "rate than SSD or HDD drives now let's"
+        },
+        {
+          "start": "367.08",
+          "dur": "4.679",
+          "text": "get into it and I recorded the speed"
+        },
+        {
+          "start": "368.72",
+          "dur": "5.72",
+          "text": "times and up times of these 20 different"
+        },
+        {
+          "start": "371.759",
+          "dur": "6.241",
+          "text": "web hosts host Zinger blue host host"
+        },
+        {
+          "start": "374.44",
+          "dur": "7.08",
+          "text": "skater kinsta 10 web A2 hosting in"
+        },
+        {
+          "start": "378",
+          "dur": "7.199",
+          "text": "motion dream host fast comment GoDaddy"
+        },
+        {
+          "start": "381.52",
+          "dur": "6.6",
+          "text": "green Geeks host Armada liquid web name"
+        },
+        {
+          "start": "385.199",
+          "dur": "7.44",
+          "text": "hero pre-assemble sight ground TMD"
+        },
+        {
+          "start": "388.12",
+          "dur": "7.24",
+          "text": "hosting WP wpx hosting and we also"
+        },
+        {
+          "start": "392.639",
+          "dur": "4.96",
+          "text": "tested cloudways and all the providers"
+        },
+        {
+          "start": "395.36",
+          "dur": "3.6",
+          "text": "out there like Amazon Digital ocean and"
+        },
+        {
+          "start": "397.599",
+          "dur": "3.841",
+          "text": "vulture it's important to know that"
+        },
+        {
+          "start": "398.96",
+          "dur": "3.92",
+          "text": "we're testing uptime and Page speed here"
+        },
+        {
+          "start": "401.44",
+          "dur": "4.56",
+          "text": "and anything above"
+        },
+        {
+          "start": "402.88",
+          "dur": "5.439",
+          "text": "99.95% uptime meets the web hosting"
+        },
+        {
+          "start": "406",
+          "dur": "4.759",
+          "text": "industry standard and Google suggests"
+        },
+        {
+          "start": "408.319",
+          "dur": "4.72",
+          "text": "your website needs to load in less than"
+        },
+        {
+          "start": "410.759",
+          "dur": "4.56",
+          "text": "2 seconds with that let's get started by"
+        },
+        {
+          "start": "413.039",
+          "dur": "4.521",
+          "text": "talking about host singer and a big Pro"
+        },
+        {
+          "start": "415.319",
+          "dur": "6.041",
+          "text": "for host singer is their uptime of"
+        },
+        {
+          "start": "417.56",
+          "dur": "5.44",
+          "text": "99.96% with 3 hours of downtime"
+        },
+        {
+          "start": "421.36",
+          "dur": "3.88",
+          "text": "throughout the entire year which is not"
+        },
+        {
+          "start": "423",
+          "dur": "5.479",
+          "text": "bad and what really impressed me about"
+        },
+        {
+          "start": "425.24",
+          "dur": "5.56",
+          "text": "them is their load time of 1.32 seconds"
+        },
+        {
+          "start": "428.479",
+          "dur": "4.601",
+          "text": "for a WordPress hosting website"
+        },
+        {
+          "start": "430.8",
+          "dur": "4.2",
+          "text": "hostinger is also really affordable it's"
+        },
+        {
+          "start": "433.08",
+          "dur": "3.44",
+          "text": "one of the lowest cost web hosting"
+        },
+        {
+          "start": "435",
+          "dur": "3.44",
+          "text": "companies out there and they have an"
+        },
+        {
+          "start": "436.52",
+          "dur": "4.359",
+          "text": "easy to use website builder for your"
+        },
+        {
+          "start": "438.44",
+          "dur": "5.12",
+          "text": "WordPress website it's honestly hard to"
+        },
+        {
+          "start": "440.879",
+          "dur": "4.201",
+          "text": "find a better hosting company especially"
+        },
+        {
+          "start": "443.56",
+          "dur": "3.96",
+          "text": "if this is the first time you've ever"
+        },
+        {
+          "start": "445.08",
+          "dur": "4.88",
+          "text": "started a WordPress website and"
+        },
+        {
+          "start": "447.52",
+          "dur": "3.56",
+          "text": "hostinger might be my favorite hosting"
+        },
+        {
+          "start": "449.96",
+          "dur": "3.519",
+          "text": "company out there but I am going to"
+        },
+        {
+          "start": "451.08",
+          "dur": "3.839",
+          "text": "announce the winner at the end of this"
+        },
+        {
+          "start": "453.479",
+          "dur": "3.201",
+          "text": "video so make sure you keep watching"
+        },
+        {
+          "start": "454.919",
+          "dur": "3.921",
+          "text": "because we still do have a lot more"
+        },
+        {
+          "start": "456.68",
+          "dur": "4.519",
+          "text": "hosting companies to go next up we have"
+        },
+        {
+          "start": "458.84",
+          "dur": "5",
+          "text": "blue host and first off let me say one"
+        },
+        {
+          "start": "461.199",
+          "dur": "4.56",
+          "text": "big Pro for blue host is they do have"
+        },
+        {
+          "start": "463.84",
+          "dur": "3.639",
+          "text": "relatively cheap plans but part of the"
+        },
+        {
+          "start": "465.759",
+          "dur": "4.56",
+          "text": "reason why they're able to offer such"
+        },
+        {
+          "start": "467.479",
+          "dur": "5.44",
+          "text": "cheap plans is they aren't the best"
+        },
+        {
+          "start": "470.319",
+          "dur": "4.44",
+          "text": "quality out there they basically what"
+        },
+        {
+          "start": "472.919",
+          "dur": "3.161",
+          "text": "they do is they're an aggregator they go"
+        },
+        {
+          "start": "474.759",
+          "dur": "3.12",
+          "text": "and they buy lots of small little"
+        },
+        {
+          "start": "476.08",
+          "dur": "3.76",
+          "text": "hosting companies and blue host is just"
+        },
+        {
+          "start": "477.879",
+          "dur": "3.681",
+          "text": "a giant conglomerate and part of the"
+        },
+        {
+          "start": "479.84",
+          "dur": "4.319",
+          "text": "reason they're able to offer such cheap"
+        },
+        {
+          "start": "481.56",
+          "dur": "5.919",
+          "text": "hosting is also their support is not"
+        },
+        {
+          "start": "484.159",
+          "dur": "5.561",
+          "text": "great and their uptime was 99.92% they"
+        },
+        {
+          "start": "487.479",
+          "dur": "3.84",
+          "text": "had a total downtime of 6 hours"
+        },
+        {
+          "start": "489.72",
+          "dur": "3.64",
+          "text": "throughout the year and their average"
+        },
+        {
+          "start": "491.319",
+          "dur": "5.121",
+          "text": "load time for the website with Blu host"
+        },
+        {
+          "start": "493.36",
+          "dur": "4.88",
+          "text": "was around 6.72 seconds which is way too"
+        },
+        {
+          "start": "496.44",
+          "dur": "3.68",
+          "text": "slow and I actually used blue host when"
+        },
+        {
+          "start": "498.24",
+          "dur": "3.88",
+          "text": "I first set up my website but I've had a"
+        },
+        {
+          "start": "500.12",
+          "dur": "3.96",
+          "text": "ton of issues with them I've had uptime"
+        },
+        {
+          "start": "502.12",
+          "dur": "3.4",
+          "text": "issues I've had support issues and"
+        },
+        {
+          "start": "504.08",
+          "dur": "3.36",
+          "text": "overall I've lost thousands upon"
+        },
+        {
+          "start": "505.52",
+          "dur": "5.04",
+          "text": "thousands of dollars in sales by using"
+        },
+        {
+          "start": "507.44",
+          "dur": "5.159",
+          "text": "Blu host and yes blue host is cheap but"
+        },
+        {
+          "start": "510.56",
+          "dur": "4.24",
+          "text": "they're kind of overpriced for what you"
+        },
+        {
+          "start": "512.599",
+          "dur": "3.92",
+          "text": "get because their service really sucks"
+        },
+        {
+          "start": "514.8",
+          "dur": "4.119",
+          "text": "and if I were to purchase a WordPress"
+        },
+        {
+          "start": "516.519",
+          "dur": "4.801",
+          "text": "hosting company today knowing everything"
+        },
+        {
+          "start": "518.919",
+          "dur": "4.04",
+          "text": "that I know I would not choose blue host"
+        },
+        {
+          "start": "521.32",
+          "dur": "4.36",
+          "text": "in fact I'm in the process of moving my"
+        },
+        {
+          "start": "522.959",
+          "dur": "4.081",
+          "text": "hosting over to a new company a company"
+        },
+        {
+          "start": "525.68",
+          "dur": "3.04",
+          "text": "I'm going to be talking about later in"
+        },
+        {
+          "start": "527.04",
+          "dur": "3.96",
+          "text": "this video the company that I said I"
+        },
+        {
+          "start": "528.72",
+          "dur": "4.92",
+          "text": "think is the best hosting company out"
+        },
+        {
+          "start": "531",
+          "dur": "4.76",
+          "text": "there so next up we have HostGator and"
+        },
+        {
+          "start": "533.64",
+          "dur": "4.48",
+          "text": "host skater is another popular WordPress"
+        },
+        {
+          "start": "535.76",
+          "dur": "6.44",
+          "text": "hosting website host skater showed an"
+        },
+        {
+          "start": "538.12",
+          "dur": "7.04",
+          "text": "annual uptime of9 99.94% with only 3"
+        },
+        {
+          "start": "542.2",
+          "dur": "5.28",
+          "text": "hours of downtime which is pretty good"
+        },
+        {
+          "start": "545.16",
+          "dur": "3.4",
+          "text": "but their average load time was slower"
+        },
+        {
+          "start": "547.48",
+          "dur": "3.52",
+          "text": "at around"
+        },
+        {
+          "start": "548.56",
+          "dur": "4.68",
+          "text": "4.12 seconds which is slower than the 2"
+        },
+        {
+          "start": "551",
+          "dur": "4",
+          "text": "seconds that Google recommends a pro is"
+        },
+        {
+          "start": "553.24",
+          "dur": "4.76",
+          "text": "they do have relatively good customer"
+        },
+        {
+          "start": "555",
+          "dur": "4.56",
+          "text": "service and fairly affordable prices but"
+        },
+        {
+          "start": "558",
+          "dur": "3.519",
+          "text": "here's a dirty little secret about"
+        },
+        {
+          "start": "559.56",
+          "dur": "4.16",
+          "text": "HostGator they're actually owned by the"
+        },
+        {
+          "start": "561.519",
+          "dur": "4.56",
+          "text": "same parent company that owns blue host"
+        },
+        {
+          "start": "563.72",
+          "dur": "4.76",
+          "text": "and honestly blue host and HostGator are"
+        },
+        {
+          "start": "566.079",
+          "dur": "3.641",
+          "text": "about the same and you know sometimes"
+        },
+        {
+          "start": "568.48",
+          "dur": "2.4",
+          "text": "you get better luck with host or"
+        },
+        {
+          "start": "569.72",
+          "dur": "2.76",
+          "text": "sometimes you get better luck with blue"
+        },
+        {
+          "start": "570.88",
+          "dur": "3.6",
+          "text": "host so if you're choosing between these"
+        },
+        {
+          "start": "572.48",
+          "dur": "3.72",
+          "text": "two I would choose whichever one is"
+        },
+        {
+          "start": "574.48",
+          "dur": "3.76",
+          "text": "cheaper at the time again I have"
+        },
+        {
+          "start": "576.2",
+          "dur": "3.52",
+          "text": "discount links to both of them down"
+        },
+        {
+          "start": "578.24",
+          "dur": "3.92",
+          "text": "below in the description the next"
+        },
+        {
+          "start": "579.72",
+          "dur": "4.48",
+          "text": "hosting company is kinsta and we tested"
+        },
+        {
+          "start": "582.16",
+          "dur": "5.239",
+          "text": "kinsta for over a year and a big Pro"
+        },
+        {
+          "start": "584.2",
+          "dur": "6.199",
+          "text": "with kinsta is there uptime of"
+        },
+        {
+          "start": "587.399",
+          "dur": "5.161",
+          "text": "99.99% with only 24 minutes of downtime"
+        },
+        {
+          "start": "590.399",
+          "dur": "4.521",
+          "text": "throughout the entire year another Pro"
+        },
+        {
+          "start": "592.56",
+          "dur": "5.279",
+          "text": "for kinsta is the average load time was"
+        },
+        {
+          "start": "594.92",
+          "dur": "5.08",
+          "text": "only around 1.26 seconds so they're"
+        },
+        {
+          "start": "597.839",
+          "dur": "5.44",
+          "text": "meeting Google's recommendation of less"
+        },
+        {
+          "start": "600",
+          "dur": "5.8",
+          "text": "than 2 seconds of load time plus it does"
+        },
+        {
+          "start": "603.279",
+          "dur": "4.921",
+          "text": "have automatic backups every single day"
+        },
+        {
+          "start": "605.8",
+          "dur": "4.76",
+          "text": "a con for kinsta is the price with the"
+        },
+        {
+          "start": "608.2",
+          "dur": "4.28",
+          "text": "packages starting at $35 a month and"
+        },
+        {
+          "start": "610.56",
+          "dur": "4.88",
+          "text": "kinsta doesn't come with any free web"
+        },
+        {
+          "start": "612.48",
+          "dur": "4.72",
+          "text": "domains which means for me this is a bit"
+        },
+        {
+          "start": "615.44",
+          "dur": "3.28",
+          "text": "of a deal breaker it's it's very"
+        },
+        {
+          "start": "617.2",
+          "dur": "3.68",
+          "text": "overpriced even though it does have"
+        },
+        {
+          "start": "618.72",
+          "dur": "4.44",
+          "text": "really good performance next I looked at"
+        },
+        {
+          "start": "620.88",
+          "dur": "4.8",
+          "text": "10 web which is a new hosting company"
+        },
+        {
+          "start": "623.16",
+          "dur": "5.16",
+          "text": "with an AI website builder and the first"
+        },
+        {
+          "start": "625.68",
+          "dur": "6.08",
+          "text": "pro is they had an overall uptime of"
+        },
+        {
+          "start": "628.32",
+          "dur": "5.12",
+          "text": "99.99% % but they had more downtime uh"
+        },
+        {
+          "start": "631.76",
+          "dur": "3.84",
+          "text": "with 60 Minutes of downtime throughout"
+        },
+        {
+          "start": "633.44",
+          "dur": "5.76",
+          "text": "the year their load speed is another Pro"
+        },
+        {
+          "start": "635.6",
+          "dur": "5.96",
+          "text": "of only 921 milliseconds which is under"
+        },
+        {
+          "start": "639.2",
+          "dur": "4.6",
+          "text": "1 second as for support that's another"
+        },
+        {
+          "start": "641.56",
+          "dur": "4.76",
+          "text": "Pro for 10 web their team is fast and"
+        },
+        {
+          "start": "643.8",
+          "dur": "4.2",
+          "text": "detailed and they have 247 website"
+        },
+        {
+          "start": "646.32",
+          "dur": "4.24",
+          "text": "security however a big conon is their"
+        },
+        {
+          "start": "648",
+          "dur": "4.279",
+          "text": "website editor which just kept crashing"
+        },
+        {
+          "start": "650.56",
+          "dur": "3.56",
+          "text": "and it makes this website really"
+        },
+        {
+          "start": "652.279",
+          "dur": "4.56",
+          "text": "unreliable and kind of hard to use at"
+        },
+        {
+          "start": "654.12",
+          "dur": "5.279",
+          "text": "times another con for me and a con for"
+        },
+        {
+          "start": "656.839",
+          "dur": "4.44",
+          "text": "10 web is they're not very userfriendly"
+        },
+        {
+          "start": "659.399",
+          "dur": "5.081",
+          "text": "for beginners and their packages start"
+        },
+        {
+          "start": "661.279",
+          "dur": "5.68",
+          "text": "at around $10 for just one website the"
+        },
+        {
+          "start": "664.48",
+          "dur": "5.2",
+          "text": "next hosting company is A2 hosting and"
+        },
+        {
+          "start": "666.959",
+          "dur": "6.241",
+          "text": "their annual uptime was"
+        },
+        {
+          "start": "669.68",
+          "dur": "6.68",
+          "text": "99.98% with a downtime of Just 2 hours"
+        },
+        {
+          "start": "673.2",
+          "dur": "6.36",
+          "text": "but a con is their average load time was"
+        },
+        {
+          "start": "676.36",
+          "dur": "5.08",
+          "text": "2.98 seconds which is kind of high"
+        },
+        {
+          "start": "679.56",
+          "dur": "4.64",
+          "text": "another con is their website backups are"
+        },
+        {
+          "start": "681.44",
+          "dur": "5.04",
+          "text": "only available with certain plans and"
+        },
+        {
+          "start": "684.2",
+          "dur": "3.8",
+          "text": "although they have pros of being a great"
+        },
+        {
+          "start": "686.48",
+          "dur": "3.72",
+          "text": "company for scaling your website in"
+        },
+        {
+          "start": "688",
+          "dur": "4.04",
+          "text": "business their loading speed and because"
+        },
+        {
+          "start": "690.2",
+          "dur": "4.439",
+          "text": "the fact that they don't offer backups"
+        },
+        {
+          "start": "692.04",
+          "dur": "4.12",
+          "text": "for all their plan is a massive con and"
+        },
+        {
+          "start": "694.639",
+          "dur": "3.601",
+          "text": "for me it means that I would not"
+        },
+        {
+          "start": "696.16",
+          "dur": "4.56",
+          "text": "recommend this company the next one that"
+        },
+        {
+          "start": "698.24",
+          "dur": "5.56",
+          "text": "we have is in motion and a pro for in"
+        },
+        {
+          "start": "700.72",
+          "dur": "5.44",
+          "text": "motion is they have an uptime of 99% but"
+        },
+        {
+          "start": "703.8",
+          "dur": "5.76",
+          "text": "a con is their speed with an average of"
+        },
+        {
+          "start": "706.16",
+          "dur": "4.799",
+          "text": "2.93 seconds another con for inmotion is"
+        },
+        {
+          "start": "709.56",
+          "dur": "3.36",
+          "text": "compared to a lot of other hosting"
+        },
+        {
+          "start": "710.959",
+          "dur": "3.521",
+          "text": "companies out there they're just more"
+        },
+        {
+          "start": "712.92",
+          "dur": "3.159",
+          "text": "expensive and you don't get anything"
+        },
+        {
+          "start": "714.48",
+          "dur": "3.599",
+          "text": "extra for all that extra money you're"
+        },
+        {
+          "start": "716.079",
+          "dur": "3.921",
+          "text": "spending another big con which I've"
+        },
+        {
+          "start": "718.079",
+          "dur": "3.801",
+          "text": "never seen before in in motion doesn't"
+        },
+        {
+          "start": "720",
+          "dur": "3.32",
+          "text": "immediately activate your account once"
+        },
+        {
+          "start": "721.88",
+          "dur": "2.639",
+          "text": "your payment has been processed you"
+        },
+        {
+          "start": "723.32",
+          "dur": "3.56",
+          "text": "actually need to wait for your profile"
+        },
+        {
+          "start": "724.519",
+          "dur": "4.921",
+          "text": "to be activated on a phone call from a"
+        },
+        {
+          "start": "726.88",
+          "dur": "4.079",
+          "text": "new account specialist at inmotion next"
+        },
+        {
+          "start": "729.44",
+          "dur": "3.639",
+          "text": "up we have dream host and the first big"
+        },
+        {
+          "start": "730.959",
+          "dur": "4.601",
+          "text": "Pro for dream host is that they are"
+        },
+        {
+          "start": "733.079",
+          "dur": "4.401",
+          "text": "recommended by WordPress themselves but"
+        },
+        {
+          "start": "735.56",
+          "dur": "3.48",
+          "text": "that's kind of where the pros end"
+        },
+        {
+          "start": "737.48",
+          "dur": "3.599",
+          "text": "there's not really a lot great about"
+        },
+        {
+          "start": "739.04",
+          "dur": "4.239",
+          "text": "dream host I don't know why WordPress"
+        },
+        {
+          "start": "741.079",
+          "dur": "6.2",
+          "text": "recommends dream host because it has a"
+        },
+        {
+          "start": "743.279",
+          "dur": "6.601",
+          "text": "low annual uptime of 99.91% in an"
+        },
+        {
+          "start": "747.279",
+          "dur": "6.12",
+          "text": "average of 7 hours of down time but the"
+        },
+        {
+          "start": "749.88",
+          "dur": "5.319",
+          "text": "average load speed was 3.94 seconds"
+        },
+        {
+          "start": "753.399",
+          "dur": "3.481",
+          "text": "which is pretty freaking slow and"
+        },
+        {
+          "start": "755.199",
+          "dur": "4.961",
+          "text": "another con for dream host is their"
+        },
+        {
+          "start": "756.88",
+          "dur": "5.16",
+          "text": "support requests have long delays and"
+        },
+        {
+          "start": "760.16",
+          "dur": "4.359",
+          "text": "premium WordPress hosting requires"
+        },
+        {
+          "start": "762.04",
+          "dur": "6.12",
+          "text": "additional costs up next is the hosting"
+        },
+        {
+          "start": "764.519",
+          "dur": "6.641",
+          "text": "company fast comment and their uptime is"
+        },
+        {
+          "start": "768.16",
+          "dur": "5.32",
+          "text": "99.97% with only 1 hour of downtime"
+        },
+        {
+          "start": "771.16",
+          "dur": "5.72",
+          "text": "throughout the entire year which isn't"
+        },
+        {
+          "start": "773.48",
+          "dur": "5.84",
+          "text": "bad and a huge Pro is their 24/7 fast"
+        },
+        {
+          "start": "776.88",
+          "dur": "4.72",
+          "text": "and reliable customer support and then"
+        },
+        {
+          "start": "779.32",
+          "dur": "5.199",
+          "text": "plans are very inexpensive starting at"
+        },
+        {
+          "start": "781.6",
+          "dur": "4.96",
+          "text": ".70 a month but their loading time is"
+        },
+        {
+          "start": "784.519",
+          "dur": "5.12",
+          "text": "where I see a huge con their average"
+        },
+        {
+          "start": "786.56",
+          "dur": "5.639",
+          "text": "load time clocked in at 3.29 seconds"
+        },
+        {
+          "start": "789.639",
+          "dur": "5.64",
+          "text": "another con is their low disk space they"
+        },
+        {
+          "start": "792.199",
+          "dur": "4.64",
+          "text": "only offer a Max of 35 GB which should"
+        },
+        {
+          "start": "795.279",
+          "dur": "2.56",
+          "text": "be enough for most people out there but"
+        },
+        {
+          "start": "796.839",
+          "dur": "2.281",
+          "text": "the hosting company that I'm going to"
+        },
+        {
+          "start": "797.839",
+          "dur": "3.281",
+          "text": "recommend at the end of this video"
+        },
+        {
+          "start": "799.12",
+          "dur": "3.399",
+          "text": "offers a lot more space than that the"
+        },
+        {
+          "start": "801.12",
+          "dur": "3.6",
+          "text": "next company we're going to look at is"
+        },
+        {
+          "start": "802.519",
+          "dur": "4.361",
+          "text": "GoDaddy and honestly there's not a lot"
+        },
+        {
+          "start": "804.72",
+          "dur": "4.76",
+          "text": "of Pros with GoDaddy I really don't"
+        },
+        {
+          "start": "806.88",
+          "dur": "6.6",
+          "text": "recommend using GoDaddy because they had"
+        },
+        {
+          "start": "809.48",
+          "dur": "7.159",
+          "text": "an annual uptime of 99.85% with 11 hours"
+        },
+        {
+          "start": "813.48",
+          "dur": "5.76",
+          "text": "of downtime and their load time was 2.97"
+        },
+        {
+          "start": "816.639",
+          "dur": "5.401",
+          "text": "seconds a big con with GoDaddy is also"
+        },
+        {
+          "start": "819.24",
+          "dur": "5.64",
+          "text": "their price and the reason is GoDaddy"
+        },
+        {
+          "start": "822.04",
+          "dur": "5.56",
+          "text": "spends a ton of money on advertising on"
+        },
+        {
+          "start": "824.88",
+          "dur": "5",
+          "text": "marketing and I do recommend if you need"
+        },
+        {
+          "start": "827.6",
+          "dur": "3.96",
+          "text": "to buy a domain name you can use GoDaddy"
+        },
+        {
+          "start": "829.88",
+          "dur": "4",
+          "text": "to do that but the way that GoDaddy"
+        },
+        {
+          "start": "831.56",
+          "dur": "4.639",
+          "text": "makes their money is by selling people"
+        },
+        {
+          "start": "833.88",
+          "dur": "4.079",
+          "text": "their hosting plans and mostly what"
+        },
+        {
+          "start": "836.199",
+          "dur": "3.481",
+          "text": "happens is older people that don't"
+        },
+        {
+          "start": "837.959",
+          "dur": "3.521",
+          "text": "really understand people that aren't"
+        },
+        {
+          "start": "839.68",
+          "dur": "3.959",
+          "text": "watching this kind of a video will get"
+        },
+        {
+          "start": "841.48",
+          "dur": "4.12",
+          "text": "tricked into buying a cheap domain name"
+        },
+        {
+          "start": "843.639",
+          "dur": "3.721",
+          "text": "with them and then paying extra money"
+        },
+        {
+          "start": "845.6",
+          "dur": "3.479",
+          "text": "for hosting that they don't really need"
+        },
+        {
+          "start": "847.36",
+          "dur": "3.52",
+          "text": "when there's better options out there"
+        },
+        {
+          "start": "849.079",
+          "dur": "4.801",
+          "text": "and on top of this they only give you"
+        },
+        {
+          "start": "850.88",
+          "dur": "4.36",
+          "text": "one SSL certificate per year which means"
+        },
+        {
+          "start": "853.88",
+          "dur": "3.28",
+          "text": "that if you want to have multiple"
+        },
+        {
+          "start": "855.24",
+          "dur": "3.64",
+          "text": "websites you're not going to be able to"
+        },
+        {
+          "start": "857.16",
+          "dur": "4.52",
+          "text": "do that with their hosting plan another"
+        },
+        {
+          "start": "858.88",
+          "dur": "5.12",
+          "text": "big con is creating a website using"
+        },
+        {
+          "start": "861.68",
+          "dur": "3.92",
+          "text": "GoDaddy is really confusing in my"
+        },
+        {
+          "start": "864",
+          "dur": "3.56",
+          "text": "opinion a lot of other hosting companies"
+        },
+        {
+          "start": "865.6",
+          "dur": "4.32",
+          "text": "out there have much easier to use"
+        },
+        {
+          "start": "867.56",
+          "dur": "4.279",
+          "text": "website Builders however one one big Pro"
+        },
+        {
+          "start": "869.92",
+          "dur": "4.2",
+          "text": "I could think about with GoDaddy is they"
+        },
+        {
+          "start": "871.839",
+          "dur": "3.68",
+          "text": "do offer phone support but so does the"
+        },
+        {
+          "start": "874.12",
+          "dur": "3.2",
+          "text": "next company that I'm going to talk"
+        },
+        {
+          "start": "875.519",
+          "dur": "3.801",
+          "text": "about the next company also offers phone"
+        },
+        {
+          "start": "877.32",
+          "dur": "3.8",
+          "text": "support and I will say in talking with"
+        },
+        {
+          "start": "879.32",
+          "dur": "3.6",
+          "text": "godaddy's phone support they can"
+        },
+        {
+          "start": "881.12",
+          "dur": "3.32",
+          "text": "sometimes be kind of rude and I know a"
+        },
+        {
+          "start": "882.92",
+          "dur": "4.12",
+          "text": "lot of people that have had negative"
+        },
+        {
+          "start": "884.44",
+          "dur": "4.72",
+          "text": "experiences with godaddy's phone support"
+        },
+        {
+          "start": "887.04",
+          "dur": "3.88",
+          "text": "So I don't recommend GoDaddy next up is"
+        },
+        {
+          "start": "889.16",
+          "dur": "5.679",
+          "text": "green Geeks and one big Pro for green"
+        },
+        {
+          "start": "890.92",
+          "dur": "7",
+          "text": "Geeks is they have an uptime of"
+        },
+        {
+          "start": "894.839",
+          "dur": "4.881",
+          "text": "99.98% and only two hours of downtime"
+        },
+        {
+          "start": "897.92",
+          "dur": "3.88",
+          "text": "throughout the entire year but they did"
+        },
+        {
+          "start": "899.72",
+          "dur": "4.559",
+          "text": "have an average load time of 2.49"
+        },
+        {
+          "start": "901.8",
+          "dur": "4.839",
+          "text": "seconds which is more than what Google"
+        },
+        {
+          "start": "904.279",
+          "dur": "4.721",
+          "text": "recommends so this is not the best"
+        },
+        {
+          "start": "906.639",
+          "dur": "3.88",
+          "text": "hosting company but honestly it's pretty"
+        },
+        {
+          "start": "909",
+          "dur": "3.56",
+          "text": "close to what Google recommends so this"
+        },
+        {
+          "start": "910.519",
+          "dur": "4.161",
+          "text": "isn't a terrible option next up is"
+        },
+        {
+          "start": "912.56",
+          "dur": "3.88",
+          "text": "liquid web and first I have some big"
+        },
+        {
+          "start": "914.68",
+          "dur": "3.079",
+          "text": "Pros for liquid web they achieved an"
+        },
+        {
+          "start": "916.44",
+          "dur": "4.48",
+          "text": "annual uptime of"
+        },
+        {
+          "start": "917.759",
+          "dur": "7.161",
+          "text": "99.98% with only 1 hour of downtime and"
+        },
+        {
+          "start": "920.92",
+          "dur": "7.039",
+          "text": "an average load speed of 1.38 seconds"
+        },
+        {
+          "start": "924.92",
+          "dur": "6.24",
+          "text": "but a huge con is plan start at around"
+        },
+        {
+          "start": "927.959",
+          "dur": "5.601",
+          "text": "$19 a month another con is recently"
+        },
+        {
+          "start": "931.16",
+          "dur": "4.119",
+          "text": "their support has become really slow so"
+        },
+        {
+          "start": "933.56",
+          "dur": "3.959",
+          "text": "this could be a good option for"
+        },
+        {
+          "start": "935.279",
+          "dur": "4.92",
+          "text": "companies out there that need top tier"
+        },
+        {
+          "start": "937.519",
+          "dur": "4.56",
+          "text": "managed hosting but it's really not a"
+        },
+        {
+          "start": "940.199",
+          "dur": "3.921",
+          "text": "good call for beginners the next hosting"
+        },
+        {
+          "start": "942.079",
+          "dur": "4.32",
+          "text": "company is name hero and over the span"
+        },
+        {
+          "start": "944.12",
+          "dur": "3.92",
+          "text": "of 6 months name hero had an annual"
+        },
+        {
+          "start": "946.399",
+          "dur": "4.88",
+          "text": "uptime of"
+        },
+        {
+          "start": "948.04",
+          "dur": "5",
+          "text": "99.98% with only 34 minutes of downtime"
+        },
+        {
+          "start": "951.279",
+          "dur": "4.441",
+          "text": "which is really good and this just goes"
+        },
+        {
+          "start": "953.04",
+          "dur": "4.32",
+          "text": "to show how reliable this company is"
+        },
+        {
+          "start": "955.72",
+          "dur": "4.479",
+          "text": "another big Pro is they manage an"
+        },
+        {
+          "start": "957.36",
+          "dur": "4.68",
+          "text": "average load time of 1.6 2 seconds plus"
+        },
+        {
+          "start": "960.199",
+          "dur": "3.88",
+          "text": "they have really good customer service"
+        },
+        {
+          "start": "962.04",
+          "dur": "3.88",
+          "text": "but their verification time is slow and"
+        },
+        {
+          "start": "964.079",
+          "dur": "4.041",
+          "text": "another con is the price it's more"
+        },
+        {
+          "start": "965.92",
+          "dur": "4.479",
+          "text": "expensive than other hosting companies"
+        },
+        {
+          "start": "968.12",
+          "dur": "4.48",
+          "text": "for WordPress their hosting is also more"
+        },
+        {
+          "start": "970.399",
+          "dur": "4.161",
+          "text": "expensive than other hosting companies"
+        },
+        {
+          "start": "972.6",
+          "dur": "3.359",
+          "text": "out there including the winner that I'm"
+        },
+        {
+          "start": "974.56",
+          "dur": "4",
+          "text": "going to be talking about in just a"
+        },
+        {
+          "start": "975.959",
+          "dur": "4.68",
+          "text": "little bit next up is pressible this is"
+        },
+        {
+          "start": "978.56",
+          "dur": "4.56",
+          "text": "a new company and it's got some great"
+        },
+        {
+          "start": "980.639",
+          "dur": "4.921",
+          "text": "Pros their uptime is"
+        },
+        {
+          "start": "983.12",
+          "dur": "4.399",
+          "text": "99.99% and they only had 10 minutes of"
+        },
+        {
+          "start": "985.56",
+          "dur": "5.279",
+          "text": "downtime they also had an average load"
+        },
+        {
+          "start": "987.519",
+          "dur": "6.24",
+          "text": "time of 1.08 seconds and this is just on"
+        },
+        {
+          "start": "990.839",
+          "dur": "4.961",
+          "text": "their personal plan pral also does have"
+        },
+        {
+          "start": "993.759",
+          "dur": "3.64",
+          "text": "strong security but on the other hand"
+        },
+        {
+          "start": "995.8",
+          "dur": "4.159",
+          "text": "the cost of this hosting company is"
+        },
+        {
+          "start": "997.399",
+          "dur": "3.92",
+          "text": "really expensive it's $25 a month which"
+        },
+        {
+          "start": "999.959",
+          "dur": "2.521",
+          "text": "is ridiculous compared to a lot of the"
+        },
+        {
+          "start": "1001.319",
+          "dur": "3.041",
+          "text": "other hosting companies that we've"
+        },
+        {
+          "start": "1002.48",
+          "dur": "4.479",
+          "text": "talked about so this is a good option if"
+        },
+        {
+          "start": "1004.36",
+          "dur": "4.919",
+          "text": "you really need the best uptime in one"
+        },
+        {
+          "start": "1006.959",
+          "dur": "4.161",
+          "text": "of the fastest website hosts out there"
+        },
+        {
+          "start": "1009.279",
+          "dur": "3.601",
+          "text": "but I wouldn't personally recommend this"
+        },
+        {
+          "start": "1011.12",
+          "dur": "2.68",
+          "text": "to most beginners out there the next"
+        },
+        {
+          "start": "1012.88",
+          "dur": "3",
+          "text": "hosting company we're going to talk"
+        },
+        {
+          "start": "1013.8",
+          "dur": "4.039",
+          "text": "about is Cy ground and this used to be"
+        },
+        {
+          "start": "1015.88",
+          "dur": "3.48",
+          "text": "my favorite hosting company and there's"
+        },
+        {
+          "start": "1017.839",
+          "dur": "3.48",
+          "text": "a lot of Pros here the first pro for"
+        },
+        {
+          "start": "1019.36",
+          "dur": "4",
+          "text": "cyon is they're actually one of the"
+        },
+        {
+          "start": "1021.319",
+          "dur": "4.441",
+          "text": "three companies that is recommended by"
+        },
+        {
+          "start": "1023.36",
+          "dur": "3.959",
+          "text": "WordPress themselves and their annual"
+        },
+        {
+          "start": "1025.76",
+          "dur": "4.439",
+          "text": "uptime is"
+        },
+        {
+          "start": "1027.319",
+          "dur": "4.801",
+          "text": "99.99% with just 1 hour of downtime"
+        },
+        {
+          "start": "1030.199",
+          "dur": "5.12",
+          "text": "throughout the entire year and they have"
+        },
+        {
+          "start": "1032.12",
+          "dur": "5.64",
+          "text": "an average load time of 1.73 seconds on"
+        },
+        {
+          "start": "1035.319",
+          "dur": "6.321",
+          "text": "their grow big plan other Pros are they"
+        },
+        {
+          "start": "1037.76",
+          "dur": "6.12",
+          "text": "offer daily backups free cdns and they"
+        },
+        {
+          "start": "1041.64",
+          "dur": "4.24",
+          "text": "have managed WordPress hosting they also"
+        },
+        {
+          "start": "1043.88",
+          "dur": "4.28",
+          "text": "have very affordable pricing however"
+        },
+        {
+          "start": "1045.88",
+          "dur": "5.28",
+          "text": "overall I would say site ground is kind"
+        },
+        {
+          "start": "1048.16",
+          "dur": "5",
+          "text": "of a mid tier hosting company it's about"
+        },
+        {
+          "start": "1051.16",
+          "dur": "4.519",
+          "text": "middle-of the road pricing they also"
+        },
+        {
+          "start": "1053.16",
+          "dur": "4.48",
+          "text": "offer fairly affordable pricing but it's"
+        },
+        {
+          "start": "1055.679",
+          "dur": "3.681",
+          "text": "quite a bit more expensive than the"
+        },
+        {
+          "start": "1057.64",
+          "dur": "3.159",
+          "text": "winning hosting company that I'll be"
+        },
+        {
+          "start": "1059.36",
+          "dur": "3.36",
+          "text": "talking about in just a minute one big"
+        },
+        {
+          "start": "1060.799",
+          "dur": "4.76",
+          "text": "con with syy is with their lowest tier"
+        },
+        {
+          "start": "1062.72",
+          "dur": "5.6",
+          "text": "plan you can only have one website and"
+        },
+        {
+          "start": "1065.559",
+          "dur": "5.041",
+          "text": "you only get 10 GB of webspace and"
+        },
+        {
+          "start": "1068.32",
+          "dur": "3.92",
+          "text": "you're only allowed 10,000 monthly"
+        },
+        {
+          "start": "1070.6",
+          "dur": "4.04",
+          "text": "visits which just doesn't really make"
+        },
+        {
+          "start": "1072.24",
+          "dur": "3.799",
+          "text": "any sense which means if your website"
+        },
+        {
+          "start": "1074.64",
+          "dur": "2.88",
+          "text": "starts doing really well and starts"
+        },
+        {
+          "start": "1076.039",
+          "dur": "3.361",
+          "text": "getting more visitors you're going to"
+        },
+        {
+          "start": "1077.52",
+          "dur": "4.24",
+          "text": "have to pay more money next next up is"
+        },
+        {
+          "start": "1079.4",
+          "dur": "4.399",
+          "text": "TMD hosting and TMD hosting starts off"
+        },
+        {
+          "start": "1081.76",
+          "dur": "4.08",
+          "text": "with some big cons for me they only have"
+        },
+        {
+          "start": "1083.799",
+          "dur": "5.521",
+          "text": "an annual uptime of"
+        },
+        {
+          "start": "1085.84",
+          "dur": "6.76",
+          "text": "99.9% with 8 hours of downtime they also"
+        },
+        {
+          "start": "1089.32",
+          "dur": "6.16",
+          "text": "had an average load time of 2.15 seconds"
+        },
+        {
+          "start": "1092.6",
+          "dur": "4.64",
+          "text": "using their starter package but as a pro"
+        },
+        {
+          "start": "1095.48",
+          "dur": "3.6",
+          "text": "they've got an easy to usee dashboard"
+        },
+        {
+          "start": "1097.24",
+          "dur": "3.96",
+          "text": "and their pricing is pretty competitive"
+        },
+        {
+          "start": "1099.08",
+          "dur": "4.64",
+          "text": "to start but their price is a bit of a"
+        },
+        {
+          "start": "1101.2",
+          "dur": "5.24",
+          "text": "double-edged sword it doesn't cost a lot"
+        },
+        {
+          "start": "1103.72",
+          "dur": "5.079",
+          "text": "to sign up but their renewal fees are"
+        },
+        {
+          "start": "1106.44",
+          "dur": "5.56",
+          "text": "really expensive next up after that is"
+        },
+        {
+          "start": "1108.799",
+          "dur": "7.161",
+          "text": "is WP engine WP engine's biggest Pro is"
+        },
+        {
+          "start": "1112",
+          "dur": "6.799",
+          "text": "speed WP engine had an annual uptime of"
+        },
+        {
+          "start": "1115.96",
+          "dur": "5.959",
+          "text": "99.97% with Just 2 hours of downtime"
+        },
+        {
+          "start": "1118.799",
+          "dur": "4.561",
+          "text": "maintaining an average load time of 1.36"
+        },
+        {
+          "start": "1121.919",
+          "dur": "3.201",
+          "text": "seconds another Pro with this hosting"
+        },
+        {
+          "start": "1123.36",
+          "dur": "3.4",
+          "text": "company is that it's really reliable and"
+        },
+        {
+          "start": "1125.12",
+          "dur": "3.679",
+          "text": "they have great customer support agents"
+        },
+        {
+          "start": "1126.76",
+          "dur": "4.48",
+          "text": "who are really knowledgeable in fact"
+        },
+        {
+          "start": "1128.799",
+          "dur": "4.041",
+          "text": "experts at WordPress and overall it's"
+        },
+        {
+          "start": "1131.24",
+          "dur": "3.52",
+          "text": "probably the most professional and one"
+        },
+        {
+          "start": "1132.84",
+          "dur": "4.24",
+          "text": "of the best hosting companies out there"
+        },
+        {
+          "start": "1134.76",
+          "dur": "4.44",
+          "text": "but they've got a massive con it's 10"
+        },
+        {
+          "start": "1137.08",
+          "dur": "4.44",
+          "text": "times the price of all the other hosting"
+        },
+        {
+          "start": "1139.2",
+          "dur": "3.839",
+          "text": "companies so it's really not great for"
+        },
+        {
+          "start": "1141.52",
+          "dur": "3.96",
+          "text": "beginners up next we're going to talk"
+        },
+        {
+          "start": "1143.039",
+          "dur": "4.961",
+          "text": "about wpx hosting for WordPress first"
+        },
+        {
+          "start": "1145.48",
+          "dur": "4.04",
+          "text": "their's feed wpx hosting had a great"
+        },
+        {
+          "start": "1148",
+          "dur": "4.84",
+          "text": "annual uptime of"
+        },
+        {
+          "start": "1149.52",
+          "dur": "5.2",
+          "text": "99.99% with only 22 minutes of downtime"
+        },
+        {
+          "start": "1152.84",
+          "dur": "4.839",
+          "text": "they also had an average load time of"
+        },
+        {
+          "start": "1154.72",
+          "dur": "4.88",
+          "text": "1.93 seconds on their business plan and"
+        },
+        {
+          "start": "1157.679",
+          "dur": "3.281",
+          "text": "that's a big Pro the prices are also"
+        },
+        {
+          "start": "1159.6",
+          "dur": "3.76",
+          "text": "affordable for people that are new to"
+        },
+        {
+          "start": "1160.96",
+          "dur": "4.12",
+          "text": "Wordpress and they also have very low"
+        },
+        {
+          "start": "1163.36",
+          "dur": "4",
+          "text": "weight times which is a great addition"
+        },
+        {
+          "start": "1165.08",
+          "dur": "4.719",
+          "text": "for anyone that's looking for fast"
+        },
+        {
+          "start": "1167.36",
+          "dur": "5.12",
+          "text": "reliable support however ever there's no"
+        },
+        {
+          "start": "1169.799",
+          "dur": "4.321",
+          "text": "option for phone support it's all live"
+        },
+        {
+          "start": "1172.48",
+          "dur": "4.12",
+          "text": "chat another con is the hosting"
+        },
+        {
+          "start": "1174.12",
+          "dur": "4.919",
+          "text": "dashboard itself can get confusing and"
+        },
+        {
+          "start": "1176.6",
+          "dur": "4.199",
+          "text": "it's fairly outdated my opinion it it's"
+        },
+        {
+          "start": "1179.039",
+          "dur": "3.52",
+          "text": "not very intuitive and not very easy to"
+        },
+        {
+          "start": "1180.799",
+          "dur": "4.081",
+          "text": "use for beginners next up we're going to"
+        },
+        {
+          "start": "1182.559",
+          "dur": "4.881",
+          "text": "be talking about cloudways which is an"
+        },
+        {
+          "start": "1184.88",
+          "dur": "4.2",
+          "text": "all cloud-based hosting company but"
+        },
+        {
+          "start": "1187.44",
+          "dur": "3",
+          "text": "before we can begin with cloudways I"
+        },
+        {
+          "start": "1189.08",
+          "dur": "3.16",
+          "text": "just want to let you know that cloudways"
+        },
+        {
+          "start": "1190.44",
+          "dur": "4",
+          "text": "is not suitable for beginners because"
+        },
+        {
+          "start": "1192.24",
+          "dur": "4.36",
+          "text": "you have to migrate your website and"
+        },
+        {
+          "start": "1194.44",
+          "dur": "3.479",
+          "text": "it's easy to mess something up but of"
+        },
+        {
+          "start": "1196.6",
+          "dur": "2.6",
+          "text": "course make sure to keep watching cuz I"
+        },
+        {
+          "start": "1197.919",
+          "dur": "2.961",
+          "text": "am going to be reviewing"
+        },
+        {
+          "start": "1199.2",
+          "dur": "3.56",
+          "text": "the best web hosting company for"
+        },
+        {
+          "start": "1200.88",
+          "dur": "3",
+          "text": "beginners really for everyone and I'm"
+        },
+        {
+          "start": "1202.76",
+          "dur": "2.399",
+          "text": "going to be talking about like which"
+        },
+        {
+          "start": "1203.88",
+          "dur": "2.72",
+          "text": "hosting company is best for you I'll"
+        },
+        {
+          "start": "1205.159",
+          "dur": "3",
+          "text": "share what my favorite one is but we'll"
+        },
+        {
+          "start": "1206.6",
+          "dur": "3.24",
+          "text": "talk about which hosting compan is also"
+        },
+        {
+          "start": "1208.159",
+          "dur": "3.241",
+          "text": "going to be right for you but let's keep"
+        },
+        {
+          "start": "1209.84",
+          "dur": "3.199",
+          "text": "talking about cloudways and cloudways"
+        },
+        {
+          "start": "1211.4",
+          "dur": "4.519",
+          "text": "has an annual uptime of"
+        },
+        {
+          "start": "1213.039",
+          "dur": "5.361",
+          "text": "99.99% with only 3 minutes of downtime"
+        },
+        {
+          "start": "1215.919",
+          "dur": "4.841",
+          "text": "which is a big Pro and they showcase"
+        },
+        {
+          "start": "1218.4",
+          "dur": "5.36",
+          "text": "exceptional reliability the average load"
+        },
+        {
+          "start": "1220.76",
+          "dur": "5.039",
+          "text": "time for this platform was 1.45 seconds"
+        },
+        {
+          "start": "1223.76",
+          "dur": "4.6",
+          "text": "and it's a great solution for businesses"
+        },
+        {
+          "start": "1225.799",
+          "dur": "4.801",
+          "text": "looking for hosting but a big con is the"
+        },
+        {
+          "start": "1228.36",
+          "dur": "4.319",
+          "text": "setup it's really complex and takes a"
+        },
+        {
+          "start": "1230.6",
+          "dur": "4.76",
+          "text": "while to try to get in and figure out"
+        },
+        {
+          "start": "1232.679",
+          "dur": "4.841",
+          "text": "how to set up cloudways another con is"
+        },
+        {
+          "start": "1235.36",
+          "dur": "4.84",
+          "text": "the trial period to test it out which is"
+        },
+        {
+          "start": "1237.52",
+          "dur": "5.08",
+          "text": "only 3 days next up is digital ocean and"
+        },
+        {
+          "start": "1240.2",
+          "dur": "5.08",
+          "text": "again a great Pro here is the speed with"
+        },
+        {
+          "start": "1242.6",
+          "dur": "5.04",
+          "text": "digital ocean the up time is 99.99% with"
+        },
+        {
+          "start": "1245.28",
+          "dur": "4.48",
+          "text": "only 1 minute of downtime which is"
+        },
+        {
+          "start": "1247.64",
+          "dur": "5",
+          "text": "incredible and the page speed load time"
+        },
+        {
+          "start": "1249.76",
+          "dur": "4.64",
+          "text": "was 1.59 seconds as I said it's a great"
+        },
+        {
+          "start": "1252.64",
+          "dur": "4.039",
+          "text": "hosting company for startups and this is"
+        },
+        {
+          "start": "1254.4",
+          "dur": "4.759",
+          "text": "a great hosting company for startups and"
+        },
+        {
+          "start": "1256.679",
+          "dur": "4.641",
+          "text": "midsize businesses but but even then"
+        },
+        {
+          "start": "1259.159",
+          "dur": "5.121",
+          "text": "there are some cons like there's no file"
+        },
+        {
+          "start": "1261.32",
+          "dur": "5.56",
+          "text": "manager or email hosting next up is Leno"
+        },
+        {
+          "start": "1264.28",
+          "dur": "5.92",
+          "text": "and lenoe had an uptime of 99.9% with"
+        },
+        {
+          "start": "1266.88",
+          "dur": "5.919",
+          "text": "only 7 Minutes of downtime and a big Pro"
+        },
+        {
+          "start": "1270.2",
+          "dur": "6.2",
+          "text": "is their page load speed time was under"
+        },
+        {
+          "start": "1272.799",
+          "dur": "5.601",
+          "text": "1 second it was 970 milliseconds which"
+        },
+        {
+          "start": "1276.4",
+          "dur": "4.72",
+          "text": "is the fastest among all the different"
+        },
+        {
+          "start": "1278.4",
+          "dur": "4.32",
+          "text": "cloudways hosting options it's also very"
+        },
+        {
+          "start": "1281.12",
+          "dur": "3.919",
+          "text": "reliable but you do have to pay for"
+        },
+        {
+          "start": "1282.72",
+          "dur": "4.88",
+          "text": "website backup separately and they only"
+        },
+        {
+          "start": "1285.039",
+          "dur": "4.961",
+          "text": "go as far back as 14 days so you can't"
+        },
+        {
+          "start": "1287.6",
+          "dur": "4.12",
+          "text": "access version your website older than 2"
+        },
+        {
+          "start": "1290",
+          "dur": "3.76",
+          "text": "weeks and the last hosting company"
+        },
+        {
+          "start": "1291.72",
+          "dur": "4.559",
+          "text": "before I get into the winner who I think"
+        },
+        {
+          "start": "1293.76",
+          "dur": "4.039",
+          "text": "is the best hosting company is vulture"
+        },
+        {
+          "start": "1296.279",
+          "dur": "3.76",
+          "text": "and they have an uptime of"
+        },
+        {
+          "start": "1297.799",
+          "dur": "3.921",
+          "text": "99.99% with only 1 hour of downtime"
+        },
+        {
+          "start": "1300.039",
+          "dur": "4.961",
+          "text": "throughout the entire year and their"
+        },
+        {
+          "start": "1301.72",
+          "dur": "5.64",
+          "text": "average load time was 1.63 seconds which"
+        },
+        {
+          "start": "1305",
+          "dur": "4.08",
+          "text": "is a pretty big Pro and they've got"
+        },
+        {
+          "start": "1307.36",
+          "dur": "3.48",
+          "text": "great pricing structure as well for all"
+        },
+        {
+          "start": "1309.08",
+          "dur": "3.959",
+          "text": "their plans their support is fast and"
+        },
+        {
+          "start": "1310.84",
+          "dur": "3.92",
+          "text": "reliable but a big con for me is that"
+        },
+        {
+          "start": "1313.039",
+          "dur": "3.52",
+          "text": "it's just outdated when it comes to"
+        },
+        {
+          "start": "1314.76",
+          "dur": "3.919",
+          "text": "their infrastructure so now drum roll"
+        },
+        {
+          "start": "1316.559",
+          "dur": "4.521",
+          "text": "please let's announce the best web"
+        },
+        {
+          "start": "1318.679",
+          "dur": "4.841",
+          "text": "hosting company for WordPress and which"
+        },
+        {
+          "start": "1321.08",
+          "dur": "4.4",
+          "text": "one you should go with and I personally"
+        },
+        {
+          "start": "1323.52",
+          "dur": "4.24",
+          "text": "recommend and think the best web hosting"
+        },
+        {
+          "start": "1325.48",
+          "dur": "4.199",
+          "text": "company out there is hos singer and hos"
+        },
+        {
+          "start": "1327.76",
+          "dur": "3.24",
+          "text": "singer is the best hosting company out"
+        },
+        {
+          "start": "1329.679",
+          "dur": "3.641",
+          "text": "there because they allow you to store"
+        },
+        {
+          "start": "1331",
+          "dur": "4.52",
+          "text": "over a 100 gigabyt of data and you can"
+        },
+        {
+          "start": "1333.32",
+          "dur": "4.479",
+          "text": "create over a 100 websites even with"
+        },
+        {
+          "start": "1335.52",
+          "dur": "4.36",
+          "text": "their cheapest plan you also will get a"
+        },
+        {
+          "start": "1337.799",
+          "dur": "4.88",
+          "text": "free domain name free email and"
+        },
+        {
+          "start": "1339.88",
+          "dur": "5",
+          "text": "unlimited free ssls on top of that host"
+        },
+        {
+          "start": "1342.679",
+          "dur": "3.681",
+          "text": "singer has data centers all over the"
+        },
+        {
+          "start": "1344.88",
+          "dur": "3.88",
+          "text": "world and their website builder is one"
+        },
+        {
+          "start": "1346.36",
+          "dur": "5.08",
+          "text": "of the easiest ones and you can even use"
+        },
+        {
+          "start": "1348.76",
+          "dur": "4.799",
+          "text": "their free AI tools to build a website"
+        },
+        {
+          "start": "1351.44",
+          "dur": "3.839",
+          "text": "in seconds and best of all hostinger is"
+        },
+        {
+          "start": "1353.559",
+          "dur": "3.561",
+          "text": "one of the most affordable hosting"
+        },
+        {
+          "start": "1355.279",
+          "dur": "3.561",
+          "text": "companies out there plus I have the"
+        },
+        {
+          "start": "1357.12",
+          "dur": "3.84",
+          "text": "hookup with host singer I can get you an"
+        },
+        {
+          "start": "1358.84",
+          "dur": "4.04",
+          "text": "extra 10% off all you have to do is"
+        },
+        {
+          "start": "1360.96",
+          "dur": "3.44",
+          "text": "click on the link down below use coupon"
+        },
+        {
+          "start": "1362.88",
+          "dur": "3.36",
+          "text": "code Travis and you're going to get an"
+        },
+        {
+          "start": "1364.4",
+          "dur": "3.519",
+          "text": "additional 10% off even though hos"
+        },
+        {
+          "start": "1366.24",
+          "dur": "3.439",
+          "text": "singer is already probably the most"
+        },
+        {
+          "start": "1367.919",
+          "dur": "4.801",
+          "text": "affordable hosting company now I will"
+        },
+        {
+          "start": "1369.679",
+          "dur": "5.801",
+          "text": "say one big con with host singer is they"
+        },
+        {
+          "start": "1372.72",
+          "dur": "4.199",
+          "text": "are constantly raising their prices when"
+        },
+        {
+          "start": "1375.48",
+          "dur": "4",
+          "text": "I first found out about them they were"
+        },
+        {
+          "start": "1376.919",
+          "dur": "4.64",
+          "text": "only 99 cents a month now they're almost"
+        },
+        {
+          "start": "1379.48",
+          "dur": "4.36",
+          "text": "$3 a month which is still an insanely"
+        },
+        {
+          "start": "1381.559",
+          "dur": "3.48",
+          "text": "good deal but I'm telling that to you so"
+        },
+        {
+          "start": "1383.84",
+          "dur": "3.12",
+          "text": "that you know that if you're thinking"
+        },
+        {
+          "start": "1385.039",
+          "dur": "3.201",
+          "text": "about signing up for a hosting company I"
+        },
+        {
+          "start": "1386.96",
+          "dur": "3.319",
+          "text": "would recommend signing up with"
+        },
+        {
+          "start": "1388.24",
+          "dur": "4.12",
+          "text": "hostinger and doing it fast before they"
+        },
+        {
+          "start": "1390.279",
+          "dur": "3.801",
+          "text": "raise their prices so use the link down"
+        },
+        {
+          "start": "1392.36",
+          "dur": "3.319",
+          "text": "below sign up for hostinger and make"
+        },
+        {
+          "start": "1394.08",
+          "dur": "5.36",
+          "text": "sure that you use the coupon code Travis"
+        },
+        {
+          "start": "1395.679",
+          "dur": "3.761",
+          "text": "to get an extra 10% off"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction"
+    },
+    {
+      "start_time": 80,
+      "title": "Free Services to look for in a Hosting Company"
+    },
+    {
+      "start_time": 95,
+      "title": "What is SSL?"
+    },
+    {
+      "start_time": 125,
+      "title": "Free Email Accounts"
+    },
+    {
+      "start_time": 150,
+      "title": "Support"
+    },
+    {
+      "start_time": 173,
+      "title": "Backup"
+    },
+    {
+      "start_time": 190,
+      "title": "Refund Policy"
+    },
+    {
+      "start_time": 220,
+      "title": "Free Domain Name"
+    },
+    {
+      "start_time": 233,
+      "title": "CDN"
+    },
+    {
+      "start_time": 255,
+      "title": "Malware Cleanup"
+    },
+    {
+      "start_time": 307,
+      "title": "What is Basic Storage?"
+    },
+    {
+      "start_time": 346,
+      "title": "What is NVME Storage?"
+    },
+    {
+      "start_time": 412,
+      "title": "Hostinger Pros and Cons"
+    },
+    {
+      "start_time": 457,
+      "title": "bluehost Pros and Cons"
+    },
+    {
+      "start_time": 531,
+      "title": "HostGator Pros and Cons"
+    },
+    {
+      "start_time": 580,
+      "title": "Kinsta Pros and Cons"
+    },
+    {
+      "start_time": 620,
+      "title": "10Web Pros and Cons"
+    },
+    {
+      "start_time": 665,
+      "title": "A2 Hosting Pros and Cons"
+    },
+    {
+      "start_time": 698,
+      "title": "inmotion Pros and Cons"
+    },
+    {
+      "start_time": 730,
+      "title": "DreamHost Pros and Cons"
+    },
+    {
+      "start_time": 765,
+      "title": "Fastcomet Pros and Cons"
+    },
+    {
+      "start_time": 803,
+      "title": "GoDaddy Pros and Cons"
+    },
+    {
+      "start_time": 889,
+      "title": "GreenGeeks Pros and Cons"
+    },
+    {
+      "start_time": 912,
+      "title": "Liquid Web Pros and Cons"
+    },
+    {
+      "start_time": 942,
+      "title": "NameHero Pros and Cons"
+    },
+    {
+      "start_time": 977,
+      "title": "Pressable Pros and Cons"
+    },
+    {
+      "start_time": 1013,
+      "title": "SiteGround Pros and Cons"
+    },
+    {
+      "start_time": 1078,
+      "title": "TMD Hosting Pros and Cons"
+    },
+    {
+      "start_time": 1108,
+      "title": "WP engine Pros and Cons"
+    },
+    {
+      "start_time": 1143,
+      "title": "WPX Hosting Pros and Cons"
+    },
+    {
+      "start_time": 1182,
+      "title": "Cloudways Pros and Cons"
+    },
+    {
+      "start_time": 1240,
+      "title": "DigitalOcean Pros and Cons"
+    },
+    {
+      "start_time": 1264,
+      "title": "linode Pros and Cons"
+    },
+    {
+      "start_time": 1295,
+      "title": "Vultr Pros and Cons"
+    },
+    {
+      "start_time": 1320,
+      "title": "The Best Web Hosting Company"
+    }
+  ]
+}

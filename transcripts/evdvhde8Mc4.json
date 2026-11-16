@@ -1,0 +1,585 @@
+{
+  "text": "in this video we're going to talk about the different Facebook metrics that you can look at including the columns and the breakdown I'm going to show you a bunch of the different stuff and what it actually means so let's start with the default one which is performance you probably already have a decent idea of what's going on here but I'll just review it really quick so we can see uh the results is depending on what kind of campaign you're running so for this one I want conversions this one I want leads filled out this one I wanted link clicks this one I wanted page likes this one I wanted video views so results is whatever the type of campaign it is the type of AD you're running it'll show you the results right there reach is how many people actually saw it so you can see yeah here you know different number of people saw all these different ones um the cost the cost here is the amount per conversion or per lead form which is very helpful and then we have the amount spent which is like the total amount of money spent on that type of AD so that is the performance now before I move on I want to show you the breakdown cuz I think the breakdown is really cool because it actually shows so if I it shows it segments it basically so if I were to click age for instance this will show show remarketing and you can see some pretty valuable data for instance 65 plus we're not getting a lot of conversions so I might want to eliminate that it looks like the sweet spots right in the 45 to 54 and 35 to 44 so this is actually for a remarketing campaign um so what I've done in the past is I've segmented my adsets and that was before they had this breakdown functionality so now I don't really need to I don't need to segment that as much because I can just segment it right here uh I used to segment it by H now and we can see here that The Sweet Spot here is 35 to 44 we're getting we got a lot of people there so this just starts to give me an idea of the kind of people I want to do you can also break it down by gender for me of course it's going to be highly female see the female is cheaper both there's and there's a lot more of them you can break it down by age and gender country region platform placement product ID all this different stuff just to make things simple for now I'm going to click none so we can go over the rest of the columns uh let's look at delivery next so this could be very beneficial because you can see the frequency here now I've had different people tell me different things on what the frequency number should be I am a fan of probably not going over four as your frequency because that so the frequency is how often someone sees it reach is how many people saw it so for instance the remarketing ad almost 15,000 people have seen it um and on average those 15,000 people will see it 4.2 times so at a certain point you have to realize if they're not converting they're not ever going to convert uh some people would say go as high as seven I've even heard one person say 15 um depends it it really depends sometimes maybe you only want to show it to them once and if they haven't converted by the first time you know sto showing it to them that's definitely going to result in cheaper clicks but it's you're not going to necessarily get everybody to convert is not going to get everybody that you want to convert so cost per thousand people reach um this is interesting too you can look at some of the different numbers here depends on the type of ad it is for whatever reason actually my remarketing has been pretty expensive total number of Impressions and then the cost uh per thousand Impressions here so that is for the delivery and this is very helpful I my favorite thing from here is looking at the frequency seeing how often people are saying it because if you see that number start to creep up really high it's going to start getting more expensive because if Facebook's showing ads to people over and over again that's a bad user experience for the Facebook user and Facebook doesn't want that so next let's look at engagement so this shows a couple different things uh people taking action could be just about anything then we have post reactions let's see post reactions and you know sometimes I don't always remember what all these things are so you can hover over the little little information icon the post likes metrix is now called post reactions oh okay all right so that's just showing how many people have liked it or loved it or like all the different little things that you can do in Facebook comments pretty self-explanatory number of shares uh link clicks and Page likes so you can see it's it's kind of interesting saying um this like for instance this one that's website clicks I got a decent number of page likes from that so keep that in mind even though you're not necessarily running an ad that's geared towards getting page likes you still might get a decent amount uh you can see this one was a campaign for page likes and I got 877 which is just a ton let's look at video engagement I don't I haven't ran too many video ads but you can see I've run a few here so cost per video view is just like it sounds it's just the number cost every time someone watches the video total number of video views here Impressions so this means that 9,000 people saw the video but only 3,000 of them watched it and then only 1,473 people watched it for at least 10 seconds and then this shows you the price the cost per 10-second video view the reach here okay so yeah um so basically basically only 7,000 people saw it but of those 7,000 people they were shown it 9,000 times meaning some it it was shown like 1.2 times or something so some people saw it twice some people didn't video views to 25% video views to 50% and video views to 75% so this is really interesting you can see obviously not surprisingly it goes down so it's showing how many people actually watched at least 75% of my video 148 um you know it's up to you whether or not that's decent video view 95% 120 video views to 100% so this is a pretty interesting metric it went from 120 to 27 27% so that last 5% a lot of people dropped off so I might want to look at that video and figure out what happened why so many people dropped off in the last 5 seconds I have an idea of why this was just a reposted YouTube video so I the outro was not geared towards that Carousel engagement I haven't run a lot of Carousel ads so that's not going to be something we look at here um you can also customize your columns now this is pretty fun and I recommend for most people probably doing this so you can go by one by one and look at the definition of all these different ones but basically let's let's click a few just I'm going to click them kind of randomly frequency let's apply that so you can see oops let's do it again results actions frequency just check on whatever thing you want page likes maybe yeah there's a lot there so let's go ahead and just click apply you can see the The Columns are here now another functionality that a lot of people don't know about that is is really surprising is this export function um I'm going to save it as an XL as you can save it as a CSP instead if you want and that just exports everything so maybe you want to save things maybe want to uh mess with things in a spreadsheet enable editing show you the reach show you cost per result all kinds of fun stuff another thing to add is the filters so you can filter by just all kinds of things so you can filter by active you can filter by uh the objective so maybe I only want to look at things that involve page likes so if I do that it's only going to show me this one uh instead I'm not going to do that I can just click it again to unclick it placement so maybe I only want to look at mobile so this is filter only my mobile stuff this is just so powerful metrics uh oh you can filter by frequency is greater than two let's say so only these ones have a frequency greater than two you can look at the date updated I think there's just so much stuff you can do here and then of course here you can change the date range of the data you want to look at and then the search function you can search by a bunch of different data here as well the search function is really helpful if you have a lot of campaigns so you could search for campaign name includes something like I don't know I'm just going to say page just cuz I know I have oh no I don't have anything but you can search for if if it contains a certain thing and if you want you can always oh I think it's cuz I I got so much different filters here so you can stack filters on top of filters so let's say I were to get rid of this filter so you see that comes up there and if I were to get rid of this filter ah it's still the same thing but so you can set filters on top of filters and that's very helpful if you have multiple like thousands of camp or hundreds of campaigns or just anything that you can imagine um so you can do the filters stack on top of the search stack on top of the date ranges and there you have a lot of data to look at especially when you start getting more campaigns going you can always export like I said into the CSV or into whatever you want and that's really great for crunching numbers and looking at lots of data so that's it for this lesson hopefully this was helpful let me know if you have any questions and I will see you in the next video",
+  "id": "evdvhde8Mc4",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=facebookadsmetrics\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "615",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-01-11",
+      "title": {
+        "simpleText": "What to Look at in Facebook Ads, Metrics, Columns and Breakdown"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "What to Look at in Facebook Ads, Metrics, Columns and Breakdown",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.64",
+          "dur": "3.12",
+          "text": "in this video we're going to talk about the\u00a0\ndifferent Facebook metrics that you can look\u00a0\u00a0"
+        },
+        {
+          "start": "3.76",
+          "dur": "4.84",
+          "text": "at including the columns and the breakdown I'm\u00a0\ngoing to show you a bunch of the different stuff\u00a0\u00a0"
+        },
+        {
+          "start": "8.6",
+          "dur": "4.84",
+          "text": "and what it actually means so let's start with\u00a0\nthe default one which is performance you probably\u00a0\u00a0"
+        },
+        {
+          "start": "13.44",
+          "dur": "3.76",
+          "text": "already have a decent idea of what's going on\u00a0\nhere but I'll just review it really quick so\u00a0\u00a0"
+        },
+        {
+          "start": "17.2",
+          "dur": "4.8",
+          "text": "we can see uh the results is depending on what\u00a0\nkind of campaign you're running so for this one\u00a0\u00a0"
+        },
+        {
+          "start": "22",
+          "dur": "5.12",
+          "text": "I want conversions this one I want leads filled\u00a0\nout this one I wanted link clicks this one I\u00a0\u00a0"
+        },
+        {
+          "start": "27.12",
+          "dur": "5.12",
+          "text": "wanted page likes this one I wanted video views\u00a0\nso results is whatever the type of campaign it\u00a0\u00a0"
+        },
+        {
+          "start": "32.24",
+          "dur": "4.76",
+          "text": "is the type of AD you're running it'll show you\u00a0\nthe results right there reach is how many people\u00a0\u00a0"
+        },
+        {
+          "start": "37",
+          "dur": "5.84",
+          "text": "actually saw it so you can see yeah here you know\u00a0\ndifferent number of people saw all these different\u00a0\u00a0"
+        },
+        {
+          "start": "42.84",
+          "dur": "7.16",
+          "text": "ones um the cost the cost here is the amount per\u00a0\nconversion or per lead form which is very helpful\u00a0\u00a0"
+        },
+        {
+          "start": "50",
+          "dur": "5.52",
+          "text": "and then we have the amount spent which is like\u00a0\nthe total amount of money spent on that type of\u00a0\u00a0"
+        },
+        {
+          "start": "55.52",
+          "dur": "4.92",
+          "text": "AD so that is the performance now before I move\u00a0\non I want to show you the breakdown cuz I think\u00a0\u00a0"
+        },
+        {
+          "start": "60.44",
+          "dur": "7.28",
+          "text": "the breakdown is really cool because it actually\u00a0\nshows so if I it shows it segments it basically\u00a0\u00a0"
+        },
+        {
+          "start": "67.72",
+          "dur": "6.68",
+          "text": "so if I were to click age for instance this will\u00a0\nshow show remarketing and you can see some pretty\u00a0\u00a0"
+        },
+        {
+          "start": "74.4",
+          "dur": "5.52",
+          "text": "valuable data for instance 65 plus we're not\u00a0\ngetting a lot of conversions so I might want to\u00a0\u00a0"
+        },
+        {
+          "start": "79.92",
+          "dur": "5.92",
+          "text": "eliminate that it looks like the sweet spots right\u00a0\nin the 45 to 54 and 35 to 44 so this is actually\u00a0\u00a0"
+        },
+        {
+          "start": "85.84",
+          "dur": "8.2",
+          "text": "for a remarketing campaign um so what I've done in\u00a0\nthe past is I've segmented my adsets and that was\u00a0\u00a0"
+        },
+        {
+          "start": "94.04",
+          "dur": "4.44",
+          "text": "before they had this breakdown functionality so\u00a0\nnow I don't really need to I don't need to segment\u00a0\u00a0"
+        },
+        {
+          "start": "98.48",
+          "dur": "6.48",
+          "text": "that as much because I can just segment it right\u00a0\nhere uh I used to segment it by H now and we can\u00a0\u00a0"
+        },
+        {
+          "start": "104.96",
+          "dur": "5.88",
+          "text": "see here that The Sweet Spot here is 35 to 44\u00a0\nwe're getting we got a lot of people there so\u00a0\u00a0"
+        },
+        {
+          "start": "110.84",
+          "dur": "5.32",
+          "text": "this just starts to give me an idea of the kind of\u00a0\npeople I want to do you can also break it down by\u00a0\u00a0"
+        },
+        {
+          "start": "116.16",
+          "dur": "6.04",
+          "text": "gender for me of course it's going to be highly\u00a0\nfemale see the female is cheaper both there's\u00a0\u00a0"
+        },
+        {
+          "start": "122.2",
+          "dur": "6.56",
+          "text": "and there's a lot more of them you can break it\u00a0\ndown by age and gender country region platform\u00a0\u00a0"
+        },
+        {
+          "start": "128.76",
+          "dur": "5.52",
+          "text": "placement product ID all this different stuff just\u00a0\nto make things simple for now I'm going to click\u00a0\u00a0"
+        },
+        {
+          "start": "134.28",
+          "dur": "7.96",
+          "text": "none so we can go over the rest of the columns uh\u00a0\nlet's look at delivery next so this could be very\u00a0\u00a0"
+        },
+        {
+          "start": "142.24",
+          "dur": "3.64",
+          "text": "beneficial because you can see the frequency here\u00a0\nnow I've had different people tell me different\u00a0\u00a0"
+        },
+        {
+          "start": "145.88",
+          "dur": "6.92",
+          "text": "things on what the frequency number should be I\u00a0\nam a fan of probably not going over four as your\u00a0\u00a0"
+        },
+        {
+          "start": "152.8",
+          "dur": "4.36",
+          "text": "frequency because that so the frequency is how\u00a0\noften someone sees it reach is how many people\u00a0\u00a0"
+        },
+        {
+          "start": "157.16",
+          "dur": "6.8",
+          "text": "saw it so for instance the remarketing ad almost\u00a0\n15,000 people have seen it um and on average\u00a0\u00a0"
+        },
+        {
+          "start": "163.96",
+          "dur": "5.88",
+          "text": "those 15,000 people will see it 4.2 times so at a\u00a0\ncertain point you have to realize if they're not\u00a0\u00a0"
+        },
+        {
+          "start": "169.84",
+          "dur": "4.12",
+          "text": "converting they're not ever going to convert\u00a0\nuh some people would say go as high as seven\u00a0\u00a0"
+        },
+        {
+          "start": "173.96",
+          "dur": "6.32",
+          "text": "I've even heard one person say 15 um depends\u00a0\nit it really depends sometimes maybe you only\u00a0\u00a0"
+        },
+        {
+          "start": "180.28",
+          "dur": "4.56",
+          "text": "want to show it to them once and if they haven't\u00a0\nconverted by the first time you know sto showing\u00a0\u00a0"
+        },
+        {
+          "start": "184.84",
+          "dur": "5.32",
+          "text": "it to them that's definitely going to result\u00a0\nin cheaper clicks but it's you're not going to\u00a0\u00a0"
+        },
+        {
+          "start": "190.16",
+          "dur": "4.6",
+          "text": "necessarily get everybody to convert is not going\u00a0\nto get everybody that you want to convert so cost\u00a0\u00a0"
+        },
+        {
+          "start": "194.76",
+          "dur": "5.28",
+          "text": "per thousand people reach um this is interesting\u00a0\ntoo you can look at some of the different numbers\u00a0\u00a0"
+        },
+        {
+          "start": "200.04",
+          "dur": "3.24",
+          "text": "here depends on the type of ad it is for\u00a0\nwhatever reason actually my remarketing has\u00a0\u00a0"
+        },
+        {
+          "start": "203.28",
+          "dur": "6.92",
+          "text": "been pretty expensive total number of Impressions\u00a0\nand then the cost uh per thousand Impressions here\u00a0\u00a0"
+        },
+        {
+          "start": "210.2",
+          "dur": "4.6",
+          "text": "so that is for the delivery and this is very\u00a0\nhelpful I my favorite thing from here is looking\u00a0\u00a0"
+        },
+        {
+          "start": "214.8",
+          "dur": "4.44",
+          "text": "at the frequency seeing how often people are\u00a0\nsaying it because if you see that number start to\u00a0\u00a0"
+        },
+        {
+          "start": "219.24",
+          "dur": "4.08",
+          "text": "creep up really high it's going to start getting\u00a0\nmore expensive because if Facebook's showing ads\u00a0\u00a0"
+        },
+        {
+          "start": "223.32",
+          "dur": "5.08",
+          "text": "to people over and over again that's a bad user\u00a0\nexperience for the Facebook user and Facebook\u00a0\u00a0"
+        },
+        {
+          "start": "228.4",
+          "dur": "6.52",
+          "text": "doesn't want that so next let's look at engagement\u00a0\nso this shows a couple different things uh people\u00a0\u00a0"
+        },
+        {
+          "start": "234.92",
+          "dur": "5.76",
+          "text": "taking action could be just about anything then\u00a0\nwe have post reactions let's see post reactions\u00a0\u00a0"
+        },
+        {
+          "start": "240.68",
+          "dur": "3.24",
+          "text": "and you know sometimes I don't always remember\u00a0\nwhat all these things are so you can hover over\u00a0\u00a0"
+        },
+        {
+          "start": "243.92",
+          "dur": "6.56",
+          "text": "the little little information icon the post\u00a0\nlikes metrix is now called post reactions oh"
+        },
+        {
+          "start": "250.48",
+          "dur": "8.88",
+          "text": "okay all right so that's just showing how many\u00a0\npeople have liked it or loved it or like all\u00a0\u00a0"
+        },
+        {
+          "start": "259.36",
+          "dur": "4.44",
+          "text": "the different little things that you can do in\u00a0\nFacebook comments pretty self-explanatory number\u00a0\u00a0"
+        },
+        {
+          "start": "263.8",
+          "dur": "6.68",
+          "text": "of shares uh link clicks and Page likes so you\u00a0\ncan see it's it's kind of interesting saying um\u00a0\u00a0"
+        },
+        {
+          "start": "270.48",
+          "dur": "4.8",
+          "text": "this like for instance this one that's website\u00a0\nclicks I got a decent number of page likes from\u00a0\u00a0"
+        },
+        {
+          "start": "275.28",
+          "dur": "5",
+          "text": "that so keep that in mind even though you're not\u00a0\nnecessarily running an ad that's geared towards\u00a0\u00a0"
+        },
+        {
+          "start": "280.28",
+          "dur": "4.88",
+          "text": "getting page likes you still might get a decent\u00a0\namount uh you can see this one was a campaign for\u00a0\u00a0"
+        },
+        {
+          "start": "285.16",
+          "dur": "7.76",
+          "text": "page likes and I got 877 which is just a ton let's\u00a0\nlook at video engagement I don't I haven't ran too\u00a0\u00a0"
+        },
+        {
+          "start": "292.92",
+          "dur": "6.28",
+          "text": "many video ads but you can see I've run a few here\u00a0\nso cost per video view is just like it sounds it's\u00a0\u00a0"
+        },
+        {
+          "start": "299.2",
+          "dur": "5.32",
+          "text": "just the number cost every time someone watches\u00a0\nthe video total number of video views here\u00a0\u00a0"
+        },
+        {
+          "start": "304.52",
+          "dur": "6.52",
+          "text": "Impressions so this means that 9,000 people saw\u00a0\nthe video but only 3,000 of them watched it and\u00a0\u00a0"
+        },
+        {
+          "start": "311.04",
+          "dur": "6.72",
+          "text": "then only 1,473 people watched it for at least 10\u00a0\nseconds and then this shows you the price the cost\u00a0\u00a0"
+        },
+        {
+          "start": "317.76",
+          "dur": "14.44",
+          "text": "per 10-second video view the reach here okay so\u00a0\nyeah um so basically basically only 7,000 people\u00a0\u00a0"
+        },
+        {
+          "start": "332.2",
+          "dur": "8.84",
+          "text": "saw it but of those 7,000 people they were shown\u00a0\nit 9,000 times meaning some it it was shown like\u00a0\u00a0"
+        },
+        {
+          "start": "341.04",
+          "dur": "6.72",
+          "text": "1.2 times or something so some people saw it twice\u00a0\nsome people didn't video views to 25% video views\u00a0\u00a0"
+        },
+        {
+          "start": "347.76",
+          "dur": "5.84",
+          "text": "to 50% and video views to 75% so this is really\u00a0\ninteresting you can see obviously not surprisingly\u00a0\u00a0"
+        },
+        {
+          "start": "353.6",
+          "dur": "6.44",
+          "text": "it goes down so it's showing how many people\u00a0\nactually watched at least 75% of my video 148\u00a0\u00a0"
+        },
+        {
+          "start": "360.04",
+          "dur": "8.92",
+          "text": "um you know it's up to you whether or not that's\u00a0\ndecent video view 95% 120 video views to 100% so\u00a0\u00a0"
+        },
+        {
+          "start": "368.96",
+          "dur": "6.64",
+          "text": "this is a pretty interesting metric it went\u00a0\nfrom 120 to 27 27% so that last 5% a lot of\u00a0\u00a0"
+        },
+        {
+          "start": "375.6",
+          "dur": "4",
+          "text": "people dropped off so I might want to look at\u00a0\nthat video and figure out what happened why so\u00a0\u00a0"
+        },
+        {
+          "start": "379.6",
+          "dur": "4.88",
+          "text": "many people dropped off in the last 5 seconds\u00a0\nI have an idea of why this was just a reposted\u00a0\u00a0"
+        },
+        {
+          "start": "384.48",
+          "dur": "7.04",
+          "text": "YouTube video so I the outro was not geared\u00a0\ntowards that Carousel engagement I haven't\u00a0\u00a0"
+        },
+        {
+          "start": "391.52",
+          "dur": "4.56",
+          "text": "run a lot of Carousel ads so that's not going\u00a0\nto be something we look at here um you can also\u00a0\u00a0"
+        },
+        {
+          "start": "396.08",
+          "dur": "5.76",
+          "text": "customize your columns now this is pretty fun\u00a0\nand I recommend for most people probably doing"
+        },
+        {
+          "start": "401.84",
+          "dur": "7.28",
+          "text": "this so you can go by one by one and look at\u00a0\nthe definition of all these different ones\u00a0\u00a0"
+        },
+        {
+          "start": "409.12",
+          "dur": "4.6",
+          "text": "but basically let's let's click a few just\u00a0\nI'm going to click them kind of randomly"
+        },
+        {
+          "start": "413.72",
+          "dur": "5.8",
+          "text": "frequency let's apply that"
+        },
+        {
+          "start": "421.8",
+          "dur": "2.76",
+          "text": "so you can see"
+        },
+        {
+          "start": "424.56",
+          "dur": "6.6",
+          "text": "oops let's do it"
+        },
+        {
+          "start": "431.16",
+          "dur": "3.36",
+          "text": "again"
+        },
+        {
+          "start": "434.52",
+          "dur": "8.12",
+          "text": "results actions frequency just check\u00a0\non whatever thing you want page likes\u00a0\u00a0"
+        },
+        {
+          "start": "442.64",
+          "dur": "6.88",
+          "text": "maybe yeah there's a lot there so\u00a0\nlet's go ahead and just click apply"
+        },
+        {
+          "start": "451.88",
+          "dur": "3.68",
+          "text": "you can see the The Columns are here\u00a0\nnow another functionality that a lot\u00a0\u00a0"
+        },
+        {
+          "start": "455.56",
+          "dur": "3.8",
+          "text": "of people don't know about that is\u00a0\nis really surprising is this export\u00a0\u00a0"
+        },
+        {
+          "start": "459.36",
+          "dur": "5.64",
+          "text": "function um I'm going to save it as an XL\u00a0\nas you can save it as a CSP instead if you"
+        },
+        {
+          "start": "465",
+          "dur": "14.56",
+          "text": "want and that just exports everything\u00a0\nso maybe you want to save things maybe\u00a0\u00a0"
+        },
+        {
+          "start": "479.56",
+          "dur": "7.48",
+          "text": "want to uh mess with things in a spreadsheet\u00a0\nenable editing show you the reach show you\u00a0\u00a0"
+        },
+        {
+          "start": "487.04",
+          "dur": "7.4",
+          "text": "cost per result all kinds of fun stuff\u00a0\nanother thing to add is the filters so\u00a0\u00a0"
+        },
+        {
+          "start": "494.44",
+          "dur": "5.04",
+          "text": "you can filter by just all kinds of things\u00a0\nso you can filter by active you can filter\u00a0\u00a0"
+        },
+        {
+          "start": "499.48",
+          "dur": "5.24",
+          "text": "by uh the objective so maybe I only want\u00a0\nto look at things that involve page likes\u00a0\u00a0"
+        },
+        {
+          "start": "504.72",
+          "dur": "4.72",
+          "text": "so if I do that it's only going to show me\u00a0\nthis one uh instead I'm not going to do that"
+        },
+        {
+          "start": "513.64",
+          "dur": "4.4",
+          "text": "I can just click it again to unclick it\u00a0\nplacement so maybe I only want to look at\u00a0\u00a0"
+        },
+        {
+          "start": "518.04",
+          "dur": "6.24",
+          "text": "mobile so this is filter only my mobile\u00a0\nstuff this is just so powerful metrics"
+        },
+        {
+          "start": "524.28",
+          "dur": "10.52",
+          "text": "uh oh you can filter by frequency is greater than\u00a0\ntwo let's say so only these ones have a frequency\u00a0\u00a0"
+        },
+        {
+          "start": "534.8",
+          "dur": "6.2",
+          "text": "greater than two you can look at the date updated\u00a0\nI think there's just so much stuff you can do here\u00a0\u00a0"
+        },
+        {
+          "start": "541",
+          "dur": "4.72",
+          "text": "and then of course here you can change the date\u00a0\nrange of the data you want to look at and then\u00a0\u00a0"
+        },
+        {
+          "start": "545.72",
+          "dur": "5.84",
+          "text": "the search function you can search by a bunch of\u00a0\ndifferent data here as well the search function\u00a0\u00a0"
+        },
+        {
+          "start": "551.56",
+          "dur": "5.28",
+          "text": "is really helpful if you have a lot of campaigns\u00a0\nso you could search for campaign name includes\u00a0\u00a0"
+        },
+        {
+          "start": "556.84",
+          "dur": "3.72",
+          "text": "something like I don't know I'm just going to say\u00a0\npage just cuz I know I have oh no I don't have\u00a0\u00a0"
+        },
+        {
+          "start": "560.56",
+          "dur": "5.08",
+          "text": "anything but you can search for if if it contains\u00a0\na certain thing and if you want you can always oh\u00a0\u00a0"
+        },
+        {
+          "start": "565.64",
+          "dur": "5.08",
+          "text": "I think it's cuz I I got so much different filters\u00a0\nhere so you can stack filters on top of filters so\u00a0\u00a0"
+        },
+        {
+          "start": "570.72",
+          "dur": "4.68",
+          "text": "let's say I were to get rid of this filter so you\u00a0\nsee that comes up there and if I were to get rid\u00a0\u00a0"
+        },
+        {
+          "start": "575.4",
+          "dur": "5.08",
+          "text": "of this filter ah it's still the same thing but so\u00a0\nyou can set filters on top of filters and that's\u00a0\u00a0"
+        },
+        {
+          "start": "580.48",
+          "dur": "6.32",
+          "text": "very helpful if you have multiple like thousands\u00a0\nof camp or hundreds of campaigns or just anything\u00a0\u00a0"
+        },
+        {
+          "start": "586.8",
+          "dur": "6.8",
+          "text": "that you can imagine um so you can do the filters\u00a0\nstack on top of the search stack on top of the\u00a0\u00a0"
+        },
+        {
+          "start": "593.6",
+          "dur": "4.68",
+          "text": "date ranges and there you have a lot of data to\u00a0\nlook at especially when you start getting more\u00a0\u00a0"
+        },
+        {
+          "start": "598.28",
+          "dur": "7.56",
+          "text": "campaigns going you can always export like I said\u00a0\ninto the CSV or into whatever you want and that's\u00a0\u00a0"
+        },
+        {
+          "start": "605.84",
+          "dur": "4.92",
+          "text": "really great for crunching numbers and looking\u00a0\nat lots of data so that's it for this lesson\u00a0\u00a0"
+        },
+        {
+          "start": "610.76",
+          "dur": "4",
+          "text": "hopefully this was helpful let me know if you have\u00a0\nany questions and I will see you in the next video"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 10,
+      "title": "Performance"
+    },
+    {
+      "start_time": 70,
+      "title": "Breakdown"
+    },
+    {
+      "start_time": 140,
+      "title": "Delivery"
+    },
+    {
+      "start_time": 290,
+      "title": "Video Engagement"
+    },
+    {
+      "start_time": 490,
+      "title": "Filters"
+    }
+  ]
+}

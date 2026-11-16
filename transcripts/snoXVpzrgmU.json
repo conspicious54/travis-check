@@ -1,0 +1,5511 @@
+{
+  "text": "the first step to setting up your woocommerce website is to buy hosting you need a company that's going to host your website even though woocommerce is free you still have to pay a little bit of money to get your website hosted on a computer server the second step is to set up the hosting i'm going to show you step by step how to do that the third step is to set up woocommerce and make it so that you can accept payments on your website and the fourth step is all the different advanced features and i'm gonna go in depth in this video on how to set up your woocommerce website and we're gonna be setting up a very simple website here live in this video in record time this is nothing complicated this is something that's just super easy to do and it'll work it'll allow you to accept credit card payments for your product make sure to hit the like button because we're starting this tutorial now the first step to setting up your woocommerce website is to buy hosting because even though it's free to set up a woocommerce website you need to pay a company to run your website and host your website on their servers and the best company i've found to do that is actually hosting or it's also the most affordable there's a link down below in the description that you can use plus i have the hookup with hosinger i have a coupon code that will get you an extra 10 off so what you're going to do is you're going to click get started and one thing that's really cool about host singer is they do have a 30 day money back guarantee and at 2.99 a month it's very affordable to set up your own woocommerce website they also give you a free ssl which is what you need if you're going to be doing a woocommerce website this makes it so your website's secure and you can accept credit card payments they also give you a free domain name which is your www.whateveryour.com domain name would be and free email and it's optimized for wordpress and remember that woocommerce is just a plugin for wordpress we'll talk more about that later but we're going to select this plan and then we're going to choose a period of how long we want to commit to hosting our website and i recommend here locking in your discounted rate for a full 48 months because the thing to remember is after whatever time period you select after that time period it's going to cost more money you're going to have to pay the regular rate and then you're going to put in your payment information and something that's cool they actually do accept bitcoin and cryptocurrencies but for most people you're gonna just use credit card or paypal you're gonna go down here and you're gonna use the coupon code travis then fill in all your credit card information and click submit secure payment they'll then ask you to set up a new password go ahead and put in your password and click confirm the second step after you've bought your hosting is to start setting up your hosting and they're going to help you do it host singer makes it very easy we're going to click start now i'll ask you who you're creating a website for in this case it's myself and what kind of website it's going to be so we're doing an online store since this is a woocommerce store depending on what your experience level is you can do whichever one you want i'm going to go ahead and put a beginner just so i can go through the process with you you want to choose woocommerce with wordpress woocommerce is a plug-in into wordpress wordpress allows you to build a website woocommerce allows you to accept credit card payments making it so that your website is now an online store next you'll set up your wordpress account put an email and a password here and click continue now you're going to select a theme for your woocommerce website we have a bunch of different options here and you can actually preview what the different themes look like the good thing is you can always change this later so don't think that you're stuck with whatever theme you pick and for now i'm just going to do the simply natural we're going to hit select and we're going to move on to the next step which is setting up your domain name and your domain name is your url it's whatever the dot com or whatever you want and because hosinger comes with a free domain we're going to select claim our free domain now if you already have an existing domain name that you've bought from godaddy or namecheap or one of those other websites you can use an existing domain name by selecting this or you could always buy a domain name but i don't know why you'd buy a domain name when you get a free one anyways and we're going to use the domain name buy rocket t and i always recommend having a dot-com domain name so we're going to select.com right here we're going to search to see if it's available and it is so we're going to click continue now we're going to click on finish setup and just like that we already have a website we can view what the website looks like by going here but obviously our woocommerce website's not set up yet so we're gonna have to start customizing our woocommerce website and setting it up and that's step three and before we start customizing your woocommerce website we're going to want to activate the ssl we're going to go ahead and click activate right here we're going to click install ssl and this is something that hostsinger offers for free you can also enable daily backups if you want to but there is an extra charge for that and this is not necessary but it could be helpful there's some other things that we'll talk about later here now we're going to click on edit website and we're going to actually set up our woocommerce website and this is what the dashboard of your woocommerce website slash wordpress website looks like and remember that this is a wordpress website with a plugin called woocommerce and wordpress allows you to create a website for free very easily and woocommerce is just a plug-in to that system that allows you to accept payments to let people purchase things from your website so the first thing we're going to do is we're going to click on this woocommerce tab right here and i'm going to show you and explain this entire sidebar in just a few minutes but first we have to set up woocommerce and so this is going to be a quick and easy guide for setting up woocommerce first thing they'll ask is for your address and go ahead and put in your address it doesn't matter where it is and then click continue then they'll ask you what industry does your store operate in and for this website we're going to select food and drink and click continue now it's going to ask you what types of products we're going to be selling with our woocommerce website and again we're selling physical products because we're actually selling a physical product that when someone buys we're going to ship to them in the mail but woocommerce also supports products that people can download things like ebooks or music or any kind of electronic files as well as subscriptions memberships bookings bundles and customizable products so subscriptions would be something where they're going to buy it and they're going to rebuy it every single month memberships is similar except for it allows you to have a membership model where people buy to be a member of your website and then they can get extra features and extra access it also woocommerce also supports bookings if maybe you sell your time by the hour and you're a consultant or something like that and you want people to be able to book with you for an extra fee you can select this and allow people to book on your calendar woocommerce also supports bundles so if you're selling multiple different products and you want to allow customers to be able to bundle them together for four dollars a month you can highlight this and be able to sell bundles also you can have customizable products and if you click on the little i for more information this allows people to do gift wrapping or add special messages or other special options like that again for an extra four dollars a month you can select that now for our website it's just physical products so we're going to click on continue and then it'll ask how many products do we plan to display for now it's just one to ten but in the future it might change and that's absolutely okay and it's going to ask if we're currently selling elsewhere right now for this product we're not selling anywhere else and so i'm going to select no and then we're going to click continue now it asks if we want to add some recommended business features to the website if we click the down arrow and it says accept credit cards and other popular payment methods with woocommerce payments yes we do want to have that print shipping labels with woocommerce shipping yes that's another good feature automated sales tax with woocommerce tax also good enhanced speed and security with jetpack also good now it's asking about level up your email marketing with mail poet i don't think that we need that if that's something you want we can always do it it also says drive sales with google listing and ads for now i'm also going to unclick that one because we're not going to be running any ads to this website just yet we're going to go ahead and click continue now we're going to choose a theme we've already chose a theme earlier but there's some other themes here that they have to offer and you can look through these you can do a live demo if you want or you can look at some of the different paid themes and the paid themes are obviously going to be a little bit more professional you can also look at some of the different free themes here and for now we're just going to go ahead and skip this step because we already did this earlier the next thing you're going to do is click on get paid with woocommerce and this is going to set it up so you can accept credit card payments via woocommerce you'll enter your email address here and click continue i'll then send you an email with a link and click on that link and then it'll bring you to this page where again you can enter your email address here click continue and if you've used stripe before you'll be able to just click on an account you've already used right before for if you've never used stripe before you're going to sign up for a stripe account and then you'll click continue you're then going to select your industry and it's going to be under retail and for us we're going to go ahead and put other merchandise and click continue so i'm going to ask you to select a bank account where your payments are going to go to and i'm going to go down here and i'm going to select my bank account i use u.s bank and it's going to ask you to connect to your u.s bank account so that it can establish a connection assuming everything went well it'll be successful and you'll click done this is going to allow you to start collecting payments and getting that money sent to your bank account then review all your details and if everything looks good you'll click submit you can also set up additional payment providers i recommend setting up paypal but it's not necessary the next thing you want to do is set up your tax rates and woocommerce tax is a simple easy way to do it and you can click on yes please and it'll help you with this process you can also click to set up shipping rates and the way you can set up shipping is completely up to you if you want you can do free shipping which is generally what i recommend to everybody in the u.s or if you wanted to you could do flat rate shipping let's say 295 if that's what you wanted to do and then if you want to ship to the rest of the world you can turn this on and you can put what the shipping cost would be for the rest of the world i recommend doing flat rate also for the rest of the world so let's go ahead and complete this task and now that we've done all this we actually have a website that if you go you can actually buy things but the problem is we haven't customized this website at all so we have to finish setting it up by deleting all of the old products and adding some new products so let me show you how to do that you're going to go under products here and all products and the first thing we're going to do is let's just delete all these products we don't need any of these things so we're going to click move to trash and we're going to click apply so now there are no products so we need to click add new product and we're going to add the product that we're selling which is rocket t so we're going to put a product name here and we're going to call it rocket t hi and then maybe dash hi caffeine tea we'll then also scroll down and we're going to add a picture of what we're selling because that's very important and we're going to select a product image here so we got to upload a file and i have the file on my hard drive we're going to select that file and we're going to click open and upload it now a pro tip for seo purposes which stands for search engine optimization we want to make sure we add an alt text and a title that has a keyword that people are searching for in google i'll explain that in more depth later in this video but for now just whatever thing that someone would go to google to search for your product make sure that that's in the alt text title and description this is a basic explanation of how to get your products in your website ranked to the top of google but again i'll talk more about that later so we're going to click set product image the next thing we need to do is set a price so the price of this product is going to be at 27.99 but we're going to say that the regular price is 34.99 that way it seems like it's discounted we're also going to add a description right here and we're going to say something like with over 200 milligrams of caffeine per serving this is the highest caffeine tea in the world now let's go ahead and we're going to preview what this looks like and we can see here we have a product it has an add to cart button you can even buy with google pay it's ready to go it even has a basic description now this isn't the best product out there we're obviously we could add a lot of things we could add more description more images all kinds of things in there and i'll show you how to do that later in this video in more depth but the goal is just to get a working website as fast as possible so now that we have this set and it actually is a functional website let's go to the home screen and let's start customizing all of this and the easiest way to do that is click on this customize button up here i'll explain this entire menu you can customize every single thing about your website because it is a wordpress site that means that it's your website you have full control and you can customize it however you want so the first thing is if you click on typography you can change all the fonts all over the website including the header fonts body fonts anything you want to customize you can and i won't go into depth about this right now but just know that you can change things you can also change color so maybe for instance you want to change the theme color here instead let's make it you know i don't know that color you can see that the button actually changes you can also change link colors the link hover color you can change the heading color basically everything here the site background and the content background as well if you want to change you could change you can also change the containers so you can look at the different widths which will change the width of different containers within the website we're not going to you see as i change this it changes the look and the feel of the website this is a more advanced thing so we're not going to go into detail all these things are a little bit more advanced i'm just going to reset this so we don't mess anything up let's go back here to the buttons if you want to change the way the buttons look you can do it in here or text color the border width border radius whatever you want to change like i said it's very customizable there's also a block editor which again is a more advanced feature but just again letting you know that you can customize everything that you want but something we are going to change is the header builder and this is the header up here and we're going to want to completely customize it so first thing site title and logo so this is the current logo let's change that so i'm going to click change logo and i'm going to upload a new logo we have this logo right here that we're going to use for the time being and again we're going to change the alt text and the title and even add a description saying hi caffeine t because we really want google to rank this website for high caffeine tea now in the future what we'll do is we'll probably replace this logo with something that's a little bit longer and get rid of this by rocket t so for the time being i'm just going to get rid of that buy rocket t we don't need that we got the logo right there that's enough you can also if you want change the logo with which we're not going to do let's keep it at the original 50 because i think that's a good size now we'll go back and you can see here the way the header's set up is the site title and logo is right here there's also the cart which we can customize which is over here and the primary menu so the cart is something that i think this is good we're going to display the cart total and display the cart title as well we can change the design if we want to you can mess with that i think it's fine for the time being but let's go in and let's look at the primary menu so this right here is the primary menu and if we wanted to we could click configure menu from here we can change up how this looks so the primary menu is as i mentioned the main menu and we can adjust some of the different elements of the menu here and if we click config figure menu from here we can change what this primary menu is i'll explain how to change this up later in this video the next thing on the customize option is the breadcrumb and we have header position none we don't want the breadcrumb the breadcrumb is basically it lets you know like how deep in the website you're going and it shows you hey you were on this page then this page is in this page we're going to select none i think that's the best option there under blog we can change up some of the features here whether or not we have the blog or archive like what the different categories look like do we want comments on do we want the category do we want the author do we want the published state we can turn the publish date on and off same thing with any tags if however we go to single post we can also change it we can add on or off the publish date we can change up all this different stuff here next up is the sidebar and if we click on that right now there's no sidebar but if we wanted to we can enable let's say a right sidebar which would add all this over on the right hand side and sometimes this is chosen if people are they have a wordpress website and they're doing lots of blogs you can see recent posts and things like that or you could put it on the left side but if you're doing a woocommerce website i recommend having no sidebar you don't want anything distracting people from buying your products so we're going to go back we're not going to have a sidebar there's also the footer builder which is down here and this allows us to build out the footer we have different widgets here we have four different widgets here one of them is the social which widget one and two and we also have widget three and four and you can change these out and you can make these be different things you could have site links you can do all kinds of different things for now just to make this really simple i'm just going to put in here rocket tea the highest caffeine tea in the world very simple you can also go in here and click on the edit button and you can edit all your different links we'll click here you'll put the url of your instagram twitter facebook linkedin whatever you have you can put all those here i believe you could probably even change them out and add a social icon here and change the name of it change it to be whatever you would like it to be right here is a list of all the most common ones phone numbers and other things like that let's go back and let's go ahead and delete this one because we don't have a b hands i don't know what that what that even is and if we wanted to here we could also delete these widgets for the time being we can always add new ones in there we also have the copyright and the powered by wordpress let's go ahead and remove that element we don't want people to know that it's powered by wordpress there's no reason to give wordpress free advertising here under performance if we want we can load google fonts locally i usually just leave it unchecked but if you want to have it checked i think that's fine as well we can also go in here and we can customize all the woocommerce stuff so there's a store store notice right up here and it says this is a demo store for testing purposes no order shall be fulfilled we're going to want to get rid of that but i mean it's not being shown right now anyways because we don't have enable store notice that is something to keep in mind though under product catalog we can show page display show the products we can show categories or we can show categories and products now one thing i realized is there's no products being displayed and it's because we never actually published our products we got to make sure we publish everything so now that we publish that we should be able to go back here and let's see if we refresh this what shows up and you can see now that our products are showing up so i recommend just clicking show products for all of these and you can also change the shop columns if you have multiple products you can change the columns to show three columns or four columns and that'll show different grid amounts over here there's also other things down here that you can customize under single product you can choose to disable the breadcrumb which is what i do and let me show you what that looks like you can see the breadcrumb is up here it says home on categories rocket t that's not helping anyone that's not making people decide to buy the product so we're going to go ahead and disable that breadcrumb and it gets rid of it up here it just looks a lot cleaner we can also change the main image width and the thumbnail width right here 600 is a good width so i'm not gonna i think we'll just leave everything as it is don't want to change anything and also optimize the cart we can enable cross sales now we're only selling one product so this doesn't really matter but i'll go ahead and keep it enabled and under checkout we can make some changes to make the whole process a little bit smoother for instance making the company name field we can hide it if we don't think that a lot of people that have companies are going to be purchasing then we can go ahead and hide that we can change the phone field if we want to have it required or optional we can change the privacy policy page now one thing that's very important the terms and condition page is not set currently and i'm going to show you how to create a page in woocommerce in just a minute and then we're going to set the terms and condition page properly now we're going to continue to customize this website we're going to go under appearance and we're going to look at all these different things so we've already talked about themes but if at any point you want to customize your theme or change your theme you can come in here and you can change it up you can also click on the customize tab here and it'll bring you to the page that we had earlier and you can start customizing and changing all of this the next option is to click on widgets and widgets are basically little items on your website that you can change and customize and there's a little introduction here that you can go through and learn a little bit more about blocks and how to customize them this is something that's maybe a little bit more advanced not something that we're going to go into a lot of detail about here the next thing that i promised we would talk about is menus and this will look familiar this is the main menu that is on the home screen it's this menu up here at the top you can see under store we have plants and cactuses and this we're not going to sell plants and cactuses we're going to be selling tea so let's go ahead and customize that so the first thing we're going to do is we're going to click on this and we're going to go ahead and click remove click on this and click remove and instead of store we're going to change that just to say buy rocket t and we'll click save the menu and let's go and let's see what happens so you can see home buy rocket t about us contact us my account in fact i think we could even get rid of home because if anyone wants to go to the home they can just click on the icon in the upper left hand corner so again we're going to save this menu and let's refresh this see what it looks like boom that's nice but what happens if we click on buy rocket t well it takes us to this page here now what would be even better is if it took us to this product page here instead that way it takes less work for people to actually buy the product and to do that we're gonna have to go in here and we're going to click remove and we're going to click custom links we're going to put the url of the product and that's the url right here of the actual product page and we're going to change this to say by rocket t we're going to click add to menu and we'll move that back up to the top we're going to save this menu and let's go back to our website to see how it looks if we click on buy rocket t now it takes us directly to the product page and you can update this and customize this menu and if you wanted to you could always create other menus as well by clicking create a new menu and there's times where it makes sense to have a menu but generally speaking this is the only menu that you're going to use one other thing you're going to need to do is configure your stripe account if you want to accept payments so we're going to click connect with stripe and if you already have a stripe account you're going to go ahead and enter the email and if you don't you'll still put in an email and you'll start a new stripe account you'll then click to enable gateways i only really recommend using the stripe card processing and click enable gateways if you want you can also enable express checkout we're going to go ahead and skip that for now then you're going to select a mode if you want to keep your website from just being in test you can select test or we can select live if you're ready to start accepting payments right now we'll click save and continue and now you're ready to start accepting payments the next tab that we're going to talk about is additional css and css stands for cascading style sheets and that is a more advanced topic it allows you to completely customize your website and add features to it and to get there we got to click on continue to jetpack and we have to go through some of these things but we're not going to be adding any custom css for now so we're going to go ahead and forget about that let's go back down to appearance and there's some other things here including a starter template a pop-up builder and that's an email pop-up and astra options but the last thing that i want to point out is this theme file editor and you can completely customize your entire woocommerce website now this is only for people that are a little bit more advanced that maybe understand html php maybe even some css and so here is the style sheet the css style sheet for the entire website you can go in here and you can customize anything and everything but do not mess around in here unless you know what you're doing next thing i'm going to show you here is how to set up plugins but before we do let's go ahead and get rid of some of these things up here because they keep getting in the way and they're distracting we're just going to do that for now and this is a list of all the plugins that are installed on wordpress and remember that wordpress is a content management system it's a way for you to easily build a website and you can add plugins that'll give added functionality to your wordpress website and this came pre-loaded with about 18 different plugins you can see that woocommerce right here is just one plugin for wordpress and if we wanted to we can deactivate so let's go ahead and we can deactivate some of these and i'm going to see which one would be a good one to deactivate you can see one plugin here is hello dolly this is just like a fun plugin that the creators of wordpress put in here just to show you like how this works and if you activate it at the top here it has like a little quote and let's go ahead and go back down let's deactivate that we can even delete plugins if it's something that you never think you're going to use i'll go ahead and delete this thing push ok another one that we might want to deactivate is optinmonster and optinmonster i'm sure there's some really good reasons to have it but i'm going to go ahead and deactivate it i don't plan on using it for this website but something else that you can do is anytime there's a functionality that you want to add to your website there's thousands if not tens or hundreds of thousands of plugins and you can look and you can add a new plugin so for instance one thing that i want to do is when people click on add to cart instead of adding it to their cart i wanted to take them directly to the checkout so we're going to go ahead go here and we're going to type in direct checkout and see what comes up and we can see that there's one that's called direct checkout for woocommerce let's go ahead and install it and let's see if this will work for us you're going to want to make sure you click activate so that's activated and it actually starts working now let's go to buyrockett.com and we're going to go to buy rocket t and we're going to click add to cart but now instead of it adding to cart it takes us directly to the checkout page which will make it easier for people to buy now again you can customize all this if you wanted to get rid of this coupon part if you wanted to get rid of this you could get rid of all this very easily now that we understand plugins the next thing we want to understand is pages and you can see that there's a list of all the different pages there's the about us page the cart page the checkout page and we can customize all these so let me show you how to customize one of these so let's go to the about us page we're going to click edit here and we're gonna change this up so one of the first things instead of having this background let's go ahead and get rid of that and in fact let's get rid of this entire section here by coming down here and clicking remove cover so now it just says about us and it has a little bit of information so i'm just going to put put info here and then put more info over here we can also click on read more our company we're going to put some info here basically and then we can change out this image to whatever we want by clicking the replace button you can even scroll down here and it says our team and we can update all the photos here so one thing you can do is if you wanted to you could click on this and you could click replace and you could upload a new photo so i have a new photo right here we'll go ahead and open that you can see we have a new photo right here we can change it the name to founder the name up here to the founder's name and i partnered with willem on this product if we wanted to we could even update all the different social media down here and we'd go through and we could replace this if i wanted to put my image in there but i think we're going to have willem be the face of this brand so we could just go through and we could delete all these different sections which we'll do later and then we scroll down here and if we wanted to we could replace the background here in fact what we're going to do we're just going to get rid of this entire section i don't think we need this here so this is what it looks like now we're going to put some info here we've got to fill all this out later and we'll probably go through and probably delete some of this stuff as well but you can see we have the page title down here and this is specifically going to be for seo purposes and we can go into so much depth about that that's something that maybe i'll do an advanced woocommerce video about if you want that type of a video click the like button down below you can also see on all kinds of different things that we can customize here how it shows up on social media the facebook preview what that would look like the schema the link assistant here as well redirects and some advanced features and this is all stuff that is maybe saved better for a more advanced woocommerce video but now that we know how to edit an existing page what we can also do is we could always add a new page and you might want to add a new page for any number of different reasons maybe you have your refund policy maybe you have a specific page with frequently asked questions but one thing that i promised that we would talk about is terms and conditions and you can just type in the title up there and we can start typing for a new block right here and here we could put all of our terms and conditions and you can find stuff like this on the internet we're going to go ahead and click publish click publish again and why this is important is we're going to go over here we're going to go to appearance and we're going to go to customize and remember earlier i told you that we want to go into here and then into the checkout and we can select the terms and conditions page if we go in here look now there's a terms and condition page obviously it's not fully filled out but we have something at least temporarily for now so we're going to go ahead and click publish another page that we're going to want to customize is the home page the front page so let's go ahead and click edit here and you can see that this is what the home page looks like first thing we're going to do let's get rid of this image and we could always replace it with another image but for now we're just going to go ahead and click clear media and let's change this to say by rocket t we can get rid of this heading right here as well and we can scroll down and we can start playing with this and so one of the things that i'm going to do here is i'm going to delete all of these we don't need this anymore we can delete this entire section actually and all i'm doing is clicking on it and clicking delete here some testimonials we can we can replace this text here and we can replace this text then we can place this text we can change out the images with real customers that we have and change out the names to real customers and we can put some more information here about that i'm also going to go ahead and click here to delete this media if we wanted to add some media we could and we can change this to say interested by hi caffeine t today let's go ahead and change this up and this is just a bunch of nonsense fill in text here we'll change that up eventually as well and then we can go down below and we can update this and optimize it for seo purposes which is something that we're not going to really go over just yet but let's go ahead and let's click update now we still have some other things that we want to optimize instead of saying plants collection we could say t collection and start showing some tea and i guess we could say that that's a tea leaf there and then instead of featured plants it could be featured tea and again we'll go ahead and click update another feature of wordpress and woocommerce is posts and since originally wordpress was meant to be kind of a blog posting website where you'd have different posts maybe every week if instead of doing pages which pages are a little bit more static and they're kind of meant to be there forever you could add new posts and so if you do want to have a blog for your woocommerce website all you have to do is click add new post and it's very similar to adding a new page another thing i want to mention is if you're going to be doing blog posting there are going to be comments and you can click here to view all your different comments moderate them anytime you want to you can go up here and you can approve unapprove or move the comment to trash that's something that you're going to want to watch out for if you're doing blog posts and speaking of comments do me a favor and leave a comment for this video but now i want to show you some more advanced features of woocommerce so if we click on woocommerce here we can click on the orders now we don't have any orders right now but as we start to have orders we can come in here and we're going to see all the orders and we can start to fulfill them there's also subscriptions if you want to offer a subscription for your product you can click on that button and you can see all the different active subscriptions that you have we also added this feature of direct checkout and if you click on that you're able to change some of the settings for direct checkout and you're going to want to make sure that added to cart redirect is on yes and added to cart redirect goes to the checkout you can have it go to a custom url or the web cart some other things that you're going to look at are customers as you start to get more woocommerce customers you can come in here and you're going to see all those customers as well as if you ever want to create coupons for woocommerce you click on this click add a coupon and you can customize and optimize that as well another feature of woocommerce is the reports now since we don't have any data here there's not going to be much to show but you can come in here and you can start looking at how much in sales you've received for your woocommerce website as well as there's customers and stock and taxes and shipping labels and you can look at reports under all those different things now one of the most important things that you're going to want to look at is the settings you can change all these different settings you can change the address that you have associated with your store you can change how your products show up what the shop page looks like the add to cart behavior you can even click on redirect to the cart page after successful edition and that would only work if you don't have the direct cart plug-in that we talked about earlier you can change the weight unit right now it's set to kilogram we might want to change that to pounds because we're here in the united states and for whatever reason in the united states we still use the pound system you can also click on the tax button up here and change how we do taxes right now it enables automated taxes but the truth is you only really want to charge taxes in the state if people are buying from the state that you are located in there's also a bunch of other features in here that you can optimize and change we have the shipping options which we talked about earlier and right now we have flat rate shipping both to the united states and internationally if we wanted to change that we could come in here and we could even add specific shipping zones maybe canada is a little bit cheaper than the rest of the world and then the rest of the world would be you know more expensive under payments we have it already set up for woocommerce payments if i wanted to i could enable test mode so that would make it so the store is no longer active there's also accounts in privacy and this allows a guest checkout there's a bunch of other features in here the privacy policy and you can see all that information right here and there's emails integration advanced multi-currency subscriptions and direct checkout so at this point we have a functional website that actually works that you could go to and you can actually buy things from now it's not the prettiest of websites but it works and that's all that really matters in this quick guide if you want me to do a more detailed guide make sure to hit the like button and if you're looking for hosting for your woocommerce website check out hostsinger i have the hookup use coupon code travis to get an extra 10 off there are already ridiculously low prices again there's a link here if you want more information on hosting",
+  "id": "snoXVpzrgmU",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "There are four steps to setting up a WooCommerce site. Learn how you can do this in this step-by-step tutorial!\n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here:  https://start.travismarziani.com/?utm_source=youtube&utm_campaign=woocommercetutorial\n\nIf you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nSign Up To Hostinger For Your Woocommerce Website:\nhttps://www.hostg.xyz/SHHlX\n\n0:00 Introduction\n0:46 1st Step In Creating A Woocommerce Website\n2:28 2nd Step In Creating A Woocommerce Website\n4:07 3rd Step In Creating A Woocommerce Website\n32:14 4th Step In Creating A Woocommerce Website"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "2133",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2022-08-02",
+      "title": {
+        "simpleText": "Woocommerce Tutorial for Beginners Step by Step 2026"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "Woocommerce Tutorial for Beginners Step by Step 2026",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.08",
+          "dur": "2.64",
+          "text": "the first step to setting up your"
+        },
+        {
+          "start": "0.96",
+          "dur": "3.76",
+          "text": "woocommerce website is to buy hosting"
+        },
+        {
+          "start": "2.72",
+          "dur": "3.52",
+          "text": "you need a company that's going to host"
+        },
+        {
+          "start": "4.72",
+          "dur": "2.96",
+          "text": "your website even though woocommerce is"
+        },
+        {
+          "start": "6.24",
+          "dur": "3.84",
+          "text": "free you still have to pay a little bit"
+        },
+        {
+          "start": "7.68",
+          "dur": "4.4",
+          "text": "of money to get your website hosted on a"
+        },
+        {
+          "start": "10.08",
+          "dur": "3.599",
+          "text": "computer server the second step is to"
+        },
+        {
+          "start": "12.08",
+          "dur": "3.759",
+          "text": "set up the hosting i'm going to show you"
+        },
+        {
+          "start": "13.679",
+          "dur": "4.321",
+          "text": "step by step how to do that the third"
+        },
+        {
+          "start": "15.839",
+          "dur": "4.481",
+          "text": "step is to set up woocommerce and make"
+        },
+        {
+          "start": "18",
+          "dur": "4.88",
+          "text": "it so that you can accept payments on"
+        },
+        {
+          "start": "20.32",
+          "dur": "3.76",
+          "text": "your website and the fourth step is all"
+        },
+        {
+          "start": "22.88",
+          "dur": "3.28",
+          "text": "the different advanced features and i'm"
+        },
+        {
+          "start": "24.08",
+          "dur": "4.24",
+          "text": "gonna go in depth in this video on how"
+        },
+        {
+          "start": "26.16",
+          "dur": "4",
+          "text": "to set up your woocommerce website and"
+        },
+        {
+          "start": "28.32",
+          "dur": "4.48",
+          "text": "we're gonna be setting up a very simple"
+        },
+        {
+          "start": "30.16",
+          "dur": "4.88",
+          "text": "website here live in this video in"
+        },
+        {
+          "start": "32.8",
+          "dur": "3.919",
+          "text": "record time this is nothing complicated"
+        },
+        {
+          "start": "35.04",
+          "dur": "4",
+          "text": "this is something that's just super easy"
+        },
+        {
+          "start": "36.719",
+          "dur": "4.16",
+          "text": "to do and it'll work it'll allow you to"
+        },
+        {
+          "start": "39.04",
+          "dur": "3.199",
+          "text": "accept credit card payments for your"
+        },
+        {
+          "start": "40.879",
+          "dur": "3.2",
+          "text": "product make sure to hit the like button"
+        },
+        {
+          "start": "42.239",
+          "dur": "3.281",
+          "text": "because we're starting this tutorial now"
+        },
+        {
+          "start": "44.079",
+          "dur": "4.561",
+          "text": "the first step to setting up your"
+        },
+        {
+          "start": "45.52",
+          "dur": "5.84",
+          "text": "woocommerce website is to buy hosting"
+        },
+        {
+          "start": "48.64",
+          "dur": "5.52",
+          "text": "because even though it's free to set up"
+        },
+        {
+          "start": "51.36",
+          "dur": "5.28",
+          "text": "a woocommerce website you need to pay a"
+        },
+        {
+          "start": "54.16",
+          "dur": "5.36",
+          "text": "company to run your website and host"
+        },
+        {
+          "start": "56.64",
+          "dur": "5.2",
+          "text": "your website on their servers and the"
+        },
+        {
+          "start": "59.52",
+          "dur": "4.719",
+          "text": "best company i've found to do that is"
+        },
+        {
+          "start": "61.84",
+          "dur": "4.319",
+          "text": "actually hosting or it's also the most"
+        },
+        {
+          "start": "64.239",
+          "dur": "4.161",
+          "text": "affordable there's a link down below in"
+        },
+        {
+          "start": "66.159",
+          "dur": "4.32",
+          "text": "the description that you can use plus i"
+        },
+        {
+          "start": "68.4",
+          "dur": "3.36",
+          "text": "have the hookup with hosinger i have a"
+        },
+        {
+          "start": "70.479",
+          "dur": "3.361",
+          "text": "coupon code that will get you an extra"
+        },
+        {
+          "start": "71.76",
+          "dur": "3.44",
+          "text": "10 off so what you're going to do is"
+        },
+        {
+          "start": "73.84",
+          "dur": "2.72",
+          "text": "you're going to click get started and"
+        },
+        {
+          "start": "75.2",
+          "dur": "3.279",
+          "text": "one thing that's really cool about host"
+        },
+        {
+          "start": "76.56",
+          "dur": "4.72",
+          "text": "singer is they do have a 30 day money"
+        },
+        {
+          "start": "78.479",
+          "dur": "4.721",
+          "text": "back guarantee and at 2.99 a month it's"
+        },
+        {
+          "start": "81.28",
+          "dur": "3.6",
+          "text": "very affordable to set up your own"
+        },
+        {
+          "start": "83.2",
+          "dur": "3.44",
+          "text": "woocommerce website they also give you a"
+        },
+        {
+          "start": "84.88",
+          "dur": "3.04",
+          "text": "free ssl which is what you need if"
+        },
+        {
+          "start": "86.64",
+          "dur": "2.72",
+          "text": "you're going to be doing a woocommerce"
+        },
+        {
+          "start": "87.92",
+          "dur": "3.199",
+          "text": "website this makes it so your website's"
+        },
+        {
+          "start": "89.36",
+          "dur": "3.759",
+          "text": "secure and you can accept credit card"
+        },
+        {
+          "start": "91.119",
+          "dur": "4.761",
+          "text": "payments they also give you a free"
+        },
+        {
+          "start": "93.119",
+          "dur": "4.561",
+          "text": "domain name which is your"
+        },
+        {
+          "start": "95.88",
+          "dur": "4.52",
+          "text": "www.whateveryour.com domain name would"
+        },
+        {
+          "start": "97.68",
+          "dur": "4.88",
+          "text": "be and free email and it's optimized for"
+        },
+        {
+          "start": "100.4",
+          "dur": "4.32",
+          "text": "wordpress and remember that woocommerce"
+        },
+        {
+          "start": "102.56",
+          "dur": "3.28",
+          "text": "is just a plugin for wordpress we'll"
+        },
+        {
+          "start": "104.72",
+          "dur": "2.719",
+          "text": "talk more about that later but we're"
+        },
+        {
+          "start": "105.84",
+          "dur": "3.52",
+          "text": "going to select this plan and then we're"
+        },
+        {
+          "start": "107.439",
+          "dur": "4.161",
+          "text": "going to choose a period of how long we"
+        },
+        {
+          "start": "109.36",
+          "dur": "4.24",
+          "text": "want to commit to hosting our website"
+        },
+        {
+          "start": "111.6",
+          "dur": "4.479",
+          "text": "and i recommend here locking in your"
+        },
+        {
+          "start": "113.6",
+          "dur": "4.08",
+          "text": "discounted rate for a full 48 months"
+        },
+        {
+          "start": "116.079",
+          "dur": "3.521",
+          "text": "because the thing to remember is after"
+        },
+        {
+          "start": "117.68",
+          "dur": "4",
+          "text": "whatever time period you select after"
+        },
+        {
+          "start": "119.6",
+          "dur": "3.199",
+          "text": "that time period it's going to cost more"
+        },
+        {
+          "start": "121.68",
+          "dur": "2.16",
+          "text": "money you're going to have to pay the"
+        },
+        {
+          "start": "122.799",
+          "dur": "3.121",
+          "text": "regular rate and then you're going to"
+        },
+        {
+          "start": "123.84",
+          "dur": "3.76",
+          "text": "put in your payment information and"
+        },
+        {
+          "start": "125.92",
+          "dur": "4",
+          "text": "something that's cool they actually do"
+        },
+        {
+          "start": "127.6",
+          "dur": "3.6",
+          "text": "accept bitcoin and cryptocurrencies but"
+        },
+        {
+          "start": "129.92",
+          "dur": "3.28",
+          "text": "for most people you're gonna just use"
+        },
+        {
+          "start": "131.2",
+          "dur": "3.44",
+          "text": "credit card or paypal you're gonna go"
+        },
+        {
+          "start": "133.2",
+          "dur": "3.36",
+          "text": "down here and you're gonna use the"
+        },
+        {
+          "start": "134.64",
+          "dur": "3.76",
+          "text": "coupon code travis then fill in all your"
+        },
+        {
+          "start": "136.56",
+          "dur": "3.6",
+          "text": "credit card information and click submit"
+        },
+        {
+          "start": "138.4",
+          "dur": "3.68",
+          "text": "secure payment they'll then ask you to"
+        },
+        {
+          "start": "140.16",
+          "dur": "3.36",
+          "text": "set up a new password go ahead and put"
+        },
+        {
+          "start": "142.08",
+          "dur": "3.04",
+          "text": "in your password and click confirm the"
+        },
+        {
+          "start": "143.52",
+          "dur": "3.68",
+          "text": "second step after you've bought your"
+        },
+        {
+          "start": "145.12",
+          "dur": "3.6",
+          "text": "hosting is to start setting up your"
+        },
+        {
+          "start": "147.2",
+          "dur": "3.6",
+          "text": "hosting and they're going to help you do"
+        },
+        {
+          "start": "148.72",
+          "dur": "3.36",
+          "text": "it host singer makes it very easy we're"
+        },
+        {
+          "start": "150.8",
+          "dur": "2.56",
+          "text": "going to click start now i'll ask you"
+        },
+        {
+          "start": "152.08",
+          "dur": "3.519",
+          "text": "who you're creating a website for in"
+        },
+        {
+          "start": "153.36",
+          "dur": "4",
+          "text": "this case it's myself and what kind of"
+        },
+        {
+          "start": "155.599",
+          "dur": "3.121",
+          "text": "website it's going to be so we're doing"
+        },
+        {
+          "start": "157.36",
+          "dur": "3.28",
+          "text": "an online store since this is a"
+        },
+        {
+          "start": "158.72",
+          "dur": "3.92",
+          "text": "woocommerce store depending on what your"
+        },
+        {
+          "start": "160.64",
+          "dur": "3.28",
+          "text": "experience level is you can do whichever"
+        },
+        {
+          "start": "162.64",
+          "dur": "2.8",
+          "text": "one you want i'm going to go ahead and"
+        },
+        {
+          "start": "163.92",
+          "dur": "3.12",
+          "text": "put a beginner just so i can go through"
+        },
+        {
+          "start": "165.44",
+          "dur": "3.439",
+          "text": "the process with you you want to choose"
+        },
+        {
+          "start": "167.04",
+          "dur": "4.16",
+          "text": "woocommerce with wordpress woocommerce"
+        },
+        {
+          "start": "168.879",
+          "dur": "3.521",
+          "text": "is a plug-in into wordpress wordpress"
+        },
+        {
+          "start": "171.2",
+          "dur": "2.72",
+          "text": "allows you to build a website"
+        },
+        {
+          "start": "172.4",
+          "dur": "2.96",
+          "text": "woocommerce allows you to accept credit"
+        },
+        {
+          "start": "173.92",
+          "dur": "4.08",
+          "text": "card payments making it so that your"
+        },
+        {
+          "start": "175.36",
+          "dur": "3.84",
+          "text": "website is now an online store"
+        },
+        {
+          "start": "178",
+          "dur": "3.04",
+          "text": "next you'll set up your wordpress"
+        },
+        {
+          "start": "179.2",
+          "dur": "3.52",
+          "text": "account put an email and a password here"
+        },
+        {
+          "start": "181.04",
+          "dur": "4",
+          "text": "and click continue now you're going to"
+        },
+        {
+          "start": "182.72",
+          "dur": "3.519",
+          "text": "select a theme for your woocommerce"
+        },
+        {
+          "start": "185.04",
+          "dur": "2.72",
+          "text": "website we have a bunch of different"
+        },
+        {
+          "start": "186.239",
+          "dur": "3.041",
+          "text": "options here and you can actually"
+        },
+        {
+          "start": "187.76",
+          "dur": "3.28",
+          "text": "preview what the different themes look"
+        },
+        {
+          "start": "189.28",
+          "dur": "3.599",
+          "text": "like the good thing is you can always"
+        },
+        {
+          "start": "191.04",
+          "dur": "3.44",
+          "text": "change this later so don't think that"
+        },
+        {
+          "start": "192.879",
+          "dur": "3.44",
+          "text": "you're stuck with whatever theme you"
+        },
+        {
+          "start": "194.48",
+          "dur": "3.2",
+          "text": "pick and for now i'm just going to do"
+        },
+        {
+          "start": "196.319",
+          "dur": "2.801",
+          "text": "the simply natural we're going to hit"
+        },
+        {
+          "start": "197.68",
+          "dur": "3.44",
+          "text": "select and we're going to move on to the"
+        },
+        {
+          "start": "199.12",
+          "dur": "4.32",
+          "text": "next step which is setting up your"
+        },
+        {
+          "start": "201.12",
+          "dur": "4.8",
+          "text": "domain name and your domain name is your"
+        },
+        {
+          "start": "203.44",
+          "dur": "4.64",
+          "text": "url it's whatever the dot com or"
+        },
+        {
+          "start": "205.92",
+          "dur": "3.76",
+          "text": "whatever you want and because hosinger"
+        },
+        {
+          "start": "208.08",
+          "dur": "4",
+          "text": "comes with a free domain we're going to"
+        },
+        {
+          "start": "209.68",
+          "dur": "3.919",
+          "text": "select claim our free domain now if you"
+        },
+        {
+          "start": "212.08",
+          "dur": "3.28",
+          "text": "already have an existing domain name"
+        },
+        {
+          "start": "213.599",
+          "dur": "3.681",
+          "text": "that you've bought from godaddy or"
+        },
+        {
+          "start": "215.36",
+          "dur": "4.56",
+          "text": "namecheap or one of those other websites"
+        },
+        {
+          "start": "217.28",
+          "dur": "4.239",
+          "text": "you can use an existing domain name by"
+        },
+        {
+          "start": "219.92",
+          "dur": "2.879",
+          "text": "selecting this or you could always buy a"
+        },
+        {
+          "start": "221.519",
+          "dur": "2.72",
+          "text": "domain name but i don't know why you'd"
+        },
+        {
+          "start": "222.799",
+          "dur": "2.881",
+          "text": "buy a domain name when you get a free"
+        },
+        {
+          "start": "224.239",
+          "dur": "4.72",
+          "text": "one anyways and we're going to use the"
+        },
+        {
+          "start": "225.68",
+          "dur": "5.919",
+          "text": "domain name buy rocket t and i always"
+        },
+        {
+          "start": "228.959",
+          "dur": "4.321",
+          "text": "recommend having a dot-com domain name"
+        },
+        {
+          "start": "231.599",
+          "dur": "2.881",
+          "text": "so we're going to select.com right here"
+        },
+        {
+          "start": "233.28",
+          "dur": "2.8",
+          "text": "we're going to search to see if it's"
+        },
+        {
+          "start": "234.48",
+          "dur": "3.36",
+          "text": "available and it is so we're going to"
+        },
+        {
+          "start": "236.08",
+          "dur": "4",
+          "text": "click continue now we're going to click"
+        },
+        {
+          "start": "237.84",
+          "dur": "3.599",
+          "text": "on finish setup and just like that we"
+        },
+        {
+          "start": "240.08",
+          "dur": "3.76",
+          "text": "already have a website we can view what"
+        },
+        {
+          "start": "241.439",
+          "dur": "4.16",
+          "text": "the website looks like by going here but"
+        },
+        {
+          "start": "243.84",
+          "dur": "3.44",
+          "text": "obviously our woocommerce website's not"
+        },
+        {
+          "start": "245.599",
+          "dur": "3.84",
+          "text": "set up yet so we're gonna have to start"
+        },
+        {
+          "start": "247.28",
+          "dur": "3.92",
+          "text": "customizing our woocommerce website and"
+        },
+        {
+          "start": "249.439",
+          "dur": "3.281",
+          "text": "setting it up and that's step three and"
+        },
+        {
+          "start": "251.2",
+          "dur": "3.039",
+          "text": "before we start customizing your"
+        },
+        {
+          "start": "252.72",
+          "dur": "4.079",
+          "text": "woocommerce website we're going to want"
+        },
+        {
+          "start": "254.239",
+          "dur": "4.641",
+          "text": "to activate the ssl we're going to go"
+        },
+        {
+          "start": "256.799",
+          "dur": "3.921",
+          "text": "ahead and click activate right here"
+        },
+        {
+          "start": "258.88",
+          "dur": "3.44",
+          "text": "we're going to click install ssl and"
+        },
+        {
+          "start": "260.72",
+          "dur": "4",
+          "text": "this is something that hostsinger offers"
+        },
+        {
+          "start": "262.32",
+          "dur": "4.48",
+          "text": "for free you can also enable daily"
+        },
+        {
+          "start": "264.72",
+          "dur": "3.6",
+          "text": "backups if you want to but there is an"
+        },
+        {
+          "start": "266.8",
+          "dur": "3.2",
+          "text": "extra charge for that and this is not"
+        },
+        {
+          "start": "268.32",
+          "dur": "2.72",
+          "text": "necessary but it could be helpful"
+        },
+        {
+          "start": "270",
+          "dur": "2.88",
+          "text": "there's some other things that we'll"
+        },
+        {
+          "start": "271.04",
+          "dur": "3.52",
+          "text": "talk about later here now we're going to"
+        },
+        {
+          "start": "272.88",
+          "dur": "4.4",
+          "text": "click on edit website and we're going to"
+        },
+        {
+          "start": "274.56",
+          "dur": "5.12",
+          "text": "actually set up our woocommerce website"
+        },
+        {
+          "start": "277.28",
+          "dur": "4.639",
+          "text": "and this is what the dashboard of your"
+        },
+        {
+          "start": "279.68",
+          "dur": "4.239",
+          "text": "woocommerce website slash wordpress"
+        },
+        {
+          "start": "281.919",
+          "dur": "3.601",
+          "text": "website looks like and remember that"
+        },
+        {
+          "start": "283.919",
+          "dur": "3.921",
+          "text": "this is a wordpress website with a"
+        },
+        {
+          "start": "285.52",
+          "dur": "4.88",
+          "text": "plugin called woocommerce and wordpress"
+        },
+        {
+          "start": "287.84",
+          "dur": "4.799",
+          "text": "allows you to create a website for free"
+        },
+        {
+          "start": "290.4",
+          "dur": "4.799",
+          "text": "very easily and woocommerce is just a"
+        },
+        {
+          "start": "292.639",
+          "dur": "4.801",
+          "text": "plug-in to that system that allows you"
+        },
+        {
+          "start": "295.199",
+          "dur": "4.961",
+          "text": "to accept payments to let people"
+        },
+        {
+          "start": "297.44",
+          "dur": "3.84",
+          "text": "purchase things from your website so the"
+        },
+        {
+          "start": "300.16",
+          "dur": "3.84",
+          "text": "first thing we're going to do is we're"
+        },
+        {
+          "start": "301.28",
+          "dur": "4.32",
+          "text": "going to click on this woocommerce tab"
+        },
+        {
+          "start": "304",
+          "dur": "4.16",
+          "text": "right here and i'm going to show you and"
+        },
+        {
+          "start": "305.6",
+          "dur": "4.96",
+          "text": "explain this entire sidebar in just a"
+        },
+        {
+          "start": "308.16",
+          "dur": "5.44",
+          "text": "few minutes but first we have to set up"
+        },
+        {
+          "start": "310.56",
+          "dur": "4.639",
+          "text": "woocommerce and so this is going to be a"
+        },
+        {
+          "start": "313.6",
+          "dur": "3.599",
+          "text": "quick and easy guide for setting up"
+        },
+        {
+          "start": "315.199",
+          "dur": "4.081",
+          "text": "woocommerce first thing they'll ask is"
+        },
+        {
+          "start": "317.199",
+          "dur": "4",
+          "text": "for your address and go ahead and put in"
+        },
+        {
+          "start": "319.28",
+          "dur": "4.16",
+          "text": "your address it doesn't matter where it"
+        },
+        {
+          "start": "321.199",
+          "dur": "4.081",
+          "text": "is and then click continue then they'll"
+        },
+        {
+          "start": "323.44",
+          "dur": "3.44",
+          "text": "ask you what industry does your store"
+        },
+        {
+          "start": "325.28",
+          "dur": "3.44",
+          "text": "operate in and for this website we're"
+        },
+        {
+          "start": "326.88",
+          "dur": "3.599",
+          "text": "going to select food and drink and click"
+        },
+        {
+          "start": "328.72",
+          "dur": "3.039",
+          "text": "continue now it's going to ask you what"
+        },
+        {
+          "start": "330.479",
+          "dur": "3.361",
+          "text": "types of products we're going to be"
+        },
+        {
+          "start": "331.759",
+          "dur": "3.521",
+          "text": "selling with our woocommerce website and"
+        },
+        {
+          "start": "333.84",
+          "dur": "2.799",
+          "text": "again we're selling physical products"
+        },
+        {
+          "start": "335.28",
+          "dur": "2.8",
+          "text": "because we're actually selling a"
+        },
+        {
+          "start": "336.639",
+          "dur": "3.441",
+          "text": "physical product that when someone buys"
+        },
+        {
+          "start": "338.08",
+          "dur": "3.92",
+          "text": "we're going to ship to them in the mail"
+        },
+        {
+          "start": "340.08",
+          "dur": "3.52",
+          "text": "but woocommerce also supports products"
+        },
+        {
+          "start": "342",
+          "dur": "3.36",
+          "text": "that people can download things like"
+        },
+        {
+          "start": "343.6",
+          "dur": "3.76",
+          "text": "ebooks or music or any kind of"
+        },
+        {
+          "start": "345.36",
+          "dur": "4.399",
+          "text": "electronic files as well as"
+        },
+        {
+          "start": "347.36",
+          "dur": "4.72",
+          "text": "subscriptions memberships bookings"
+        },
+        {
+          "start": "349.759",
+          "dur": "3.841",
+          "text": "bundles and customizable products so"
+        },
+        {
+          "start": "352.08",
+          "dur": "2.88",
+          "text": "subscriptions would be something where"
+        },
+        {
+          "start": "353.6",
+          "dur": "3.28",
+          "text": "they're going to buy it and they're"
+        },
+        {
+          "start": "354.96",
+          "dur": "4.799",
+          "text": "going to rebuy it every single month"
+        },
+        {
+          "start": "356.88",
+          "dur": "5.68",
+          "text": "memberships is similar except for it"
+        },
+        {
+          "start": "359.759",
+          "dur": "4.641",
+          "text": "allows you to have a membership model"
+        },
+        {
+          "start": "362.56",
+          "dur": "3.68",
+          "text": "where people buy to be a member of your"
+        },
+        {
+          "start": "364.4",
+          "dur": "4.48",
+          "text": "website and then they can get extra"
+        },
+        {
+          "start": "366.24",
+          "dur": "4.959",
+          "text": "features and extra access it also"
+        },
+        {
+          "start": "368.88",
+          "dur": "5.28",
+          "text": "woocommerce also supports bookings if"
+        },
+        {
+          "start": "371.199",
+          "dur": "4.321",
+          "text": "maybe you sell your time by the hour and"
+        },
+        {
+          "start": "374.16",
+          "dur": "2.64",
+          "text": "you're a consultant or something like"
+        },
+        {
+          "start": "375.52",
+          "dur": "3.44",
+          "text": "that and you want people to be able to"
+        },
+        {
+          "start": "376.8",
+          "dur": "4.56",
+          "text": "book with you for an extra fee you can"
+        },
+        {
+          "start": "378.96",
+          "dur": "3.76",
+          "text": "select this and allow people to book on"
+        },
+        {
+          "start": "381.36",
+          "dur": "3.2",
+          "text": "your calendar"
+        },
+        {
+          "start": "382.72",
+          "dur": "3.199",
+          "text": "woocommerce also supports bundles so if"
+        },
+        {
+          "start": "384.56",
+          "dur": "3.199",
+          "text": "you're selling multiple different"
+        },
+        {
+          "start": "385.919",
+          "dur": "3.28",
+          "text": "products and you want to allow customers"
+        },
+        {
+          "start": "387.759",
+          "dur": "3.28",
+          "text": "to be able to bundle them together for"
+        },
+        {
+          "start": "389.199",
+          "dur": "4.241",
+          "text": "four dollars a month you can highlight"
+        },
+        {
+          "start": "391.039",
+          "dur": "3.921",
+          "text": "this and be able to sell bundles also"
+        },
+        {
+          "start": "393.44",
+          "dur": "2.96",
+          "text": "you can have customizable products and"
+        },
+        {
+          "start": "394.96",
+          "dur": "3.2",
+          "text": "if you click on the little i for more"
+        },
+        {
+          "start": "396.4",
+          "dur": "4.4",
+          "text": "information this allows people to do"
+        },
+        {
+          "start": "398.16",
+          "dur": "4.159",
+          "text": "gift wrapping or add special messages or"
+        },
+        {
+          "start": "400.8",
+          "dur": "2.64",
+          "text": "other special options like that again"
+        },
+        {
+          "start": "402.319",
+          "dur": "3.281",
+          "text": "for an extra four dollars a month you"
+        },
+        {
+          "start": "403.44",
+          "dur": "3.44",
+          "text": "can select that now for our website it's"
+        },
+        {
+          "start": "405.6",
+          "dur": "3.36",
+          "text": "just physical products so we're going to"
+        },
+        {
+          "start": "406.88",
+          "dur": "4.319",
+          "text": "click on continue and then it'll ask how"
+        },
+        {
+          "start": "408.96",
+          "dur": "4.16",
+          "text": "many products do we plan to display for"
+        },
+        {
+          "start": "411.199",
+          "dur": "3.361",
+          "text": "now it's just one to ten but in the"
+        },
+        {
+          "start": "413.12",
+          "dur": "3.199",
+          "text": "future it might change and that's"
+        },
+        {
+          "start": "414.56",
+          "dur": "3.44",
+          "text": "absolutely okay and it's going to ask if"
+        },
+        {
+          "start": "416.319",
+          "dur": "3.201",
+          "text": "we're currently selling elsewhere right"
+        },
+        {
+          "start": "418",
+          "dur": "3.28",
+          "text": "now for this product we're not selling"
+        },
+        {
+          "start": "419.52",
+          "dur": "2.88",
+          "text": "anywhere else and so i'm going to select"
+        },
+        {
+          "start": "421.28",
+          "dur": "3.52",
+          "text": "no and then we're going to click"
+        },
+        {
+          "start": "422.4",
+          "dur": "4.16",
+          "text": "continue now it asks if we want to add"
+        },
+        {
+          "start": "424.8",
+          "dur": "3.76",
+          "text": "some recommended business features to"
+        },
+        {
+          "start": "426.56",
+          "dur": "3.28",
+          "text": "the website if we click the down arrow"
+        },
+        {
+          "start": "428.56",
+          "dur": "2.56",
+          "text": "and it says accept credit cards and"
+        },
+        {
+          "start": "429.84",
+          "dur": "3.44",
+          "text": "other popular payment methods with"
+        },
+        {
+          "start": "431.12",
+          "dur": "4",
+          "text": "woocommerce payments yes we do want to"
+        },
+        {
+          "start": "433.28",
+          "dur": "3.12",
+          "text": "have that print shipping labels with"
+        },
+        {
+          "start": "435.12",
+          "dur": "3.359",
+          "text": "woocommerce shipping yes that's another"
+        },
+        {
+          "start": "436.4",
+          "dur": "4.16",
+          "text": "good feature automated sales tax with"
+        },
+        {
+          "start": "438.479",
+          "dur": "4.481",
+          "text": "woocommerce tax also good enhanced speed"
+        },
+        {
+          "start": "440.56",
+          "dur": "3.759",
+          "text": "and security with jetpack also good now"
+        },
+        {
+          "start": "442.96",
+          "dur": "2.799",
+          "text": "it's asking about level up your email"
+        },
+        {
+          "start": "444.319",
+          "dur": "2.88",
+          "text": "marketing with mail poet i don't think"
+        },
+        {
+          "start": "445.759",
+          "dur": "2.88",
+          "text": "that we need that if that's something"
+        },
+        {
+          "start": "447.199",
+          "dur": "3.601",
+          "text": "you want we can always do it it also"
+        },
+        {
+          "start": "448.639",
+          "dur": "4.161",
+          "text": "says drive sales with google listing and"
+        },
+        {
+          "start": "450.8",
+          "dur": "3.44",
+          "text": "ads for now i'm also going to unclick"
+        },
+        {
+          "start": "452.8",
+          "dur": "3.44",
+          "text": "that one because we're not going to be"
+        },
+        {
+          "start": "454.24",
+          "dur": "2.88",
+          "text": "running any ads to this website just yet"
+        },
+        {
+          "start": "456.24",
+          "dur": "2.399",
+          "text": "we're going to go ahead and click"
+        },
+        {
+          "start": "457.12",
+          "dur": "3.12",
+          "text": "continue now we're going to choose a"
+        },
+        {
+          "start": "458.639",
+          "dur": "3.441",
+          "text": "theme we've already chose a theme"
+        },
+        {
+          "start": "460.24",
+          "dur": "4.32",
+          "text": "earlier but there's some other themes"
+        },
+        {
+          "start": "462.08",
+          "dur": "3.76",
+          "text": "here that they have to offer and you can"
+        },
+        {
+          "start": "464.56",
+          "dur": "3.68",
+          "text": "look through these you can do a live"
+        },
+        {
+          "start": "465.84",
+          "dur": "4.16",
+          "text": "demo if you want or you can look at some"
+        },
+        {
+          "start": "468.24",
+          "dur": "3.28",
+          "text": "of the different paid themes and the"
+        },
+        {
+          "start": "470",
+          "dur": "3.12",
+          "text": "paid themes are obviously going to be a"
+        },
+        {
+          "start": "471.52",
+          "dur": "2.799",
+          "text": "little bit more professional you can"
+        },
+        {
+          "start": "473.12",
+          "dur": "3.519",
+          "text": "also look at some of the different free"
+        },
+        {
+          "start": "474.319",
+          "dur": "3.44",
+          "text": "themes here and for now we're just going"
+        },
+        {
+          "start": "476.639",
+          "dur": "2.4",
+          "text": "to go ahead and skip this step because"
+        },
+        {
+          "start": "477.759",
+          "dur": "2.88",
+          "text": "we already did this earlier the next"
+        },
+        {
+          "start": "479.039",
+          "dur": "3.361",
+          "text": "thing you're going to do is click on get"
+        },
+        {
+          "start": "480.639",
+          "dur": "4.161",
+          "text": "paid with woocommerce and this is going"
+        },
+        {
+          "start": "482.4",
+          "dur": "4.799",
+          "text": "to set it up so you can accept credit"
+        },
+        {
+          "start": "484.8",
+          "dur": "4.079",
+          "text": "card payments via woocommerce you'll"
+        },
+        {
+          "start": "487.199",
+          "dur": "2.881",
+          "text": "enter your email address here and click"
+        },
+        {
+          "start": "488.879",
+          "dur": "3.201",
+          "text": "continue"
+        },
+        {
+          "start": "490.08",
+          "dur": "3.519",
+          "text": "i'll then send you an email with a link"
+        },
+        {
+          "start": "492.08",
+          "dur": "3.36",
+          "text": "and click on that link and then it'll"
+        },
+        {
+          "start": "493.599",
+          "dur": "4.081",
+          "text": "bring you to this page where again you"
+        },
+        {
+          "start": "495.44",
+          "dur": "3.28",
+          "text": "can enter your email address here click"
+        },
+        {
+          "start": "497.68",
+          "dur": "3.04",
+          "text": "continue"
+        },
+        {
+          "start": "498.72",
+          "dur": "3.919",
+          "text": "and if you've used stripe before you'll"
+        },
+        {
+          "start": "500.72",
+          "dur": "3.84",
+          "text": "be able to just click on an account"
+        },
+        {
+          "start": "502.639",
+          "dur": "3.201",
+          "text": "you've already used right before for if"
+        },
+        {
+          "start": "504.56",
+          "dur": "3.28",
+          "text": "you've never used stripe before you're"
+        },
+        {
+          "start": "505.84",
+          "dur": "3.28",
+          "text": "going to sign up for a stripe account"
+        },
+        {
+          "start": "507.84",
+          "dur": "2.639",
+          "text": "and then you'll click continue you're"
+        },
+        {
+          "start": "509.12",
+          "dur": "3.76",
+          "text": "then going to select your industry and"
+        },
+        {
+          "start": "510.479",
+          "dur": "3.761",
+          "text": "it's going to be under retail and for us"
+        },
+        {
+          "start": "512.88",
+          "dur": "3.12",
+          "text": "we're going to go ahead and put other"
+        },
+        {
+          "start": "514.24",
+          "dur": "3.52",
+          "text": "merchandise and click continue so i'm"
+        },
+        {
+          "start": "516",
+          "dur": "2.959",
+          "text": "going to ask you to select a bank"
+        },
+        {
+          "start": "517.76",
+          "dur": "3.279",
+          "text": "account where your payments are going to"
+        },
+        {
+          "start": "518.959",
+          "dur": "3.44",
+          "text": "go to and i'm going to go down here and"
+        },
+        {
+          "start": "521.039",
+          "dur": "3.601",
+          "text": "i'm going to select my bank account i"
+        },
+        {
+          "start": "522.399",
+          "dur": "4.401",
+          "text": "use u.s bank and it's going to ask you"
+        },
+        {
+          "start": "524.64",
+          "dur": "3.68",
+          "text": "to connect to your u.s bank account so"
+        },
+        {
+          "start": "526.8",
+          "dur": "3.12",
+          "text": "that it can establish a connection"
+        },
+        {
+          "start": "528.32",
+          "dur": "3.36",
+          "text": "assuming everything went well it'll be"
+        },
+        {
+          "start": "529.92",
+          "dur": "3.28",
+          "text": "successful and you'll click done this is"
+        },
+        {
+          "start": "531.68",
+          "dur": "3.44",
+          "text": "going to allow you to start collecting"
+        },
+        {
+          "start": "533.2",
+          "dur": "4",
+          "text": "payments and getting that money sent to"
+        },
+        {
+          "start": "535.12",
+          "dur": "3.36",
+          "text": "your bank account then review all your"
+        },
+        {
+          "start": "537.2",
+          "dur": "3.28",
+          "text": "details and if everything looks good"
+        },
+        {
+          "start": "538.48",
+          "dur": "3.84",
+          "text": "you'll click submit you can also set up"
+        },
+        {
+          "start": "540.48",
+          "dur": "4.72",
+          "text": "additional payment providers i recommend"
+        },
+        {
+          "start": "542.32",
+          "dur": "4.4",
+          "text": "setting up paypal but it's not necessary"
+        },
+        {
+          "start": "545.2",
+          "dur": "3.68",
+          "text": "the next thing you want to do is set up"
+        },
+        {
+          "start": "546.72",
+          "dur": "4.239",
+          "text": "your tax rates and woocommerce tax is a"
+        },
+        {
+          "start": "548.88",
+          "dur": "3.92",
+          "text": "simple easy way to do it and you can"
+        },
+        {
+          "start": "550.959",
+          "dur": "3.841",
+          "text": "click on yes please and it'll help you"
+        },
+        {
+          "start": "552.8",
+          "dur": "4.64",
+          "text": "with this process you can also click to"
+        },
+        {
+          "start": "554.8",
+          "dur": "3.84",
+          "text": "set up shipping rates and the way you"
+        },
+        {
+          "start": "557.44",
+          "dur": "2.959",
+          "text": "can set up shipping is completely up to"
+        },
+        {
+          "start": "558.64",
+          "dur": "3.28",
+          "text": "you if you want you can do free shipping"
+        },
+        {
+          "start": "560.399",
+          "dur": "3.521",
+          "text": "which is generally what i recommend to"
+        },
+        {
+          "start": "561.92",
+          "dur": "3.599",
+          "text": "everybody in the u.s or if you wanted to"
+        },
+        {
+          "start": "563.92",
+          "dur": "4.56",
+          "text": "you could do flat rate shipping let's"
+        },
+        {
+          "start": "565.519",
+          "dur": "4.401",
+          "text": "say 295 if that's what you wanted to do"
+        },
+        {
+          "start": "568.48",
+          "dur": "2.88",
+          "text": "and then if you want to ship to the rest"
+        },
+        {
+          "start": "569.92",
+          "dur": "3.12",
+          "text": "of the world you can turn this on and"
+        },
+        {
+          "start": "571.36",
+          "dur": "3.28",
+          "text": "you can put what the shipping cost would"
+        },
+        {
+          "start": "573.04",
+          "dur": "3.52",
+          "text": "be for the rest of the world i recommend"
+        },
+        {
+          "start": "574.64",
+          "dur": "3.52",
+          "text": "doing flat rate also for the rest of the"
+        },
+        {
+          "start": "576.56",
+          "dur": "3.36",
+          "text": "world so let's go ahead and complete"
+        },
+        {
+          "start": "578.16",
+          "dur": "3.359",
+          "text": "this task and now that we've done all"
+        },
+        {
+          "start": "579.92",
+          "dur": "3.52",
+          "text": "this we actually have a website that if"
+        },
+        {
+          "start": "581.519",
+          "dur": "4.081",
+          "text": "you go you can actually buy things but"
+        },
+        {
+          "start": "583.44",
+          "dur": "4.399",
+          "text": "the problem is we haven't customized"
+        },
+        {
+          "start": "585.6",
+          "dur": "4.64",
+          "text": "this website at all so we have to finish"
+        },
+        {
+          "start": "587.839",
+          "dur": "4.241",
+          "text": "setting it up by deleting all of the old"
+        },
+        {
+          "start": "590.24",
+          "dur": "3.44",
+          "text": "products and adding some new products so"
+        },
+        {
+          "start": "592.08",
+          "dur": "4.72",
+          "text": "let me show you how to do that you're"
+        },
+        {
+          "start": "593.68",
+          "dur": "4.48",
+          "text": "going to go under products here and all"
+        },
+        {
+          "start": "596.8",
+          "dur": "3.599",
+          "text": "products and the first thing we're going"
+        },
+        {
+          "start": "598.16",
+          "dur": "3.679",
+          "text": "to do is let's just delete all these"
+        },
+        {
+          "start": "600.399",
+          "dur": "3.12",
+          "text": "products we don't need any of these"
+        },
+        {
+          "start": "601.839",
+          "dur": "3.601",
+          "text": "things so we're going to click move to"
+        },
+        {
+          "start": "603.519",
+          "dur": "3.76",
+          "text": "trash and we're going to click apply so"
+        },
+        {
+          "start": "605.44",
+          "dur": "3.76",
+          "text": "now there are no products so we need to"
+        },
+        {
+          "start": "607.279",
+          "dur": "3.441",
+          "text": "click add new product and we're going to"
+        },
+        {
+          "start": "609.2",
+          "dur": "3.759",
+          "text": "add the product that we're selling which"
+        },
+        {
+          "start": "610.72",
+          "dur": "3.52",
+          "text": "is rocket t so we're going to put a"
+        },
+        {
+          "start": "612.959",
+          "dur": "3.44",
+          "text": "product name here and we're going to"
+        },
+        {
+          "start": "614.24",
+          "dur": "4.48",
+          "text": "call it rocket t"
+        },
+        {
+          "start": "616.399",
+          "dur": "3.761",
+          "text": "hi and then maybe dash hi"
+        },
+        {
+          "start": "618.72",
+          "dur": "2.239",
+          "text": "caffeine"
+        },
+        {
+          "start": "620.16",
+          "dur": "2.48",
+          "text": "tea"
+        },
+        {
+          "start": "620.959",
+          "dur": "3.361",
+          "text": "we'll then also scroll down and we're"
+        },
+        {
+          "start": "622.64",
+          "dur": "3.36",
+          "text": "going to add a picture of what we're"
+        },
+        {
+          "start": "624.32",
+          "dur": "3.36",
+          "text": "selling because that's very important"
+        },
+        {
+          "start": "626",
+          "dur": "4",
+          "text": "and we're going to select a product"
+        },
+        {
+          "start": "627.68",
+          "dur": "4.48",
+          "text": "image here so we got to upload a file"
+        },
+        {
+          "start": "630",
+          "dur": "3.36",
+          "text": "and i have the file on my hard drive"
+        },
+        {
+          "start": "632.16",
+          "dur": "3.119",
+          "text": "we're going to select that file and"
+        },
+        {
+          "start": "633.36",
+          "dur": "4.56",
+          "text": "we're going to click open and upload it"
+        },
+        {
+          "start": "635.279",
+          "dur": "4.721",
+          "text": "now a pro tip for seo purposes which"
+        },
+        {
+          "start": "637.92",
+          "dur": "4.08",
+          "text": "stands for search engine optimization we"
+        },
+        {
+          "start": "640",
+          "dur": "4.079",
+          "text": "want to make sure we add an alt text and"
+        },
+        {
+          "start": "642",
+          "dur": "3.76",
+          "text": "a title that has a keyword that people"
+        },
+        {
+          "start": "644.079",
+          "dur": "4.161",
+          "text": "are searching for in google i'll explain"
+        },
+        {
+          "start": "645.76",
+          "dur": "4.48",
+          "text": "that in more depth later in this video"
+        },
+        {
+          "start": "648.24",
+          "dur": "3.44",
+          "text": "but for now just whatever thing that"
+        },
+        {
+          "start": "650.24",
+          "dur": "3.12",
+          "text": "someone would go to google to search for"
+        },
+        {
+          "start": "651.68",
+          "dur": "3.68",
+          "text": "your product make sure that that's in"
+        },
+        {
+          "start": "653.36",
+          "dur": "3.919",
+          "text": "the alt text title and description this"
+        },
+        {
+          "start": "655.36",
+          "dur": "3.68",
+          "text": "is a basic explanation of how to get"
+        },
+        {
+          "start": "657.279",
+          "dur": "3.361",
+          "text": "your products in your website ranked to"
+        },
+        {
+          "start": "659.04",
+          "dur": "2.96",
+          "text": "the top of google but again i'll talk"
+        },
+        {
+          "start": "660.64",
+          "dur": "3.52",
+          "text": "more about that later so we're going to"
+        },
+        {
+          "start": "662",
+          "dur": "4.24",
+          "text": "click set product image the next thing"
+        },
+        {
+          "start": "664.16",
+          "dur": "4.52",
+          "text": "we need to do is set a price so the"
+        },
+        {
+          "start": "666.24",
+          "dur": "4.32",
+          "text": "price of this product is going to be at"
+        },
+        {
+          "start": "668.68",
+          "dur": "3.52",
+          "text": "27.99 but we're going to say that the"
+        },
+        {
+          "start": "670.56",
+          "dur": "4.32",
+          "text": "regular price is"
+        },
+        {
+          "start": "672.2",
+          "dur": "4.68",
+          "text": "34.99 that way it seems like it's"
+        },
+        {
+          "start": "674.88",
+          "dur": "3.92",
+          "text": "discounted we're also going to add a"
+        },
+        {
+          "start": "676.88",
+          "dur": "4.88",
+          "text": "description right here and we're going"
+        },
+        {
+          "start": "678.8",
+          "dur": "5.44",
+          "text": "to say something like with over 200"
+        },
+        {
+          "start": "681.76",
+          "dur": "5.079",
+          "text": "milligrams of caffeine"
+        },
+        {
+          "start": "684.24",
+          "dur": "5.12",
+          "text": "per serving this is the"
+        },
+        {
+          "start": "686.839",
+          "dur": "6.041",
+          "text": "highest caffeine"
+        },
+        {
+          "start": "689.36",
+          "dur": "5.919",
+          "text": "tea in the world now let's go ahead and"
+        },
+        {
+          "start": "692.88",
+          "dur": "4.079",
+          "text": "we're going to preview what this looks"
+        },
+        {
+          "start": "695.279",
+          "dur": "3.761",
+          "text": "like and we can see here we have a"
+        },
+        {
+          "start": "696.959",
+          "dur": "4.401",
+          "text": "product it has an add to cart button you"
+        },
+        {
+          "start": "699.04",
+          "dur": "4",
+          "text": "can even buy with google pay it's ready"
+        },
+        {
+          "start": "701.36",
+          "dur": "3.919",
+          "text": "to go it even has a basic description"
+        },
+        {
+          "start": "703.04",
+          "dur": "4.16",
+          "text": "now this isn't the best product out"
+        },
+        {
+          "start": "705.279",
+          "dur": "3.441",
+          "text": "there we're obviously we could add a lot"
+        },
+        {
+          "start": "707.2",
+          "dur": "4.079",
+          "text": "of things we could add more description"
+        },
+        {
+          "start": "708.72",
+          "dur": "4.08",
+          "text": "more images all kinds of things in there"
+        },
+        {
+          "start": "711.279",
+          "dur": "3.36",
+          "text": "and i'll show you how to do that later"
+        },
+        {
+          "start": "712.8",
+          "dur": "3.68",
+          "text": "in this video in more depth but the goal"
+        },
+        {
+          "start": "714.639",
+          "dur": "4",
+          "text": "is just to get a working website as fast"
+        },
+        {
+          "start": "716.48",
+          "dur": "4.56",
+          "text": "as possible so now that we have this set"
+        },
+        {
+          "start": "718.639",
+          "dur": "4.32",
+          "text": "and it actually is a functional website"
+        },
+        {
+          "start": "721.04",
+          "dur": "3.919",
+          "text": "let's go to the home screen and let's"
+        },
+        {
+          "start": "722.959",
+          "dur": "3.761",
+          "text": "start customizing all of this and the"
+        },
+        {
+          "start": "724.959",
+          "dur": "4.32",
+          "text": "easiest way to do that is click on this"
+        },
+        {
+          "start": "726.72",
+          "dur": "4.799",
+          "text": "customize button up here i'll explain"
+        },
+        {
+          "start": "729.279",
+          "dur": "3.761",
+          "text": "this entire menu you can customize every"
+        },
+        {
+          "start": "731.519",
+          "dur": "3.361",
+          "text": "single thing about your website because"
+        },
+        {
+          "start": "733.04",
+          "dur": "3.599",
+          "text": "it is a wordpress site that means that"
+        },
+        {
+          "start": "734.88",
+          "dur": "3.759",
+          "text": "it's your website you have full control"
+        },
+        {
+          "start": "736.639",
+          "dur": "3.921",
+          "text": "and you can customize it however you"
+        },
+        {
+          "start": "738.639",
+          "dur": "4.801",
+          "text": "want so the first thing is if you click"
+        },
+        {
+          "start": "740.56",
+          "dur": "5.279",
+          "text": "on typography you can change all the"
+        },
+        {
+          "start": "743.44",
+          "dur": "4.639",
+          "text": "fonts all over the website including the"
+        },
+        {
+          "start": "745.839",
+          "dur": "4.721",
+          "text": "header fonts body fonts anything you"
+        },
+        {
+          "start": "748.079",
+          "dur": "4",
+          "text": "want to customize you can and i won't go"
+        },
+        {
+          "start": "750.56",
+          "dur": "3.12",
+          "text": "into depth about this right now but just"
+        },
+        {
+          "start": "752.079",
+          "dur": "4",
+          "text": "know that you can change things you can"
+        },
+        {
+          "start": "753.68",
+          "dur": "5.12",
+          "text": "also change color so maybe for instance"
+        },
+        {
+          "start": "756.079",
+          "dur": "4.641",
+          "text": "you want to change the theme color here"
+        },
+        {
+          "start": "758.8",
+          "dur": "4.32",
+          "text": "instead let's make it you know i don't"
+        },
+        {
+          "start": "760.72",
+          "dur": "4.48",
+          "text": "know that color you can see that the"
+        },
+        {
+          "start": "763.12",
+          "dur": "4.8",
+          "text": "button actually changes you can also"
+        },
+        {
+          "start": "765.2",
+          "dur": "4.639",
+          "text": "change link colors the link hover color"
+        },
+        {
+          "start": "767.92",
+          "dur": "3.12",
+          "text": "you can change the heading color"
+        },
+        {
+          "start": "769.839",
+          "dur": "3.041",
+          "text": "basically everything here the site"
+        },
+        {
+          "start": "771.04",
+          "dur": "3.599",
+          "text": "background and the content background as"
+        },
+        {
+          "start": "772.88",
+          "dur": "3.519",
+          "text": "well if you want to change you could"
+        },
+        {
+          "start": "774.639",
+          "dur": "3.76",
+          "text": "change you can also change the"
+        },
+        {
+          "start": "776.399",
+          "dur": "3.921",
+          "text": "containers so you can look at the"
+        },
+        {
+          "start": "778.399",
+          "dur": "4.081",
+          "text": "different widths which will change the"
+        },
+        {
+          "start": "780.32",
+          "dur": "4.56",
+          "text": "width of different containers within the"
+        },
+        {
+          "start": "782.48",
+          "dur": "4.479",
+          "text": "website we're not going to you see as i"
+        },
+        {
+          "start": "784.88",
+          "dur": "3.44",
+          "text": "change this it changes the look and the"
+        },
+        {
+          "start": "786.959",
+          "dur": "2.401",
+          "text": "feel of the website this is a more"
+        },
+        {
+          "start": "788.32",
+          "dur": "2.72",
+          "text": "advanced thing so we're not going to go"
+        },
+        {
+          "start": "789.36",
+          "dur": "2.8",
+          "text": "into detail all these things are a"
+        },
+        {
+          "start": "791.04",
+          "dur": "2.799",
+          "text": "little bit more advanced i'm just going"
+        },
+        {
+          "start": "792.16",
+          "dur": "4.08",
+          "text": "to reset this so we don't mess anything"
+        },
+        {
+          "start": "793.839",
+          "dur": "3.921",
+          "text": "up let's go back here to the buttons if"
+        },
+        {
+          "start": "796.24",
+          "dur": "4.159",
+          "text": "you want to change the way the buttons"
+        },
+        {
+          "start": "797.76",
+          "dur": "5.36",
+          "text": "look you can do it in here or text color"
+        },
+        {
+          "start": "800.399",
+          "dur": "4.641",
+          "text": "the border width border radius whatever"
+        },
+        {
+          "start": "803.12",
+          "dur": "4.64",
+          "text": "you want to change like i said it's very"
+        },
+        {
+          "start": "805.04",
+          "dur": "4.88",
+          "text": "customizable there's also a block editor"
+        },
+        {
+          "start": "807.76",
+          "dur": "3.759",
+          "text": "which again is a more advanced feature"
+        },
+        {
+          "start": "809.92",
+          "dur": "3.599",
+          "text": "but just again letting you know that you"
+        },
+        {
+          "start": "811.519",
+          "dur": "4",
+          "text": "can customize everything that you want"
+        },
+        {
+          "start": "813.519",
+          "dur": "3.76",
+          "text": "but something we are going to change is"
+        },
+        {
+          "start": "815.519",
+          "dur": "3.281",
+          "text": "the header builder and this is the"
+        },
+        {
+          "start": "817.279",
+          "dur": "3.68",
+          "text": "header up here and we're going to want"
+        },
+        {
+          "start": "818.8",
+          "dur": "5.36",
+          "text": "to completely customize it so first"
+        },
+        {
+          "start": "820.959",
+          "dur": "5.041",
+          "text": "thing site title and logo so this is the"
+        },
+        {
+          "start": "824.16",
+          "dur": "3.679",
+          "text": "current logo let's change that so i'm"
+        },
+        {
+          "start": "826",
+          "dur": "5.04",
+          "text": "going to click change logo and i'm going"
+        },
+        {
+          "start": "827.839",
+          "dur": "4.481",
+          "text": "to upload a new logo we have this logo"
+        },
+        {
+          "start": "831.04",
+          "dur": "3.039",
+          "text": "right here that we're going to use for"
+        },
+        {
+          "start": "832.32",
+          "dur": "4.72",
+          "text": "the time being and again we're going to"
+        },
+        {
+          "start": "834.079",
+          "dur": "4.641",
+          "text": "change the alt text and the title and"
+        },
+        {
+          "start": "837.04",
+          "dur": "3.359",
+          "text": "even add a description saying hi"
+        },
+        {
+          "start": "838.72",
+          "dur": "4.239",
+          "text": "caffeine t because we really want google"
+        },
+        {
+          "start": "840.399",
+          "dur": "4.161",
+          "text": "to rank this website for high caffeine"
+        },
+        {
+          "start": "842.959",
+          "dur": "3.921",
+          "text": "tea now in the future what we'll do is"
+        },
+        {
+          "start": "844.56",
+          "dur": "4.48",
+          "text": "we'll probably replace this logo with"
+        },
+        {
+          "start": "846.88",
+          "dur": "4.079",
+          "text": "something that's a little bit longer and"
+        },
+        {
+          "start": "849.04",
+          "dur": "3.359",
+          "text": "get rid of this by rocket t so for the"
+        },
+        {
+          "start": "850.959",
+          "dur": "3.281",
+          "text": "time being i'm just going to get rid of"
+        },
+        {
+          "start": "852.399",
+          "dur": "4",
+          "text": "that buy rocket t we don't need that we"
+        },
+        {
+          "start": "854.24",
+          "dur": "4.159",
+          "text": "got the logo right there that's enough"
+        },
+        {
+          "start": "856.399",
+          "dur": "4",
+          "text": "you can also if you want change the logo"
+        },
+        {
+          "start": "858.399",
+          "dur": "3.601",
+          "text": "with which we're not going to do let's"
+        },
+        {
+          "start": "860.399",
+          "dur": "3.521",
+          "text": "keep it at the original 50 because i"
+        },
+        {
+          "start": "862",
+          "dur": "3.6",
+          "text": "think that's a good size now we'll go"
+        },
+        {
+          "start": "863.92",
+          "dur": "3.84",
+          "text": "back and you can see here the way the"
+        },
+        {
+          "start": "865.6",
+          "dur": "4.56",
+          "text": "header's set up is the site title and"
+        },
+        {
+          "start": "867.76",
+          "dur": "3.84",
+          "text": "logo is right here there's also the cart"
+        },
+        {
+          "start": "870.16",
+          "dur": "4.88",
+          "text": "which we can customize which is over"
+        },
+        {
+          "start": "871.6",
+          "dur": "4.799",
+          "text": "here and the primary menu so the cart is"
+        },
+        {
+          "start": "875.04",
+          "dur": "3.12",
+          "text": "something that i think this is good"
+        },
+        {
+          "start": "876.399",
+          "dur": "4.161",
+          "text": "we're going to display the cart total"
+        },
+        {
+          "start": "878.16",
+          "dur": "4.16",
+          "text": "and display the cart title as well we"
+        },
+        {
+          "start": "880.56",
+          "dur": "3.6",
+          "text": "can change the design if we want to you"
+        },
+        {
+          "start": "882.32",
+          "dur": "4.16",
+          "text": "can mess with that i think it's fine for"
+        },
+        {
+          "start": "884.16",
+          "dur": "4.4",
+          "text": "the time being but let's go in and let's"
+        },
+        {
+          "start": "886.48",
+          "dur": "4.24",
+          "text": "look at the primary menu so this right"
+        },
+        {
+          "start": "888.56",
+          "dur": "4.16",
+          "text": "here is the primary menu and if we"
+        },
+        {
+          "start": "890.72",
+          "dur": "3.84",
+          "text": "wanted to we could click configure menu"
+        },
+        {
+          "start": "892.72",
+          "dur": "4",
+          "text": "from here we can change up how this"
+        },
+        {
+          "start": "894.56",
+          "dur": "3.76",
+          "text": "looks so the primary menu is as i"
+        },
+        {
+          "start": "896.72",
+          "dur": "3.679",
+          "text": "mentioned the main menu and we can"
+        },
+        {
+          "start": "898.32",
+          "dur": "4.72",
+          "text": "adjust some of the different elements of"
+        },
+        {
+          "start": "900.399",
+          "dur": "4.721",
+          "text": "the menu here and if we click config"
+        },
+        {
+          "start": "903.04",
+          "dur": "4.72",
+          "text": "figure menu from here we can change what"
+        },
+        {
+          "start": "905.12",
+          "dur": "4.399",
+          "text": "this primary menu is i'll explain how to"
+        },
+        {
+          "start": "907.76",
+          "dur": "3.28",
+          "text": "change this up later in this video the"
+        },
+        {
+          "start": "909.519",
+          "dur": "3.44",
+          "text": "next thing on the customize option is"
+        },
+        {
+          "start": "911.04",
+          "dur": "3.84",
+          "text": "the breadcrumb and we have header"
+        },
+        {
+          "start": "912.959",
+          "dur": "3.281",
+          "text": "position none we don't want the"
+        },
+        {
+          "start": "914.88",
+          "dur": "2.639",
+          "text": "breadcrumb the breadcrumb is basically"
+        },
+        {
+          "start": "916.24",
+          "dur": "2.88",
+          "text": "it lets you know like how deep in the"
+        },
+        {
+          "start": "917.519",
+          "dur": "3.12",
+          "text": "website you're going and it shows you"
+        },
+        {
+          "start": "919.12",
+          "dur": "2.88",
+          "text": "hey you were on this page then this page"
+        },
+        {
+          "start": "920.639",
+          "dur": "3.121",
+          "text": "is in this page we're going to select"
+        },
+        {
+          "start": "922",
+          "dur": "3.92",
+          "text": "none i think that's the best option"
+        },
+        {
+          "start": "923.76",
+          "dur": "4.24",
+          "text": "there under blog we can change up some"
+        },
+        {
+          "start": "925.92",
+          "dur": "4.32",
+          "text": "of the features here whether or not we"
+        },
+        {
+          "start": "928",
+          "dur": "4.079",
+          "text": "have the blog or archive like what the"
+        },
+        {
+          "start": "930.24",
+          "dur": "3.76",
+          "text": "different categories look like do we"
+        },
+        {
+          "start": "932.079",
+          "dur": "3.041",
+          "text": "want comments on do we want the category"
+        },
+        {
+          "start": "934",
+          "dur": "2.24",
+          "text": "do we want the author do we want the"
+        },
+        {
+          "start": "935.12",
+          "dur": "3.76",
+          "text": "published state we can turn the publish"
+        },
+        {
+          "start": "936.24",
+          "dur": "4.56",
+          "text": "date on and off same thing with any tags"
+        },
+        {
+          "start": "938.88",
+          "dur": "4.319",
+          "text": "if however we go to single post we can"
+        },
+        {
+          "start": "940.8",
+          "dur": "4.8",
+          "text": "also change it we can add on or off the"
+        },
+        {
+          "start": "943.199",
+          "dur": "4.64",
+          "text": "publish date we can change up all this"
+        },
+        {
+          "start": "945.6",
+          "dur": "3.76",
+          "text": "different stuff here next up is the"
+        },
+        {
+          "start": "947.839",
+          "dur": "3.44",
+          "text": "sidebar and if we click on that right"
+        },
+        {
+          "start": "949.36",
+          "dur": "3.76",
+          "text": "now there's no sidebar but if we wanted"
+        },
+        {
+          "start": "951.279",
+          "dur": "4.48",
+          "text": "to we can enable let's say a right"
+        },
+        {
+          "start": "953.12",
+          "dur": "4.48",
+          "text": "sidebar which would add all this over on"
+        },
+        {
+          "start": "955.759",
+          "dur": "5.121",
+          "text": "the right hand side and sometimes this"
+        },
+        {
+          "start": "957.6",
+          "dur": "4.72",
+          "text": "is chosen if people are they have a"
+        },
+        {
+          "start": "960.88",
+          "dur": "3.68",
+          "text": "wordpress website and they're doing lots"
+        },
+        {
+          "start": "962.32",
+          "dur": "3.84",
+          "text": "of blogs you can see recent posts and"
+        },
+        {
+          "start": "964.56",
+          "dur": "3.92",
+          "text": "things like that or you could put it on"
+        },
+        {
+          "start": "966.16",
+          "dur": "4.16",
+          "text": "the left side but if you're doing a"
+        },
+        {
+          "start": "968.48",
+          "dur": "3.12",
+          "text": "woocommerce website i recommend having"
+        },
+        {
+          "start": "970.32",
+          "dur": "3.92",
+          "text": "no sidebar you don't want anything"
+        },
+        {
+          "start": "971.6",
+          "dur": "4.32",
+          "text": "distracting people from buying your"
+        },
+        {
+          "start": "974.24",
+          "dur": "3.599",
+          "text": "products so we're going to go back we're"
+        },
+        {
+          "start": "975.92",
+          "dur": "4.32",
+          "text": "not going to have a sidebar there's also"
+        },
+        {
+          "start": "977.839",
+          "dur": "4.56",
+          "text": "the footer builder which is down here"
+        },
+        {
+          "start": "980.24",
+          "dur": "4.159",
+          "text": "and this allows us to build out the"
+        },
+        {
+          "start": "982.399",
+          "dur": "3.68",
+          "text": "footer we have different widgets here we"
+        },
+        {
+          "start": "984.399",
+          "dur": "4.721",
+          "text": "have four different widgets here one of"
+        },
+        {
+          "start": "986.079",
+          "dur": "5.2",
+          "text": "them is the social which widget one and"
+        },
+        {
+          "start": "989.12",
+          "dur": "3.6",
+          "text": "two and we also have widget three and"
+        },
+        {
+          "start": "991.279",
+          "dur": "2.641",
+          "text": "four and you can change these out and"
+        },
+        {
+          "start": "992.72",
+          "dur": "2.96",
+          "text": "you can make these be different things"
+        },
+        {
+          "start": "993.92",
+          "dur": "3.68",
+          "text": "you could have site links you can do all"
+        },
+        {
+          "start": "995.68",
+          "dur": "3.519",
+          "text": "kinds of different things for now just"
+        },
+        {
+          "start": "997.6",
+          "dur": "4.159",
+          "text": "to make this really simple i'm just"
+        },
+        {
+          "start": "999.199",
+          "dur": "4.481",
+          "text": "going to put in here rocket"
+        },
+        {
+          "start": "1001.759",
+          "dur": "3.681",
+          "text": "tea"
+        },
+        {
+          "start": "1003.68",
+          "dur": "3.04",
+          "text": "the highest"
+        },
+        {
+          "start": "1005.44",
+          "dur": "4.8",
+          "text": "caffeine"
+        },
+        {
+          "start": "1006.72",
+          "dur": "5.679",
+          "text": "tea in the world very simple you can"
+        },
+        {
+          "start": "1010.24",
+          "dur": "4.32",
+          "text": "also go in here and click on the edit"
+        },
+        {
+          "start": "1012.399",
+          "dur": "3.921",
+          "text": "button and you can edit all your"
+        },
+        {
+          "start": "1014.56",
+          "dur": "3.92",
+          "text": "different links we'll click here you'll"
+        },
+        {
+          "start": "1016.32",
+          "dur": "4.319",
+          "text": "put the url of your instagram twitter"
+        },
+        {
+          "start": "1018.48",
+          "dur": "4.32",
+          "text": "facebook linkedin whatever you have you"
+        },
+        {
+          "start": "1020.639",
+          "dur": "3.68",
+          "text": "can put all those here i believe you"
+        },
+        {
+          "start": "1022.8",
+          "dur": "2.96",
+          "text": "could probably even change them out and"
+        },
+        {
+          "start": "1024.319",
+          "dur": "3.681",
+          "text": "add a social"
+        },
+        {
+          "start": "1025.76",
+          "dur": "3.84",
+          "text": "icon here and change the name of it"
+        },
+        {
+          "start": "1028",
+          "dur": "2.64",
+          "text": "change it to be whatever you would like"
+        },
+        {
+          "start": "1029.6",
+          "dur": "2.4",
+          "text": "it to be"
+        },
+        {
+          "start": "1030.64",
+          "dur": "3.36",
+          "text": "right here is a list of all the most"
+        },
+        {
+          "start": "1032",
+          "dur": "3.919",
+          "text": "common ones phone numbers and other"
+        },
+        {
+          "start": "1034",
+          "dur": "3.28",
+          "text": "things like that let's go back and let's"
+        },
+        {
+          "start": "1035.919",
+          "dur": "2.88",
+          "text": "go ahead and delete this one because we"
+        },
+        {
+          "start": "1037.28",
+          "dur": "3.519",
+          "text": "don't have a b hands i don't know what"
+        },
+        {
+          "start": "1038.799",
+          "dur": "3.52",
+          "text": "that what that even is and if we wanted"
+        },
+        {
+          "start": "1040.799",
+          "dur": "3.441",
+          "text": "to here we could also delete these"
+        },
+        {
+          "start": "1042.319",
+          "dur": "3.841",
+          "text": "widgets for the time being we can always"
+        },
+        {
+          "start": "1044.24",
+          "dur": "4.799",
+          "text": "add new ones in there we also have the"
+        },
+        {
+          "start": "1046.16",
+          "dur": "4.639",
+          "text": "copyright and the powered by wordpress"
+        },
+        {
+          "start": "1049.039",
+          "dur": "3.281",
+          "text": "let's go ahead and remove that element"
+        },
+        {
+          "start": "1050.799",
+          "dur": "3.76",
+          "text": "we don't want people to know that it's"
+        },
+        {
+          "start": "1052.32",
+          "dur": "5.28",
+          "text": "powered by wordpress there's no reason"
+        },
+        {
+          "start": "1054.559",
+          "dur": "5.36",
+          "text": "to give wordpress free advertising here"
+        },
+        {
+          "start": "1057.6",
+          "dur": "4.64",
+          "text": "under performance if we want we can load"
+        },
+        {
+          "start": "1059.919",
+          "dur": "3.681",
+          "text": "google fonts locally i usually just"
+        },
+        {
+          "start": "1062.24",
+          "dur": "2.559",
+          "text": "leave it unchecked but if you want to"
+        },
+        {
+          "start": "1063.6",
+          "dur": "3.12",
+          "text": "have it checked i think that's fine as"
+        },
+        {
+          "start": "1064.799",
+          "dur": "4.401",
+          "text": "well we can also go in here and we can"
+        },
+        {
+          "start": "1066.72",
+          "dur": "4.319",
+          "text": "customize all the woocommerce stuff so"
+        },
+        {
+          "start": "1069.2",
+          "dur": "4",
+          "text": "there's a store store notice right up"
+        },
+        {
+          "start": "1071.039",
+          "dur": "4.401",
+          "text": "here and it says this is a demo store"
+        },
+        {
+          "start": "1073.2",
+          "dur": "4.32",
+          "text": "for testing purposes no order shall be"
+        },
+        {
+          "start": "1075.44",
+          "dur": "3.119",
+          "text": "fulfilled we're going to want to get rid"
+        },
+        {
+          "start": "1077.52",
+          "dur": "2.64",
+          "text": "of that"
+        },
+        {
+          "start": "1078.559",
+          "dur": "3.201",
+          "text": "but i mean it's not being shown right"
+        },
+        {
+          "start": "1080.16",
+          "dur": "3.6",
+          "text": "now anyways because we don't have enable"
+        },
+        {
+          "start": "1081.76",
+          "dur": "4.96",
+          "text": "store notice that is something to keep"
+        },
+        {
+          "start": "1083.76",
+          "dur": "5.84",
+          "text": "in mind though under product catalog"
+        },
+        {
+          "start": "1086.72",
+          "dur": "5.04",
+          "text": "we can show page display show the"
+        },
+        {
+          "start": "1089.6",
+          "dur": "4.72",
+          "text": "products we can show categories or we"
+        },
+        {
+          "start": "1091.76",
+          "dur": "4.4",
+          "text": "can show categories and products now one"
+        },
+        {
+          "start": "1094.32",
+          "dur": "3.599",
+          "text": "thing i realized is there's no products"
+        },
+        {
+          "start": "1096.16",
+          "dur": "4",
+          "text": "being displayed and it's because we"
+        },
+        {
+          "start": "1097.919",
+          "dur": "4.241",
+          "text": "never actually published our products we"
+        },
+        {
+          "start": "1100.16",
+          "dur": "3.92",
+          "text": "got to make sure we publish everything"
+        },
+        {
+          "start": "1102.16",
+          "dur": "3.519",
+          "text": "so now that we publish that we should be"
+        },
+        {
+          "start": "1104.08",
+          "dur": "3.68",
+          "text": "able to go back here"
+        },
+        {
+          "start": "1105.679",
+          "dur": "3.921",
+          "text": "and let's see if we refresh this what"
+        },
+        {
+          "start": "1107.76",
+          "dur": "3.44",
+          "text": "shows up and you can see now that our"
+        },
+        {
+          "start": "1109.6",
+          "dur": "3.84",
+          "text": "products are showing up so i recommend"
+        },
+        {
+          "start": "1111.2",
+          "dur": "4.88",
+          "text": "just clicking show products for all of"
+        },
+        {
+          "start": "1113.44",
+          "dur": "4.16",
+          "text": "these and you can also change the shop"
+        },
+        {
+          "start": "1116.08",
+          "dur": "3.52",
+          "text": "columns if you have multiple products"
+        },
+        {
+          "start": "1117.6",
+          "dur": "4",
+          "text": "you can change the columns to show"
+        },
+        {
+          "start": "1119.6",
+          "dur": "4.4",
+          "text": "three columns or four columns and"
+        },
+        {
+          "start": "1121.6",
+          "dur": "4.48",
+          "text": "that'll show different grid amounts over"
+        },
+        {
+          "start": "1124",
+          "dur": "4.24",
+          "text": "here there's also other things down here"
+        },
+        {
+          "start": "1126.08",
+          "dur": "3.839",
+          "text": "that you can customize under single"
+        },
+        {
+          "start": "1128.24",
+          "dur": "3.76",
+          "text": "product you can choose to disable the"
+        },
+        {
+          "start": "1129.919",
+          "dur": "3.521",
+          "text": "breadcrumb which is what i do and let me"
+        },
+        {
+          "start": "1132",
+          "dur": "3.12",
+          "text": "show you what that looks like you can"
+        },
+        {
+          "start": "1133.44",
+          "dur": "4.08",
+          "text": "see the breadcrumb is up here it says"
+        },
+        {
+          "start": "1135.12",
+          "dur": "3.919",
+          "text": "home on categories rocket t that's not"
+        },
+        {
+          "start": "1137.52",
+          "dur": "2.88",
+          "text": "helping anyone that's not making people"
+        },
+        {
+          "start": "1139.039",
+          "dur": "3.041",
+          "text": "decide to buy the product so we're going"
+        },
+        {
+          "start": "1140.4",
+          "dur": "3.04",
+          "text": "to go ahead and disable that breadcrumb"
+        },
+        {
+          "start": "1142.08",
+          "dur": "3.12",
+          "text": "and it gets rid of it up here it just"
+        },
+        {
+          "start": "1143.44",
+          "dur": "4.239",
+          "text": "looks a lot cleaner we can also change"
+        },
+        {
+          "start": "1145.2",
+          "dur": "5.52",
+          "text": "the main image width and the thumbnail"
+        },
+        {
+          "start": "1147.679",
+          "dur": "4.321",
+          "text": "width right here 600 is a good width so"
+        },
+        {
+          "start": "1150.72",
+          "dur": "2.88",
+          "text": "i'm not gonna i think we'll just leave"
+        },
+        {
+          "start": "1152",
+          "dur": "4.799",
+          "text": "everything as it is don't want to change"
+        },
+        {
+          "start": "1153.6",
+          "dur": "4.72",
+          "text": "anything and also optimize the cart we"
+        },
+        {
+          "start": "1156.799",
+          "dur": "2.961",
+          "text": "can enable cross sales now we're only"
+        },
+        {
+          "start": "1158.32",
+          "dur": "2.64",
+          "text": "selling one product so this doesn't"
+        },
+        {
+          "start": "1159.76",
+          "dur": "3.84",
+          "text": "really matter but i'll go ahead and keep"
+        },
+        {
+          "start": "1160.96",
+          "dur": "4.16",
+          "text": "it enabled and under checkout we can"
+        },
+        {
+          "start": "1163.6",
+          "dur": "3.28",
+          "text": "make some changes to make the whole"
+        },
+        {
+          "start": "1165.12",
+          "dur": "4",
+          "text": "process a little bit smoother for"
+        },
+        {
+          "start": "1166.88",
+          "dur": "4.64",
+          "text": "instance making the company name field"
+        },
+        {
+          "start": "1169.12",
+          "dur": "3.52",
+          "text": "we can hide it if we don't think that a"
+        },
+        {
+          "start": "1171.52",
+          "dur": "2.8",
+          "text": "lot of people that have companies are"
+        },
+        {
+          "start": "1172.64",
+          "dur": "3.76",
+          "text": "going to be purchasing then we can go"
+        },
+        {
+          "start": "1174.32",
+          "dur": "3.68",
+          "text": "ahead and hide that we can change the"
+        },
+        {
+          "start": "1176.4",
+          "dur": "4.399",
+          "text": "phone field if we want to have it"
+        },
+        {
+          "start": "1178",
+          "dur": "5.44",
+          "text": "required or optional we can change the"
+        },
+        {
+          "start": "1180.799",
+          "dur": "4.081",
+          "text": "privacy policy page now one thing that's"
+        },
+        {
+          "start": "1183.44",
+          "dur": "4.239",
+          "text": "very important the terms and condition"
+        },
+        {
+          "start": "1184.88",
+          "dur": "5.44",
+          "text": "page is not set currently and i'm going"
+        },
+        {
+          "start": "1187.679",
+          "dur": "4.721",
+          "text": "to show you how to create a page in"
+        },
+        {
+          "start": "1190.32",
+          "dur": "2.96",
+          "text": "woocommerce in just a minute and then"
+        },
+        {
+          "start": "1192.4",
+          "dur": "2.639",
+          "text": "we're going to set the terms and"
+        },
+        {
+          "start": "1193.28",
+          "dur": "3.84",
+          "text": "condition page properly now we're going"
+        },
+        {
+          "start": "1195.039",
+          "dur": "3.441",
+          "text": "to continue to customize this website"
+        },
+        {
+          "start": "1197.12",
+          "dur": "2.32",
+          "text": "we're going to go under appearance and"
+        },
+        {
+          "start": "1198.48",
+          "dur": "2.079",
+          "text": "we're going to look at all these"
+        },
+        {
+          "start": "1199.44",
+          "dur": "3.359",
+          "text": "different things so we've already talked"
+        },
+        {
+          "start": "1200.559",
+          "dur": "4.161",
+          "text": "about themes but if at any point you"
+        },
+        {
+          "start": "1202.799",
+          "dur": "3.921",
+          "text": "want to customize your theme or change"
+        },
+        {
+          "start": "1204.72",
+          "dur": "4.8",
+          "text": "your theme you can come in here and you"
+        },
+        {
+          "start": "1206.72",
+          "dur": "5.36",
+          "text": "can change it up you can also click on"
+        },
+        {
+          "start": "1209.52",
+          "dur": "4.72",
+          "text": "the customize tab here and it'll bring"
+        },
+        {
+          "start": "1212.08",
+          "dur": "4",
+          "text": "you to the page that we had earlier and"
+        },
+        {
+          "start": "1214.24",
+          "dur": "4.16",
+          "text": "you can start customizing and changing"
+        },
+        {
+          "start": "1216.08",
+          "dur": "4.88",
+          "text": "all of this the next option is to click"
+        },
+        {
+          "start": "1218.4",
+          "dur": "5.2",
+          "text": "on widgets and widgets are basically"
+        },
+        {
+          "start": "1220.96",
+          "dur": "4.8",
+          "text": "little items on your website that you"
+        },
+        {
+          "start": "1223.6",
+          "dur": "3.52",
+          "text": "can change and customize and there's a"
+        },
+        {
+          "start": "1225.76",
+          "dur": "2.88",
+          "text": "little introduction here that you can go"
+        },
+        {
+          "start": "1227.12",
+          "dur": "4.88",
+          "text": "through and learn a little bit more"
+        },
+        {
+          "start": "1228.64",
+          "dur": "4.72",
+          "text": "about blocks and how to customize them"
+        },
+        {
+          "start": "1232",
+          "dur": "3.039",
+          "text": "this is something that's maybe a little"
+        },
+        {
+          "start": "1233.36",
+          "dur": "2.96",
+          "text": "bit more advanced not something that"
+        },
+        {
+          "start": "1235.039",
+          "dur": "3.281",
+          "text": "we're going to go into a lot of detail"
+        },
+        {
+          "start": "1236.32",
+          "dur": "4",
+          "text": "about here the next thing that i"
+        },
+        {
+          "start": "1238.32",
+          "dur": "4.56",
+          "text": "promised we would talk about is menus"
+        },
+        {
+          "start": "1240.32",
+          "dur": "5.599",
+          "text": "and this will look familiar this is the"
+        },
+        {
+          "start": "1242.88",
+          "dur": "5.2",
+          "text": "main menu that is on the home screen"
+        },
+        {
+          "start": "1245.919",
+          "dur": "3.841",
+          "text": "it's this menu up here at the top you"
+        },
+        {
+          "start": "1248.08",
+          "dur": "3.76",
+          "text": "can see under store we have plants and"
+        },
+        {
+          "start": "1249.76",
+          "dur": "3.6",
+          "text": "cactuses and this we're not going to"
+        },
+        {
+          "start": "1251.84",
+          "dur": "4.16",
+          "text": "sell plants and cactuses we're going to"
+        },
+        {
+          "start": "1253.36",
+          "dur": "4.16",
+          "text": "be selling tea so let's go ahead and"
+        },
+        {
+          "start": "1256",
+          "dur": "2.4",
+          "text": "customize that so the first thing we're"
+        },
+        {
+          "start": "1257.52",
+          "dur": "1.84",
+          "text": "going to do is we're going to click on"
+        },
+        {
+          "start": "1258.4",
+          "dur": "2.88",
+          "text": "this and we're going to go ahead and"
+        },
+        {
+          "start": "1259.36",
+          "dur": "5.199",
+          "text": "click remove click on this and click"
+        },
+        {
+          "start": "1261.28",
+          "dur": "5.44",
+          "text": "remove and instead of store we're going"
+        },
+        {
+          "start": "1264.559",
+          "dur": "5.201",
+          "text": "to change that just to say"
+        },
+        {
+          "start": "1266.72",
+          "dur": "5.28",
+          "text": "buy rocket t and we'll click save the"
+        },
+        {
+          "start": "1269.76",
+          "dur": "5.44",
+          "text": "menu and let's go and let's see what"
+        },
+        {
+          "start": "1272",
+          "dur": "5.44",
+          "text": "happens so you can see home buy rocket t"
+        },
+        {
+          "start": "1275.2",
+          "dur": "4.64",
+          "text": "about us contact us my account in fact i"
+        },
+        {
+          "start": "1277.44",
+          "dur": "3.84",
+          "text": "think we could even get rid of home"
+        },
+        {
+          "start": "1279.84",
+          "dur": "3.36",
+          "text": "because if anyone wants to go to the"
+        },
+        {
+          "start": "1281.28",
+          "dur": "4",
+          "text": "home they can just click on the icon in"
+        },
+        {
+          "start": "1283.2",
+          "dur": "4.08",
+          "text": "the upper left hand corner so again"
+        },
+        {
+          "start": "1285.28",
+          "dur": "4.639",
+          "text": "we're going to save this menu and let's"
+        },
+        {
+          "start": "1287.28",
+          "dur": "4",
+          "text": "refresh this see what it looks like boom"
+        },
+        {
+          "start": "1289.919",
+          "dur": "4.561",
+          "text": "that's nice but what happens if we click"
+        },
+        {
+          "start": "1291.28",
+          "dur": "4.8",
+          "text": "on buy rocket t well it takes us to this"
+        },
+        {
+          "start": "1294.48",
+          "dur": "3.36",
+          "text": "page here now what would be even better"
+        },
+        {
+          "start": "1296.08",
+          "dur": "4.64",
+          "text": "is if it took us to this product page"
+        },
+        {
+          "start": "1297.84",
+          "dur": "4.319",
+          "text": "here instead that way it takes less work"
+        },
+        {
+          "start": "1300.72",
+          "dur": "2.64",
+          "text": "for people to actually buy the product"
+        },
+        {
+          "start": "1302.159",
+          "dur": "3.601",
+          "text": "and to do that we're gonna have to go in"
+        },
+        {
+          "start": "1303.36",
+          "dur": "4.319",
+          "text": "here and we're going to click remove and"
+        },
+        {
+          "start": "1305.76",
+          "dur": "4",
+          "text": "we're going to click custom links we're"
+        },
+        {
+          "start": "1307.679",
+          "dur": "4.721",
+          "text": "going to put the url of the product and"
+        },
+        {
+          "start": "1309.76",
+          "dur": "3.84",
+          "text": "that's the url right here of the actual"
+        },
+        {
+          "start": "1312.4",
+          "dur": "3.44",
+          "text": "product page"
+        },
+        {
+          "start": "1313.6",
+          "dur": "4.079",
+          "text": "and we're going to change this to say"
+        },
+        {
+          "start": "1315.84",
+          "dur": "4.319",
+          "text": "by rocket"
+        },
+        {
+          "start": "1317.679",
+          "dur": "4.801",
+          "text": "t we're going to click add to menu and"
+        },
+        {
+          "start": "1320.159",
+          "dur": "4",
+          "text": "we'll move that back up to the top we're"
+        },
+        {
+          "start": "1322.48",
+          "dur": "3.52",
+          "text": "going to save this menu and let's go"
+        },
+        {
+          "start": "1324.159",
+          "dur": "3.921",
+          "text": "back to our website to see how it looks"
+        },
+        {
+          "start": "1326",
+          "dur": "3.84",
+          "text": "if we click on buy rocket t now it takes"
+        },
+        {
+          "start": "1328.08",
+          "dur": "4.24",
+          "text": "us directly to the product page and you"
+        },
+        {
+          "start": "1329.84",
+          "dur": "3.76",
+          "text": "can update this and customize this menu"
+        },
+        {
+          "start": "1332.32",
+          "dur": "3.76",
+          "text": "and if you wanted to you could always"
+        },
+        {
+          "start": "1333.6",
+          "dur": "4.24",
+          "text": "create other menus as well by clicking"
+        },
+        {
+          "start": "1336.08",
+          "dur": "3.12",
+          "text": "create a new menu and there's times"
+        },
+        {
+          "start": "1337.84",
+          "dur": "3.12",
+          "text": "where it makes sense to have a menu but"
+        },
+        {
+          "start": "1339.2",
+          "dur": "3.2",
+          "text": "generally speaking this is the only menu"
+        },
+        {
+          "start": "1340.96",
+          "dur": "3.199",
+          "text": "that you're going to use one other thing"
+        },
+        {
+          "start": "1342.4",
+          "dur": "3.84",
+          "text": "you're going to need to do is configure"
+        },
+        {
+          "start": "1344.159",
+          "dur": "3.681",
+          "text": "your stripe account if you want to"
+        },
+        {
+          "start": "1346.24",
+          "dur": "3.28",
+          "text": "accept payments so we're going to click"
+        },
+        {
+          "start": "1347.84",
+          "dur": "2.88",
+          "text": "connect with stripe and if you already"
+        },
+        {
+          "start": "1349.52",
+          "dur": "2.399",
+          "text": "have a stripe account you're going to go"
+        },
+        {
+          "start": "1350.72",
+          "dur": "2.8",
+          "text": "ahead and enter the email and if you"
+        },
+        {
+          "start": "1351.919",
+          "dur": "3.521",
+          "text": "don't you'll still put in an email and"
+        },
+        {
+          "start": "1353.52",
+          "dur": "3.76",
+          "text": "you'll start a new stripe account you'll"
+        },
+        {
+          "start": "1355.44",
+          "dur": "3.68",
+          "text": "then click to enable gateways i only"
+        },
+        {
+          "start": "1357.28",
+          "dur": "4.16",
+          "text": "really recommend using the stripe card"
+        },
+        {
+          "start": "1359.12",
+          "dur": "3.84",
+          "text": "processing and click enable gateways if"
+        },
+        {
+          "start": "1361.44",
+          "dur": "2.64",
+          "text": "you want you can also enable express"
+        },
+        {
+          "start": "1362.96",
+          "dur": "2.88",
+          "text": "checkout we're going to go ahead and"
+        },
+        {
+          "start": "1364.08",
+          "dur": "3.12",
+          "text": "skip that for now then you're going to"
+        },
+        {
+          "start": "1365.84",
+          "dur": "4",
+          "text": "select a mode if you want to keep your"
+        },
+        {
+          "start": "1367.2",
+          "dur": "4.959",
+          "text": "website from just being in test you can"
+        },
+        {
+          "start": "1369.84",
+          "dur": "4.319",
+          "text": "select test or we can select live if"
+        },
+        {
+          "start": "1372.159",
+          "dur": "4.4",
+          "text": "you're ready to start accepting payments"
+        },
+        {
+          "start": "1374.159",
+          "dur": "4.241",
+          "text": "right now we'll click save and continue"
+        },
+        {
+          "start": "1376.559",
+          "dur": "3.441",
+          "text": "and now you're ready to start accepting"
+        },
+        {
+          "start": "1378.4",
+          "dur": "4.24",
+          "text": "payments the next tab that we're going"
+        },
+        {
+          "start": "1380",
+          "dur": "5.28",
+          "text": "to talk about is additional css and css"
+        },
+        {
+          "start": "1382.64",
+          "dur": "4.72",
+          "text": "stands for cascading style sheets and"
+        },
+        {
+          "start": "1385.28",
+          "dur": "4.24",
+          "text": "that is a more advanced topic it allows"
+        },
+        {
+          "start": "1387.36",
+          "dur": "4.48",
+          "text": "you to completely customize your website"
+        },
+        {
+          "start": "1389.52",
+          "dur": "4.72",
+          "text": "and add features to it and to get there"
+        },
+        {
+          "start": "1391.84",
+          "dur": "4",
+          "text": "we got to click on continue to jetpack"
+        },
+        {
+          "start": "1394.24",
+          "dur": "3.12",
+          "text": "and we have to go through some of these"
+        },
+        {
+          "start": "1395.84",
+          "dur": "3.839",
+          "text": "things but we're not going to be adding"
+        },
+        {
+          "start": "1397.36",
+          "dur": "4.72",
+          "text": "any custom css for now so we're going to"
+        },
+        {
+          "start": "1399.679",
+          "dur": "4.721",
+          "text": "go ahead and forget about that let's go"
+        },
+        {
+          "start": "1402.08",
+          "dur": "4.4",
+          "text": "back down to appearance and there's some"
+        },
+        {
+          "start": "1404.4",
+          "dur": "4",
+          "text": "other things here including a starter"
+        },
+        {
+          "start": "1406.48",
+          "dur": "4.88",
+          "text": "template a pop-up builder and that's an"
+        },
+        {
+          "start": "1408.4",
+          "dur": "4.159",
+          "text": "email pop-up and astra options but the"
+        },
+        {
+          "start": "1411.36",
+          "dur": "3.6",
+          "text": "last thing that i want to point out is"
+        },
+        {
+          "start": "1412.559",
+          "dur": "4.561",
+          "text": "this theme file editor and you can"
+        },
+        {
+          "start": "1414.96",
+          "dur": "4.719",
+          "text": "completely customize your entire"
+        },
+        {
+          "start": "1417.12",
+          "dur": "3.6",
+          "text": "woocommerce website now this is only for"
+        },
+        {
+          "start": "1419.679",
+          "dur": "4.321",
+          "text": "people that are a little bit more"
+        },
+        {
+          "start": "1420.72",
+          "dur": "6.88",
+          "text": "advanced that maybe understand html php"
+        },
+        {
+          "start": "1424",
+          "dur": "6.799",
+          "text": "maybe even some css and so here is the"
+        },
+        {
+          "start": "1427.6",
+          "dur": "5.6",
+          "text": "style sheet the css style sheet for the"
+        },
+        {
+          "start": "1430.799",
+          "dur": "3.921",
+          "text": "entire website you can go in here and"
+        },
+        {
+          "start": "1433.2",
+          "dur": "3.599",
+          "text": "you can customize anything and"
+        },
+        {
+          "start": "1434.72",
+          "dur": "3.6",
+          "text": "everything but do not mess around in"
+        },
+        {
+          "start": "1436.799",
+          "dur": "2.801",
+          "text": "here unless you know what you're doing"
+        },
+        {
+          "start": "1438.32",
+          "dur": "3.28",
+          "text": "next thing i'm going to show you here is"
+        },
+        {
+          "start": "1439.6",
+          "dur": "3.36",
+          "text": "how to set up plugins but before we do"
+        },
+        {
+          "start": "1441.6",
+          "dur": "3.12",
+          "text": "let's go ahead and get rid of some of"
+        },
+        {
+          "start": "1442.96",
+          "dur": "3.12",
+          "text": "these things up here because they keep"
+        },
+        {
+          "start": "1444.72",
+          "dur": "3.52",
+          "text": "getting in the way and they're"
+        },
+        {
+          "start": "1446.08",
+          "dur": "3.92",
+          "text": "distracting we're just going to do that"
+        },
+        {
+          "start": "1448.24",
+          "dur": "4.72",
+          "text": "for now and this is a list of all the"
+        },
+        {
+          "start": "1450",
+          "dur": "5.6",
+          "text": "plugins that are installed on wordpress"
+        },
+        {
+          "start": "1452.96",
+          "dur": "4.079",
+          "text": "and remember that wordpress is a content"
+        },
+        {
+          "start": "1455.6",
+          "dur": "3.84",
+          "text": "management system it's a way for you to"
+        },
+        {
+          "start": "1457.039",
+          "dur": "4.801",
+          "text": "easily build a website and you can add"
+        },
+        {
+          "start": "1459.44",
+          "dur": "4.88",
+          "text": "plugins that'll give added functionality"
+        },
+        {
+          "start": "1461.84",
+          "dur": "4.48",
+          "text": "to your wordpress website and this came"
+        },
+        {
+          "start": "1464.32",
+          "dur": "4.08",
+          "text": "pre-loaded with about 18 different"
+        },
+        {
+          "start": "1466.32",
+          "dur": "4.4",
+          "text": "plugins you can see that woocommerce"
+        },
+        {
+          "start": "1468.4",
+          "dur": "4.159",
+          "text": "right here is just one plugin for"
+        },
+        {
+          "start": "1470.72",
+          "dur": "3.68",
+          "text": "wordpress and if we wanted to we can"
+        },
+        {
+          "start": "1472.559",
+          "dur": "3.521",
+          "text": "deactivate so let's go ahead and we can"
+        },
+        {
+          "start": "1474.4",
+          "dur": "3.279",
+          "text": "deactivate some of these and i'm going"
+        },
+        {
+          "start": "1476.08",
+          "dur": "4",
+          "text": "to see which one would be a good one to"
+        },
+        {
+          "start": "1477.679",
+          "dur": "4.801",
+          "text": "deactivate you can see one plugin here"
+        },
+        {
+          "start": "1480.08",
+          "dur": "4.88",
+          "text": "is hello dolly this is just like a fun"
+        },
+        {
+          "start": "1482.48",
+          "dur": "4.559",
+          "text": "plugin that the creators of wordpress"
+        },
+        {
+          "start": "1484.96",
+          "dur": "4.48",
+          "text": "put in here just to show you like how"
+        },
+        {
+          "start": "1487.039",
+          "dur": "5.041",
+          "text": "this works and if you activate it at the"
+        },
+        {
+          "start": "1489.44",
+          "dur": "3.92",
+          "text": "top here it has like a little quote and"
+        },
+        {
+          "start": "1492.08",
+          "dur": "3.36",
+          "text": "let's go ahead and go back down let's"
+        },
+        {
+          "start": "1493.36",
+          "dur": "3.36",
+          "text": "deactivate that we can even delete"
+        },
+        {
+          "start": "1495.44",
+          "dur": "2.4",
+          "text": "plugins if it's something that you never"
+        },
+        {
+          "start": "1496.72",
+          "dur": "3.92",
+          "text": "think you're going to use i'll go ahead"
+        },
+        {
+          "start": "1497.84",
+          "dur": "3.839",
+          "text": "and delete this thing push ok"
+        },
+        {
+          "start": "1500.64",
+          "dur": "3.44",
+          "text": "another one that we might want to"
+        },
+        {
+          "start": "1501.679",
+          "dur": "4.401",
+          "text": "deactivate is optinmonster and"
+        },
+        {
+          "start": "1504.08",
+          "dur": "3.52",
+          "text": "optinmonster i'm sure there's some"
+        },
+        {
+          "start": "1506.08",
+          "dur": "2.56",
+          "text": "really good reasons to have it but i'm"
+        },
+        {
+          "start": "1507.6",
+          "dur": "3.679",
+          "text": "going to go ahead and deactivate it i"
+        },
+        {
+          "start": "1508.64",
+          "dur": "4.639",
+          "text": "don't plan on using it for this website"
+        },
+        {
+          "start": "1511.279",
+          "dur": "3.601",
+          "text": "but something else that you can do is"
+        },
+        {
+          "start": "1513.279",
+          "dur": "3.52",
+          "text": "anytime there's a functionality that you"
+        },
+        {
+          "start": "1514.88",
+          "dur": "3.679",
+          "text": "want to add to your website there's"
+        },
+        {
+          "start": "1516.799",
+          "dur": "3.841",
+          "text": "thousands if not tens or hundreds of"
+        },
+        {
+          "start": "1518.559",
+          "dur": "4.321",
+          "text": "thousands of plugins and you can look"
+        },
+        {
+          "start": "1520.64",
+          "dur": "4",
+          "text": "and you can add a new plugin so for"
+        },
+        {
+          "start": "1522.88",
+          "dur": "4.159",
+          "text": "instance one thing that i want to do is"
+        },
+        {
+          "start": "1524.64",
+          "dur": "3.68",
+          "text": "when people click on add to cart instead"
+        },
+        {
+          "start": "1527.039",
+          "dur": "3.201",
+          "text": "of adding it to their cart i wanted to"
+        },
+        {
+          "start": "1528.32",
+          "dur": "3.839",
+          "text": "take them directly to the checkout so"
+        },
+        {
+          "start": "1530.24",
+          "dur": "3.76",
+          "text": "we're going to go ahead go here and"
+        },
+        {
+          "start": "1532.159",
+          "dur": "4.4",
+          "text": "we're going to type in direct"
+        },
+        {
+          "start": "1534",
+          "dur": "3.84",
+          "text": "checkout and see what comes up and we"
+        },
+        {
+          "start": "1536.559",
+          "dur": "2.961",
+          "text": "can see that there's one that's called"
+        },
+        {
+          "start": "1537.84",
+          "dur": "3.439",
+          "text": "direct checkout for woocommerce let's go"
+        },
+        {
+          "start": "1539.52",
+          "dur": "3.2",
+          "text": "ahead and install it and let's see if"
+        },
+        {
+          "start": "1541.279",
+          "dur": "3.28",
+          "text": "this will work for us you're going to"
+        },
+        {
+          "start": "1542.72",
+          "dur": "3.68",
+          "text": "want to make sure you click activate so"
+        },
+        {
+          "start": "1544.559",
+          "dur": "5.201",
+          "text": "that's activated and it actually starts"
+        },
+        {
+          "start": "1546.4",
+          "dur": "5.92",
+          "text": "working now let's go to buyrockett.com"
+        },
+        {
+          "start": "1549.76",
+          "dur": "4.48",
+          "text": "and we're going to go to buy rocket t"
+        },
+        {
+          "start": "1552.32",
+          "dur": "4",
+          "text": "and we're going to click add to cart but"
+        },
+        {
+          "start": "1554.24",
+          "dur": "4",
+          "text": "now instead of it adding to cart it"
+        },
+        {
+          "start": "1556.32",
+          "dur": "3.52",
+          "text": "takes us directly to the checkout page"
+        },
+        {
+          "start": "1558.24",
+          "dur": "3.6",
+          "text": "which will make it easier for people to"
+        },
+        {
+          "start": "1559.84",
+          "dur": "4",
+          "text": "buy now again you can customize all this"
+        },
+        {
+          "start": "1561.84",
+          "dur": "3.439",
+          "text": "if you wanted to get rid of this coupon"
+        },
+        {
+          "start": "1563.84",
+          "dur": "2.8",
+          "text": "part if you wanted to get rid of this"
+        },
+        {
+          "start": "1565.279",
+          "dur": "3.201",
+          "text": "you could get rid of all this very"
+        },
+        {
+          "start": "1566.64",
+          "dur": "3.36",
+          "text": "easily now that we understand plugins"
+        },
+        {
+          "start": "1568.48",
+          "dur": "3.84",
+          "text": "the next thing we want to understand is"
+        },
+        {
+          "start": "1570",
+          "dur": "3.84",
+          "text": "pages and you can see that there's a"
+        },
+        {
+          "start": "1572.32",
+          "dur": "3.76",
+          "text": "list of all the different pages there's"
+        },
+        {
+          "start": "1573.84",
+          "dur": "4.319",
+          "text": "the about us page the cart page the"
+        },
+        {
+          "start": "1576.08",
+          "dur": "2.959",
+          "text": "checkout page and we can customize all"
+        },
+        {
+          "start": "1578.159",
+          "dur": "2.721",
+          "text": "these so let me show you how to"
+        },
+        {
+          "start": "1579.039",
+          "dur": "3.281",
+          "text": "customize one of these so let's go to"
+        },
+        {
+          "start": "1580.88",
+          "dur": "4",
+          "text": "the about us page we're going to click"
+        },
+        {
+          "start": "1582.32",
+          "dur": "4",
+          "text": "edit here and we're gonna change this up"
+        },
+        {
+          "start": "1584.88",
+          "dur": "3.919",
+          "text": "so one of the first things instead of"
+        },
+        {
+          "start": "1586.32",
+          "dur": "4.719",
+          "text": "having this background let's go ahead"
+        },
+        {
+          "start": "1588.799",
+          "dur": "4.161",
+          "text": "and get rid of that and in fact let's"
+        },
+        {
+          "start": "1591.039",
+          "dur": "4.561",
+          "text": "get rid of this entire section here by"
+        },
+        {
+          "start": "1592.96",
+          "dur": "4.959",
+          "text": "coming down here and clicking remove"
+        },
+        {
+          "start": "1595.6",
+          "dur": "4.16",
+          "text": "cover so now it just says about us and"
+        },
+        {
+          "start": "1597.919",
+          "dur": "5.441",
+          "text": "it has a little bit of information so"
+        },
+        {
+          "start": "1599.76",
+          "dur": "4.72",
+          "text": "i'm just going to put put info here"
+        },
+        {
+          "start": "1603.36",
+          "dur": "3.84",
+          "text": "and then"
+        },
+        {
+          "start": "1604.48",
+          "dur": "4.72",
+          "text": "put more info over here we can also"
+        },
+        {
+          "start": "1607.2",
+          "dur": "4.079",
+          "text": "click on read more"
+        },
+        {
+          "start": "1609.2",
+          "dur": "4.719",
+          "text": "our company we're going to put some info"
+        },
+        {
+          "start": "1611.279",
+          "dur": "3.441",
+          "text": "here basically and then we can change"
+        },
+        {
+          "start": "1613.919",
+          "dur": "2.88",
+          "text": "out"
+        },
+        {
+          "start": "1614.72",
+          "dur": "3.76",
+          "text": "this image to whatever we want by"
+        },
+        {
+          "start": "1616.799",
+          "dur": "4.161",
+          "text": "clicking the replace button you can even"
+        },
+        {
+          "start": "1618.48",
+          "dur": "4.799",
+          "text": "scroll down here and it says our team"
+        },
+        {
+          "start": "1620.96",
+          "dur": "3.599",
+          "text": "and we can update all the photos here so"
+        },
+        {
+          "start": "1623.279",
+          "dur": "3.28",
+          "text": "one thing you can do is if you wanted to"
+        },
+        {
+          "start": "1624.559",
+          "dur": "4.48",
+          "text": "you could click on this and you could"
+        },
+        {
+          "start": "1626.559",
+          "dur": "5.521",
+          "text": "click replace and you could upload a new"
+        },
+        {
+          "start": "1629.039",
+          "dur": "5.52",
+          "text": "photo so i have a new photo right here"
+        },
+        {
+          "start": "1632.08",
+          "dur": "4.719",
+          "text": "we'll go ahead and open that you can see"
+        },
+        {
+          "start": "1634.559",
+          "dur": "4.72",
+          "text": "we have a new photo right here we can"
+        },
+        {
+          "start": "1636.799",
+          "dur": "4.801",
+          "text": "change it the name to"
+        },
+        {
+          "start": "1639.279",
+          "dur": "3.76",
+          "text": "founder the name up here"
+        },
+        {
+          "start": "1641.6",
+          "dur": "3.28",
+          "text": "to the"
+        },
+        {
+          "start": "1643.039",
+          "dur": "3.841",
+          "text": "founder's name and i partnered with"
+        },
+        {
+          "start": "1644.88",
+          "dur": "3.6",
+          "text": "willem on this product if we wanted to"
+        },
+        {
+          "start": "1646.88",
+          "dur": "3.279",
+          "text": "we could even update all the different"
+        },
+        {
+          "start": "1648.48",
+          "dur": "2.799",
+          "text": "social media down here and we'd go"
+        },
+        {
+          "start": "1650.159",
+          "dur": "2.4",
+          "text": "through and we could replace this if i"
+        },
+        {
+          "start": "1651.279",
+          "dur": "2.721",
+          "text": "wanted to put my image in there but i"
+        },
+        {
+          "start": "1652.559",
+          "dur": "3.201",
+          "text": "think we're going to have willem be the"
+        },
+        {
+          "start": "1654",
+          "dur": "3.12",
+          "text": "face of this brand so we could just go"
+        },
+        {
+          "start": "1655.76",
+          "dur": "4",
+          "text": "through and we could delete all these"
+        },
+        {
+          "start": "1657.12",
+          "dur": "4.4",
+          "text": "different sections which we'll do later"
+        },
+        {
+          "start": "1659.76",
+          "dur": "3.12",
+          "text": "and then we scroll down here and if we"
+        },
+        {
+          "start": "1661.52",
+          "dur": "2.8",
+          "text": "wanted to we could replace the"
+        },
+        {
+          "start": "1662.88",
+          "dur": "2.56",
+          "text": "background here in fact what we're going"
+        },
+        {
+          "start": "1664.32",
+          "dur": "3.2",
+          "text": "to do we're just going to get rid of"
+        },
+        {
+          "start": "1665.44",
+          "dur": "5.52",
+          "text": "this entire section i don't think we"
+        },
+        {
+          "start": "1667.52",
+          "dur": "4.96",
+          "text": "need this here so this is what it looks"
+        },
+        {
+          "start": "1670.96",
+          "dur": "4.16",
+          "text": "like now we're going to put some info"
+        },
+        {
+          "start": "1672.48",
+          "dur": "4.24",
+          "text": "here we've got to fill all this out"
+        },
+        {
+          "start": "1675.12",
+          "dur": "3.039",
+          "text": "later and we'll probably go through and"
+        },
+        {
+          "start": "1676.72",
+          "dur": "4.4",
+          "text": "probably delete some of this stuff as"
+        },
+        {
+          "start": "1678.159",
+          "dur": "6.24",
+          "text": "well but you can see we have the page"
+        },
+        {
+          "start": "1681.12",
+          "dur": "6.559",
+          "text": "title down here and this is specifically"
+        },
+        {
+          "start": "1684.399",
+          "dur": "5.52",
+          "text": "going to be for seo purposes and we can"
+        },
+        {
+          "start": "1687.679",
+          "dur": "3.441",
+          "text": "go into so much depth about that that's"
+        },
+        {
+          "start": "1689.919",
+          "dur": "2.961",
+          "text": "something that maybe i'll do an advanced"
+        },
+        {
+          "start": "1691.12",
+          "dur": "3.919",
+          "text": "woocommerce video about if you want that"
+        },
+        {
+          "start": "1692.88",
+          "dur": "4.08",
+          "text": "type of a video click the like button"
+        },
+        {
+          "start": "1695.039",
+          "dur": "3.52",
+          "text": "down below you can also see"
+        },
+        {
+          "start": "1696.96",
+          "dur": "3.28",
+          "text": "on all kinds of different things that we"
+        },
+        {
+          "start": "1698.559",
+          "dur": "3.6",
+          "text": "can customize here how it shows up on"
+        },
+        {
+          "start": "1700.24",
+          "dur": "4.319",
+          "text": "social media the facebook preview what"
+        },
+        {
+          "start": "1702.159",
+          "dur": "4.721",
+          "text": "that would look like the schema the link"
+        },
+        {
+          "start": "1704.559",
+          "dur": "4.72",
+          "text": "assistant here as well redirects and"
+        },
+        {
+          "start": "1706.88",
+          "dur": "4.48",
+          "text": "some advanced features and"
+        },
+        {
+          "start": "1709.279",
+          "dur": "4.481",
+          "text": "this is all stuff that is maybe saved"
+        },
+        {
+          "start": "1711.36",
+          "dur": "4.4",
+          "text": "better for a more advanced woocommerce"
+        },
+        {
+          "start": "1713.76",
+          "dur": "4.32",
+          "text": "video but now that we know how to edit"
+        },
+        {
+          "start": "1715.76",
+          "dur": "4.48",
+          "text": "an existing page what we can also do is"
+        },
+        {
+          "start": "1718.08",
+          "dur": "3.839",
+          "text": "we could always add a new page and you"
+        },
+        {
+          "start": "1720.24",
+          "dur": "3.36",
+          "text": "might want to add a new page for any"
+        },
+        {
+          "start": "1721.919",
+          "dur": "4.161",
+          "text": "number of different reasons maybe you"
+        },
+        {
+          "start": "1723.6",
+          "dur": "4.16",
+          "text": "have your refund policy maybe you have a"
+        },
+        {
+          "start": "1726.08",
+          "dur": "3.52",
+          "text": "specific page with frequently asked"
+        },
+        {
+          "start": "1727.76",
+          "dur": "4.159",
+          "text": "questions but one thing that i promised"
+        },
+        {
+          "start": "1729.6",
+          "dur": "4.48",
+          "text": "that we would talk about is terms and"
+        },
+        {
+          "start": "1731.919",
+          "dur": "4",
+          "text": "conditions and you can just type in the"
+        },
+        {
+          "start": "1734.08",
+          "dur": "4.16",
+          "text": "title up there and we can start typing"
+        },
+        {
+          "start": "1735.919",
+          "dur": "3.601",
+          "text": "for a new block right here and here we"
+        },
+        {
+          "start": "1738.24",
+          "dur": "4.64",
+          "text": "could put"
+        },
+        {
+          "start": "1739.52",
+          "dur": "5.039",
+          "text": "all of our terms and conditions and you"
+        },
+        {
+          "start": "1742.88",
+          "dur": "2.72",
+          "text": "can find stuff like this on the internet"
+        },
+        {
+          "start": "1744.559",
+          "dur": "3.201",
+          "text": "we're going to go ahead and click"
+        },
+        {
+          "start": "1745.6",
+          "dur": "3.52",
+          "text": "publish click publish again and why this"
+        },
+        {
+          "start": "1747.76",
+          "dur": "3.2",
+          "text": "is important is we're going to go over"
+        },
+        {
+          "start": "1749.12",
+          "dur": "3.919",
+          "text": "here we're going to go to appearance and"
+        },
+        {
+          "start": "1750.96",
+          "dur": "4.8",
+          "text": "we're going to go to customize and"
+        },
+        {
+          "start": "1753.039",
+          "dur": "5.52",
+          "text": "remember earlier i told you that we want"
+        },
+        {
+          "start": "1755.76",
+          "dur": "6.08",
+          "text": "to go into here and then into the"
+        },
+        {
+          "start": "1758.559",
+          "dur": "5.921",
+          "text": "checkout and we can select the terms and"
+        },
+        {
+          "start": "1761.84",
+          "dur": "4.4",
+          "text": "conditions page if we go in here look"
+        },
+        {
+          "start": "1764.48",
+          "dur": "3.679",
+          "text": "now there's a terms and condition page"
+        },
+        {
+          "start": "1766.24",
+          "dur": "4.159",
+          "text": "obviously it's not fully filled out but"
+        },
+        {
+          "start": "1768.159",
+          "dur": "4",
+          "text": "we have something at least temporarily"
+        },
+        {
+          "start": "1770.399",
+          "dur": "3.52",
+          "text": "for now so we're going to go ahead and"
+        },
+        {
+          "start": "1772.159",
+          "dur": "4.321",
+          "text": "click publish another page that we're"
+        },
+        {
+          "start": "1773.919",
+          "dur": "4.721",
+          "text": "going to want to customize is the home"
+        },
+        {
+          "start": "1776.48",
+          "dur": "4.16",
+          "text": "page the front page so let's go ahead"
+        },
+        {
+          "start": "1778.64",
+          "dur": "4.159",
+          "text": "and click edit here and you can see that"
+        },
+        {
+          "start": "1780.64",
+          "dur": "3.68",
+          "text": "this is what the home page looks like"
+        },
+        {
+          "start": "1782.799",
+          "dur": "2.88",
+          "text": "first thing we're going to do let's get"
+        },
+        {
+          "start": "1784.32",
+          "dur": "3.92",
+          "text": "rid of this image and we could always"
+        },
+        {
+          "start": "1785.679",
+          "dur": "3.441",
+          "text": "replace it with another image but for"
+        },
+        {
+          "start": "1788.24",
+          "dur": "3.439",
+          "text": "now we're just going to go ahead and"
+        },
+        {
+          "start": "1789.12",
+          "dur": "5.439",
+          "text": "click clear media and let's change this"
+        },
+        {
+          "start": "1791.679",
+          "dur": "5.841",
+          "text": "to say by rocket"
+        },
+        {
+          "start": "1794.559",
+          "dur": "5.681",
+          "text": "t we can get rid of this heading right"
+        },
+        {
+          "start": "1797.52",
+          "dur": "4.879",
+          "text": "here as well and we can scroll down and"
+        },
+        {
+          "start": "1800.24",
+          "dur": "3.36",
+          "text": "we can start playing with this and so"
+        },
+        {
+          "start": "1802.399",
+          "dur": "3.76",
+          "text": "one of the things that i'm going to do"
+        },
+        {
+          "start": "1803.6",
+          "dur": "5.52",
+          "text": "here is i'm going to delete"
+        },
+        {
+          "start": "1806.159",
+          "dur": "4.88",
+          "text": "all of these we don't need this anymore"
+        },
+        {
+          "start": "1809.12",
+          "dur": "3.52",
+          "text": "we can delete this entire section"
+        },
+        {
+          "start": "1811.039",
+          "dur": "4.081",
+          "text": "actually and all i'm doing is clicking"
+        },
+        {
+          "start": "1812.64",
+          "dur": "5.12",
+          "text": "on it and clicking delete here some"
+        },
+        {
+          "start": "1815.12",
+          "dur": "5.919",
+          "text": "testimonials we can"
+        },
+        {
+          "start": "1817.76",
+          "dur": "5.68",
+          "text": "we can replace this text"
+        },
+        {
+          "start": "1821.039",
+          "dur": "4.24",
+          "text": "here and we can replace this text then"
+        },
+        {
+          "start": "1823.44",
+          "dur": "4.4",
+          "text": "we can place this text we can change out"
+        },
+        {
+          "start": "1825.279",
+          "dur": "4",
+          "text": "the images with real customers that we"
+        },
+        {
+          "start": "1827.84",
+          "dur": "3.04",
+          "text": "have and change out the names to real"
+        },
+        {
+          "start": "1829.279",
+          "dur": "3.76",
+          "text": "customers and we can put some more"
+        },
+        {
+          "start": "1830.88",
+          "dur": "4.159",
+          "text": "information here about that"
+        },
+        {
+          "start": "1833.039",
+          "dur": "3.841",
+          "text": "i'm also going to go ahead and click"
+        },
+        {
+          "start": "1835.039",
+          "dur": "3.841",
+          "text": "here to delete"
+        },
+        {
+          "start": "1836.88",
+          "dur": "3.919",
+          "text": "this media if we wanted to add some"
+        },
+        {
+          "start": "1838.88",
+          "dur": "3.279",
+          "text": "media we could and we can change this to"
+        },
+        {
+          "start": "1840.799",
+          "dur": "3.6",
+          "text": "say interested"
+        },
+        {
+          "start": "1842.159",
+          "dur": "3.441",
+          "text": "by"
+        },
+        {
+          "start": "1844.399",
+          "dur": "2.961",
+          "text": "hi"
+        },
+        {
+          "start": "1845.6",
+          "dur": "5.04",
+          "text": "caffeine t"
+        },
+        {
+          "start": "1847.36",
+          "dur": "5.6",
+          "text": "today let's go ahead and change this up"
+        },
+        {
+          "start": "1850.64",
+          "dur": "5.68",
+          "text": "and this is just a bunch of"
+        },
+        {
+          "start": "1852.96",
+          "dur": "5.439",
+          "text": "nonsense fill in text"
+        },
+        {
+          "start": "1856.32",
+          "dur": "3.12",
+          "text": "here we'll change that up eventually as"
+        },
+        {
+          "start": "1858.399",
+          "dur": "4.081",
+          "text": "well"
+        },
+        {
+          "start": "1859.44",
+          "dur": "5.119",
+          "text": "and then we can go down below and we can"
+        },
+        {
+          "start": "1862.48",
+          "dur": "3.679",
+          "text": "update this and optimize it for seo"
+        },
+        {
+          "start": "1864.559",
+          "dur": "3.921",
+          "text": "purposes which is something that we're"
+        },
+        {
+          "start": "1866.159",
+          "dur": "4.88",
+          "text": "not going to really go over just yet but"
+        },
+        {
+          "start": "1868.48",
+          "dur": "3.84",
+          "text": "let's go ahead and let's click update"
+        },
+        {
+          "start": "1871.039",
+          "dur": "2.961",
+          "text": "now we still have some other things that"
+        },
+        {
+          "start": "1872.32",
+          "dur": "3.12",
+          "text": "we want to optimize instead of saying"
+        },
+        {
+          "start": "1874",
+          "dur": "3.44",
+          "text": "plants collection we could say t"
+        },
+        {
+          "start": "1875.44",
+          "dur": "3.2",
+          "text": "collection and start showing some tea"
+        },
+        {
+          "start": "1877.44",
+          "dur": "3.28",
+          "text": "and i guess we could say that that's a"
+        },
+        {
+          "start": "1878.64",
+          "dur": "4.08",
+          "text": "tea leaf there and then instead of"
+        },
+        {
+          "start": "1880.72",
+          "dur": "3.36",
+          "text": "featured plants it could be featured tea"
+        },
+        {
+          "start": "1882.72",
+          "dur": "3.12",
+          "text": "and again we'll go ahead and click"
+        },
+        {
+          "start": "1884.08",
+          "dur": "3.92",
+          "text": "update another feature of wordpress and"
+        },
+        {
+          "start": "1885.84",
+          "dur": "4.24",
+          "text": "woocommerce is posts and since"
+        },
+        {
+          "start": "1888",
+          "dur": "5.2",
+          "text": "originally wordpress was meant to be"
+        },
+        {
+          "start": "1890.08",
+          "dur": "4.88",
+          "text": "kind of a blog posting website where"
+        },
+        {
+          "start": "1893.2",
+          "dur": "3.76",
+          "text": "you'd have different posts maybe every"
+        },
+        {
+          "start": "1894.96",
+          "dur": "3.839",
+          "text": "week if instead of doing pages which"
+        },
+        {
+          "start": "1896.96",
+          "dur": "3.12",
+          "text": "pages are a little bit more static and"
+        },
+        {
+          "start": "1898.799",
+          "dur": "3.921",
+          "text": "they're kind of meant to be there"
+        },
+        {
+          "start": "1900.08",
+          "dur": "4.16",
+          "text": "forever you could add new posts and so"
+        },
+        {
+          "start": "1902.72",
+          "dur": "3.28",
+          "text": "if you do want to have a blog for your"
+        },
+        {
+          "start": "1904.24",
+          "dur": "3.36",
+          "text": "woocommerce website all you have to do"
+        },
+        {
+          "start": "1906",
+          "dur": "3.6",
+          "text": "is click add new post and it's very"
+        },
+        {
+          "start": "1907.6",
+          "dur": "3.919",
+          "text": "similar to adding a new page another"
+        },
+        {
+          "start": "1909.6",
+          "dur": "4.16",
+          "text": "thing i want to mention is if you're"
+        },
+        {
+          "start": "1911.519",
+          "dur": "4.241",
+          "text": "going to be doing blog posting there are"
+        },
+        {
+          "start": "1913.76",
+          "dur": "4.639",
+          "text": "going to be comments and you can click"
+        },
+        {
+          "start": "1915.76",
+          "dur": "4.799",
+          "text": "here to view all your different comments"
+        },
+        {
+          "start": "1918.399",
+          "dur": "4.481",
+          "text": "moderate them anytime you want to you"
+        },
+        {
+          "start": "1920.559",
+          "dur": "4.881",
+          "text": "can go up here and you can approve"
+        },
+        {
+          "start": "1922.88",
+          "dur": "3.279",
+          "text": "unapprove or move the comment to trash"
+        },
+        {
+          "start": "1925.44",
+          "dur": "2.8",
+          "text": "that's something that you're going to"
+        },
+        {
+          "start": "1926.159",
+          "dur": "4.161",
+          "text": "want to watch out for if you're doing"
+        },
+        {
+          "start": "1928.24",
+          "dur": "3.84",
+          "text": "blog posts and speaking of comments do"
+        },
+        {
+          "start": "1930.32",
+          "dur": "3.359",
+          "text": "me a favor and leave a comment for this"
+        },
+        {
+          "start": "1932.08",
+          "dur": "4.8",
+          "text": "video but now i want to show you some"
+        },
+        {
+          "start": "1933.679",
+          "dur": "5.6",
+          "text": "more advanced features of woocommerce so"
+        },
+        {
+          "start": "1936.88",
+          "dur": "4.24",
+          "text": "if we click on woocommerce here we can"
+        },
+        {
+          "start": "1939.279",
+          "dur": "4.161",
+          "text": "click on the orders now we don't have"
+        },
+        {
+          "start": "1941.12",
+          "dur": "4.24",
+          "text": "any orders right now but as we start to"
+        },
+        {
+          "start": "1943.44",
+          "dur": "3.44",
+          "text": "have orders we can come in here and"
+        },
+        {
+          "start": "1945.36",
+          "dur": "3.439",
+          "text": "we're going to see all the orders and we"
+        },
+        {
+          "start": "1946.88",
+          "dur": "3.84",
+          "text": "can start to fulfill them there's also"
+        },
+        {
+          "start": "1948.799",
+          "dur": "3.841",
+          "text": "subscriptions if you want to offer a"
+        },
+        {
+          "start": "1950.72",
+          "dur": "3.439",
+          "text": "subscription for your product you can"
+        },
+        {
+          "start": "1952.64",
+          "dur": "3.12",
+          "text": "click on that button and you can see all"
+        },
+        {
+          "start": "1954.159",
+          "dur": "4.24",
+          "text": "the different active subscriptions that"
+        },
+        {
+          "start": "1955.76",
+          "dur": "4.639",
+          "text": "you have we also added this feature of"
+        },
+        {
+          "start": "1958.399",
+          "dur": "3.76",
+          "text": "direct checkout and if you click on that"
+        },
+        {
+          "start": "1960.399",
+          "dur": "3.681",
+          "text": "you're able to change some of the"
+        },
+        {
+          "start": "1962.159",
+          "dur": "3.441",
+          "text": "settings for direct checkout and you're"
+        },
+        {
+          "start": "1964.08",
+          "dur": "4.24",
+          "text": "going to want to make sure that"
+        },
+        {
+          "start": "1965.6",
+          "dur": "4.559",
+          "text": "added to cart redirect is on yes and"
+        },
+        {
+          "start": "1968.32",
+          "dur": "3.28",
+          "text": "added to cart redirect goes to the"
+        },
+        {
+          "start": "1970.159",
+          "dur": "3.041",
+          "text": "checkout you can have it go to a custom"
+        },
+        {
+          "start": "1971.6",
+          "dur": "3.52",
+          "text": "url or"
+        },
+        {
+          "start": "1973.2",
+          "dur": "4",
+          "text": "the web cart some other things that"
+        },
+        {
+          "start": "1975.12",
+          "dur": "4",
+          "text": "you're going to look at are customers as"
+        },
+        {
+          "start": "1977.2",
+          "dur": "4.079",
+          "text": "you start to get more woocommerce"
+        },
+        {
+          "start": "1979.12",
+          "dur": "3.919",
+          "text": "customers you can come in here and"
+        },
+        {
+          "start": "1981.279",
+          "dur": "3.201",
+          "text": "you're going to see all those customers"
+        },
+        {
+          "start": "1983.039",
+          "dur": "3.36",
+          "text": "as well as if you ever want to create"
+        },
+        {
+          "start": "1984.48",
+          "dur": "4.24",
+          "text": "coupons for woocommerce you click on"
+        },
+        {
+          "start": "1986.399",
+          "dur": "5.201",
+          "text": "this click add a coupon and you can"
+        },
+        {
+          "start": "1988.72",
+          "dur": "4.799",
+          "text": "customize and optimize that as well"
+        },
+        {
+          "start": "1991.6",
+          "dur": "3.84",
+          "text": "another feature of woocommerce is the"
+        },
+        {
+          "start": "1993.519",
+          "dur": "3.921",
+          "text": "reports now since we don't have any data"
+        },
+        {
+          "start": "1995.44",
+          "dur": "2.8",
+          "text": "here there's not going to be much to"
+        },
+        {
+          "start": "1997.44",
+          "dur": "1.839",
+          "text": "show"
+        },
+        {
+          "start": "1998.24",
+          "dur": "3.279",
+          "text": "but you can come in here and you can"
+        },
+        {
+          "start": "1999.279",
+          "dur": "4.081",
+          "text": "start looking at how much in sales"
+        },
+        {
+          "start": "2001.519",
+          "dur": "4.561",
+          "text": "you've received for your woocommerce"
+        },
+        {
+          "start": "2003.36",
+          "dur": "5.439",
+          "text": "website as well as there's customers and"
+        },
+        {
+          "start": "2006.08",
+          "dur": "4.319",
+          "text": "stock and taxes and shipping labels and"
+        },
+        {
+          "start": "2008.799",
+          "dur": "2.72",
+          "text": "you can look at reports under all those"
+        },
+        {
+          "start": "2010.399",
+          "dur": "2",
+          "text": "different things now one of the most"
+        },
+        {
+          "start": "2011.519",
+          "dur": "3.28",
+          "text": "important things that you're going to"
+        },
+        {
+          "start": "2012.399",
+          "dur": "4.321",
+          "text": "want to look at is the settings"
+        },
+        {
+          "start": "2014.799",
+          "dur": "4.161",
+          "text": "you can change all these different"
+        },
+        {
+          "start": "2016.72",
+          "dur": "4.16",
+          "text": "settings you can change the address that"
+        },
+        {
+          "start": "2018.96",
+          "dur": "4.24",
+          "text": "you have associated with your store you"
+        },
+        {
+          "start": "2020.88",
+          "dur": "4.56",
+          "text": "can change how your products show up"
+        },
+        {
+          "start": "2023.2",
+          "dur": "4.24",
+          "text": "what the shop page looks like the add to"
+        },
+        {
+          "start": "2025.44",
+          "dur": "3.52",
+          "text": "cart behavior you can even click on"
+        },
+        {
+          "start": "2027.44",
+          "dur": "3.44",
+          "text": "redirect to the cart page after"
+        },
+        {
+          "start": "2028.96",
+          "dur": "3.599",
+          "text": "successful edition and that would only"
+        },
+        {
+          "start": "2030.88",
+          "dur": "3.84",
+          "text": "work if you don't have the direct cart"
+        },
+        {
+          "start": "2032.559",
+          "dur": "4.801",
+          "text": "plug-in that we talked about earlier you"
+        },
+        {
+          "start": "2034.72",
+          "dur": "4.24",
+          "text": "can change the weight unit right now"
+        },
+        {
+          "start": "2037.36",
+          "dur": "2.88",
+          "text": "it's set to kilogram we might want to"
+        },
+        {
+          "start": "2038.96",
+          "dur": "2.48",
+          "text": "change that to pounds because we're here"
+        },
+        {
+          "start": "2040.24",
+          "dur": "3.12",
+          "text": "in the united states and for whatever"
+        },
+        {
+          "start": "2041.44",
+          "dur": "4.56",
+          "text": "reason in the united states we still use"
+        },
+        {
+          "start": "2043.36",
+          "dur": "6.239",
+          "text": "the pound system you can also click on"
+        },
+        {
+          "start": "2046",
+          "dur": "6.159",
+          "text": "the tax button up here and change how we"
+        },
+        {
+          "start": "2049.599",
+          "dur": "5.76",
+          "text": "do taxes right now it enables automated"
+        },
+        {
+          "start": "2052.159",
+          "dur": "5.52",
+          "text": "taxes but the truth is you only really"
+        },
+        {
+          "start": "2055.359",
+          "dur": "3.601",
+          "text": "want to charge taxes in the state if"
+        },
+        {
+          "start": "2057.679",
+          "dur": "2.881",
+          "text": "people are buying from the state that"
+        },
+        {
+          "start": "2058.96",
+          "dur": "3.6",
+          "text": "you are located in there's also a bunch"
+        },
+        {
+          "start": "2060.56",
+          "dur": "4.48",
+          "text": "of other features in here that you can"
+        },
+        {
+          "start": "2062.56",
+          "dur": "4.319",
+          "text": "optimize and change we have the shipping"
+        },
+        {
+          "start": "2065.04",
+          "dur": "3.52",
+          "text": "options which we talked about earlier"
+        },
+        {
+          "start": "2066.879",
+          "dur": "4.24",
+          "text": "and right now we have flat rate shipping"
+        },
+        {
+          "start": "2068.56",
+          "dur": "4.079",
+          "text": "both to the united states and"
+        },
+        {
+          "start": "2071.119",
+          "dur": "2.56",
+          "text": "internationally if we wanted to change"
+        },
+        {
+          "start": "2072.639",
+          "dur": "3.361",
+          "text": "that we could come in here and we could"
+        },
+        {
+          "start": "2073.679",
+          "dur": "4.561",
+          "text": "even add specific shipping zones maybe"
+        },
+        {
+          "start": "2076",
+          "dur": "3.679",
+          "text": "canada is a little bit cheaper than the"
+        },
+        {
+          "start": "2078.24",
+          "dur": "2.399",
+          "text": "rest of the world and then the rest of"
+        },
+        {
+          "start": "2079.679",
+          "dur": "3.361",
+          "text": "the world would be you know more"
+        },
+        {
+          "start": "2080.639",
+          "dur": "4.641",
+          "text": "expensive under payments we have it"
+        },
+        {
+          "start": "2083.04",
+          "dur": "4.24",
+          "text": "already set up for woocommerce payments"
+        },
+        {
+          "start": "2085.28",
+          "dur": "4",
+          "text": "if i wanted to i could enable test mode"
+        },
+        {
+          "start": "2087.28",
+          "dur": "4.16",
+          "text": "so that would make it so the store is no"
+        },
+        {
+          "start": "2089.28",
+          "dur": "4.639",
+          "text": "longer active there's also accounts in"
+        },
+        {
+          "start": "2091.44",
+          "dur": "3.76",
+          "text": "privacy and this allows a guest checkout"
+        },
+        {
+          "start": "2093.919",
+          "dur": "3.68",
+          "text": "there's a bunch of other features in"
+        },
+        {
+          "start": "2095.2",
+          "dur": "4.48",
+          "text": "here the privacy policy and you can see"
+        },
+        {
+          "start": "2097.599",
+          "dur": "4.161",
+          "text": "all that information right here and"
+        },
+        {
+          "start": "2099.68",
+          "dur": "4.24",
+          "text": "there's emails integration advanced"
+        },
+        {
+          "start": "2101.76",
+          "dur": "3.839",
+          "text": "multi-currency subscriptions and direct"
+        },
+        {
+          "start": "2103.92",
+          "dur": "3.6",
+          "text": "checkout so at this point we have a"
+        },
+        {
+          "start": "2105.599",
+          "dur": "3.041",
+          "text": "functional website that actually works"
+        },
+        {
+          "start": "2107.52",
+          "dur": "3.28",
+          "text": "that you could go to and you can"
+        },
+        {
+          "start": "2108.64",
+          "dur": "4.959",
+          "text": "actually buy things from now it's not"
+        },
+        {
+          "start": "2110.8",
+          "dur": "4.799",
+          "text": "the prettiest of websites but it works"
+        },
+        {
+          "start": "2113.599",
+          "dur": "4.081",
+          "text": "and that's all that really matters in"
+        },
+        {
+          "start": "2115.599",
+          "dur": "3.681",
+          "text": "this quick guide if you want me to do a"
+        },
+        {
+          "start": "2117.68",
+          "dur": "3.12",
+          "text": "more detailed guide make sure to hit the"
+        },
+        {
+          "start": "2119.28",
+          "dur": "3.6",
+          "text": "like button and if you're looking for"
+        },
+        {
+          "start": "2120.8",
+          "dur": "4.08",
+          "text": "hosting for your woocommerce website"
+        },
+        {
+          "start": "2122.88",
+          "dur": "3.92",
+          "text": "check out hostsinger i have the hookup"
+        },
+        {
+          "start": "2124.88",
+          "dur": "4.32",
+          "text": "use coupon code travis to get an extra"
+        },
+        {
+          "start": "2126.8",
+          "dur": "4.08",
+          "text": "10 off there are already ridiculously"
+        },
+        {
+          "start": "2129.2",
+          "dur": "5.52",
+          "text": "low prices again there's a link here if"
+        },
+        {
+          "start": "2130.88",
+          "dur": "3.84",
+          "text": "you want more information on hosting"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction"
+    },
+    {
+      "start_time": 46,
+      "title": "1st Step In Creating A Woocommerce Website"
+    },
+    {
+      "start_time": 148,
+      "title": "2nd Step In Creating A Woocommerce Website"
+    },
+    {
+      "start_time": 247,
+      "title": "3rd Step In Creating A Woocommerce Website"
+    },
+    {
+      "start_time": 1934,
+      "title": "4th Step In Creating A Woocommerce Website"
+    }
+  ]
+}

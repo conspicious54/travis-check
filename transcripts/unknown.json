@@ -1,0 +1,13 @@
+{
+  "id": "",
+  "title": "",
+  "tracks": [],
+  "isLive": false,
+  "languages": [],
+  "isLoginRequired": false,
+  "playabilityStatus": {
+    "status": "LOGIN_REQUIRED",
+    "reason": "Unknown error"
+  },
+  "failedReason": "PLAYABILITY_STATUS_NOK"
+}

@@ -1,0 +1,1001 @@
+{
+  "text": "there's three steps to setting up Facebook retargeting ads and Facebook retargeting ads is one of the cheapest best ways to get conversions on your website and in this video I'm gonna show you how to do it in a very easy way in record time the first step to setting up retargeting is to set up your Facebook pixel and the way to do that is you can click up here go to pixels and then once you get to the pixels section click add data source Facebook pixel and we're gonna just call this 4-minute pixel and then put in your website URL for me I'd be performance nut butter calm then click use an integration or tag manager Shopify and it'll walk you through what to do which I'll show you in a second I'm gonna copy and paste this copy it go to online store preferences and then go to Facebook pixel now I already have a Facebook pixel there so I'm not gonna update it but that's how you would do it so the next step to doing retargeting is to actually set up the ad itself so let's go back here now I have a special kind of account your should be simpler than this but I'm gonna find my performance nut butter account go in there and I'm gonna create a new campaign that specifically targets people that are I've already been to my website once your pixel has been activated in in working for a little while it'll collect an audience but to make sure it does it correctly you're gonna go into audiences up here and you're gonna create an audience for it to put all the people that visit your website into so I already did this a little while ago and you can see pixel retargeting audience but I'll show you how to do it really quick and do a custom audience website traffic then you're going to use your pixel so mine's the performance nut butter pixel and all website visitors in the past however many days you want to do it and then name your audience now once again I already did this a little while ago and it's the pixel retargeting audience another type of audience you're gonna want to create so we're gonna go back to custom audience is from your website traffic instead of all website visitors you're going to want to ask oh sorry this one you're gonna want to do people that purchased and we'll just call this one customers can be customers I already created this one as well but so basically what you want to do is have one group of people that's everyone that's been your website and one group that is only people that I've purchased so those that's my retargeting audience people that have been to the website and then here is the 30 days purchase and it says audience is too small to be using campaign creation but that's okay we still want to have that information in there after you've done that you're gonna go up here and then go to ads manager we're gonna create the campaign so this is the third and final step for creating your retargeting ad we'll click create and if you get this popping up go ahead and quick click to switch to guided creation I think guided creation gives you a lot more things to track to be able to change a lot more control and we'll call this campaign retargeting too and I'm not gonna do a split test that's a little bit more complicated for now go ahead and click continue when you're ready split test is a powerful tool so with ad set name I'm just going to call this retargeting so for the conversion event we're going to call it purchase offer we're not gonna create an offer for now okay so next up is we're gonna pick a certain audience so we're gonna pick our pixel retargeting audience and we're gonna exclude anybody who's purchased within 30 days all this stuff is fine you can you can change this I have other tutorials to talk about if you want to use that but I don't think you need to change any of this because this is a retargeting campaign let's see so daily budget put whatever you're comfortable with I recommend let's say $5 I think that's plenty continue so add name default that's all good and we're gonna change to the correct page so for me it's performance nut butter obviously you use an Instagram account too if you'd like to I'm not going to do it for now single images and I'm gonna upload an image I will use this image so down here for the website URL I recommend actually showing you know for the URL use the product page so use wherever they're actually gonna purchase it do not drive it to the person's home or to the home page to your home page and this just gives some of the benefits why someone would want to buy it we can also go to desktop newsfeed to see what it looks like on the desktop newsfeed call-to-action I'm good with just learn more so the display link it's optional but I'm just gonna go with performance nut butter com which I think it already has so we're fine with that and then for the newsfeed link description I'll just put in a little bit of information about the product and that's pretty much it you're done and we have created this ad in record time go ahead and click confirm and it might take a little bit and then they have to review it but once once it's been reviewed you'll be up and running one thing to note with the image is make sure that it doesn't have too much text that has too much text it won't show using Facebook ads or they'll penalize you so be careful about that one thing I forgot to mention that might actually be pretty important first off if you want to edit it you can go here you can click Edit and you can do some things here but most editing you can do is on the add set level or the add level but one important thing that I didn't talk about is editing the placements so by default it's automatic placements you might want to edit the plate placements and this is up to you do you want to show it in the right-hand column do you want to show it on the feeds to you do you want to show it is videos which I don't think applies because this isn't a video do you want to show it on Instagram you can uncheck Instagram if you don't want to show it on Instagram or go ahead and check it audience Network now this is one personally I would probably uncheck and messenger is another one it's up to you whether or not you want to uncheck it or not now to be honest I don't know a lot about some of these same thing with like Instagram feed and stories I'm not an expert at those I would say probably want to uncheck stories unless your ad is specifically meant for Instagram stories some of these are the ones you might want to do some some research on I think probably uncheck marketplace and uncheck stories is well there and write columns good in-stream videos mmm I think that's good if you have a video but I don't have a video so I'm gonna on click that instant articles I don't know a lot about instant articles I'd probably do some research but once you've done making your changes you can go ahead and click publish if you learn more about Facebook Ads I do have a complete tutorial you can click up here to get that for free also put a link down below in the descriptions make sure to subscribe like this video leave a comment and I'll see you in the next video",
+  "id": "AGV611S26_w",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here:  https://start.travismarziani.com/?utm_source=youtube&utm_campaign=4minretargeting\n\nIf you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nFull FB ads tutorial: \nhttps://youtu.be/Esl1sM504ho\n\n\nFacebook Retargeting Ads is one of the cheapest and best way to get conversions on your website so\n\nin this video, I will show three easy steps to set up your Facebook Retargeting Ads.\n\n \n\n1. Install The Pixel\n\n- Go to pixels, Click Add Data Source, Assign a Pixel name and put in the URL of your website. Click create then select \"Use an Integration or Tag Manager\", choose a partner, in my case Shopify,\n\nJust follow the instructions as it will walk you through on what to do. Copy your pixel ID then go to Shopify. In Shopify, Go to Online Store, select Preferences, and paste the Pixel ID to the Facebook Pixel ID area.\n\n \n\n2. Create an Audience\n\nOnce your pixel is activated and correctly working, it will collect an Audience and to make sure that it does that accordingly, you need to customize it. To do that, go to Audience under Assets, click Create a Custom Audience. What I would suggest is that you create an Audience for everyone who visited your website in the past 30 days and assign a name to it. Then, create another audience for everyone who purchased from your website in the past 30 days.\n\n \n\n3. Create the campaign\n\nGo to Ads Manager, Click create and if it gives you a pop up, select Guided Creation so you can learn more about your options. Assign a name for your campaign, click continue then select the Custom Audiences you have created. What I recommend is that you select the Audience for everyone who visited your site in the past 30 days then Exclude the other custom audience that you have for everyone who purchased in the past 30 days. Upload an Image and make sure that your image does not have too much Text because Facebook may end up not showing your Ad or they will penalize you if it does. Paste the URL of the site where they can purchase your product not the URL for your site's homepage. Put in the budget that you are comfortable with but I recommend you put in $5, click continue. You also have the option to edit the placement to customize as to where you want your Ads to be seen, it can be shown on the feeds, right column, stories, Instagram and it is completely up to you if you want to unchecked any of the other options. Just make sure to do some research about these options if you're not very familiar with them. Once you're done, click confirm. You also have the option to edit your campaign anytime you want to by clicking Edit under the campaign name. Once you are done with all the changes, click Publish then your Facebook Retargeting Ad is good to go. All that can be done in just 5 minutes."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "482",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2018-11-01",
+      "title": {
+        "simpleText": "Setup Retargeting Ads on Facebook in 4 Minutes"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "Setup Retargeting Ads on Facebook in 4 Minutes",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.03",
+          "dur": "4.8",
+          "text": "there's three steps to setting up"
+        },
+        {
+          "start": "2.19",
+          "dur": "5.43",
+          "text": "Facebook retargeting ads and Facebook"
+        },
+        {
+          "start": "4.83",
+          "dur": "5.55",
+          "text": "retargeting ads is one of the cheapest"
+        },
+        {
+          "start": "7.62",
+          "dur": "4.62",
+          "text": "best ways to get conversions on your"
+        },
+        {
+          "start": "10.38",
+          "dur": "4.799",
+          "text": "website and in this video I'm gonna show"
+        },
+        {
+          "start": "12.24",
+          "dur": "5.27",
+          "text": "you how to do it in a very easy way in"
+        },
+        {
+          "start": "15.179",
+          "dur": "4.35",
+          "text": "record time the first step to setting up"
+        },
+        {
+          "start": "17.51",
+          "dur": "5.019",
+          "text": "retargeting is to set up your Facebook"
+        },
+        {
+          "start": "19.529",
+          "dur": "5.731",
+          "text": "pixel and the way to do that is you can"
+        },
+        {
+          "start": "22.529",
+          "dur": "5.16",
+          "text": "click up here go to pixels and then once"
+        },
+        {
+          "start": "25.26",
+          "dur": "5.7",
+          "text": "you get to the pixels section click add"
+        },
+        {
+          "start": "27.689",
+          "dur": "6.931",
+          "text": "data source Facebook pixel and we're"
+        },
+        {
+          "start": "30.96",
+          "dur": "6.15",
+          "text": "gonna just call this 4-minute pixel and"
+        },
+        {
+          "start": "34.62",
+          "dur": "14.369",
+          "text": "then put in your website URL for me I'd"
+        },
+        {
+          "start": "37.11",
+          "dur": "14.33",
+          "text": "be performance nut butter calm then"
+        },
+        {
+          "start": "48.989",
+          "dur": "6.48",
+          "text": "click use an integration or tag manager"
+        },
+        {
+          "start": "51.44",
+          "dur": "6.639",
+          "text": "Shopify and it'll walk you through what"
+        },
+        {
+          "start": "55.469",
+          "dur": "6.691",
+          "text": "to do which I'll show you in a second"
+        },
+        {
+          "start": "58.079",
+          "dur": "9.871",
+          "text": "I'm gonna copy and paste this copy it go"
+        },
+        {
+          "start": "62.16",
+          "dur": "8.459",
+          "text": "to online store preferences and then go"
+        },
+        {
+          "start": "67.95",
+          "dur": "4.59",
+          "text": "to Facebook pixel now I already have a"
+        },
+        {
+          "start": "70.619",
+          "dur": "4.261",
+          "text": "Facebook pixel there so I'm not gonna"
+        },
+        {
+          "start": "72.54",
+          "dur": "4.68",
+          "text": "update it but that's how you would do it"
+        },
+        {
+          "start": "74.88",
+          "dur": "5.4",
+          "text": "so the next step to doing retargeting is"
+        },
+        {
+          "start": "77.22",
+          "dur": "4.98",
+          "text": "to actually set up the ad itself so"
+        },
+        {
+          "start": "80.28",
+          "dur": "4.32",
+          "text": "let's go back here now I have a special"
+        },
+        {
+          "start": "82.2",
+          "dur": "4.41",
+          "text": "kind of account your should be simpler"
+        },
+        {
+          "start": "84.6",
+          "dur": "3.93",
+          "text": "than this but I'm gonna find my"
+        },
+        {
+          "start": "86.61",
+          "dur": "4.23",
+          "text": "performance nut butter account go in"
+        },
+        {
+          "start": "88.53",
+          "dur": "5.31",
+          "text": "there and I'm gonna create a new"
+        },
+        {
+          "start": "90.84",
+          "dur": "5.489",
+          "text": "campaign that specifically targets"
+        },
+        {
+          "start": "93.84",
+          "dur": "4.56",
+          "text": "people that are I've already been to my"
+        },
+        {
+          "start": "96.329",
+          "dur": "4.441",
+          "text": "website once your pixel has been"
+        },
+        {
+          "start": "98.4",
+          "dur": "4.95",
+          "text": "activated in in working for a little"
+        },
+        {
+          "start": "100.77",
+          "dur": "4.86",
+          "text": "while it'll collect an audience but to"
+        },
+        {
+          "start": "103.35",
+          "dur": "5.07",
+          "text": "make sure it does it correctly you're"
+        },
+        {
+          "start": "105.63",
+          "dur": "4.23",
+          "text": "gonna go into audiences up here and"
+        },
+        {
+          "start": "108.42",
+          "dur": "3.39",
+          "text": "you're gonna create an audience for it"
+        },
+        {
+          "start": "109.86",
+          "dur": "4.77",
+          "text": "to put all the people that visit your"
+        },
+        {
+          "start": "111.81",
+          "dur": "4.65",
+          "text": "website into so I already did this a"
+        },
+        {
+          "start": "114.63",
+          "dur": "3.779",
+          "text": "little while ago and you can see pixel"
+        },
+        {
+          "start": "116.46",
+          "dur": "3.75",
+          "text": "retargeting audience but I'll show you"
+        },
+        {
+          "start": "118.409",
+          "dur": "5",
+          "text": "how to do it really quick and do a"
+        },
+        {
+          "start": "120.21",
+          "dur": "3.199",
+          "text": "custom audience"
+        },
+        {
+          "start": "125.52",
+          "dur": "5.499",
+          "text": "website traffic then you're going to use"
+        },
+        {
+          "start": "129.25",
+          "dur": "4.23",
+          "text": "your pixel so mine's the performance nut"
+        },
+        {
+          "start": "131.019",
+          "dur": "4.951",
+          "text": "butter pixel and all website visitors in"
+        },
+        {
+          "start": "133.48",
+          "dur": "4.47",
+          "text": "the past however many days you want to"
+        },
+        {
+          "start": "135.97",
+          "dur": "4.47",
+          "text": "do it and then name your audience now"
+        },
+        {
+          "start": "137.95",
+          "dur": "4.92",
+          "text": "once again I already did this a little"
+        },
+        {
+          "start": "140.44",
+          "dur": "3.21",
+          "text": "while ago and it's the pixel retargeting"
+        },
+        {
+          "start": "142.87",
+          "dur": "2.25",
+          "text": "audience"
+        },
+        {
+          "start": "143.65",
+          "dur": "2.88",
+          "text": "another type of audience you're gonna"
+        },
+        {
+          "start": "145.12",
+          "dur": "7.44",
+          "text": "want to create so we're gonna go back to"
+        },
+        {
+          "start": "146.53",
+          "dur": "8.94",
+          "text": "custom audience is from your website"
+        },
+        {
+          "start": "152.56",
+          "dur": "5.7",
+          "text": "traffic instead of all website visitors"
+        },
+        {
+          "start": "155.47",
+          "dur": "5.489",
+          "text": "you're going to want to ask oh sorry"
+        },
+        {
+          "start": "158.26",
+          "dur": "6.96",
+          "text": "this one you're gonna want to do people"
+        },
+        {
+          "start": "160.959",
+          "dur": "9.901",
+          "text": "that purchased and we'll just call this"
+        },
+        {
+          "start": "165.22",
+          "dur": "7.65",
+          "text": "one customers can be customers I already"
+        },
+        {
+          "start": "170.86",
+          "dur": "3.03",
+          "text": "created this one as well but so"
+        },
+        {
+          "start": "172.87",
+          "dur": "2.31",
+          "text": "basically what you want to do is have"
+        },
+        {
+          "start": "173.89",
+          "dur": "2.909",
+          "text": "one group of people that's everyone"
+        },
+        {
+          "start": "175.18",
+          "dur": "2.97",
+          "text": "that's been your website and one group"
+        },
+        {
+          "start": "176.799",
+          "dur": "3.901",
+          "text": "that is only people that I've purchased"
+        },
+        {
+          "start": "178.15",
+          "dur": "4.229",
+          "text": "so those that's my retargeting audience"
+        },
+        {
+          "start": "180.7",
+          "dur": "5.7",
+          "text": "people that have been to the website and"
+        },
+        {
+          "start": "182.379",
+          "dur": "6.651",
+          "text": "then here is the 30 days purchase and it"
+        },
+        {
+          "start": "186.4",
+          "dur": "4.95",
+          "text": "says audience is too small to be using"
+        },
+        {
+          "start": "189.03",
+          "dur": "4.209",
+          "text": "campaign creation but that's okay we"
+        },
+        {
+          "start": "191.35",
+          "dur": "4.5",
+          "text": "still want to have that information in"
+        },
+        {
+          "start": "193.239",
+          "dur": "6.601",
+          "text": "there after you've done that you're"
+        },
+        {
+          "start": "195.85",
+          "dur": "6.33",
+          "text": "gonna go up here and then go to ads"
+        },
+        {
+          "start": "199.84",
+          "dur": "5.13",
+          "text": "manager we're gonna create the campaign"
+        },
+        {
+          "start": "202.18",
+          "dur": "5.429",
+          "text": "so this is the third and final step for"
+        },
+        {
+          "start": "204.97",
+          "dur": "5.22",
+          "text": "creating your retargeting ad we'll click"
+        },
+        {
+          "start": "207.609",
+          "dur": "4.591",
+          "text": "create and if you get this popping up go"
+        },
+        {
+          "start": "210.19",
+          "dur": "4.169",
+          "text": "ahead and quick click to switch to"
+        },
+        {
+          "start": "212.2",
+          "dur": "6.119",
+          "text": "guided creation I think guided creation"
+        },
+        {
+          "start": "214.359",
+          "dur": "6.141",
+          "text": "gives you a lot more things to track to"
+        },
+        {
+          "start": "218.319",
+          "dur": "6.811",
+          "text": "be able to change a lot more control and"
+        },
+        {
+          "start": "220.5",
+          "dur": "7.18",
+          "text": "we'll call this campaign retargeting too"
+        },
+        {
+          "start": "225.13",
+          "dur": "5.13",
+          "text": "and I'm not gonna do a split test that's"
+        },
+        {
+          "start": "227.68",
+          "dur": "3.809",
+          "text": "a little bit more complicated for now go"
+        },
+        {
+          "start": "230.26",
+          "dur": "3.99",
+          "text": "ahead and click continue when you're"
+        },
+        {
+          "start": "231.489",
+          "dur": "4.59",
+          "text": "ready split test is a powerful tool so"
+        },
+        {
+          "start": "234.25",
+          "dur": "4.319",
+          "text": "with ad set name I'm just going to call"
+        },
+        {
+          "start": "236.079",
+          "dur": "7.571",
+          "text": "this retargeting so for the conversion"
+        },
+        {
+          "start": "238.569",
+          "dur": "8.621",
+          "text": "event we're going to call it purchase"
+        },
+        {
+          "start": "243.65",
+          "dur": "4.949",
+          "text": "offer we're not gonna create an offer"
+        },
+        {
+          "start": "247.19",
+          "dur": "3.45",
+          "text": "for now okay"
+        },
+        {
+          "start": "248.599",
+          "dur": "3.42",
+          "text": "so next up is we're gonna pick a certain"
+        },
+        {
+          "start": "250.64",
+          "dur": "3.33",
+          "text": "audience so we're gonna pick our pixel"
+        },
+        {
+          "start": "252.019",
+          "dur": "5.46",
+          "text": "retargeting audience and we're gonna"
+        },
+        {
+          "start": "253.97",
+          "dur": "6.75",
+          "text": "exclude anybody who's purchased within"
+        },
+        {
+          "start": "257.479",
+          "dur": "4.621",
+          "text": "30 days all this stuff is fine you can"
+        },
+        {
+          "start": "260.72",
+          "dur": "3.69",
+          "text": "you can change this I have other"
+        },
+        {
+          "start": "262.1",
+          "dur": "3.51",
+          "text": "tutorials to talk about if you want to"
+        },
+        {
+          "start": "264.41",
+          "dur": "4.02",
+          "text": "use that but I don't think you need to"
+        },
+        {
+          "start": "265.61",
+          "dur": "5.97",
+          "text": "change any of this because this is a"
+        },
+        {
+          "start": "268.43",
+          "dur": "4.23",
+          "text": "retargeting campaign let's see so daily"
+        },
+        {
+          "start": "271.58",
+          "dur": "1.619",
+          "text": "budget put whatever you're comfortable"
+        },
+        {
+          "start": "272.66",
+          "dur": "2.91",
+          "text": "with"
+        },
+        {
+          "start": "273.199",
+          "dur": "5.791",
+          "text": "I recommend let's say $5 I think that's"
+        },
+        {
+          "start": "275.57",
+          "dur": "5.25",
+          "text": "plenty continue so add name default"
+        },
+        {
+          "start": "278.99",
+          "dur": "4.32",
+          "text": "that's all good and we're gonna change"
+        },
+        {
+          "start": "280.82",
+          "dur": "5.28",
+          "text": "to the correct page so for me it's"
+        },
+        {
+          "start": "283.31",
+          "dur": "4.32",
+          "text": "performance nut butter obviously you use"
+        },
+        {
+          "start": "286.1",
+          "dur": "5.819",
+          "text": "an Instagram account too if you'd like"
+        },
+        {
+          "start": "287.63",
+          "dur": "9.44",
+          "text": "to I'm not going to do it for now single"
+        },
+        {
+          "start": "291.919",
+          "dur": "14.071",
+          "text": "images and I'm gonna upload an image I"
+        },
+        {
+          "start": "297.07",
+          "dur": "11.71",
+          "text": "will use this image so down here for the"
+        },
+        {
+          "start": "305.99",
+          "dur": "6.179",
+          "text": "website URL I recommend actually showing"
+        },
+        {
+          "start": "308.78",
+          "dur": "5.49",
+          "text": "you know for the URL use the product"
+        },
+        {
+          "start": "312.169",
+          "dur": "4.021",
+          "text": "page so use wherever they're actually"
+        },
+        {
+          "start": "314.27",
+          "dur": "4.26",
+          "text": "gonna purchase it do not drive it to the"
+        },
+        {
+          "start": "316.19",
+          "dur": "4.53",
+          "text": "person's home or to the home page to"
+        },
+        {
+          "start": "318.53",
+          "dur": "3.72",
+          "text": "your home page and this just gives some"
+        },
+        {
+          "start": "320.72",
+          "dur": "3.99",
+          "text": "of the benefits why someone would want"
+        },
+        {
+          "start": "322.25",
+          "dur": "4.59",
+          "text": "to buy it we can also go to desktop"
+        },
+        {
+          "start": "324.71",
+          "dur": "4.59",
+          "text": "newsfeed to see what it looks like on"
+        },
+        {
+          "start": "326.84",
+          "dur": "5.07",
+          "text": "the desktop newsfeed call-to-action I'm"
+        },
+        {
+          "start": "329.3",
+          "dur": "7.739",
+          "text": "good with just learn more so the display"
+        },
+        {
+          "start": "331.91",
+          "dur": "11.1",
+          "text": "link it's optional but I'm just gonna go"
+        },
+        {
+          "start": "337.039",
+          "dur": "7.171",
+          "text": "with performance nut butter com which I"
+        },
+        {
+          "start": "343.01",
+          "dur": "4.86",
+          "text": "think it already has so we're fine with"
+        },
+        {
+          "start": "344.21",
+          "dur": "5.55",
+          "text": "that and then for the newsfeed link"
+        },
+        {
+          "start": "347.87",
+          "dur": "4.2",
+          "text": "description I'll just put in a little"
+        },
+        {
+          "start": "349.76",
+          "dur": "4.589",
+          "text": "bit of information about the product and"
+        },
+        {
+          "start": "352.07",
+          "dur": "6.21",
+          "text": "that's pretty much it you're done and we"
+        },
+        {
+          "start": "354.349",
+          "dur": "6.301",
+          "text": "have created this ad in record time go"
+        },
+        {
+          "start": "358.28",
+          "dur": "3.9",
+          "text": "ahead and click confirm and it might"
+        },
+        {
+          "start": "360.65",
+          "dur": "3.54",
+          "text": "take a little bit and then they have to"
+        },
+        {
+          "start": "362.18",
+          "dur": "4.109",
+          "text": "review it but once once it's been"
+        },
+        {
+          "start": "364.19",
+          "dur": "3.599",
+          "text": "reviewed you'll be up and running one"
+        },
+        {
+          "start": "366.289",
+          "dur": "3.391",
+          "text": "thing to note with the image is make"
+        },
+        {
+          "start": "367.789",
+          "dur": "4.491",
+          "text": "sure that it doesn't have too much text"
+        },
+        {
+          "start": "369.68",
+          "dur": "4.95",
+          "text": "that has too much text it won't show"
+        },
+        {
+          "start": "372.28",
+          "dur": "4.57",
+          "text": "using Facebook ads or they'll penalize"
+        },
+        {
+          "start": "374.63",
+          "dur": "3.99",
+          "text": "you so be careful about that"
+        },
+        {
+          "start": "376.85",
+          "dur": "3.75",
+          "text": "one thing I forgot to mention that might"
+        },
+        {
+          "start": "378.62",
+          "dur": "3.51",
+          "text": "actually be pretty important first off"
+        },
+        {
+          "start": "380.6",
+          "dur": "5.43",
+          "text": "if you want to edit it you can go here"
+        },
+        {
+          "start": "382.13",
+          "dur": "5.61",
+          "text": "you can click Edit and you can do some"
+        },
+        {
+          "start": "386.03",
+          "dur": "4.29",
+          "text": "things here but most editing you can do"
+        },
+        {
+          "start": "387.74",
+          "dur": "6.24",
+          "text": "is on the add set level or the add level"
+        },
+        {
+          "start": "390.32",
+          "dur": "6.72",
+          "text": "but one important thing that I didn't"
+        },
+        {
+          "start": "393.98",
+          "dur": "5.28",
+          "text": "talk about is editing the placements so"
+        },
+        {
+          "start": "397.04",
+          "dur": "4.41",
+          "text": "by default it's automatic placements you"
+        },
+        {
+          "start": "399.26",
+          "dur": "4.44",
+          "text": "might want to edit the plate placements"
+        },
+        {
+          "start": "401.45",
+          "dur": "3.93",
+          "text": "and this is up to you do you want to"
+        },
+        {
+          "start": "403.7",
+          "dur": "4.41",
+          "text": "show it in the right-hand column do you"
+        },
+        {
+          "start": "405.38",
+          "dur": "5.19",
+          "text": "want to show it on the feeds to you do"
+        },
+        {
+          "start": "408.11",
+          "dur": "3.69",
+          "text": "you want to show it is videos which I"
+        },
+        {
+          "start": "410.57",
+          "dur": "2.55",
+          "text": "don't think applies because this isn't a"
+        },
+        {
+          "start": "411.8",
+          "dur": "3",
+          "text": "video do you want to show it on"
+        },
+        {
+          "start": "413.12",
+          "dur": "2.94",
+          "text": "Instagram you can uncheck Instagram if"
+        },
+        {
+          "start": "414.8",
+          "dur": "3.33",
+          "text": "you don't want to show it on Instagram"
+        },
+        {
+          "start": "416.06",
+          "dur": "3.87",
+          "text": "or go ahead and check it audience"
+        },
+        {
+          "start": "418.13",
+          "dur": "5.79",
+          "text": "Network now this is one personally I"
+        },
+        {
+          "start": "419.93",
+          "dur": "5.91",
+          "text": "would probably uncheck and messenger is"
+        },
+        {
+          "start": "423.92",
+          "dur": "4.14",
+          "text": "another one it's up to you whether or"
+        },
+        {
+          "start": "425.84",
+          "dur": "4.14",
+          "text": "not you want to uncheck it or not now to"
+        },
+        {
+          "start": "428.06",
+          "dur": "3.75",
+          "text": "be honest I don't know a lot about some"
+        },
+        {
+          "start": "429.98",
+          "dur": "4.08",
+          "text": "of these same thing with like Instagram"
+        },
+        {
+          "start": "431.81",
+          "dur": "3.69",
+          "text": "feed and stories I'm not an expert at"
+        },
+        {
+          "start": "434.06",
+          "dur": "4.35",
+          "text": "those I would say probably want to"
+        },
+        {
+          "start": "435.5",
+          "dur": "7.19",
+          "text": "uncheck stories unless your ad is"
+        },
+        {
+          "start": "438.41",
+          "dur": "5.97",
+          "text": "specifically meant for Instagram stories"
+        },
+        {
+          "start": "442.69",
+          "dur": "5.32",
+          "text": "some of these are the ones you might"
+        },
+        {
+          "start": "444.38",
+          "dur": "6.03",
+          "text": "want to do some some research on I think"
+        },
+        {
+          "start": "448.01",
+          "dur": "6.27",
+          "text": "probably uncheck marketplace and uncheck"
+        },
+        {
+          "start": "450.41",
+          "dur": "7.71",
+          "text": "stories is well there and write columns"
+        },
+        {
+          "start": "454.28",
+          "dur": "4.86",
+          "text": "good in-stream videos mmm I think that's"
+        },
+        {
+          "start": "458.12",
+          "dur": "3.39",
+          "text": "good if you have a video but I don't"
+        },
+        {
+          "start": "459.14",
+          "dur": "4.08",
+          "text": "have a video so I'm gonna on click that"
+        },
+        {
+          "start": "461.51",
+          "dur": "3.09",
+          "text": "instant articles I don't know a lot"
+        },
+        {
+          "start": "463.22",
+          "dur": "2.73",
+          "text": "about instant articles I'd probably do"
+        },
+        {
+          "start": "464.6",
+          "dur": "3.3",
+          "text": "some research but once you've done"
+        },
+        {
+          "start": "465.95",
+          "dur": "3.87",
+          "text": "making your changes you can go ahead and"
+        },
+        {
+          "start": "467.9",
+          "dur": "3.54",
+          "text": "click publish if you learn more about"
+        },
+        {
+          "start": "469.82",
+          "dur": "3.3",
+          "text": "Facebook Ads I do have a complete"
+        },
+        {
+          "start": "471.44",
+          "dur": "3.48",
+          "text": "tutorial you can click up here to get"
+        },
+        {
+          "start": "473.12",
+          "dur": "4.02",
+          "text": "that for free also put a link down below"
+        },
+        {
+          "start": "474.92",
+          "dur": "3.96",
+          "text": "in the descriptions make sure to"
+        },
+        {
+          "start": "477.14",
+          "dur": "3.54",
+          "text": "subscribe like this video leave a"
+        },
+        {
+          "start": "478.88",
+          "dur": "4.31",
+          "text": "comment and I'll see you in the next"
+        },
+        {
+          "start": "480.68",
+          "dur": "2.51",
+          "text": "video"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 17,
+      "title": "Setup Facebook Pixel"
+    },
+    {
+      "start_time": 97,
+      "title": "Create Retargeting Audience"
+    },
+    {
+      "start_time": 207,
+      "title": "Create Guided Campaign"
+    },
+    {
+      "start_time": 377,
+      "title": "Edit Placements"
+    }
+  ]
+}

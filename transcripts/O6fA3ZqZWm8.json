@@ -1,0 +1,491 @@
+{
+  "text": "in this video we're going to talk about the power editor so the first thing to do is to actually get there so you can get there by clicking up here and going to power editor and the power editor has a lot of very powerful tools that the regular ads manager doesn't in fact a lot of times when they roll out new features they'll to have it come out first in power editor and then later in ad manager or just maybe never in ads manager in fact um lead ads which if you watch a lot of my videos you know that's one of my favorite uh favorite types of Facebook ads they never came out in or or the originally they came out in power editor and then later they came out I think in ads manager um so now we're here in power editor so a few things to know one is if you make a change here you have to review changes and you can add it so I have this campaign test website clicks let's go ahead and say uh let's say I wanted to edit this say I wanted to make it 30 adjust budget you'd see it says review changes having some issues there but um basically the moral of the story is you see it says review changes so you have to review changes and contain continue before it'll actually get set up in ads manager so let's take a little look around power editor now so the first thing to look at is these are all oops this is the campaign level this is the adset level and this is the ads level and if you were to click on this say I were to click on the test website clicks it'll narrow down and it'll only show that information I can go down to the ads I can go here to the ad set within the adet as you saw me do a second ago you can click this little edit button and edit the name or you can go over here to the side and actually edit the real information and this is very similar to as what we see in ads manager so now it's kind of annoying in my opinion sometimes because oh now when I go to the campaign level there's only one campaign all you have to do is exit out of there you can also add here um this is B basically filters so campaign let's see let's say active let's say I just wanted to show my active ones it would only show active ones there let's say I wanted to there's also all these filters here and I did a video before on all the different types of filters works the same way in power editor another thing that's interesting is well duplicating is one of my favorite things it's one of the best things in my opinion about power editor so let's say I wanted to duplicate this number of duplicates one test website clicks so you see there's the copy I could change that to whatever I want but then I'd have to go review changes continue before it would actually apply so so far there's been a few things that are kind of interesting nothing too crazy I'll I'll save for later in this video my favorite part about power editor but um let's do a few other things before we get there so another thing you can do here is if I were to let's say all these ones that have test in them I could apply a label our campaign tags test this just helps for sorting purposes apply so then if I wanted to I could go down oops um so okay let's see what else we have obviously we have revert here quick draft and reports I'll do a different video about reports because I think that'll that'll be more important for later videos but now actually let me show you one of my favorite features so done all right so let's take the DIY guide lead generation let's take that and one thing we can do is export it export selected and it's going to come up as a CSV and this just opens up the world to so much fun stuff so here's what it would look like so you you can see here here's my campaign or these are all the different ad ad sets right here let me see as you can see the adset ID adset name is probably the easiest thing to look at so there's all the different adset names then we go down the line a lot of these things you probably won't want to change link FB but there's certain things like for instance this is where it starts to get interesting you could change let's say I wanted to copy all these and make the same ad sets but all I wanted to do was change this from women to men I could do that and this I'm curious this might actually cause a small there might be small errors I don't remember if it's supposed to be men or or male but that's women I assume it's supposed to be men let's go ahead and delete let's try this out though so I'm going to save this file go file save as um men DIY guide leads so now let's go back and let's go to import import ads in bulk I'm going go ahead and drag that over here one campaign ad sets 10 ads so there was errors okay so there was an issue with the men is not consistent with women from row two so I I think think one of the issues was I did I just copied this over and the adset ID as well uh I'm going to try deleting the adset ID I forget exactly the proper way to do this let's see what happens if I just delete the adset ID this this probably isn't right so the next issue was the ad ID needs to be deleted here too so column DB uh let's see where else so I deleted it here the ad set ID and the ad ID because the ads are also brand new and they were being associated with a a past one so you can see now it was imported let's see if it actually was done successfully so when I go in here yep you can see all the men ones were imported so the start time must be in the future the problem was cuz I copy pasted it it um it had a little bit of an issue but that's an easy fix I can just edit ad set yeah and just change the start time there I should have actually fixed that in here I thought I did I thought I put the add start time there but apparently there were some issues so that's just something to look out for in the future but you see the basic of it basically you export it you export a file and you can manipulate it within the CSV uh I could do another video about this if this is something you guys are interested in I haven't dived in too deep but you can see all the different columns you can see basically everything about it is here the call to action is it a sign up or is it a learn more um we have what kind of is it optimization goal lead obviously is it active or is it paused we have uh the ad name the the link description all kinds of stuff including the targeting I'm trying to find the targeting right now it's got to be over this way yeah you can see here so this was the custom audience this is the the income so there's a bunch of data here and I know it looks kind of confusing but you can see income equals you know 125,000 to 150,000 150,000 to 250,000 etc etc so there's so much stuff you can do by exporting this but it just makes it so if you want to duplicate lots of campaigns over and over again but changing little variables you don't have to do it manually you can do it in bulk like I just showed you there save so those are some of the big things about the power Editor to me by far the biggest feature is being able to export and import new things and that does take a little bit of work to get very proficient at but once you get good at it you can just do so many cool things so let me know if you have any questions on the power editor but hopefully this gives you a general overview",
+  "id": "O6fA3ZqZWm8",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=facebookpowereditor\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video we are going to talk about the power editor so the first thing to do is to actually get there. You can get there by clicking up here and going to Power Editor. Power Editor has a lot of very powerful tools that the regular Ads Manager does not. In fact, a lot of the time when they roll out a new features, they will have it come out first in power editor and then later in ad manager - maybe never in just Ads Manager. In fact, lead ads, which if you watch a lot of my videos, you know that is one of my favorite, favorite types of Facebook ads. They originally came out in Power Editor and then later came out in Ads Manager. They never come out originally in Ads Manager. So, now we are here in Power Editor. There are a few things to know. One is if you make a change here you have to review the change and then you can add it. So, I have this campaign Test Website Clicks. Let\u2019s go ahead and say \u2013 let\u2019 say I wanted to edit this (Test Ad Edit women 45 - 60). Then say I wanted to make it 30 and adjust the budget. You would see it says Review Changes \u2013 It is having some issues there but basically the moral, the story is you see it says Review Changes, so you have to Review Changes and Continue before it will actually get set up in Ads Manager. \nLet\u2019s take a little book around Power Ad Editor now. The first thing to look at is these are all loops. This is the Campaign Level. This is the Ad Set Level and this is the Ads Level. If you were to click on this, I was to click on the \u201cTest Website Clicks,\u201d it will narrow it down.  It will only show that information. I can go down to the ads. I can go here to the Ad Set within the Ad Set is the same one you saw a second ago. You can click this little edit button and add the name. You can go over here to the side and actually edit the real information.  This is very similar to what we do in Ads Manager. \nNow, sometimes it is kind of annoying, in my opinion, because sometimes when I go to the Campaign Level, there is only one campaign. All you have to do is exit out of there. You can also add here (Campaign Delivery).  These are basically filters so campaign, let\u2019s see, say active \u2013 Let\u2019s say I just wanted to show my active ones, but only show active ones there.  Let\u2019s say I wanted to- there are also all of these filters here and I did a video before on all of these different types of filters. It works the same way in Power Editor.\nAnother thing that is interesting is duplicating. This is one of my favorite things, so one of the best things in my opinion about Power Editor. Let\u2019s say I want to duplicate this (Duplicate Campaign). Number of duplicates one - test website clicks so you see there is a copy and I could change that to whatever. I won\u2019t but if I did then I would have to go review changes and continue before it would actually apply.\nSo, there are a few things that are kind of interesting. Nothing too crazy. I will save for later my favorite part about Power Editor but let\u2019s do a few other things before we get there.\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel, so thank you!"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "587",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-01-17",
+      "title": {
+        "simpleText": "How to Use the Facebook Ads Power Editor"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Use the Facebook Ads Power Editor",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.6",
+          "dur": "4.44",
+          "text": "in this video we're going to talk about the power\u00a0\neditor so the first thing to do is to actually get\u00a0\u00a0"
+        },
+        {
+          "start": "5.04",
+          "dur": "4.12",
+          "text": "there so you can get there by clicking up here\u00a0\nand going to power editor and the power editor\u00a0\u00a0"
+        },
+        {
+          "start": "9.16",
+          "dur": "4.76",
+          "text": "has a lot of very powerful tools that the regular\u00a0\nads manager doesn't in fact a lot of times when\u00a0\u00a0"
+        },
+        {
+          "start": "13.92",
+          "dur": "5.6",
+          "text": "they roll out new features they'll to have it\u00a0\ncome out first in power editor and then later\u00a0\u00a0"
+        },
+        {
+          "start": "19.52",
+          "dur": "5.44",
+          "text": "in ad manager or just maybe never in ads manager\u00a0\nin fact um lead ads which if you watch a lot of\u00a0\u00a0"
+        },
+        {
+          "start": "24.96",
+          "dur": "5.08",
+          "text": "my videos you know that's one of my favorite\u00a0\nuh favorite types of Facebook ads they never\u00a0\u00a0"
+        },
+        {
+          "start": "30.04",
+          "dur": "4.36",
+          "text": "came out in or or the originally they came out\u00a0\nin power editor and then later they came out\u00a0\u00a0"
+        },
+        {
+          "start": "34.4",
+          "dur": "7.88",
+          "text": "I think in ads manager um so now we're here in\u00a0\npower editor so a few things to know one is if\u00a0\u00a0"
+        },
+        {
+          "start": "42.28",
+          "dur": "4.32",
+          "text": "you make a change here you have to review\u00a0\nchanges and you can add it so I have this\u00a0\u00a0"
+        },
+        {
+          "start": "46.6",
+          "dur": "13.56",
+          "text": "campaign test website clicks let's go ahead\u00a0\nand say uh let's say I wanted to edit this"
+        },
+        {
+          "start": "60.16",
+          "dur": "4.6",
+          "text": "say I wanted to make it 30 adjust\u00a0\nbudget you'd see it says review"
+        },
+        {
+          "start": "64.76",
+          "dur": "20.88",
+          "text": "changes having some issues there but um\u00a0\nbasically the moral of the story is you\u00a0\u00a0"
+        },
+        {
+          "start": "85.64",
+          "dur": "5.44",
+          "text": "see it says review changes so you have to\u00a0\nreview changes and contain continue before\u00a0\u00a0"
+        },
+        {
+          "start": "91.08",
+          "dur": "4.36",
+          "text": "it'll actually get set up in ads manager so\u00a0\nlet's take a little look around power editor"
+        },
+        {
+          "start": "95.44",
+          "dur": "10.28",
+          "text": "now so the first thing to look at is these are\u00a0\nall oops this is the campaign level this is the\u00a0\u00a0"
+        },
+        {
+          "start": "105.72",
+          "dur": "4.92",
+          "text": "adset level and this is the ads level and if you\u00a0\nwere to click on this say I were to click on the\u00a0\u00a0"
+        },
+        {
+          "start": "110.64",
+          "dur": "4.52",
+          "text": "test website clicks it'll narrow down and it'll\u00a0\nonly show that information I can go down to the\u00a0\u00a0"
+        },
+        {
+          "start": "115.16",
+          "dur": "5.84",
+          "text": "ads I can go here to the ad set within the adet\u00a0\nas you saw me do a second ago you can click this\u00a0\u00a0"
+        },
+        {
+          "start": "121",
+          "dur": "6.6",
+          "text": "little edit button and edit the name or you can\u00a0\ngo over here to the side and actually edit the\u00a0\u00a0"
+        },
+        {
+          "start": "127.6",
+          "dur": "8.76",
+          "text": "real information and this is very similar to\u00a0\nas what we see in ads manager so now it's kind\u00a0\u00a0"
+        },
+        {
+          "start": "136.36",
+          "dur": "4.68",
+          "text": "of annoying in my opinion sometimes because oh\u00a0\nnow when I go to the campaign level there's only\u00a0\u00a0"
+        },
+        {
+          "start": "141.04",
+          "dur": "8.84",
+          "text": "one campaign all you have to do is exit out\u00a0\nof there you can also add here um this is B\u00a0\u00a0"
+        },
+        {
+          "start": "149.88",
+          "dur": "8.16",
+          "text": "basically filters so campaign let's see let's say\u00a0\nactive let's say I just wanted to show my active"
+        },
+        {
+          "start": "158.04",
+          "dur": "9.4",
+          "text": "ones it would only show active ones"
+        },
+        {
+          "start": "167.44",
+          "dur": "8.44",
+          "text": "there let's say I wanted to there's also all\u00a0\nthese filters here and I did a video before\u00a0\u00a0"
+        },
+        {
+          "start": "175.88",
+          "dur": "4.2",
+          "text": "on all the different types of filters works\u00a0\nthe same way in power editor another thing\u00a0\u00a0"
+        },
+        {
+          "start": "180.08",
+          "dur": "6.6",
+          "text": "that's interesting is well duplicating is one of\u00a0\nmy favorite things it's one of the best things\u00a0\u00a0"
+        },
+        {
+          "start": "186.68",
+          "dur": "6.24",
+          "text": "in my opinion about power editor so let's say\u00a0\nI wanted to duplicate this number of duplicates"
+        },
+        {
+          "start": "192.92",
+          "dur": "9.04",
+          "text": "one test website clicks so you see there's the\u00a0\ncopy I could change that to whatever I want\u00a0\u00a0"
+        },
+        {
+          "start": "201.96",
+          "dur": "8.4",
+          "text": "but then I'd have to go review changes continue\u00a0\nbefore it would actually apply so so far there's\u00a0\u00a0"
+        },
+        {
+          "start": "210.36",
+          "dur": "4.92",
+          "text": "been a few things that are kind of interesting\u00a0\nnothing too crazy I'll I'll save for later in\u00a0\u00a0"
+        },
+        {
+          "start": "215.28",
+          "dur": "5.56",
+          "text": "this video my favorite part about power editor\u00a0\nbut um let's do a few other things before we get\u00a0\u00a0"
+        },
+        {
+          "start": "220.84",
+          "dur": "4.96",
+          "text": "there so another thing you can do here is if I\u00a0\nwere to let's say all these ones that have test\u00a0\u00a0"
+        },
+        {
+          "start": "225.8",
+          "dur": "13.92",
+          "text": "in them I could apply a label our campaign tags\u00a0\ntest this just helps for sorting purposes apply"
+        },
+        {
+          "start": "242.16",
+          "dur": "2.12",
+          "text": "so then if I wanted to I could go"
+        },
+        {
+          "start": "244.28",
+          "dur": "10.04",
+          "text": "down oops um so okay let's see what else\u00a0\nwe have obviously we have revert here quick\u00a0\u00a0"
+        },
+        {
+          "start": "254.32",
+          "dur": "6.84",
+          "text": "draft and reports I'll do a different video about\u00a0\nreports because I think that'll that'll be more\u00a0\u00a0"
+        },
+        {
+          "start": "261.16",
+          "dur": "8.56",
+          "text": "important for later videos but now actually let\u00a0\nme show you one of my favorite features so done"
+        },
+        {
+          "start": "276.64",
+          "dur": "0.2",
+          "text": "all"
+        },
+        {
+          "start": "276.84",
+          "dur": "9.84",
+          "text": "right so let's take the DIY guide lead generation\u00a0\nlet's take that and one thing we can do is export\u00a0\u00a0"
+        },
+        {
+          "start": "286.68",
+          "dur": "9.8",
+          "text": "it export selected and it's going to come up as\u00a0\na CSV and this just opens up the world to so much\u00a0\u00a0"
+        },
+        {
+          "start": "296.48",
+          "dur": "8.56",
+          "text": "fun stuff so here's what it would look like so\u00a0\nyou you can see here here's my campaign or these\u00a0\u00a0"
+        },
+        {
+          "start": "305.04",
+          "dur": "6.24",
+          "text": "are all the different ad ad sets right here let\u00a0\nme see as you can see the adset ID adset name is\u00a0\u00a0"
+        },
+        {
+          "start": "311.28",
+          "dur": "6.52",
+          "text": "probably the easiest thing to look at so there's\u00a0\nall the different adset names then we go down the"
+        },
+        {
+          "start": "317.8",
+          "dur": "8.96",
+          "text": "line a lot of these things you probably won't\u00a0\nwant to change link FB but there's certain\u00a0\u00a0"
+        },
+        {
+          "start": "326.76",
+          "dur": "3",
+          "text": "things like for instance this is where\u00a0\nit starts to get interesting you could\u00a0\u00a0"
+        },
+        {
+          "start": "329.76",
+          "dur": "4.2",
+          "text": "change let's say I wanted to copy\u00a0\nall these and make the same ad"
+        },
+        {
+          "start": "333.96",
+          "dur": "11.76",
+          "text": "sets but all I wanted to do\u00a0\nwas change this from women to"
+        },
+        {
+          "start": "345.72",
+          "dur": "4.72",
+          "text": "men I could do"
+        },
+        {
+          "start": "350.44",
+          "dur": "6.64",
+          "text": "that and this I'm curious this might\u00a0\nactually cause a small there might\u00a0\u00a0"
+        },
+        {
+          "start": "357.08",
+          "dur": "3.8",
+          "text": "be small errors I don't remember if it's\u00a0\nsupposed to be men or or male but that's\u00a0\u00a0"
+        },
+        {
+          "start": "360.88",
+          "dur": "4.76",
+          "text": "women I assume it's supposed to be men\u00a0\nlet's go ahead and delete let's try this\u00a0\u00a0"
+        },
+        {
+          "start": "365.64",
+          "dur": "11.48",
+          "text": "out though so I'm going to save this\u00a0\nfile go file save as um men DIY guide"
+        },
+        {
+          "start": "377.12",
+          "dur": "8",
+          "text": "leads so now let's go back and let's go to"
+        },
+        {
+          "start": "385.12",
+          "dur": "7",
+          "text": "import import ads in bulk I'm\u00a0\ngoing go ahead and drag that over"
+        },
+        {
+          "start": "392.12",
+          "dur": "9.6",
+          "text": "here one campaign ad sets 10"
+        },
+        {
+          "start": "401.72",
+          "dur": "4.56",
+          "text": "ads so there was"
+        },
+        {
+          "start": "406.28",
+          "dur": "7.88",
+          "text": "errors okay so there was an issue with the\u00a0\nmen is not consistent with women from row"
+        },
+        {
+          "start": "414.16",
+          "dur": "9.48",
+          "text": "two so I I think think one of the issues\u00a0\nwas I did I just copied this over and the\u00a0\u00a0"
+        },
+        {
+          "start": "423.64",
+          "dur": "4.64",
+          "text": "adset ID as well uh I'm going to try deleting\u00a0\nthe adset ID I forget exactly the proper way\u00a0\u00a0"
+        },
+        {
+          "start": "428.28",
+          "dur": "4.32",
+          "text": "to do this let's see what happens if I just\u00a0\ndelete the adset ID this this probably isn't"
+        },
+        {
+          "start": "432.6",
+          "dur": "9.72",
+          "text": "right so the next issue was the ad ID needs\u00a0\nto be deleted here too so column DB uh let's\u00a0\u00a0"
+        },
+        {
+          "start": "442.32",
+          "dur": "7.44",
+          "text": "see where else so I deleted it here the ad set ID\u00a0\nand the ad ID because the ads are also brand new\u00a0\u00a0"
+        },
+        {
+          "start": "449.76",
+          "dur": "3.84",
+          "text": "and they were being associated with a a past\u00a0\none so you can see now it was imported let's\u00a0\u00a0"
+        },
+        {
+          "start": "453.6",
+          "dur": "4.56",
+          "text": "see if it actually was done successfully\u00a0\nso when I go in here yep you can see all\u00a0\u00a0"
+        },
+        {
+          "start": "458.16",
+          "dur": "5.4",
+          "text": "the men ones were imported so the start time\u00a0\nmust be in the future the problem was cuz I\u00a0\u00a0"
+        },
+        {
+          "start": "463.56",
+          "dur": "5.32",
+          "text": "copy pasted it it um it had a little bit of an\u00a0\nissue but that's an easy fix I can just edit ad"
+        },
+        {
+          "start": "468.88",
+          "dur": "8",
+          "text": "set yeah and just change the start time\u00a0\nthere I should have actually fixed that\u00a0\u00a0"
+        },
+        {
+          "start": "476.88",
+          "dur": "5.24",
+          "text": "in here I thought I did I thought I put the\u00a0\nadd start time there but apparently there\u00a0\u00a0"
+        },
+        {
+          "start": "482.12",
+          "dur": "3",
+          "text": "were some issues so that's just\u00a0\nsomething to look out for in the"
+        },
+        {
+          "start": "485.12",
+          "dur": "9.92",
+          "text": "future but you see the basic of it basically\u00a0\nyou export it you export a file and you can\u00a0\u00a0"
+        },
+        {
+          "start": "495.04",
+          "dur": "4.24",
+          "text": "manipulate it within the CSV uh I could do another\u00a0\nvideo about this if this is something you guys\u00a0\u00a0"
+        },
+        {
+          "start": "499.28",
+          "dur": "4.8",
+          "text": "are interested in I haven't dived in too deep but\u00a0\nyou can see all the different columns you can see\u00a0\u00a0"
+        },
+        {
+          "start": "504.08",
+          "dur": "6.56",
+          "text": "basically everything about it is here the call to\u00a0\naction is it a sign up or is it a learn more um we"
+        },
+        {
+          "start": "510.64",
+          "dur": "7.52",
+          "text": "have what kind of is it optimization\u00a0\ngoal lead obviously is it active or\u00a0\u00a0"
+        },
+        {
+          "start": "518.16",
+          "dur": "8.96",
+          "text": "is it paused we have uh the ad name the\u00a0\nthe link description all kinds of stuff\u00a0\u00a0"
+        },
+        {
+          "start": "527.12",
+          "dur": "3.64",
+          "text": "including the targeting I'm trying to find the\u00a0\ntargeting right now it's got to be over this"
+        },
+        {
+          "start": "530.76",
+          "dur": "11.48",
+          "text": "way yeah you can see here so this was the custom\u00a0\naudience this is the the income so there's a bunch\u00a0\u00a0"
+        },
+        {
+          "start": "542.24",
+          "dur": "6.76",
+          "text": "of data here and I know it looks kind of confusing\u00a0\nbut you can see income equals you know 125,000 to\u00a0\u00a0"
+        },
+        {
+          "start": "549",
+          "dur": "7.36",
+          "text": "150,000 150,000 to 250,000 etc etc so there's so\u00a0\nmuch stuff you can do by exporting this but it\u00a0\u00a0"
+        },
+        {
+          "start": "556.36",
+          "dur": "5.08",
+          "text": "just makes it so if you want to duplicate lots of\u00a0\ncampaigns over and over again but changing little\u00a0\u00a0"
+        },
+        {
+          "start": "561.44",
+          "dur": "5.12",
+          "text": "variables you don't have to do it manually you\u00a0\ncan do it in bulk like I just showed you there\u00a0\u00a0"
+        },
+        {
+          "start": "566.56",
+          "dur": "6.76",
+          "text": "save so those are some of the big things about the\u00a0\npower Editor to me by far the biggest feature is\u00a0\u00a0"
+        },
+        {
+          "start": "573.32",
+          "dur": "4.72",
+          "text": "being able to export and import new things and\u00a0\nthat does take a little bit of work to get very\u00a0\u00a0"
+        },
+        {
+          "start": "578.04",
+          "dur": "4.44",
+          "text": "proficient at but once you get good at it you\u00a0\ncan just do so many cool things so let me know\u00a0\u00a0"
+        },
+        {
+          "start": "582.48",
+          "dur": "4.04",
+          "text": "if you have any questions on the power editor\u00a0\nbut hopefully this gives you a general overview"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 1,
+      "title": "The Power Editor"
+    },
+    {
+      "start_time": 6,
+      "title": "Power Editor"
+    },
+    {
+      "start_time": 43,
+      "title": "Review Changes"
+    },
+    {
+      "start_time": 149,
+      "title": "Filters"
+    },
+    {
+      "start_time": 183,
+      "title": "Duplicating"
+    }
+  ]
+}

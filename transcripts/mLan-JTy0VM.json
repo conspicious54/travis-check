@@ -1,0 +1,826 @@
+{
+  "text": "in this video I'm going to show you how to create an email campaign in MailChimp so this is the MailChimp - but when you log in to MailChimp this is the first page the first thing you're going to do is click the Create campaign pretty easy then you're going to click create an email down here they've changed this recently but now it starts to get more familiar with how it used to be so there's a few different types there's a regular and automated a plain text or in a B test so regular is just a regular old email you can also do a plain text one which is doesn't have all the graphics it's just email the kind of email almost like you would send a friend automated it we'll talk about in a separate video it's for adding to your automation lists so when someone signs up for your email they'll automatically get this email and that one does I do think requires a pay plan but my favorite favorite type of email the one that we'll do in this video is it a be test email and with an a/b test email you can split test different subject lines split test different body copy split test a few other things and we'll talk about that so we'll click a be test we're going to name this email to twenty five twenty five k2 and we're going to be creating an email for a product that I created a course a complete ecommerce course we're going to be doing that together here so the next thing is you choose a list now I have a few different lists from different company but the one I'm going to pick today is by effectively e-commerce list might be dancer a list my main ecommerce company is much bigger but effective e-commerce system now we have once again a few different options we intend to the entire list which sometimes you want to do but usually will not you can send it to a save or a prebuilt segment I have a bunch different segments and a little bit more advanced before we'll go over this in a separate video or we can do a blue for a new segment so the benefit of this is we can filter down even further we can say we want to send us an email to anybody that was added on a date after date added is after whatever the last campaign campaign went out or a specific date I can say you know what I only want to send this campaign to people that were added to my email list after May 1st and if we click update recipient County I had 300 people that added after May 1st and I can do other things like that one of the things that is interesting to see when we find it here there's MailChimp groups once again it's probably going to be for a separate view I'll do a complete tutorial video on MailChimp customers if they've already bought in my e-commerce profit plan I don't want to send it to them and let's go ahead none of so I had one of the people that have bought in the plan said we want to go done so that leaves us with two thousand five hundred and eleven people on my email list so we're going to click Next so basically we're sending it to everybody with not who's on my email list but it's not purchased so this is where we pick what we want to split we can split test the subject line which is usually what I recommend the prom name content for the sentence end times another very good one content also good but maybe a little bit more advanced from name can be very beneficial in fact I'll tell a quick story for my main company be danceWorks we split tested the from name of semi marciana I'm mom and co-owner of that business and Britney Jones pretty jones is a made-up name as a made-up person and the Britney Jones one had a ten percent higher open rate actually maybe even more than that but it was there's a huge I think is actually thirty percent thirty percent higher open rate huge difference so let's say we're going to split test a subject line now we have a beautiful we have an option down here what we can do is split test only using fifty percent so let's say that we have an email list of two thousand people what MailChimp would do is send both subject lines to five hundred people so it'll send it to a thousand people the two subject lines and let's say subject line a subject line a it's more open it'll send subject line a to the remaining thousand people so you can see down here so the test segment would be a b1 1255 and the winning segment will be sent to the remaining so this makes a lot of sense to give a really big email list let's say you an email list of ten thousand people or twenty thousand people and you want to split test with only a small number and see what the winning split test is and then send it to the rest for me this this email list isn't so I just want to get data I'm just trying to collect data so we're going to hit that a hundred percent meaning that half the people are going to get subject line a and half the people get subject line B and the reason I'm doing this is just for my own record so I know the next time I send out an email which subject line works better next so name your test to do that you can click these aren't that important impersonal eyes the two fields so this is important you know sublime one email subject line two so for email such applying one I'm going to do this fifty percent off my completely commerce course one week only so that's pretty binary there's a lot of reasons I'm using that the benefit move it has numbers and assemble right there fifty percent off so it's like that is the advantage to the customer if they're interested in buying the course are going to want to buy that now I have a second subject line how to make your e-commerce business more profit now this one is interesting this one's more to get open this is more so just to test two very different subject lines I think a mistake that a lot of people make including me a lot of times they pick to email subjects that are very similar these are pretty different one is all about the course and one is all about the person so the answer to how to make your e-commerce business more profit is to buy my course in this case because that's where all the information we're going to split test those two an awful thing between those better so the from name I'm not putting my name is a bum name and my email address down there this is a bunch of different stuff you can look at I use just stick with the default attract opens track the clicks you can do some of this stuff I can go over this in a separate more advanced video but I don't think that most amount of boring ecommerce link tracking is interesting to drink e-commerce once again that's probably out of the scope of this video and let's click Next here [Music] so you can do a bunch of different templates and it doesn't really matter which template you use so don't get too hung up on that because you can always customize them let's just say I want to sell products I'm going to use this template and I'm pretty much going to delete everything from this template anyways Loden up the first thing is the logo I'm not going to put my logo in there I think that's a waste of space and it is debatable but to me that's a waste of space so I just click that little trashcan button to and delete a block the next thing is if I click on this block or if I click this edit I can edit it over here so let's say I'm going to want it to say on the top 50% off B commerce course so I will suspend [Music] and then I can highlight this and click this button right here to insert a link and length here to my course self at the course link right there next up is I want to tell people about the coupon code that they can use and that's the coupon code I just pasted it in there and obviously I bolded this part I can unbolt it and build it again but I want that to be in the center it just looks nicer that's now in the center I'm going to get rid of this section like and have this section instead of this I'm going to have it's a one-week only sale and the main content I will put this so just right here I'm just putting a little bit of information I think another mistake people make when writing emails if they want to have long big blocks of text don't do that that looks really bad so I'll go ahead and click Save and close now this is a very important part I did talk about earlier you can drag different blocks it's like a drag of text block I could drag a box text divider image image group image card image caption all social share all these different things in once again in a more advanced video I can go over each one of these individually but image is pretty pretty helpful oftentimes but instead of an image what I'm going to do is do a video to a video right here and what I'm going to do is link to a video talking about my course so go ahead I put the Vimeo link all you got to do and it comes up right there now let's say I want to do another text block right here that creates another text block right here and in this text block I'm going to put some more text once again not too much because know why people I don't want people to sit here reading my email I want people to go to my website you click on the link and then last this button right here I really like the button because it's just it's very clear going to instead of saying start shopping we're going to say get the discounted course now and for the link will put the link to the course we're going to go ahead and save and close and that's it you know pretty quickly we created a entire email now you can you click down here you can add links to all your social media or you can just delete it you know what I don't want people going to my social media for this I only want them going to click on my course that's it once again another big mistake people make with designing emails is they have too many calls to action they try to sell too many product to try to sell too many things try to get people to do too many things it should be only one thing your entire email should be focused on getting someone to do one thing so this entire email is trying to get someone to buy in my course and this just let you know this coupon code time you watch this video probably won't be available anymore but if you sign up for my email list you can click up here to get my e-commerce success fact ecommerce success pack includes a ton of really good things I'm going to have checklists for sending emails so if you're looking to send emails I have a checklist for that including some tips that I've Mac or over in this video but how to make a successful email how to start a successful e-commerce business a bunch of other great stuff it's a whole packed thing that's like all the e-commerce success packs you can click up here both of you were interested in getting a discount on my course and or just the the email checklist so this looks pretty good so let's confirm before sending alright so this looks good total combinations preview text everything looks good and once again so I'm using a paid plan and if you don't have MailChimp already you can I have a link up here you can click on this link and you'll get $30 off as well as there's some other benefits you get as well you get $30 off if you use this link which is hey I wish I would have got that when I signed up now or you can go to effective e-commerce comm slash MailChimp but one of the features that I really like about there's a lot of features I like about the paid plan automation is one of the good ones the other one is the ability to schedule and let MailChimp optimize the same time for engagement so mail chip looks through your list and it sees oh people with that email when do they when do they open up people in that time zone when do they open up people with those demographics when do they open up and engage with emails so as you can see it's calculating the optimal time for me to send this is 11 a.m. or I can send it a specific time let's say I want to send this instead of sending it today I want to send it on the 18th at 6 a.m. for some reason I have a big event whatever let's say that that's what I wanted I can go ahead and click schedule this campaign and that's it that's it's rock on it's ready to go now if for any reason you want to cancel that campaign for instance I was just I just made this one to show you four as a demo click pause and edit [Music] - bored sometime I think there's actually easier way to do this that's okay go ahead click here click delete now MailChimp makes you delete it like that click the delete button easy that's one of the other benefits of scheduling it is it gives you a opportunity to go over it there's a lot more things I could go over in this video one of the things I did not talk about is I highly recommend sending yourself a test email so let me show you how to do that very quickly so preview intent so you can interpret you mode and I recommend doing this before you send it just look over it to see what it looks like or probably even better send it testing you can send a bunch of different test emails and it's all these different emails lots of times just to see I see it in different in different in boxes make sure everything looks good and you can even include a personal message if you were to send it to a friend so I'm going to wrap it up right there let's go ahead this one I do want to schedule so I'm just going to schedule it one more time scheduled here let MailChimp send us Colet MailChimp optimized send time for maximum engagement pretty sure it's 11 a.m. we just did it double check [Music] yes 11 I am their head and schedule this campaign and maybe in a future video I'll show you how this email does that's it for this video once again if you want to get the e-commerce success pack or you want to sign up for MailChimp you can click up here I also have some other videos I'll add about email marketing up at this little info icon right there on top of that if you have any questions or comments please leave it in the comment section down below don't forget to subscribe to this channel and let me know what kind of email marketing questions you have [Music]",
+  "id": "mLan-JTy0VM",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=createmailchimpcampaign\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\nIn this video I'm going to show you how to create an email campaign in MailChimp. So this is the MailChimp - but when you log in to MailChimp this is the first page the first thing you're going to do is click the Create campaign pretty easy then you're going to click create an email down here they've changed this recently but now it starts to get more familiar with how it used to be. So there's a few different types there's a regular and automated a plain text or in A B test. So regular is just a regular old email you can also do a plain text one which is doesn't have all the graphics it's just email the kind of email almost like you would send a friend automated it we'll talk about in a separate video it's for adding to your automation lists. So when someone signs up for your email they'll automatically get this email and that one does I do think requires a pay plan but my favorite type of email the one that we'll do in this video is it a be test email and with an a/b test email you can split test different subject lines split test different body copy split test a few other things and we'll talk about that."
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "909",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-07-17",
+      "title": {
+        "simpleText": "How to Create a Successful Email Campaign In Mailchimp"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Create a Successful Email Campaign In Mailchimp",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.03",
+          "dur": "4.86",
+          "text": "in this video I'm going to show you how to create\u00a0\nan email campaign in MailChimp so this is the\u00a0\u00a0"
+        },
+        {
+          "start": "4.89",
+          "dur": "4.44",
+          "text": "MailChimp - but when you log in to MailChimp this\u00a0\nis the first page the first thing you're going to\u00a0\u00a0"
+        },
+        {
+          "start": "9.33",
+          "dur": "5.7",
+          "text": "do is click the Create campaign pretty easy then\u00a0\nyou're going to click create an email down here\u00a0\u00a0"
+        },
+        {
+          "start": "15.03",
+          "dur": "5.28",
+          "text": "they've changed this recently but now it starts\u00a0\nto get more familiar with how it used to be so\u00a0\u00a0"
+        },
+        {
+          "start": "20.31",
+          "dur": "6.03",
+          "text": "there's a few different types there's a regular\u00a0\nand automated a plain text or in a B test so\u00a0\u00a0"
+        },
+        {
+          "start": "26.34",
+          "dur": "5.79",
+          "text": "regular is just a regular old email you can also\u00a0\ndo a plain text one which is doesn't have all the\u00a0\u00a0"
+        },
+        {
+          "start": "32.13",
+          "dur": "5.52",
+          "text": "graphics it's just email the kind of email almost\u00a0\nlike you would send a friend automated it we'll\u00a0\u00a0"
+        },
+        {
+          "start": "37.65",
+          "dur": "4.68",
+          "text": "talk about in a separate video it's for adding to\u00a0\nyour automation lists so when someone signs up for\u00a0\u00a0"
+        },
+        {
+          "start": "42.33",
+          "dur": "5.58",
+          "text": "your email they'll automatically get this email\u00a0\nand that one does I do think requires a pay plan\u00a0\u00a0"
+        },
+        {
+          "start": "47.91",
+          "dur": "5.94",
+          "text": "but my favorite favorite type of email the one\u00a0\nthat we'll do in this video is it a be test email\u00a0\u00a0"
+        },
+        {
+          "start": "53.85",
+          "dur": "5.4",
+          "text": "and with an a/b test email you can split test\u00a0\ndifferent subject lines split test different body\u00a0\u00a0"
+        },
+        {
+          "start": "59.25",
+          "dur": "5.76",
+          "text": "copy split test a few other things and we'll talk\u00a0\nabout that so we'll click a be test we're going to\u00a0\u00a0"
+        },
+        {
+          "start": "65.01",
+          "dur": "7.08",
+          "text": "name this email to twenty five twenty five k2 and\u00a0\nwe're going to be creating an email for a product\u00a0\u00a0"
+        },
+        {
+          "start": "72.09",
+          "dur": "4.95",
+          "text": "that I created a course a complete ecommerce\u00a0\ncourse we're going to be doing that together\u00a0\u00a0"
+        },
+        {
+          "start": "77.04",
+          "dur": "5.7",
+          "text": "here so the next thing is you choose a list\u00a0\nnow I have a few different lists from different\u00a0\u00a0"
+        },
+        {
+          "start": "82.74",
+          "dur": "5.1",
+          "text": "company but the one I'm going to pick today is\u00a0\nby effectively e-commerce list might be dancer a\u00a0\u00a0"
+        },
+        {
+          "start": "87.84",
+          "dur": "6.7",
+          "text": "list my main ecommerce company is much bigger but\u00a0\neffective e-commerce system now we have once again\u00a0\u00a0"
+        },
+        {
+          "start": "94.54",
+          "dur": "6.27",
+          "text": "a few different options we intend to the entire\u00a0\nlist which sometimes you want to do but usually\u00a0\u00a0"
+        },
+        {
+          "start": "100.81",
+          "dur": "6.9",
+          "text": "will not you can send it to a save or a prebuilt\u00a0\nsegment I have a bunch different segments and a\u00a0\u00a0"
+        },
+        {
+          "start": "107.71",
+          "dur": "5.61",
+          "text": "little bit more advanced before we'll go over this\u00a0\nin a separate video or we can do a blue for a new\u00a0\u00a0"
+        },
+        {
+          "start": "113.32",
+          "dur": "7.59",
+          "text": "segment so the benefit of this is we can filter\u00a0\ndown even further we can say we want to send us\u00a0\u00a0"
+        },
+        {
+          "start": "120.91",
+          "dur": "6.93",
+          "text": "an email to anybody that was added on a date after\u00a0\ndate added is after whatever the last campaign\u00a0\u00a0"
+        },
+        {
+          "start": "127.84",
+          "dur": "4.98",
+          "text": "campaign went out or a specific date I can say\u00a0\nyou know what I only want to send this campaign\u00a0\u00a0"
+        },
+        {
+          "start": "132.82",
+          "dur": "7.86",
+          "text": "to people that were added to my email list after\u00a0\nMay 1st and if we click update recipient County\u00a0\u00a0"
+        },
+        {
+          "start": "140.68",
+          "dur": "6.63",
+          "text": "I had 300 people that added after May 1st and I\u00a0\ncan do other things like that one of the things\u00a0\u00a0"
+        },
+        {
+          "start": "147.31",
+          "dur": "7.01",
+          "text": "that is interesting to see when we find it here\u00a0\nthere's MailChimp groups once again it's probably\u00a0\u00a0"
+        },
+        {
+          "start": "154.32",
+          "dur": "5.7",
+          "text": "going to be for a separate view I'll do a complete\u00a0\ntutorial video on MailChimp customers if they've\u00a0\u00a0"
+        },
+        {
+          "start": "160.02",
+          "dur": "4.77",
+          "text": "already bought in my e-commerce profit plan I\u00a0\ndon't want to send it to them and let's go ahead"
+        },
+        {
+          "start": "169.9",
+          "dur": "6.42",
+          "text": "none of so I had one of the people that have\u00a0\nbought in the plan said we want to go done"
+        },
+        {
+          "start": "179.25",
+          "dur": "5.49",
+          "text": "so that leaves us with two thousand five hundred\u00a0\nand eleven people on my email list so we're going\u00a0\u00a0"
+        },
+        {
+          "start": "184.74",
+          "dur": "5.34",
+          "text": "to click Next so basically we're sending it to\u00a0\neverybody with not who's on my email list but\u00a0\u00a0"
+        },
+        {
+          "start": "190.08",
+          "dur": "5.04",
+          "text": "it's not purchased so this is where we pick\u00a0\nwhat we want to split we can split test the\u00a0\u00a0"
+        },
+        {
+          "start": "195.12",
+          "dur": "4.95",
+          "text": "subject line which is usually what I recommend\u00a0\nthe prom name content for the sentence end times\u00a0\u00a0"
+        },
+        {
+          "start": "200.07",
+          "dur": "5.7",
+          "text": "another very good one content also good but maybe\u00a0\na little bit more advanced from name can be very\u00a0\u00a0"
+        },
+        {
+          "start": "205.77",
+          "dur": "5.76",
+          "text": "beneficial in fact I'll tell a quick story for\u00a0\nmy main company be danceWorks we split tested the\u00a0\u00a0"
+        },
+        {
+          "start": "211.53",
+          "dur": "6.06",
+          "text": "from name of semi marciana I'm mom and co-owner\u00a0\nof that business and Britney Jones pretty jones\u00a0\u00a0"
+        },
+        {
+          "start": "217.59",
+          "dur": "7.71",
+          "text": "is a made-up name as a made-up person and the\u00a0\nBritney Jones one had a ten percent higher open\u00a0\u00a0"
+        },
+        {
+          "start": "225.3",
+          "dur": "4.08",
+          "text": "rate actually maybe even more than that but it was\u00a0\nthere's a huge I think is actually thirty percent\u00a0\u00a0"
+        },
+        {
+          "start": "229.38",
+          "dur": "4.86",
+          "text": "thirty percent higher open rate huge difference so\u00a0\nlet's say we're going to split test a subject line\u00a0\u00a0"
+        },
+        {
+          "start": "234.24",
+          "dur": "6.69",
+          "text": "now we have a beautiful we have an option down\u00a0\nhere what we can do is split test only using fifty\u00a0\u00a0"
+        },
+        {
+          "start": "240.93",
+          "dur": "5.01",
+          "text": "percent so let's say that we have an email list\u00a0\nof two thousand people what MailChimp would do is\u00a0\u00a0"
+        },
+        {
+          "start": "245.94",
+          "dur": "8.01",
+          "text": "send both subject lines to five hundred people\u00a0\nso it'll send it to a thousand people the two\u00a0\u00a0"
+        },
+        {
+          "start": "253.95",
+          "dur": "6.42",
+          "text": "subject lines and let's say subject line a subject\u00a0\nline a it's more open it'll send subject line a to\u00a0\u00a0"
+        },
+        {
+          "start": "260.37",
+          "dur": "6.84",
+          "text": "the remaining thousand people so you can see down\u00a0\nhere so the test segment would be a b1 1255 and\u00a0\u00a0"
+        },
+        {
+          "start": "267.21",
+          "dur": "5.04",
+          "text": "the winning segment will be sent to the remaining\u00a0\nso this makes a lot of sense to give a really\u00a0\u00a0"
+        },
+        {
+          "start": "272.25",
+          "dur": "4.8",
+          "text": "big email list let's say you an email list of ten\u00a0\nthousand people or twenty thousand people and you\u00a0\u00a0"
+        },
+        {
+          "start": "277.05",
+          "dur": "4.89",
+          "text": "want to split test with only a small number and\u00a0\nsee what the winning split test is and then send\u00a0\u00a0"
+        },
+        {
+          "start": "281.94",
+          "dur": "5",
+          "text": "it to the rest for me this this email list isn't\u00a0\nso I just want to get data I'm just trying to\u00a0\u00a0"
+        },
+        {
+          "start": "286.94",
+          "dur": "5.31",
+          "text": "collect data so we're going to hit that a hundred\u00a0\npercent meaning that half the people are going to\u00a0\u00a0"
+        },
+        {
+          "start": "292.25",
+          "dur": "6.21",
+          "text": "get subject line a and half the people get subject\u00a0\nline B and the reason I'm doing this is just for\u00a0\u00a0"
+        },
+        {
+          "start": "298.46",
+          "dur": "6.66",
+          "text": "my own record so I know the next time I send out\u00a0\nan email which subject line works better next\u00a0\u00a0"
+        },
+        {
+          "start": "307.06",
+          "dur": "6.81",
+          "text": "so name your test to do that you can click\u00a0\nthese aren't that important impersonal eyes\u00a0\u00a0"
+        },
+        {
+          "start": "313.87",
+          "dur": "4.5",
+          "text": "the two fields so this is important you\u00a0\nknow sublime one email subject line two\u00a0\u00a0"
+        },
+        {
+          "start": "318.37",
+          "dur": "6.33",
+          "text": "so for email such applying one I'm going to do\u00a0\nthis fifty percent off my completely commerce\u00a0\u00a0"
+        },
+        {
+          "start": "324.7",
+          "dur": "5.79",
+          "text": "course one week only so that's pretty binary\u00a0\nthere's a lot of reasons I'm using that the\u00a0\u00a0"
+        },
+        {
+          "start": "330.49",
+          "dur": "5.79",
+          "text": "benefit move it has numbers and assemble right\u00a0\nthere fifty percent off so it's like that is the\u00a0\u00a0"
+        },
+        {
+          "start": "336.28",
+          "dur": "4.02",
+          "text": "advantage to the customer if they're interested\u00a0\nin buying the course are going to want to buy\u00a0\u00a0"
+        },
+        {
+          "start": "340.3",
+          "dur": "5.34",
+          "text": "that now I have a second subject line how to\u00a0\nmake your e-commerce business more profit now\u00a0\u00a0"
+        },
+        {
+          "start": "345.64",
+          "dur": "5.28",
+          "text": "this one is interesting this one's more to\u00a0\nget open this is more so just to test two\u00a0\u00a0"
+        },
+        {
+          "start": "350.92",
+          "dur": "4.08",
+          "text": "very different subject lines I think a mistake\u00a0\nthat a lot of people make including me a lot\u00a0\u00a0"
+        },
+        {
+          "start": "355",
+          "dur": "4.56",
+          "text": "of times they pick to email subjects that are\u00a0\nvery similar these are pretty different one\u00a0\u00a0"
+        },
+        {
+          "start": "359.56",
+          "dur": "4.74",
+          "text": "is all about the course and one is all about\u00a0\nthe person so the answer to how to make your\u00a0\u00a0"
+        },
+        {
+          "start": "364.3",
+          "dur": "4.17",
+          "text": "e-commerce business more profit is to buy my\u00a0\ncourse in this case because that's where all\u00a0\u00a0"
+        },
+        {
+          "start": "368.47",
+          "dur": "5.7",
+          "text": "the information we're going to split test those\u00a0\ntwo an awful thing between those better so the\u00a0\u00a0"
+        },
+        {
+          "start": "374.17",
+          "dur": "5.01",
+          "text": "from name I'm not putting my name is a bum name\u00a0\nand my email address down there this is a bunch\u00a0\u00a0"
+        },
+        {
+          "start": "379.18",
+          "dur": "4.02",
+          "text": "of different stuff you can look at I use just\u00a0\nstick with the default attract opens track the\u00a0\u00a0"
+        },
+        {
+          "start": "383.2",
+          "dur": "5.19",
+          "text": "clicks you can do some of this stuff I can go\u00a0\nover this in a separate more advanced video\u00a0\u00a0"
+        },
+        {
+          "start": "388.39",
+          "dur": "4.89",
+          "text": "but I don't think that most amount of boring\u00a0\necommerce link tracking is interesting to drink\u00a0\u00a0"
+        },
+        {
+          "start": "393.28",
+          "dur": "7.5",
+          "text": "e-commerce once again that's probably out of the\u00a0\nscope of this video and let's click Next here"
+        },
+        {
+          "start": "405.61",
+          "dur": "3.18",
+          "text": "[Music] so you can do a bunch of\u00a0\ndifferent templates and it doesn't\u00a0\u00a0"
+        },
+        {
+          "start": "408.79",
+          "dur": "3.33",
+          "text": "really matter which template you use so\u00a0\ndon't get too hung up on that because you\u00a0\u00a0"
+        },
+        {
+          "start": "412.12",
+          "dur": "3.06",
+          "text": "can always customize them let's just say\u00a0\nI want to sell products I'm going to use\u00a0\u00a0"
+        },
+        {
+          "start": "415.18",
+          "dur": "3.96",
+          "text": "this template and I'm pretty much going to\u00a0\ndelete everything from this template anyways"
+        },
+        {
+          "start": "421.47",
+          "dur": "3.9",
+          "text": "Loden up the first thing is the logo I'm not\u00a0\ngoing to put my logo in there I think that's\u00a0\u00a0"
+        },
+        {
+          "start": "425.37",
+          "dur": "4.83",
+          "text": "a waste of space and it is debatable\u00a0\nbut to me that's a waste of space so I\u00a0\u00a0"
+        },
+        {
+          "start": "430.2",
+          "dur": "4.08",
+          "text": "just click that little trashcan button to\u00a0\nand delete a block the next thing is if I\u00a0\u00a0"
+        },
+        {
+          "start": "434.28",
+          "dur": "5.1",
+          "text": "click on this block or if I click this\u00a0\nedit I can edit it over here so let's\u00a0\u00a0"
+        },
+        {
+          "start": "439.38",
+          "dur": "6.75",
+          "text": "say I'm going to want it to say on the top\u00a0\n50% off B commerce course so I will suspend"
+        },
+        {
+          "start": "453.31",
+          "dur": "4.86",
+          "text": "[Music] and then I can highlight\u00a0\nthis and click this button right\u00a0\u00a0"
+        },
+        {
+          "start": "458.17",
+          "dur": "6.72",
+          "text": "here to insert a link and length here to\u00a0\nmy course self at the course link right\u00a0\u00a0"
+        },
+        {
+          "start": "464.89",
+          "dur": "5.46",
+          "text": "there next up is I want to tell people\u00a0\nabout the coupon code that they can use"
+        },
+        {
+          "start": "474.97",
+          "dur": "5.85",
+          "text": "and that's the coupon code I just pasted\u00a0\nit in there and obviously I bolded this\u00a0\u00a0"
+        },
+        {
+          "start": "480.82",
+          "dur": "3.63",
+          "text": "part I can unbolt it and build it again\u00a0\nbut I want that to be in the center it\u00a0\u00a0"
+        },
+        {
+          "start": "484.45",
+          "dur": "6.84",
+          "text": "just looks nicer that's now in the center\u00a0\nI'm going to get rid of this section like"
+        },
+        {
+          "start": "494.28",
+          "dur": "5.73",
+          "text": "and have this section instead of this I'm\u00a0\ngoing to have it's a one-week only sale"
+        },
+        {
+          "start": "503.42",
+          "dur": "7.62",
+          "text": "and the main content I will put this so just\u00a0\nright here I'm just putting a little bit of\u00a0\u00a0"
+        },
+        {
+          "start": "511.04",
+          "dur": "4.08",
+          "text": "information I think another mistake people make\u00a0\nwhen writing emails if they want to have long big\u00a0\u00a0"
+        },
+        {
+          "start": "515.12",
+          "dur": "5.19",
+          "text": "blocks of text don't do that that looks really\u00a0\nbad so I'll go ahead and click Save and close\u00a0\u00a0"
+        },
+        {
+          "start": "520.31",
+          "dur": "6.15",
+          "text": "now this is a very important part I did talk\u00a0\nabout earlier you can drag different blocks\u00a0\u00a0"
+        },
+        {
+          "start": "526.46",
+          "dur": "7.23",
+          "text": "it's like a drag of text block I could drag a box\u00a0\ntext divider image image group image card image\u00a0\u00a0"
+        },
+        {
+          "start": "533.69",
+          "dur": "5.07",
+          "text": "caption all social share all these different\u00a0\nthings in once again in a more advanced video\u00a0\u00a0"
+        },
+        {
+          "start": "538.76",
+          "dur": "6.63",
+          "text": "I can go over each one of these individually\u00a0\nbut image is pretty pretty helpful oftentimes\u00a0\u00a0"
+        },
+        {
+          "start": "545.39",
+          "dur": "6.39",
+          "text": "but instead of an image what I'm going to do\u00a0\nis do a video to a video right here and what\u00a0\u00a0"
+        },
+        {
+          "start": "551.78",
+          "dur": "6.87",
+          "text": "I'm going to do is link to a video talking\u00a0\nabout my course so go ahead I put the Vimeo\u00a0\u00a0"
+        },
+        {
+          "start": "558.65",
+          "dur": "6.69",
+          "text": "link all you got to do and it comes up right\u00a0\nthere now let's say I want to do another text\u00a0\u00a0"
+        },
+        {
+          "start": "565.34",
+          "dur": "6.3",
+          "text": "block right here that creates another text\u00a0\nblock right here and in this text block I'm\u00a0\u00a0"
+        },
+        {
+          "start": "571.64",
+          "dur": "5.52",
+          "text": "going to put some more text once again not too\u00a0\nmuch because know why people I don't want people\u00a0\u00a0"
+        },
+        {
+          "start": "577.16",
+          "dur": "4.41",
+          "text": "to sit here reading my email I want people\u00a0\nto go to my website you click on the link"
+        },
+        {
+          "start": "584.23",
+          "dur": "3.69",
+          "text": "and then last this button right here\u00a0\nI really like the button because it's\u00a0\u00a0"
+        },
+        {
+          "start": "587.92",
+          "dur": "5.76",
+          "text": "just it's very clear going to instead\u00a0\nof saying start shopping we're going to\u00a0\u00a0"
+        },
+        {
+          "start": "593.68",
+          "dur": "7.08",
+          "text": "say get the discounted course now and for\u00a0\nthe link will put the link to the course"
+        },
+        {
+          "start": "603.09",
+          "dur": "5.91",
+          "text": "we're going to go ahead and save and close and\u00a0\nthat's it you know pretty quickly we created a\u00a0\u00a0"
+        },
+        {
+          "start": "609",
+          "dur": "6.87",
+          "text": "entire email now you can you click down here\u00a0\nyou can add links to all your social media or\u00a0\u00a0"
+        },
+        {
+          "start": "615.87",
+          "dur": "3.27",
+          "text": "you can just delete it you know what I don't want\u00a0\npeople going to my social media for this I only\u00a0\u00a0"
+        },
+        {
+          "start": "619.14",
+          "dur": "5.4",
+          "text": "want them going to click on my course that's it\u00a0\nonce again another big mistake people make with\u00a0\u00a0"
+        },
+        {
+          "start": "624.54",
+          "dur": "5.22",
+          "text": "designing emails is they have too many calls to\u00a0\naction they try to sell too many product to try\u00a0\u00a0"
+        },
+        {
+          "start": "629.76",
+          "dur": "4.02",
+          "text": "to sell too many things try to get people to\u00a0\ndo too many things it should be only one thing\u00a0\u00a0"
+        },
+        {
+          "start": "633.78",
+          "dur": "4.86",
+          "text": "your entire email should be focused on getting\u00a0\nsomeone to do one thing so this entire email is\u00a0\u00a0"
+        },
+        {
+          "start": "638.64",
+          "dur": "5.79",
+          "text": "trying to get someone to buy in my course and\u00a0\nthis just let you know this coupon code time\u00a0\u00a0"
+        },
+        {
+          "start": "644.43",
+          "dur": "4.68",
+          "text": "you watch this video probably won't be available\u00a0\nanymore but if you sign up for my email list you\u00a0\u00a0"
+        },
+        {
+          "start": "649.11",
+          "dur": "6.3",
+          "text": "can click up here to get my e-commerce success\u00a0\nfact ecommerce success pack includes a ton of\u00a0\u00a0"
+        },
+        {
+          "start": "655.41",
+          "dur": "3.96",
+          "text": "really good things I'm going to have checklists\u00a0\nfor sending emails so if you're looking to send\u00a0\u00a0"
+        },
+        {
+          "start": "659.37",
+          "dur": "4.89",
+          "text": "emails I have a checklist for that including\u00a0\nsome tips that I've Mac or over in this video\u00a0\u00a0"
+        },
+        {
+          "start": "664.26",
+          "dur": "5.34",
+          "text": "but how to make a successful email how to start\u00a0\na successful e-commerce business a bunch of other\u00a0\u00a0"
+        },
+        {
+          "start": "669.6",
+          "dur": "3.66",
+          "text": "great stuff it's a whole packed thing that's\u00a0\nlike all the e-commerce success packs you can\u00a0\u00a0"
+        },
+        {
+          "start": "673.26",
+          "dur": "4.86",
+          "text": "click up here both of you were interested\u00a0\nin getting a discount on my course and or\u00a0\u00a0"
+        },
+        {
+          "start": "678.12",
+          "dur": "6.78",
+          "text": "just the the email checklist so this looks\u00a0\npretty good so let's confirm before sending"
+        },
+        {
+          "start": "684.9",
+          "dur": "11.88",
+          "text": "alright so this looks good total combinations\u00a0\npreview text everything looks good and once\u00a0\u00a0"
+        },
+        {
+          "start": "696.78",
+          "dur": "5.97",
+          "text": "again so I'm using a paid plan and if you don't\u00a0\nhave MailChimp already you can I have a link up\u00a0\u00a0"
+        },
+        {
+          "start": "702.75",
+          "dur": "5.1",
+          "text": "here you can click on this link and you'll get\u00a0\n$30 off as well as there's some other benefits\u00a0\u00a0"
+        },
+        {
+          "start": "707.85",
+          "dur": "4.29",
+          "text": "you get as well you get $30 off if you use\u00a0\nthis link which is hey I wish I would have\u00a0\u00a0"
+        },
+        {
+          "start": "712.14",
+          "dur": "5.91",
+          "text": "got that when I signed up now or you can go to\u00a0\neffective e-commerce comm slash MailChimp but\u00a0\u00a0"
+        },
+        {
+          "start": "718.05",
+          "dur": "2.61",
+          "text": "one of the features that I really like about\u00a0\nthere's a lot of features I like about the\u00a0\u00a0"
+        },
+        {
+          "start": "720.66",
+          "dur": "5.13",
+          "text": "paid plan automation is one of the good ones\u00a0\nthe other one is the ability to schedule and\u00a0\u00a0"
+        },
+        {
+          "start": "726.44",
+          "dur": "4.32",
+          "text": "let MailChimp optimize the same time for\u00a0\nengagement so mail chip looks through your\u00a0\u00a0"
+        },
+        {
+          "start": "730.76",
+          "dur": "5.37",
+          "text": "list and it sees oh people with that email when\u00a0\ndo they when do they open up people in that time\u00a0\u00a0"
+        },
+        {
+          "start": "736.13",
+          "dur": "3.78",
+          "text": "zone when do they open up people with those\u00a0\ndemographics when do they open up and engage\u00a0\u00a0"
+        },
+        {
+          "start": "739.91",
+          "dur": "5.76",
+          "text": "with emails so as you can see it's calculating\u00a0\nthe optimal time for me to send this is 11 a.m.\u00a0\u00a0"
+        },
+        {
+          "start": "745.67",
+          "dur": "5.19",
+          "text": "or I can send it a specific time let's say I\u00a0\nwant to send this instead of sending it today\u00a0\u00a0"
+        },
+        {
+          "start": "750.86",
+          "dur": "7.59",
+          "text": "I want to send it on the 18th at 6 a.m. for\u00a0\nsome reason I have a big event whatever let's\u00a0\u00a0"
+        },
+        {
+          "start": "758.45",
+          "dur": "4.98",
+          "text": "say that that's what I wanted I can go ahead\u00a0\nand click schedule this campaign and that's it\u00a0\u00a0"
+        },
+        {
+          "start": "763.43",
+          "dur": "6.84",
+          "text": "that's it's rock on it's ready to go now if for\u00a0\nany reason you want to cancel that campaign for\u00a0\u00a0"
+        },
+        {
+          "start": "770.27",
+          "dur": "5.97",
+          "text": "instance I was just I just made this one to\u00a0\nshow you four as a demo click pause and edit"
+        },
+        {
+          "start": "783.41",
+          "dur": "0.99",
+          "text": "[Music]\n- bored"
+        },
+        {
+          "start": "786.57",
+          "dur": "0.51",
+          "text": "sometime"
+        },
+        {
+          "start": "791.57",
+          "dur": "7.7",
+          "text": "I think there's actually easier way to do this\u00a0\nthat's okay go ahead click here click delete now\u00a0\u00a0"
+        },
+        {
+          "start": "799.27",
+          "dur": "6.9",
+          "text": "MailChimp makes you delete it like that click\u00a0\nthe delete button easy that's one of the other\u00a0\u00a0"
+        },
+        {
+          "start": "806.17",
+          "dur": "6",
+          "text": "benefits of scheduling it is it gives you a\u00a0\nopportunity to go over it there's a lot more\u00a0\u00a0"
+        },
+        {
+          "start": "812.17",
+          "dur": "4.11",
+          "text": "things I could go over in this video one of the\u00a0\nthings I did not talk about is I highly recommend\u00a0\u00a0"
+        },
+        {
+          "start": "816.28",
+          "dur": "8.97",
+          "text": "sending yourself a test email so let me show you\u00a0\nhow to do that very quickly so preview intent so\u00a0\u00a0"
+        },
+        {
+          "start": "825.25",
+          "dur": "4.47",
+          "text": "you can interpret you mode and I recommend doing\u00a0\nthis before you send it just look over it to see\u00a0\u00a0"
+        },
+        {
+          "start": "829.72",
+          "dur": "5.64",
+          "text": "what it looks like or probably even better send\u00a0\nit testing you can send a bunch of different test\u00a0\u00a0"
+        },
+        {
+          "start": "835.36",
+          "dur": "5.22",
+          "text": "emails and it's all these different emails lots\u00a0\nof times just to see I see it in different in\u00a0\u00a0"
+        },
+        {
+          "start": "840.58",
+          "dur": "5.61",
+          "text": "different in boxes make sure everything looks good\u00a0\nand you can even include a personal message if you\u00a0\u00a0"
+        },
+        {
+          "start": "846.19",
+          "dur": "4.98",
+          "text": "were to send it to a friend so I'm going to wrap\u00a0\nit up right there let's go ahead this one I do\u00a0\u00a0"
+        },
+        {
+          "start": "851.17",
+          "dur": "6.39",
+          "text": "want to schedule so I'm just going to schedule it\u00a0\none more time scheduled here let MailChimp send us\u00a0\u00a0"
+        },
+        {
+          "start": "859.19",
+          "dur": "5.4",
+          "text": "Colet MailChimp optimized send time for maximum\u00a0\nengagement pretty sure it's 11 a.m. we just did\u00a0\u00a0"
+        },
+        {
+          "start": "864.59",
+          "dur": "9.11",
+          "text": "it double check [Music] yes 11 I am their head\u00a0\nand schedule this campaign and maybe in a future\u00a0\u00a0"
+        },
+        {
+          "start": "873.7",
+          "dur": "4.98",
+          "text": "video I'll show you how this email does that's it\u00a0\nfor this video once again if you want to get the\u00a0\u00a0"
+        },
+        {
+          "start": "878.68",
+          "dur": "3.93",
+          "text": "e-commerce success pack or you want to sign up for\u00a0\nMailChimp you can click up here I also have some\u00a0\u00a0"
+        },
+        {
+          "start": "882.61",
+          "dur": "6.33",
+          "text": "other videos I'll add about email marketing up at\u00a0\nthis little info icon right there on top of that\u00a0\u00a0"
+        },
+        {
+          "start": "888.94",
+          "dur": "5.4",
+          "text": "if you have any questions or comments please leave\u00a0\nit in the comment section down below don't forget\u00a0\u00a0"
+        },
+        {
+          "start": "894.34",
+          "dur": "4.44",
+          "text": "to subscribe to this channel and let me know what\u00a0\nkind of email marketing questions you have [Music]"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro"
+    },
+    {
+      "start_time": 73,
+      "title": "Choose a List"
+    },
+    {
+      "start_time": 187,
+      "title": "Split Test"
+    },
+    {
+      "start_time": 306,
+      "title": "Name Your Test"
+    },
+    {
+      "start_time": 405,
+      "title": "Customize Your Template"
+    }
+  ]
+}

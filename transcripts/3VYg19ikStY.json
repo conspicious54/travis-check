@@ -1,0 +1,438 @@
+{
+  "text": "in this video I'm going to show you how to set up Google Analytics in Shopify so we're gonna set up Google Analytics and then we're gonna actually paste the code into Shopify to finish the setup so the first thing you're gonna do is just Google Google Analytics and if you don't have a gmail account you're gonna have to sign up for a gmail account but I already have one so I'm just gonna log in right like this takes a second or two to log in now it already logged me into one of my websites for most people your Google Analytics homepage might look something like this you'll have any websites you previously have set up analytics for right here but if you don't have any this might be blank that's fine just click on admin click down click create new account account name for me it's gonna be performance nut butter so we're setting up my new performance nut butter company say named performance nut butter butter calm let's see the data sharing options give you the most control sure I'll go ahead and do this like that's all fun for me alright so now we got to get the tracking ID here I accept and then we get this code and you're gonna go over to your Shopify page go to online store click on that and then go to preferences and paste your code right in there go ahead and click Save and you're pretty much done at this point so that's really all you need to do to set up your Google Analytics now if you want to check it you can check it as well but since my my sites not going to work to be able to be checked just because it's already it's it's still kind of in hidden mode so there's no data which isn't surprising actually one way you could check it potentially even still is just going on the website scrolling around so this is the performance nut butter website and see if there's any data here it's got a real-time overview now you can see that it it is working it just took a second to upload and if you ever want to double check it you can get the Google tag Google tag assistant and just click on it and it'll show up if it's there let's just refresh just so you can see you know it'll show up if the Google tag is indeed there so that's it for this video if you want more help setting up your online store you can click right around my face right here there should be a little I get the e-commerce success pack which includes a checklist for starting your online store it covers a bunch of different things such as setting up Google Analytics and a bunch of other things that you might not have thought of get that for free there's a link down below in the show notes and right here on my face there should be one on top of that subscribe to my youtube channel I have a lot more videos just like this one on how to start and grow your e-commerce business if you have any questions about starting an online business please leave it in the comments down below I answer every single one and thank you for watching this video",
+  "id": "3VYg19ikStY",
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "category": "Education",
+      "description": {
+        "simpleText": "If you enjoyed the video and want more in-depth Amazon FBA expert advice, be sure to check my FREE 10 HOUR course:\nhttps://www.youtube.com/watch?v=cJusVKR-h4A \n\n\u25b6\ufe0fBook Your 1-1 FREE Strategy Call Here: https://start.travismarziani.com/?utm_source=youtube&utm_campaign=googleanalyticsxshopify\n\n\ud83d\udd14 Subscribe for the latest e-commerce updates on Trump\u2019s tariffs, Temu, and much more!\ud83d\udd14 \nhttps://www.youtube.com/@TravisMarziani?sub_confirmation=1 \n\nConnect with me!\nhttps://www.instagram.com/travismarziani/ \n\nMy favorite Amazon FBA & E-commerce tools:\n\ud83c\udfa8Design your Amazon listing with FBA Creatives: https://fbacreatives.com (Get 40% OFF with code TRAVIS)\n\ud83d\udc65Hire reliable VAs with Onlinejobs.ph: http://travismarziani.com/onlinejobs \n\ud83c\udf10Get a free domain name with Hostinger: http://www.hostinger.com/travis \n\ud83d\udd0dFind profitable Amazon FBA products with Helium 10: http://travismarziani.com/helium10 \n\ud83c\udfd7\ufe0fFind competitor\u2019s manufacturers with Jungle Scout: http://travismarziani.com/junglescout \n\ud83d\udecd\ufe0f Build online stores fast with Shopify: http://travismarziani.com/shopify \n\ud83d\udcbbHire freelancers easily with Fiverr: http://travismarziani.com/gofiverr \n\nAssume all links in the video & description are affiliate links and that by using them you are supporting the channel and helping us negotiate better deals and bring bigger guests, so thank you!\n\nThank you for watching, and I hope you have a wonderful rest of your day!\n\n\u2013 Travis\n\n\nIn this video, I'm going to show you how to set up Google Analytics in Shopify so we're gonna set up Google Analytics and then we're gonna actually paste the code into Shopify to finish the setup so the first thing you're gonna do is just Google Google Analytics and if you don't have a gmail account you're gonna have to sign up for a gmail account but I already have one so I'm just gonna log in right like this takes a second or two to log in now it already logged me into one of my websites for most people your Google Analytics homepage might look\nsomething like this you'll have any websites you previously have set up\nanalytics for right here but if you don't have any this might be blank\n that's fine just click on admin click down click create new account account\nname for me it's gonna be performance nut butter so we're setting up my new\nperformance nut butter company say named performance nut butter \ncalm let's see the data sharing options give you the most control sure I'll go ahead and do this like that's all fun for me alright so now we got to get the tracking ID here I accept and then we get this code and you're gonna go over\nto your Shopify page go to online store click on that and then go to preferences\nand paste your code right in there go ahead and click Save and you're pretty much done at this point so that's really all you need to do to set up your Google Analytics now if you want to check it you can check it as well but since my sites not going to work to be able to be checked just because it's already it's it's still kind of in hidden mode so there's no data which isn't surprising actually one way you could check it potentially even still is just going on the website scrolling around so this is the performance nut butter website and see if there's any data here it's going to time overview now you can see that it is working it just took a second to upload and if you ever want to double check it you can get the Google tagged Google tag assistant and just click on it and it'll show up if it's there let's just refresh just so you can see you know it'll show up if the Google tag is indeed there so that's it for this video if you want more help setting up your online store you can click right around my face right here there should be a little I get the e-commerce success pack which includes a checklist for starting your online store it covers a bunch of different things such as setting up Google Analytics and a bunch of other things that you might not have thought of get that for free there's a link down below in the show notes and right here on my face there should be one on top of that subscribe to my youtube channel I have a lot more videos just like this one on how to start and grow your e-commerce business if you have any questions about starting an online business please leave it in the comments down below I answer every single one and thank you for watching this video"
+      },
+      "externalChannelId": "UCxkIzPnPzWLz4IeuxIROflg",
+      "lengthSeconds": "188",
+      "ownerChannelName": "Travis Marziani",
+      "publishDate": "2017-11-12",
+      "title": {
+        "simpleText": "How to Set Up Google Analytics in Shopify"
+      }
+    }
+  },
+  "isLive": false,
+  "isLoginRequired": false,
+  "languages": [
+    {
+      "label": "en",
+      "languageCode": "en"
+    }
+  ],
+  "playabilityStatus": {
+    "status": "OK",
+    "reason": ""
+  },
+  "title": "How to Set Up Google Analytics in Shopify",
+  "tracks": [
+    {
+      "language": "en",
+      "transcript": [
+        {
+          "start": "0.06",
+          "dur": "4.08",
+          "text": "in this video I'm going to show you how"
+        },
+        {
+          "start": "1.38",
+          "dur": "3.959",
+          "text": "to set up Google Analytics in Shopify so"
+        },
+        {
+          "start": "4.14",
+          "dur": "2.759",
+          "text": "we're gonna set up Google Analytics and"
+        },
+        {
+          "start": "5.339",
+          "dur": "3.811",
+          "text": "then we're gonna actually paste the code"
+        },
+        {
+          "start": "6.899",
+          "dur": "3.361",
+          "text": "into Shopify to finish the setup so the"
+        },
+        {
+          "start": "9.15",
+          "dur": "4.02",
+          "text": "first thing you're gonna do is just"
+        },
+        {
+          "start": "10.26",
+          "dur": "4.829",
+          "text": "Google Google Analytics and if you don't"
+        },
+        {
+          "start": "13.17",
+          "dur": "3.39",
+          "text": "have a gmail account you're gonna have"
+        },
+        {
+          "start": "15.089",
+          "dur": "2.881",
+          "text": "to sign up for a gmail account but I"
+        },
+        {
+          "start": "16.56",
+          "dur": "11.1",
+          "text": "already have one so I'm just gonna log"
+        },
+        {
+          "start": "17.97",
+          "dur": "11.7",
+          "text": "in right like this takes a second or two"
+        },
+        {
+          "start": "27.66",
+          "dur": "4.199",
+          "text": "to log in now it already logged me into"
+        },
+        {
+          "start": "29.67",
+          "dur": "3.81",
+          "text": "one of my websites for most people your"
+        },
+        {
+          "start": "31.859",
+          "dur": "2.671",
+          "text": "Google Analytics homepage might look"
+        },
+        {
+          "start": "33.48",
+          "dur": "4.56",
+          "text": "something like this you'll have any"
+        },
+        {
+          "start": "34.53",
+          "dur": "5.25",
+          "text": "websites you previously have set up"
+        },
+        {
+          "start": "38.04",
+          "dur": "3.24",
+          "text": "analytics for right here but if you"
+        },
+        {
+          "start": "39.78",
+          "dur": "5.7",
+          "text": "don't have any this might be blank"
+        },
+        {
+          "start": "41.28",
+          "dur": "9.57",
+          "text": "that's fine just click on admin click"
+        },
+        {
+          "start": "45.48",
+          "dur": "7.469",
+          "text": "down click create new account account"
+        },
+        {
+          "start": "50.85",
+          "dur": "5.61",
+          "text": "name for me it's gonna be performance"
+        },
+        {
+          "start": "52.949",
+          "dur": "6.63",
+          "text": "nut butter so we're setting up my new"
+        },
+        {
+          "start": "56.46",
+          "dur": "12.57",
+          "text": "performance nut butter company say named"
+        },
+        {
+          "start": "59.579",
+          "dur": "10.801",
+          "text": "performance nut butter butter calm let's"
+        },
+        {
+          "start": "69.03",
+          "dur": "7.409",
+          "text": "see the data sharing options give you"
+        },
+        {
+          "start": "70.38",
+          "dur": "9.18",
+          "text": "the most control sure I'll go ahead and"
+        },
+        {
+          "start": "76.439",
+          "dur": "4.411",
+          "text": "do this like that's all fun for me"
+        },
+        {
+          "start": "79.56",
+          "dur": "7.98",
+          "text": "alright so now we got to get the"
+        },
+        {
+          "start": "80.85",
+          "dur": "8.82",
+          "text": "tracking ID here I accept and then we"
+        },
+        {
+          "start": "87.54",
+          "dur": "4.92",
+          "text": "get this code and you're gonna go over"
+        },
+        {
+          "start": "89.67",
+          "dur": "4.199",
+          "text": "to your Shopify page go to online store"
+        },
+        {
+          "start": "92.46",
+          "dur": "7.08",
+          "text": "click on that and then go to preferences"
+        },
+        {
+          "start": "93.869",
+          "dur": "7.201",
+          "text": "and paste your code right in there go"
+        },
+        {
+          "start": "99.54",
+          "dur": "4.56",
+          "text": "ahead and click Save and you're pretty"
+        },
+        {
+          "start": "101.07",
+          "dur": "4.619",
+          "text": "much done at this point so that's really"
+        },
+        {
+          "start": "104.1",
+          "dur": "3.299",
+          "text": "all you need to do to set up your Google"
+        },
+        {
+          "start": "105.689",
+          "dur": "6.661",
+          "text": "Analytics now if you want to check it"
+        },
+        {
+          "start": "107.399",
+          "dur": "6.72",
+          "text": "you can check it as well but since my my"
+        },
+        {
+          "start": "112.35",
+          "dur": "4.44",
+          "text": "sites not going to work to be able to be"
+        },
+        {
+          "start": "114.119",
+          "dur": "4.771",
+          "text": "checked just because it's already it's"
+        },
+        {
+          "start": "116.79",
+          "dur": "3.75",
+          "text": "it's still kind of in hidden mode so"
+        },
+        {
+          "start": "118.89",
+          "dur": "3.479",
+          "text": "there's no data which isn't surprising"
+        },
+        {
+          "start": "120.54",
+          "dur": "4.679",
+          "text": "actually one way you could check it"
+        },
+        {
+          "start": "122.369",
+          "dur": "5.371",
+          "text": "potentially even still is just going on"
+        },
+        {
+          "start": "125.219",
+          "dur": "3.99",
+          "text": "the website scrolling around so this is"
+        },
+        {
+          "start": "127.74",
+          "dur": "3.57",
+          "text": "the performance nut butter website and"
+        },
+        {
+          "start": "129.209",
+          "dur": "4.401",
+          "text": "see if there's any data here it's got a"
+        },
+        {
+          "start": "131.31",
+          "dur": "4.98",
+          "text": "real-time overview"
+        },
+        {
+          "start": "133.61",
+          "dur": "4.99",
+          "text": "now you can see that it it is working it"
+        },
+        {
+          "start": "136.29",
+          "dur": "3.63",
+          "text": "just took a second to upload and if you"
+        },
+        {
+          "start": "138.6",
+          "dur": "4.56",
+          "text": "ever want to double check it you can get"
+        },
+        {
+          "start": "139.92",
+          "dur": "5.25",
+          "text": "the Google tag Google tag assistant and"
+        },
+        {
+          "start": "143.16",
+          "dur": "4.86",
+          "text": "just click on it and it'll show up if"
+        },
+        {
+          "start": "145.17",
+          "dur": "5.07",
+          "text": "it's there let's just refresh just so"
+        },
+        {
+          "start": "148.02",
+          "dur": "4.62",
+          "text": "you can see you know it'll show up if"
+        },
+        {
+          "start": "150.24",
+          "dur": "4.86",
+          "text": "the Google tag is indeed there so that's"
+        },
+        {
+          "start": "152.64",
+          "dur": "4.17",
+          "text": "it for this video if you want more help"
+        },
+        {
+          "start": "155.1",
+          "dur": "3.42",
+          "text": "setting up your online store you can"
+        },
+        {
+          "start": "156.81",
+          "dur": "3.06",
+          "text": "click right around my face right here"
+        },
+        {
+          "start": "158.52",
+          "dur": "2.94",
+          "text": "there should be a little I get the"
+        },
+        {
+          "start": "159.87",
+          "dur": "3.84",
+          "text": "e-commerce success pack which includes a"
+        },
+        {
+          "start": "161.46",
+          "dur": "3.96",
+          "text": "checklist for starting your online store"
+        },
+        {
+          "start": "163.71",
+          "dur": "3.69",
+          "text": "it covers a bunch of different things"
+        },
+        {
+          "start": "165.42",
+          "dur": "3.09",
+          "text": "such as setting up Google Analytics and"
+        },
+        {
+          "start": "167.4",
+          "dur": "2.73",
+          "text": "a bunch of other things that you might"
+        },
+        {
+          "start": "168.51",
+          "dur": "3.12",
+          "text": "not have thought of get that for free"
+        },
+        {
+          "start": "170.13",
+          "dur": "3.39",
+          "text": "there's a link down below in the show"
+        },
+        {
+          "start": "171.63",
+          "dur": "4.38",
+          "text": "notes and right here on my face there"
+        },
+        {
+          "start": "173.52",
+          "dur": "3.87",
+          "text": "should be one on top of that subscribe"
+        },
+        {
+          "start": "176.01",
+          "dur": "3.45",
+          "text": "to my youtube channel I have a lot more"
+        },
+        {
+          "start": "177.39",
+          "dur": "4.44",
+          "text": "videos just like this one on how to"
+        },
+        {
+          "start": "179.46",
+          "dur": "3.84",
+          "text": "start and grow your e-commerce business"
+        },
+        {
+          "start": "181.83",
+          "dur": "2.76",
+          "text": "if you have any questions about starting"
+        },
+        {
+          "start": "183.3",
+          "dur": "2.85",
+          "text": "an online business please leave it in"
+        },
+        {
+          "start": "184.59",
+          "dur": "3.12",
+          "text": "the comments down below I answer every"
+        },
+        {
+          "start": "186.15",
+          "dur": "3.8",
+          "text": "single one and thank you for watching"
+        },
+        {
+          "start": "187.71",
+          "dur": "2.24",
+          "text": "this video"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start_time": 45,
+      "title": "Create New Account"
+    },
+    {
+      "start_time": 80,
+      "title": "Tracking Id"
+    },
+    {
+      "start_time": 140,
+      "title": "Google Tag Assistant"
+    }
+  ]
+}
